@@ -263,11 +263,13 @@ text[257]="Corn field between Mons and Pin-Balma";
 text[258]="Field near Flourens with the Pyrenees in background";
 text[259]="Landscape around Auzielle seen from Lauzerville";
 text[260]="The area of Saint-Orens-de-Gameville from Lauzerville";
+text[261]="The right bank of the Tarn from the Palais de la Berbie in Albi";
+text[262]="Area of the Cathedral of Saint Cecilia of Albi from the Old Bridge";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(260*Math.random()+1);  // random number between 1 and 260
+var i = Math.floor(262*Math.random()+1);  // random number between 1 and 262
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");

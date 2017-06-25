@@ -263,11 +263,13 @@ text[257]="Champ de ma&iuml;s entre Mons et Pin-Balma";
 text[258]="Champ pr&egrave;s de Flourens avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
 text[259]="Paysage autour d'Auzielle vu de Lauzerville";
 text[260]="La r&eacute;gion de Saint-Orens-de-Gameville vue de Lauzerville";
+text[261]="Paysage de la rive droite du Tarn vu du palais de la Berbie &agrave; Albi";
+text[262]="Environs de la cath&eacute;drale Sainte-C&eacute;cile d'Albi vus du pont Vieux";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(260*Math.random()+1);  // nombre aleatoire entre 1 et 260
+var i = Math.floor(262*Math.random()+1);  // nombre aleatoire entre 1 et 262
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");
