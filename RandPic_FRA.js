@@ -272,7 +272,7 @@ text[265]="Vue sur les coteaux au sud de Goyrans";
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(262*Math.random()+1);  // nombre aleatoire entre 1 et 262
+var i = Math.floor(265*Math.random()+1);  // nombre aleatoire entre 1 et 265
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");
