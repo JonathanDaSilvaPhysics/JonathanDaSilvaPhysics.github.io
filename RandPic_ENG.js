@@ -265,6 +265,9 @@ text[259]="Landscape around Auzielle seen from Lauzerville";
 text[260]="The area of Saint-Orens-de-Gameville from Lauzerville";
 text[261]="The right bank of the Tarn from the Palais de la Berbie in Albi";
 text[262]="Area of the Cathedral of Saint Cecilia of Albi from the Old Bridge";
+text[263]="Landscape between Goyrans and Vigoulet-Auzil";
+text[264]="Sunflower field and surrounding landscape in Goyrans";
+text[265]="View over the hills in the south of Goyrans";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js

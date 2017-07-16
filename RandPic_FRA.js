@@ -265,6 +265,9 @@ text[259]="Paysage autour d'Auzielle vu de Lauzerville";
 text[260]="La r&eacute;gion de Saint-Orens-de-Gameville vue de Lauzerville";
 text[261]="Paysage de la rive droite du Tarn vu du palais de la Berbie &agrave; Albi";
 text[262]="Environs de la cath&eacute;drale Sainte-C&eacute;cile d'Albi vus du pont Vieux";
+text[263]="Paysage entre Goyrans et Vigoulet-Auzil";
+text[264]="Champ de tournesol et paysage environnant &agrave; Goyrans";
+text[265]="Vue sur les coteaux au sud de Goyrans";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
