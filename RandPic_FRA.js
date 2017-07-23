@@ -268,11 +268,13 @@ text[262]="Environs de la cath&eacute;drale Sainte-C&eacute;cile d'Albi vus du p
 text[263]="Paysage entre Goyrans et Vigoulet-Auzil";
 text[264]="Champ de tournesol et paysage environnant &agrave; Goyrans";
 text[265]="Vue sur les coteaux au sud de Goyrans";
+text[266]="Champ de tournesol et paysage au nord de Clermont-le-Fort";
+text[267]="L'Ari&egrave;ge et Lagardelle-sur-L&egrave;ze vus de Clermont-le-Fort";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(265*Math.random()+1);  // nombre aleatoire entre 1 et 265
+var i = Math.floor(267*Math.random()+1);  // nombre aleatoire entre 1 et 267
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");

@@ -268,11 +268,13 @@ text[262]="Area of the Cathedral of Saint Cecilia of Albi from the Old Bridge";
 text[263]="Landscape between Goyrans and Vigoulet-Auzil";
 text[264]="Sunflower field and surrounding landscape in Goyrans";
 text[265]="View over the hills in the south of Goyrans";
+text[266]="Sunflower field and ladscape in the north of Clermont-le-Fort";
+text[267]="The Ari&egrave;ge and Lagardelle-sur-L&egrave;ze seen from Clermont-le-Fort";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(265*Math.random()+1);  // random number between 1 and 265
+var i = Math.floor(267*Math.random()+1);  // random number between 1 and 267
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");
