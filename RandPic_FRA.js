@@ -270,11 +270,24 @@ text[264]="Champ de tournesol et paysage environnant &agrave; Goyrans";
 text[265]="Vue sur les coteaux au sud de Goyrans";
 text[266]="Champ de tournesol et paysage au nord de Clermont-le-Fort";
 text[267]="L'Ari&egrave;ge et Lagardelle-sur-L&egrave;ze vus de Clermont-le-Fort";
+text[268]="Vue sur la campagne entre L&eacute;vignac et Le Castera";
+text[269]="Environnement du nord de Le Castera";
+text[270]="Paysage entre Bellegarde-Sainte-Marie et Le Castera";
+text[271]="Bellegarde-Sainte-Marie et ses alentours";
+text[272]="Paysage autour de Sainte-Livrade vu de Bellegarde-Sainte-Marie";
+text[273]="Bellegarde-Sainte-Marie et Le Castera vus de Sainte-Livrade";
+text[274]="Vue sur la r&eacute;gion de Garac pr&egrave;s de Vignaux";
+text[275]="Paysage entre Vignaux et Garac";
+text[276]="Les alentours de Caubiac vus de Garac";
+text[277]="Vue sur le sud de Garac";
+text[278]="Champs de tournesol pr&egrave;s de Caubiac";
+text[279]="Paysage de la r&eacute;gion de Cadours vu de Caubiac";
+text[280]="Verdure entre Caubiac et Le Gr&egrave;s";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(267*Math.random()+1);  // nombre aleatoire entre 1 et 267
+var i = Math.floor(280*Math.random()+1);  // nombre aleatoire entre 1 et 280
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");

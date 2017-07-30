@@ -270,11 +270,24 @@ text[264]="Sunflower field and surrounding landscape in Goyrans";
 text[265]="View over the hills in the south of Goyrans";
 text[266]="Sunflower field and ladscape in the north of Clermont-le-Fort";
 text[267]="The Ari&egrave;ge and Lagardelle-sur-L&egrave;ze seen from Clermont-le-Fort";
+text[268]="View over the contryside between L&eacute;vignac and Le Castera";
+text[269]="Surroundings of the north of Le Castera";
+text[270]="Landscape between Bellegarde-Sainte-Marie and Le Castera";
+text[271]="Bellegarde-Sainte-Marie and its surroundings";
+text[272]="Landscape around Sainte-Livrade from Bellegarde-Sainte-Marie";
+text[273]="Bellegarde-Sainte-Marie and Le Castera from Sainte-Livrade";
+text[274]="View over the area of Garac near Vignaux";
+text[275]="Landscape between Vignaux and Garac";
+text[276]="Region of Caubiac seen from Garac";
+text[277]="View over the south of Garac";
+text[278]="Sunflower fields near Caubiac";
+text[279]="Landscape of the region of Cadours seen from Caubiac";
+text[280]="Greenery between Caubiac and Le Gr&egrave;s";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(267*Math.random()+1);  // random number between 1 and 267
+var i = Math.floor(280*Math.random()+1);  // random number between 1 and 280
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");
