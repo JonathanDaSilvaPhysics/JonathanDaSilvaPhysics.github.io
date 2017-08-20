@@ -283,11 +283,34 @@ text[277]="View over the south of Garac";
 text[278]="Sunflower fields near Caubiac";
 text[279]="Landscape of the region of Cadours seen from Caubiac";
 text[280]="Greenery between Caubiac and Le Gr&egrave;s";
+text[281]="View over different fields in Aureville";
+text[282]="Greenery between Goyrans and Espan&egrave;s";
+text[283]="Landscape from the road of Espan&egrave;s";
+text[284]="Sunflower field and greenery near Corronsac";
+text[285]="View over the area of Montlaur";
+text[286]="Hills of Pech-David seen from the road of Belberaud";
+text[287]="Canigou massif seen from Fuilla";
+text[288]="Rotj&agrave; valley close to Sahorre";
+text[289]="The village of Py and its environment";
+text[290]="Landscape surrounding Py with the Canigou in background";
+text[291]="National Reserve of Py and the Puig dels Tres Vents in background";
+text[292]="Greenery of the area of Py and the Canigou";
+text[293]="Canigou massif and landscape between Py and Mantet";
+text[294]="Last meters of the col de Mantet and the Canigou massif";
+text[295]="The village of Mantet and its environment";
+text[296]="Alemany valley and the Pic de la Dona in background";
+text[297]="Coll del Pal and its surrroundings close to Mantet";
+text[298]="Canigou massif and sea of clouds above Py";
+text[299]="Sunflower fields between Launac and Pelleport";
+text[300]="Puyss&eacute;gur's area seen near Cadours";
+text[301]="Landscape in M&eacute;renvielle with Le Castera in background";
+text[302]="Greenery of the heights of M&eacute;renvielle";
+text[303]="View over the area between M&eacute;renvielle and Le Castera";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(280*Math.random()+1);  // random number between 1 and 280
+var i = Math.floor(303*Math.random()+1);  // random number between 1 and 303
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");

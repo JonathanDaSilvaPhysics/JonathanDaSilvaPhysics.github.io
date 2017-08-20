@@ -283,11 +283,34 @@ text[277]="Vue sur le sud de Garac";
 text[278]="Champs de tournesol pr&egrave;s de Caubiac";
 text[279]="Paysage de la r&eacute;gion de Cadours vu de Caubiac";
 text[280]="Verdure entre Caubiac et Le Gr&egrave;s";
+text[281]="Vue sur diff&eacute;rents champs &agrave; Aureville";
+text[282]="Verdure entre Goyrans et Espan&egrave;s";
+text[283]="Paysage vu &agrave; partir de la route d'Espan&egrave;s";
+text[284]="Champ de tournesol et verdure pr&egrave;s de Corronsac";
+text[285]="Vue sur la r&eacute;gion de Montlaur";
+text[286]="Coteaux de Pech-David vus de la route de Belberaud";
+text[287]="Le massif du Canigou vu depuis Fuilla";
+text[288]="Vall&eacute;e de la Rotj&agrave; pr&egrave;s de Sahorre";
+text[289]="Le village de Py et son environnement";
+text[290]="Paysage entourant Py avec le Pic du Canigou en arri&egrave;re-plan";
+text[291]="R&eacute;serve naturelle de Py et le Puig dels Tres Vents en arri&egrave;re-plan";
+text[292]="Verdure de la r&eacute;gion de Py et le Pic du Canigou";
+text[293]="Massif du Canigou et paysage entre Py et Mantet";
+text[294]="Derniers lacets du col de Mantet et le massif du Canigou";
+text[295]="Le village de Mantet et son environnement";
+text[296]="Vall&eacute;e de l'Alemany et le Pic de la Dona en arri&egrave;re-plan";
+text[297]="Coll del Pal et ses environs pr&egrave;s de Mantet";
+text[298]="Massif du Canigou et mer de nuages au-dessus de Py";
+text[299]="Champs de tournesol entre Launac et Pelleport";
+text[300]="La r&eacute;gion de Puyss&eacute;gur vue pr&egrave;s de Cadours";
+text[301]="Paysage &agrave; M&eacute;renvielle avec Le Castera en arri&egrave;re-plan";
+text[302]="Verdure des hauteurs de M&eacute;renvielle";
+text[303]="Vue sur la r&eacute;gion entre M&eacute;renvielle et Le Castera";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(280*Math.random()+1);  // nombre aleatoire entre 1 et 280
+var i = Math.floor(303*Math.random()+1);  // nombre aleatoire entre 1 et 303
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");
