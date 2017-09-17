@@ -1,5 +1,5 @@
 <!--
-// Tag above : for old browser that don't recognize js
+// Tag above : for old browser that doesn't recognize js
 // Display randomly a picture :
 
 var text = new Array ();   // define the text for each picture
@@ -306,11 +306,28 @@ text[300]="Puyss&eacute;gur's area seen near Cadours";
 text[301]="Landscape in M&eacute;renvielle with Le Castera in background";
 text[302]="Greenery of the heights of M&eacute;renvielle";
 text[303]="View over the area between M&eacute;renvielle and Le Castera";
+text[304]="Landscape around the road to Prat d'Albis";
+text[305]="Cow grazing with Barguilli&egrave;re valley in background";
+text[306]="The road to Prat d'Albis and the surroundings of Foix";
+text[307]="View over the villages of Barguilli&egrave;re valley";
+text[308]="The hamlet of Micou and its surroundings";
+text[309]="The environment of Foix from the Arize massif";
+text[310]="View over Montgailhard and the Plantaurel massif";
+text[311]="Foix and the Ari&egrave;ge valley from the Arize massif";
+text[312]="Landscape around the Barguilli&egrave;re valley";
+text[313]="Cows and the Barguilli&egrave;re valley in background";
+text[314]="View over the Ari&egrave;ge valley and its environment";
+text[315]="Sleeping horses in the Prat d'Albis";
+text[316]="Inhabitants of Prat d'Albis walking around";
+text[317]="Lonely cow close to the top of the Prat d'Albis";
+text[318]="Cows grazing and landscape of the top of the Prat d'Albis";
+text[319]="Horses grazing and greenery of the Arize massif";
+text[320]="Ch&acirc;teau de Foix and its surroundings";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(303*Math.random()+1);  // random number between 1 and 303
+var i = Math.floor(320*Math.random()+1);  // random number between 1 and 320
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");

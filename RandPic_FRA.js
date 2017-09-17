@@ -306,11 +306,28 @@ text[300]="La r&eacute;gion de Puyss&eacute;gur vue pr&egrave;s de Cadours";
 text[301]="Paysage &agrave; M&eacute;renvielle avec Le Castera en arri&egrave;re-plan";
 text[302]="Verdure des hauteurs de M&eacute;renvielle";
 text[303]="Vue sur la r&eacute;gion entre M&eacute;renvielle et Le Castera";
+text[304]="Paysage autour de la route menant au Prat d'Albis";
+text[305]="Une vache broutant devant la vall&eacute;e de la Barguilli&egrave;re";
+text[306]="Lacets du Prat d'Albis et les environs de Foix";
+text[307]="Vue sur les villages de la vall&eacute;e de la Barguilli&egrave;re";
+text[308]="Le hameau de Micou et ses environs";
+text[309]="L'environnement de Foix depuis le massif de l'Arize";
+text[310]="Vue sur Montgailhard et le massif du Plantaurel";
+text[311]="Foix et la vall&eacute;e de l'Ari&egrave;ge depuis le massif de l'Arize";
+text[312]="Paysage autour de la vall&eacute;e de la Barguilli&egrave;re";
+text[313]="Des vaches et la vall&eacute;e de la Barguilli&egrave;re en arri&egrave;re-plan";
+text[314]="Vue sur la vall&eacute;e de l'Ari&egrave;ge et ses environs";
+text[315]="Chevaux endormis au Prat d'Albis";
+text[316]="Les habitants du Prat d'Albis se prom&egrave;nent";
+text[317]="Une vache solitaire pr&egrave;s du sommet du Prat d'Albis";
+text[318]="Vaches broutant et paysage du sommet du Prat d'Albis";
+text[319]="Chevaux broutant et verdure du massif de l'Arize";
+text[320]="Le ch&acirc;teau de Foix et ses environs";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(303*Math.random()+1);  // nombre aleatoire entre 1 et 303
+var i = Math.floor(320*Math.random()+1);  // nombre aleatoire entre 1 et 320
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");
