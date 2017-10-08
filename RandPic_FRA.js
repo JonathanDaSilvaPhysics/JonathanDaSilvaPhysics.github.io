@@ -323,11 +323,14 @@ text[317]="Une vache solitaire pr&egrave;s du sommet du Prat d'Albis";
 text[318]="Vaches broutant et paysage du sommet du Prat d'Albis";
 text[319]="Chevaux broutant et verdure du massif de l'Arize";
 text[320]="Le ch&acirc;teau de Foix et ses environs";
+text[321]="Paysage entre Lafage et Dr&eacute;mil";
+text[322]="Dr&eacute;mil-Lafage et ses environs";
+text[323]="Vue sur la r&eacute;gion de Lavalette";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(320*Math.random()+1);  // nombre aleatoire entre 1 et 320
+var i = Math.floor(323*Math.random()+1);  // nombre aleatoire entre 1 et 323
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");

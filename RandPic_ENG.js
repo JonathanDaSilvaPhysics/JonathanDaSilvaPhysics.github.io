@@ -323,11 +323,14 @@ text[317]="Lonely cow close to the top of the Prat d'Albis";
 text[318]="Cows grazing and landscape of the top of the Prat d'Albis";
 text[319]="Horses grazing and greenery of the Arize massif";
 text[320]="Ch&acirc;teau de Foix and its surroundings";
+text[321]="Landscape between Lafage and Dr&eacute;mil";
+text[322]="Dr&eacute;mil-Lafage and its surroundings";
+text[323]="View over the area of Lavalette";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(320*Math.random()+1);  // random number between 1 and 320
+var i = Math.floor(323*Math.random()+1);  // random number between 1 and 323
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");
