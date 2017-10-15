@@ -326,11 +326,13 @@ text[320]="Le ch&acirc;teau de Foix et ses environs";
 text[321]="Paysage entre Lafage et Dr&eacute;mil";
 text[322]="Dr&eacute;mil-Lafage et ses environs";
 text[323]="Vue sur la r&eacute;gion de Lavalette";
+text[324]="Paysage du nord de Montjoire";
+text[325]="La r&eacute;gion de Paulhac avec Montjoire en arri&egrave;re-plan";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(323*Math.random()+1);  // nombre aleatoire entre 1 et 323
+var i = Math.floor(325*Math.random()+1);  // nombre aleatoire entre 1 et 325
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");
