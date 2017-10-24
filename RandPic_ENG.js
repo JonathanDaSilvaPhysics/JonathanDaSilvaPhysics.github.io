@@ -328,11 +328,19 @@ text[322]="Dr&eacute;mil-Lafage and its surroundings";
 text[323]="View over the area of Lavalette";
 text[324]="Landscape of the north of Montjoire";
 text[325]="The area of Paulhac with Montjoire in background";
+text[326]="Prades' surroundings seen from the heights of Ria";
+text[327]="Landscape around Ria with the Pic de Gallinas in background";
+text[328]="The hamlet of Betllans and its environment";
+text[329]="Mount Coronat and the greenery of Conat valley";
+text[330]="Conat valley seen between Betllans and Noh&egrave;des";
+text[331]="View over the area of Noh&egrave;des";
+text[332]="Conat valley with the Canigou massif in background";
+text[333]="Landscape surrounding Urbanya";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(325*Math.random()+1);  // random number between 1 and 325
+var i = Math.floor(333*Math.random()+1);  // random number between 1 and 333
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");

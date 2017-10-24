@@ -328,11 +328,19 @@ text[322]="Dr&eacute;mil-Lafage et ses environs";
 text[323]="Vue sur la r&eacute;gion de Lavalette";
 text[324]="Paysage du nord de Montjoire";
 text[325]="La r&eacute;gion de Paulhac avec Montjoire en arri&egrave;re-plan";
+text[326]="Les environs de Prades vus depuis les hauteurs de Ria";
+text[327]="Paysage autour de Ria avec le Pic de Gallinas en arri&egrave;re-plan";
+text[328]="Le hameau de Betllans et son environnement";
+text[329]="Mont Coronat et la verdure de la vall&eacute;e de Conat";
+text[330]="La vall&eacute;e de Conat vue entre Betllans et Noh&egrave;des";
+text[331]="Vue sur la r&eacute;gion de Noh&egrave;des";
+text[332]="La vall&eacute;e de Conat avec le massif du Canigou en arri&egrave;re-plan";
+text[333]="Paysage entourant Urbanya";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(325*Math.random()+1);  // nombre aleatoire entre 1 et 325
+var i = Math.floor(333*Math.random()+1);  // nombre aleatoire entre 1 et 333
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");
