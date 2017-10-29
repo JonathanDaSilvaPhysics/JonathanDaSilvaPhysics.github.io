@@ -336,11 +336,15 @@ text[330]="Conat valley seen between Betllans and Noh&egrave;des";
 text[331]="View over the area of Noh&egrave;des";
 text[332]="Conat valley with the Canigou massif in background";
 text[333]="Landscape surrounding Urbanya";
+text[334]="View over Lagraulet-Saint-Nicolas";
+text[335]="Cadours' area seen from Puyss&eacute;gur";
+text[336]="Fields between Puyss&eacute;gur and Drudas and Le Gr&egrave;s' surroundings";
+text[337]="Drudas' area with Pelleport in background";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(333*Math.random()+1);  // random number between 1 and 333
+var i = Math.floor(337*Math.random()+1);  // random number between 1 and 337
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");

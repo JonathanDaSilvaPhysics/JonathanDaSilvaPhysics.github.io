@@ -336,11 +336,15 @@ text[330]="La vall&eacute;e de Conat vue entre Betllans et Noh&egrave;des";
 text[331]="Vue sur la r&eacute;gion de Noh&egrave;des";
 text[332]="La vall&eacute;e de Conat avec le massif du Canigou en arri&egrave;re-plan";
 text[333]="Paysage entourant Urbanya";
+text[334]="Vue sur Lagraulet-Saint-Nicolas";
+text[335]="La r&eacute;gion de Cadours vue depuis Puyss&eacute;gur";
+text[336]="Champs entre Puyss&eacute;gur et Drudas et les environs du Gr&egrave;s";
+text[337]="La r&eacute;gion de Drudas avec Pelleport en arri&egrave;re-plan";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(333*Math.random()+1);  // nombre aleatoire entre 1 et 333
+var i = Math.floor(337*Math.random()+1);  // nombre aleatoire entre 1 et 337
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");
