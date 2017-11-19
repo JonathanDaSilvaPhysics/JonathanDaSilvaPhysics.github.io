@@ -340,11 +340,13 @@ text[334]="View over Lagraulet-Saint-Nicolas";
 text[335]="Cadours' area seen from Puyss&eacute;gur";
 text[336]="Fields between Puyss&eacute;gur and Drudas and Le Gr&egrave;s' surroundings";
 text[337]="Drudas' area with Pelleport in background";
+text[338]="A bit of fog near Saint-Thomas";
+text[339]="Fog and landscape of Sabonn&egrave;res";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(337*Math.random()+1);  // random number between 1 and 337
+var i = Math.floor(339*Math.random()+1);  // random number between 1 and 339
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");
