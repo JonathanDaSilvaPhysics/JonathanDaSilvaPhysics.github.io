@@ -345,11 +345,13 @@ text[339]="Fog and landscape of Sabonn&egrave;res";
 text[340]="Lar&eacute;ole and its castle";
 text[341]="Area of Lar&eacute;ole seen near Ardizas";
 text[342]="Landscape between Lar&eacute;ole (left) and Cadours (right)";
+text[343]="View from the heights of Aurad&eacute;";
+text[344]="Fields in Aurad&eacute; with Lias in background";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(342*Math.random()+1);  // random number between 1 and 342
+var i = Math.floor(344*Math.random()+1);  // random number between 1 and 344
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");

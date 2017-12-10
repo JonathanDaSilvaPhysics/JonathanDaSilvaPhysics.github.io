@@ -345,11 +345,13 @@ text[339]="Brouillard et paysage de Sabonn&egrave;res";
 text[340]="Lar&eacute;ole et son ch&acirc;teau";
 text[341]="R&eacute;gion de Lar&eacute;ole vue pr&egrave;s de Ardizas";
 text[342]="Paysage entre Lar&eacute;ole (gauche) et Cadours (droite)";
+text[343]="Vue depuis les hauteurs d'Aurad&eacute;";
+text[344]="Des champs &agrave; Aurad&eacute; avec Lias en arri&egrave;re-plan";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(342*Math.random()+1);  // nombre aleatoire entre 1 et 342
+var i = Math.floor(344*Math.random()+1);  // nombre aleatoire entre 1 et 344
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");
