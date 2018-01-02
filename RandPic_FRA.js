@@ -347,11 +347,18 @@ text[341]="R&eacute;gion de Lar&eacute;ole vue pr&egrave;s de Ardizas";
 text[342]="Paysage entre Lar&eacute;ole (gauche) et Cadours (droite)";
 text[343]="Vue depuis les hauteurs d'Aurad&eacute;";
 text[344]="Des champs &agrave; Aurad&eacute; avec Lias en arri&egrave;re-plan";
+text[345]="Paysage autour de Tarerach";
+text[346]="R&eacute;gion de Montalba-le-Ch&acirc;teau vue pr&egrave;s de Tarerach";
+text[347]="Le Canigou et le hameau de Marcevol";
+text[348]="Arboussols avec le massif de Madr&egrave;s en arri&egrave;re-plan";
+text[349]="Le Canigou, Arboussols et le massif de Madr&egrave;s";
+text[350]="Vall&eacute;e de la T&ecirc;t et Vin&ccedil;a vues pr&egrave;s de Marquixanes";
+text[351]="Vue sur la vall&eacute;e de la T&ecirc;t, de Marquixanes &agrave; Prades";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(344*Math.random()+1);  // nombre aleatoire entre 1 et 344
+var i = Math.floor(351*Math.random()+1);  // nombre aleatoire entre 1 et 351
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");

@@ -347,11 +347,18 @@ text[341]="Area of Lar&eacute;ole seen near Ardizas";
 text[342]="Landscape between Lar&eacute;ole (left) and Cadours (right)";
 text[343]="View from the heights of Aurad&eacute;";
 text[344]="Fields in Aurad&eacute; with Lias in background";
+text[345]="Landscape around Tarerach";
+text[346]="Montalba-le-Ch&acirc;teau's area seen near Tarerach";
+text[347]="The Canigou and the hamlet of Marcevol";
+text[348]="Arboussols with the Madr&egrave;s massif in background";
+text[349]="The Canigou, Arboussols and the Madr&egrave;s massif";
+text[350]="T&ecirc;t valley and Vin&ccedil;a seen near Marquixanes";
+text[351]="View over the T&ecirc;t valley, from Marquixanes to Prades";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(344*Math.random()+1);  // random number between 1 and 344
+var i = Math.floor(351*Math.random()+1);  // random number between 1 and 351
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");
