@@ -356,11 +356,13 @@ text[350]="Vall&eacute;e de la T&ecirc;t et Vin&ccedil;a vues pr&egrave;s de Mar
 text[351]="Vue sur la vall&eacute;e de la T&ecirc;t, de Marquixanes &agrave; Prades";
 text[352]="Des champs pr&egrave;s d'Escalquens avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
 text[353]="Verdure entre Odars et Pr&eacute;serville";
+text[354]="Paysage autour de Saint-Pierre avec Verfeil en arri&egrave;re-plan";
+text[355]="La r&eacute;gion de Verfeil vue depuis Saint-Pierre";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(353*Math.random()+1);  // nombre aleatoire entre 1 et 353
+var i = Math.floor(355*Math.random()+1);  // nombre aleatoire entre 1 et 355
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");

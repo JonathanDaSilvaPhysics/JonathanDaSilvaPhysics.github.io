@@ -356,11 +356,13 @@ text[350]="T&ecirc;t valley and Vin&ccedil;a seen near Marquixanes";
 text[351]="View over the T&ecirc;t valley, from Marquixanes to Prades";
 text[352]="Fields near Escalquens with the Pyrenees in background";
 text[353]="Greenery between Odars and Pr&eacute;serville";
+text[354]="Landscape around Saint-Pierre with Verfeil in background";
+text[355]="Area of Verfeil seen from Saint-Pierre";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(353*Math.random()+1);  // random number between 1 and 353
+var i = Math.floor(355*Math.random()+1);  // random number between 1 and 355
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");
