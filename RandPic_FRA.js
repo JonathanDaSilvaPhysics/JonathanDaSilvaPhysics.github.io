@@ -360,11 +360,12 @@ text[354]="Paysage autour de Saint-Pierre avec Verfeil en arri&egrave;re-plan";
 text[355]="La r&eacute;gion de Verfeil vue depuis Saint-Pierre";
 text[356]="Vue autour de Montgras avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
 text[357]="Paysage de Lahage avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
+text[358]="Paysage autour de Bonrepos-Riquet et Saint-Marcel-Paulel";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(357*Math.random()+1);  // nombre aleatoire entre 1 et 357
+var i = Math.floor(358*Math.random()+1);  // nombre aleatoire entre 1 et 358
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");
