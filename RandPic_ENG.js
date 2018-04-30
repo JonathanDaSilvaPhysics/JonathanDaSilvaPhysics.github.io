@@ -361,11 +361,24 @@ text[355]="Area of Verfeil seen from Saint-Pierre";
 text[356]="View around Montgras with the Pyrenees in background";
 text[357]="Landscape in Lahage with the Pyrenees in background";
 text[358]="Landscape around Bonrepos-Riquet and Saint-Marcel-Paulel";
+text[359]="Area between Saint-Jean-Lherm and Montastruc-la-Conseill&egrave;re";
+text[360]="View over the south of Saint-Jean-Lherm";
+text[361]="Landscape around Montpitol";
+text[362]="Tabe massif seen near Saint-Martin-de-Caralp";
+text[363]="Barguilli&egrave;re valley and Arize massif from Saint-Martin-de-Caralp";
+text[364]="Cows near Cadarcet";
+text[365]="The hamlet of Berni and its surroundings";
+text[366]="View over the surroundings of Nescus";
+text[367]="Landscape between Montels and Alzen";
+text[368]="Montels and its surroundings";
+text[369]="Serres-sur-Arget and its greenery";
+text[370]="Landscape of the area of B&eacute;nac";
+text[371]="Barguilli&egrave;re valley with Serres-sur-Arget in background";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(358*Math.random()+1);  // random number between 1 and 358
+var i = Math.floor(371*Math.random()+1);  // random number between 1 and 371
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");

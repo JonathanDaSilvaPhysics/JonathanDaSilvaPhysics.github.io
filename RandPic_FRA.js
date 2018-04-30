@@ -361,11 +361,24 @@ text[355]="La r&eacute;gion de Verfeil vue depuis Saint-Pierre";
 text[356]="Vue autour de Montgras avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
 text[357]="Paysage de Lahage avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
 text[358]="Paysage autour de Bonrepos-Riquet et Saint-Marcel-Paulel";
+text[359]="La r&eacute;gion entre Saint-Jean-Lherm et Montastruc-la-Conseill&egrave;re";
+text[360]="Vue sur le sud de Saint-Jean-Lherm";
+text[361]="Paysage autour de Montpitol";
+text[362]="Massif de Tabe vu pr&egrave;s de Saint-Martin-de-Caralp";
+text[363]="Barguilli&egrave;re et massif de l'Arize vus de Saint-Martin-de-Caralp";
+text[364]="Des vaches pr&egrave;s de Cadarcet";
+text[365]="Le hameau de Berni et ses environs";
+text[366]="Vue sur l'environnement de Nescus";
+text[367]="Paysage entre Montels et Alzen";
+text[368]="Montels et ses environs";
+text[369]="Serres-sur-Arget et sa verdure";
+text[370]="Paysage de la r&eacute;gion de B&eacute;nac";
+text[371]="Vall&eacute;e de la Barguilli&egrave;re avec Serres-sur-Arget en arri&egrave;re-plan";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(358*Math.random()+1);  // nombre aleatoire entre 1 et 358
+var i = Math.floor(371*Math.random()+1);  // nombre aleatoire entre 1 et 371
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");
