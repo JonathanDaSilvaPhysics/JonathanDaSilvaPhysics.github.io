@@ -374,11 +374,16 @@ text[368]="Montels et ses environs";
 text[369]="Serres-sur-Arget et sa verdure";
 text[370]="Paysage de la r&eacute;gion de B&eacute;nac";
 text[371]="Vall&eacute;e de la Barguilli&egrave;re avec Serres-sur-Arget en arri&egrave;re-plan";
+text[372]="Les Corbi&egrave;res proche de Feuilla avec le Canigou en arri&egrave;re-plan";
+text[373]="Vue sur la r&eacute;gion de Feuilla";
+text[374]="Paysage des hauteurs de Fitou pr&egrave;s de l'&eacute;tang de Leucate";
+text[375]="Le ch&acirc;teau de Fitou et son environnement";
+text[376]="Paysage pr&egrave;s d'Opoul-P&eacute;rillos et de son ch&acirc;teau";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(371*Math.random()+1);  // nombre aleatoire entre 1 et 371
+var i = Math.floor(376*Math.random()+1);  // nombre aleatoire entre 1 et 376
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");

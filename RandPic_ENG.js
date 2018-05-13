@@ -374,11 +374,16 @@ text[368]="Montels and its surroundings";
 text[369]="Serres-sur-Arget and its greenery";
 text[370]="Landscape of the area of B&eacute;nac";
 text[371]="Barguilli&egrave;re valley with Serres-sur-Arget in background";
+text[372]="The Corbi&egrave;res towards Feuilla with the Canigou in background";
+text[373]="View over the area of Feuilla";
+text[374]="Landscape of the heights of Fitou near the &eacute;tang de Leucate";
+text[375]="The castle of Fitou and its environment";
+text[376]="Landscape near Opoul-P&eacute;rillos and its castle";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(371*Math.random()+1);  // random number between 1 and 371
+var i = Math.floor(376*Math.random()+1);  // random number between 1 and 376
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");
