@@ -379,11 +379,29 @@ text[373]="View over the area of Feuilla";
 text[374]="Landscape of the heights of Fitou near the &eacute;tang de Leucate";
 text[375]="The castle of Fitou and its environment";
 text[376]="Landscape near Opoul-P&eacute;rillos and its castle";
+text[377]="Soueich's church near the Ger";
+text[378]="Landscape around Milhas";
+text[379]="Greenery of the Comminges near Cabanac-Cazaux";
+text[380]="The Gave de Pau near Ayzac-Ost";
+text[381]="View around Ayzac-Ost";
+text[382]="The Estrem de Sala in the Lavedan seen from Arbouix";
+text[383]="Landscape of the arrib&egrave;ra de Sent Savin seen near Souin";
+text[384]="Jarret's surroundings";
+text[385]="Greenery around the hamlets of Ayn&eacute; and Louzourm";
+text[386]="View over L&eacute;zignan with the Pic du Jer in background";
+text[387]="Landscape near Bourr&eacute;ac";
+text[388]="Pic du Jer seen from the heights of Bourr&eacute;ac";
+text[389]="Lourdes and its environment seen from its castle";
+text[390]="Landscape around Carvoeiro seen from Durr&atilde;es";
+text[391]="View over the south of Issus";
+text[392]="Sunflower field between Montgiscard and Montbrun-Lauragais";
+text[393]="Brignemont and its surroundings";
+text[394]="View over the south of Brignemont";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(376*Math.random()+1);  // random number between 1 and 376
+var i = Math.floor(394*Math.random()+1);  // random number between 1 and 394
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");

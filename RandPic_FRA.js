@@ -379,11 +379,29 @@ text[373]="Vue sur la r&eacute;gion de Feuilla";
 text[374]="Paysage des hauteurs de Fitou pr&egrave;s de l'&eacute;tang de Leucate";
 text[375]="Le ch&acirc;teau de Fitou et son environnement";
 text[376]="Paysage pr&egrave;s d'Opoul-P&eacute;rillos et de son ch&acirc;teau";
+text[377]="L'&eacute;glise de Soueich au bord du Ger";
+text[378]="Paysage autour de Milhas";
+text[379]="Verdure du pays de Comminges pr&egrave;s de Cabanac-Cazaux";
+text[380]="Le gave de Pau pr&egrave;s d'Ayzac-Ost";
+text[381]="Vue sur la r&eacute;gion d'Ayzac-Ost";
+text[382]="L'Estrem de Sala dans le Lavedan vue d'Arbouix";
+text[383]="Paysage de l'arrib&egrave;ra de Sent Savin vu pr&egrave;s de Souin";
+text[384]="Les environs de Jarret";
+text[385]="Verdure autour des hameaux d'Ayn&eacute; et Louzourm";
+text[386]="Vue sur L&eacute;zignan avec le pic du Jer en arri&egrave;re-plan";
+text[387]="Paysage pr&egrave;s de Bourr&eacute;ac";
+text[388]="Pic du Jer vu &agrave; partir des hauteurs de Bourr&eacute;ac";
+text[389]="Lourdes et son environnement vu depuis son ch&acirc;teau";
+text[390]="Paysage autour de Carvoeiro vu de Durr&atilde;es";
+text[391]="Vue sur le sud d'Issus";
+text[392]="Champ de tournesol entre Montgiscard et Montbrun-Lauragais";
+text[393]="Brignemont et ses environs";
+text[394]="Vue sur le sud de Brignemont";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(376*Math.random()+1);  // nombre aleatoire entre 1 et 376
+var i = Math.floor(394*Math.random()+1);  // nombre aleatoire entre 1 et 394
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");
