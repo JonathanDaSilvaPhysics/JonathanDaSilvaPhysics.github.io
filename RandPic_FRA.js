@@ -397,11 +397,15 @@ text[391]="Vue sur le sud d'Issus";
 text[392]="Champ de tournesol entre Montgiscard et Montbrun-Lauragais";
 text[393]="Brignemont et ses environs";
 text[394]="Vue sur le sud de Brignemont";
+text[395]="Paysage autour de Montr&eacute;jeau avec Gourdan en arri&egrave;re-plan";
+text[396]="Saint-Bertrand-de-Comminges et ses environs vus de Labroqu&egrave;re";
+text[397]="Saint-Bertrand-de-Comminges vu pr&egrave;s de Saint-Just-de-Valcabr&egrave;re";
+text[398]="Vall&eacute;e de la Garonne vue de Saint-Bertrand-de-Comminges";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(394*Math.random()+1);  // nombre aleatoire entre 1 et 394
+var i = Math.floor(398*Math.random()+1);  // nombre aleatoire entre 1 et 398
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");

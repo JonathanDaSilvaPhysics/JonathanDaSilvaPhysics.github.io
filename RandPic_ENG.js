@@ -397,11 +397,15 @@ text[391]="View over the south of Issus";
 text[392]="Sunflower field between Montgiscard and Montbrun-Lauragais";
 text[393]="Brignemont and its surroundings";
 text[394]="View over the south of Brignemont";
+text[395]="Landscape around Montr&eacute;jeau with Gourdan in background";
+text[396]="Saint-Bertrand-de-Comminges and its surroundings near Labroqu&egrave;re";
+text[397]="Saint-Bertrand-de-Comminges seen near Saint-Just-de-Valcabr&egrave;re";
+text[398]="Garonne valley from the heights of Saint-Bertrand-de-Comminges";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(394*Math.random()+1);  // random number between 1 and 394
+var i = Math.floor(398*Math.random()+1);  // random number between 1 and 398
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");
