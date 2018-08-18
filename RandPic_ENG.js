@@ -385,7 +385,7 @@ text[379]="Greenery of the Comminges near Cabanac-Cazaux";
 text[380]="The Gave de Pau near Ayzac-Ost";
 text[381]="View around Ayzac-Ost";
 text[382]="The Estrem de Sala in the Lavedan seen from Arbouix";
-text[383]="Landscape of the arrib&egrave;ra de Sent Savin seen near Souin";
+text[383]="Landscape of the Arrib&egrave;ra de Sent Savin seen near Souin";
 text[384]="Jarret's surroundings";
 text[385]="Greenery around the hamlets of Ayn&eacute; and Louzourm";
 text[386]="View over L&eacute;zignan with the Pic du Jer in background";
@@ -401,11 +401,30 @@ text[395]="Landscape around Montr&eacute;jeau with Gourdan in background";
 text[396]="Saint-Bertrand-de-Comminges and its surroundings near Labroqu&egrave;re";
 text[397]="Saint-Bertrand-de-Comminges seen near Saint-Just-de-Valcabr&egrave;re";
 text[398]="Garonne valley from the heights of Saint-Bertrand-de-Comminges";
+text[399]="Landscape seen from the road between Unac and Caussou";
+text[400]="Bestiac and its environment";
+text[401]="The hamlet of Savenac with Bestiac in background";
+text[402]="Greenery around the road of the Col de Marmare near Caussou";
+text[403]="The road of the Col de Marmare and its surroundings";
+text[404]="Summits of the Tabe massif seen from the Col de Marmare";
+text[405]="View over Caussou with Saint-Barth&eacute;lemy and Soularac summits";
+text[406]="The Ari&egrave;ge valley around Luzenac and Bestiac surroundings";
+text[407]="Saint-Barth&eacute;lemy and Soularac summits and the Trimouns Talc Mine";
+text[408]="Landscape of the Ari&egrave;ge valley around Luzenac";
+text[409]="Unac and Luzenac with Lordat Castle in background";
+text[410]="The Ari&egrave;ge in Ax-les-Thermes";
+text[411]="Lavedan's mountains seen near Bartr&egrave;s";
+text[412]="Arrib&egrave;ra de Sent Savin and Val d'Azun from the road to Hautacam";
+text[413]="Cloudy sky at Hautacam with the Val d'Azun in background";
+text[414]="Clouds and alpine tundra on the top of Hautacam";
+text[415]="Val d'Azun and Argel&egrave;s-Gazost seen from the top of Hautacam";
+text[416]="Valleys of the Lavedan from the last meters of Hautacam";
+text[417]="Alpine tundra of Hautacam and valleys of the Lavedan";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(398*Math.random()+1);  // random number between 1 and 398
+var i = Math.floor(417*Math.random()+1);  // random number between 1 and 417
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");

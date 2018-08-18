@@ -401,11 +401,30 @@ text[395]="Paysage autour de Montr&eacute;jeau avec Gourdan en arri&egrave;re-pl
 text[396]="Saint-Bertrand-de-Comminges et ses environs vus de Labroqu&egrave;re";
 text[397]="Saint-Bertrand-de-Comminges vu pr&egrave;s de Saint-Just-de-Valcabr&egrave;re";
 text[398]="Vall&eacute;e de la Garonne vue de Saint-Bertrand-de-Comminges";
+text[399]="Paysage vu &agrave; partir de la route entre Unac et Caussou";
+text[400]="Bestiac et son environnement";
+text[401]="Le hameau de Savenac avec Bestiac en arri&egrave;re-plan";
+text[402]="Verdure autour de la route du col de Marmare pr&egrave;s de Caussou";
+text[403]="La route du col de Marmare et ses environs";
+text[404]="Sommets du massif de Tabe vus depuis le col de Marmare";
+text[405]="Vue sur Caussou et les pics de Saint-Barth&eacute;lemy et Soularac";
+text[406]="La vall&eacute;e de l'Ari&egrave;ge autour de Luzenac et les environs de Bestiac";
+text[407]="Pics de Saint-Barth&eacute;lemy et Soularac et carri&egrave;re de Trimouns";
+text[408]="Paysage de la vall&eacute;e de l'Ari&egrave;ge autour de Luzenac";
+text[409]="Unac et Luzenac avec le ch&acirc;teau de Lordat en arri&egrave;re-plan";
+text[410]="L'Ari&egrave;ge &agrave; Ax-les-Thermes";
+text[411]="Montagnes du Lavedan vu pr&egrave;s de Bartr&egrave;s";
+text[412]="Arrib&egrave;ra de Sent Savin et val d'Azun vus de la route du Hautacam";
+text[413]="Ciel nuageux &agrave; Hautacam avec le Val d'Azun en arri&egrave;re-plan";
+text[414]="Nuages et alpages du sommet du Hautacam";
+text[415]="Val d'Azun et Argel&egrave;s-Gazost vus du sommet du Hautacam";
+text[416]="Vall&eacute;es du Lavedan vues des derniers lacets du Hautacam";
+text[417]="Alpages du Hautacam avec des vall&eacute;es du Lavedan en arri&egrave;re-plan";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(398*Math.random()+1);  // nombre aleatoire entre 1 et 398
+var i = Math.floor(417*Math.random()+1);  // nombre aleatoire entre 1 et 417
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");
