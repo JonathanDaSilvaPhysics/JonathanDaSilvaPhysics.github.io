@@ -420,11 +420,20 @@ text[414]="Clouds and alpine tundra on the top of Hautacam";
 text[415]="Val d'Azun and Argel&egrave;s-Gazost seen from the top of Hautacam";
 text[416]="Valleys of the Lavedan from the last meters of Hautacam";
 text[417]="Alpine tundra of Hautacam and valleys of the Lavedan";
+text[418]="The Gers with the Auch Cathedral and the Tour d'Armagnac";
+text[419]="Auch seen in front of its monumental staircase";
+text[420]="Landscape from the road to Mont&eacute;gut";
+text[421]="Fields in Leboulin";
+text[422]="Cows and their cubs near Cabanac-Cazaux";
+text[423]="The castle ruins of Izaut-de-l'H&ocirc;tel and its surroundings";
+text[424]="Landscape near Moncaup in the Comminges";
+text[425]="Greenery of the area of Payssous";
+text[426]="R&eacute;gades and its environment";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(417*Math.random()+1);  // random number between 1 and 417
+var i = Math.floor(426*Math.random()+1);  // random number between 1 and 426
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");

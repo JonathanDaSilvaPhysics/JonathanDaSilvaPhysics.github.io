@@ -420,11 +420,20 @@ text[414]="Nuages et alpages du sommet du Hautacam";
 text[415]="Val d'Azun et Argel&egrave;s-Gazost vus du sommet du Hautacam";
 text[416]="Vall&eacute;es du Lavedan vues des derniers lacets du Hautacam";
 text[417]="Alpages du Hautacam avec des vall&eacute;es du Lavedan en arri&egrave;re-plan";
+text[418]="Le Gers, la cath&eacute;drale Sainte-Marie et la tour d'Armagnac d'Auch";
+text[419]="Auch vue devant son escalier monumental";
+text[420]="Paysage vu de la route vers Mont&eacute;gut";
+text[421]="Des champs &agrave; Leboulin";
+text[422]="Des vaches et leurs petits pr&egrave;s de Cabanac-Cazaux";
+text[423]="Les ruines du ch&acirc;teau d'Izaut-de-l'H&ocirc;tel et ses environs";
+text[424]="Paysage pr&egrave;s de Moncaup dans le pays de Comminges";
+text[425]="Verdure de la r&eacute;gion de Payssous";
+text[426]="R&eacute;gades et son environnement";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(417*Math.random()+1);  // nombre aleatoire entre 1 et 417
+var i = Math.floor(426*Math.random()+1);  // nombre aleatoire entre 1 et 426
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");
