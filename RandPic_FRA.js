@@ -429,11 +429,15 @@ text[423]="Les ruines du ch&acirc;teau d'Izaut-de-l'H&ocirc;tel et ses environs"
 text[424]="Paysage pr&egrave;s de Moncaup dans le pays de Comminges";
 text[425]="Verdure de la r&eacute;gion de Payssous";
 text[426]="R&eacute;gades et son environnement";
+text[427]="Vue depuis Aussillon avec les monts de Lacaune en arri&egrave;re-plan";
+text[428]="Aussillon au pied de la montagne Noire";
+text[429]="Les monts de Lacaune vus depuis Aiguefonde";
+text[430]="Paysage de la montagne Noire vu depuis Caucali&egrave;res";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(426*Math.random()+1);  // nombre aleatoire entre 1 et 426
+var i = Math.floor(430*Math.random()+1);  // nombre aleatoire entre 1 et 430
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");

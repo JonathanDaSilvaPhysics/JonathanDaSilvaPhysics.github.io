@@ -429,11 +429,15 @@ text[423]="The castle ruins of Izaut-de-l'H&ocirc;tel and its surroundings";
 text[424]="Landscape near Moncaup in the Comminges";
 text[425]="Greenery of the area of Payssous";
 text[426]="R&eacute;gades and its environment";
+text[427]="View from Aussillon with the Monts de Lacaune in background";
+text[428]="Aussillon at the foot of the Montagne Noire";
+text[429]="Monts de Lacaune seen from Aiguefonde";
+text[430]="Landscape of the Montagne Noire seen from Caucali&egrave;res";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(426*Math.random()+1);  // random number between 1 and 426
+var i = Math.floor(430*Math.random()+1);  // random number between 1 and 430
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");
