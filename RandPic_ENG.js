@@ -433,11 +433,13 @@ text[427]="View from Aussillon with the Monts de Lacaune in background";
 text[428]="Aussillon at the foot of the Montagne Noire";
 text[429]="Monts de Lacaune seen from Aiguefonde";
 text[430]="Landscape of the Montagne Noire seen from Caucali&egrave;res";
+text[431]="View over Mazamet's area and the Montagne Noire";
+text[432]="Greenery and landscape between Le Vintrou and Pont-de-Larn";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(430*Math.random()+1);  // random number between 1 and 430
+var i = Math.floor(432*Math.random()+1);  // random number between 1 and 432
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");
