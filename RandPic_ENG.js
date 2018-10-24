@@ -435,11 +435,16 @@ text[429]="Monts de Lacaune seen from Aiguefonde";
 text[430]="Landscape of the Montagne Noire seen from Caucali&egrave;res";
 text[431]="View over Mazamet's area and the Montagne Noire";
 text[432]="Greenery and landscape between Le Vintrou and Pont-de-Larn";
+text[433]="The Ori&egrave;ge and Orlu valley seen from Orgeix";
+text[434]="The Ori&egrave;ge in Orgeix";
+text[435]="View over Ax valley with Ax 3 Domaines in background";
+text[436]="Greenery of Ascou's area";
+text[437]="Landscape around Ax valley from Ascou";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(432*Math.random()+1);  // random number between 1 and 432
+var i = Math.floor(437*Math.random()+1);  // random number between 1 and 437
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");

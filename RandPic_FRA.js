@@ -435,11 +435,16 @@ text[429]="Les monts de Lacaune vus depuis Aiguefonde";
 text[430]="Paysage de la montagne Noire vu depuis Caucali&egrave;res";
 text[431]="Vue sur la r&eacute;gion de Mazamet et la montagne Noire";
 text[432]="Verdure et paysage entre Le Vintrou et Pont-de-Larn";
+text[433]="L'Ori&egrave;ge et la vall&eacute;e d'Orlu vues d'Orgeix";
+text[434]="L'Ori&egrave;ge &agrave; Orgeix";
+text[435]="Vue sur la vall&eacute;e d'Ax avec Ax 3 Domaines en arri&egrave;re-plan";
+text[436]="Verdure de la r&eacute;gion d'Ascou";
+text[437]="Paysage autour de la vall&eacute;e d'Ax vu d'Ascou";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(432*Math.random()+1);  // nombre aleatoire entre 1 et 432
+var i = Math.floor(437*Math.random()+1);  // nombre aleatoire entre 1 et 437
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");
