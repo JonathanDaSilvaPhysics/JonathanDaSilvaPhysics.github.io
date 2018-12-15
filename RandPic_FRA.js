@@ -228,8 +228,8 @@ text[222]="Vue sur la r&eacute;gion de Rod&egrave;s depuis les hauteurs de Rigar
 text[223]="Rigarda et Vin&ccedil;a avec les Fenouill&egrave;des en arri&egrave;re-plan";
 text[224]="Verdure des environs de Glorianes";
 text[225]="Vall&eacute;e de la T&ecirc;t et Haut-Fenouill&egrave;des vus pr&egrave;s de Glorianes";
-text[226]="Vue sur les Fenouill&egrave;des depuis la route menant vers Trilla";
-text[227]="Ansignan vu depuis la route menant vers Trilla";
+text[226]="Vue sur les Fenouill&egrave;des depuis la route menant &agrave; Trilla";
+text[227]="Ansignan vu depuis la route menant &agrave; Trilla";
 text[228]="L'Agly avec Ansignan en arri&egrave;re-plan";
 text[229]="Prieur&eacute; de Serrabona et son environnement";
 text[230]="Vue sur Casefabre depuis la route menant au Prieur&eacute; de Serrabona";
@@ -440,11 +440,45 @@ text[434]="L'Ori&egrave;ge &agrave; Orgeix";
 text[435]="Vue sur la vall&eacute;e d'Ax avec Ax 3 Domaines en arri&egrave;re-plan";
 text[436]="Verdure de la r&eacute;gion d'Ascou";
 text[437]="Paysage autour de la vall&eacute;e d'Ax vu d'Ascou";
+text[438]="Pont &agrave; Salies-du-Salat avec une chapelle castrale en arri&egrave;re-plan";
+text[439]="Vue sur Cassagne &agrave; partir du hameau de Tart&eacute;";
+text[440]="Paysage autour de Cassagne &agrave; partir du hameau de Tart&eacute;";
+text[441]="L'&eacute;glise Notre-Dame de Cassagne et ses environs";
+text[442]="Les Pyr&eacute;n&eacute;es vu au-dessus d'Escoulis";
+text[443]="Paysage pr&egrave;s d'Escoulis avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
+text[444]="La r&eacute;gion de Betchat et les Pyr&eacute;n&eacute;es vues pr&egrave;s d'Escoulis";
+text[445]="Vue sur le pays de Comminges et les Pyr&eacute;n&eacute;es depuis Ausseing";
+text[446]="Paysage entre Ausseing et Montclar-de-Comminges";
+text[447]="Verdure de la r&eacute;gion de Montclar-de-Comminges";
+text[448]="D&eacute;cor du Comminges avec Montclar-de-Comminges en arri&egrave;re-plan";
+text[449]="Saint-Martory et la Garonne";
+text[450]="Lever de soleil pr&egrave;s du Fr&eacute;chet";
+text[451]="Verdure entre Le Fr&eacute;chet et Aurignac";
+text[452]="Champs de ma&iuml;s entre Aurignac et Peyrouzet";
+text[453]="D&eacute;cor du Comminges pr&egrave;s d'Aurignac";
+text[454]="Paysage pr&egrave;s de Peyrouzet avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
+text[455]="Champs, verdure et les Pyr&eacute;n&eacute;es vus pr&egrave;s de Peyrouzet";
+text[456]="Paysage sur route entre Aurignac et Peyrouzet";
+text[457]="Vue sur la r&eacute;gion de Peyrouzet";
+text[458]="D&eacute;cor du pays de Comminges &agrave; Peyrouzet";
+text[459]="Des vaches &agrave; Peyrouzet";
+text[460]="Vue sur le pays de Comminges depuis Peyrouzet";
+text[461]="Des champs dans la r&eacute;gion de Peyrouzet";
+text[462]="Le N&eacute;bouzan autour d'Aulon vu pr&egrave;s de Peyrouzet";
+text[463]="Des bovins pr&egrave;s de Bouzin";
+text[464]="Paysage entre Cazeneuve-Montaut et Auzas";
+text[465]="Un hameau de Laffite-Toupi&egrave;re et son environnement";
+text[466]="Le Comminges entre Laffite-Toupi&egrave;re et Saint-Martory";
+text[467]="R&eacute;gion de Valdurenque et la montagne Noire en arri&egrave;re-plan";
+text[468]="R&eacute;gion de Brassac et ses hameaux vu du Bez";
+text[469]="D&eacute;cor du Sidobre autour du hameau des Pradels";
+text[470]="Paysage sur la route pr&egrave;s du Bez";
+text[471]="Montagne Noire (gauche) et Saint-Salvy-de-la-Balme (droite)";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(437*Math.random()+1);  // nombre aleatoire entre 1 et 437
+var i = Math.floor(471*Math.random()+1);   // nombre aleatoire entre 1 et 471
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");

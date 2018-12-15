@@ -440,11 +440,45 @@ text[434]="The Ori&egrave;ge in Orgeix";
 text[435]="View over Ax valley with Ax 3 Domaines in background";
 text[436]="Greenery of Ascou's area";
 text[437]="Landscape around Ax valley from Ascou";
+text[438]="Bridge in Salies-du-Salat and a motte-and-bailey chapel";
+text[439]="View over Cassagne from the hamlet of Tart&eacute;";
+text[440]="Landscape around Cassagne from the hamlet of Tart&eacute;";
+text[441]="Notre-Dame church in Cassagne and its surroundings";
+text[442]="The Pyrenees seen from above Escoulis";
+text[443]="Landscape near Escoulis with the Pyrenees in background";
+text[444]="Betchat's area and the Pyrenees seen near Escoulis";
+text[445]="View over the Comminges and the Pyrenees from Ausseing";
+text[446]="Landscape between Ausseing and Montclar-de-Comminges";
+text[447]="Greenery of the area of Montclar-de-Comminges";
+text[448]="The Comminges with Montclar-de-Comminges in background";
+text[449]="Saint-Martory and the Garonne";
+text[450]="Sunrise near Le Fr&eacute;chet";
+text[451]="Greenery between Le Fr&eacute;chet and Aurignac";
+text[452]="Corn fields between Aurignac and Peyrouzet";
+text[453]="Scenery of the Comminges near Aurignac";
+text[454]="Landscape near Peyrouzet with the Pyrenees in background";
+text[455]="Fields, greenery and the Pyrenees near Peyrouzet";
+text[456]="Landscape on the road between Aurignac and Peyrouzet";
+text[457]="View over the area of Peyrouzet";
+text[458]="Scenery of the Comminges in Peyrouzet";
+text[459]="Cows in Peyrouzet";
+text[460]="View of the Comminges from Peyrouzet";
+text[461]="Fields in the area of Peyrouzet";
+text[462]="The N&eacute;bouzan around Aulon seen near Peyrouzet";
+text[463]="Cattle near Bouzin";
+text[464]="Landscape between Cazeneuve-Montaut and Auzas";
+text[465]="A Laffite-Toupi&egrave;re's hamlet and its surroundings";
+text[466]="The Comminges between Laffite-Toupi&egrave;re and Saint-Martory";
+text[467]="Valdurenque's area and the Montagne Noire in background";
+text[468]="Brassac's area and hamlets seen from Le Bez";
+text[469]="Scenery of the Sidobre around the hamlet of Les Pradels";
+text[470]="Landscape on the road near Le Bez";
+text[471]="Montagne Noire (left) and Saint-Salvy-de-la-Balme (right)";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(437*Math.random()+1);  // random number between 1 and 437
+var i = Math.floor(471*Math.random()+1);  // random number between 1 and 471
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");
