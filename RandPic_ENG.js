@@ -474,11 +474,12 @@ text[468]="Brassac's area and hamlets seen from Le Bez";
 text[469]="Scenery of the Sidobre around the hamlet of Les Pradels";
 text[470]="Landscape on the road near Le Bez";
 text[471]="Montagne Noire (left) and Saint-Salvy-de-la-Balme (right)";
+text[472]="Vineyards near Fra&iuml;ss&eacute;-des-Corbi&egrave;res";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(471*Math.random()+1);  // random number between 1 and 471
+var i = Math.floor(472*Math.random()+1);  // random number between 1 and 472
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");

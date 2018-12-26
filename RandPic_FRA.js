@@ -474,11 +474,12 @@ text[468]="R&eacute;gion de Brassac et ses hameaux vu du Bez";
 text[469]="D&eacute;cor du Sidobre autour du hameau des Pradels";
 text[470]="Paysage sur la route pr&egrave;s du Bez";
 text[471]="Montagne Noire (gauche) et Saint-Salvy-de-la-Balme (droite)";
+text[472]="Vignobles pr&egrave;s de Fra&iuml;ss&eacute;-des-Corbi&egrave;res";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(471*Math.random()+1);   // nombre aleatoire entre 1 et 471
+var i = Math.floor(472*Math.random()+1);   // nombre aleatoire entre 1 et 472
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");
