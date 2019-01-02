@@ -146,13 +146,13 @@ text[140]="Vue de la r&eacute;gion de Percy en hiver";
 text[141]="Paysage en hiver pr&egrave;s de Gap";
 text[142]="Les environs de Lesquerde";
 text[143]="Le Pic de Verg&egrave;s et le village de Saint-Arnac";
-text[144]="Le Massif du Vercors vu depuis Grenoble";
+text[144]="Le massif du Vercors vu depuis Grenoble";
 text[145]="Vue sur le Drac, Claix et le Pic Saint-Michel";
 text[146]="Cha&icirc;ne de Belledonne vue depuis la route du ch&acirc;teau d'Alli&egrave;res";
-text[147]="La Roize &agrave; Voreppe avec le Massif de la Chartreuse en arri&egrave;re-plan";
-text[148]="Vue du Gr&eacute;sivaudan, de Lumbin et du Massif de la Chartreuse";
+text[147]="La Roize &agrave; Voreppe avec le massif de la Chartreuse en arri&egrave;re-plan";
+text[148]="Vue du Gr&eacute;sivaudan, de Lumbin et du massif de la Chartreuse";
 text[149]="Paysage de la cha&icirc;ne de Belledonne vu &agrave; partir de Lumbin";
-text[150]="Vue de Grenoble avec l'Is&egrave;re et le Massif de la Chartreuse";
+text[150]="Vue de Grenoble avec l'Is&egrave;re et le massif de la Chartreuse";
 text[151]="Paysage entre Tautavel et Paziols";
 text[152]="Vue des Corbi&egrave;res avec Tuchan et le mont Tauch";
 text[153]="Vignes &agrave; Tuchan avec le ch&acirc;teau d'Aguilar en arri&egrave;re-plan";
@@ -160,7 +160,7 @@ text[154]="Les Gorges du Verdouble pr&egrave;s de Padern";
 text[155]="Cucugnan, le ch&acirc;teau de Peyrepertuse et le paysage des Corbi&egrave;res";
 text[156]="Paysage autour du ch&acirc;teau de Qu&eacute;ribus";
 text[157]="Veurey-Voroize et Voreppe vues sur la route du Mont Saint-Martin";
-text[158]="Saint-&Eacute;gr&egrave;ve et le Massif du Vercors vus &agrave; l'entr&eacute;e de la Chartreuse";
+text[158]="Saint-&Eacute;gr&egrave;ve et le massif du Vercors vus &agrave; l'entr&eacute;e de la Chartreuse";
 text[159]="Hameau du Gua avec la Pin&eacute;a en arri&egrave;re-plan";
 text[160]="Vue du N&eacute;ron, du Vercors et de Proveysieux";
 text[161]="Paysage autour de Proveysieux et Quaix-en-Chartreuse";
@@ -211,7 +211,7 @@ text[205]="R&eacute;gion de Vaulnaveys-le-Haut et Vercors vus de Fugearet";
 text[206]="Gr&eacute;sivaudan et Belledonne vus du tunnel de Saint-Pancrasse";
 text[207]="La Dent de Crolles vue de Saint-Pancrasse";
 text[208]="&Eacute;glise cach&eacute;e &agrave; Saint-Bernard et Belledonne en arri&egrave;re-plan";
-text[209]="Le Touvet et son ch&acirc;teau au pied du Massif de la Chartreuse";
+text[209]="Le Touvet et son ch&acirc;teau au pied du massif de la Chartreuse";
 text[210]="Paysage autour de Saint-Pierre-de-Chartreuse et du Grand Som";
 text[211]="De gauche &agrave; droite : Llauro, Fourques et le Canigou";
 text[212]="Viv&egrave;s et le massif des Alb&egrave;res";
@@ -475,11 +475,30 @@ text[469]="D&eacute;cor du Sidobre autour du hameau des Pradels";
 text[470]="Paysage sur la route pr&egrave;s du Bez";
 text[471]="Montagne Noire (gauche) et Saint-Salvy-de-la-Balme (droite)";
 text[472]="Vignobles pr&egrave;s de Fra&iuml;ss&eacute;-des-Corbi&egrave;res";
+text[473]="Le massif du Canigou vu depuis la route d'Estagel";
+text[474]="Latour-de-France et ses environs";
+text[475]="Villages de la vall&eacute;e de l'Agly et les Corbi&egrave;res vus du Col del Bou";
+text[476]="Vall&eacute;e de la T&ecirc;t, Canigou et Cerdagne vus pr&egrave;s de For&ccedil;a R&eacute;al";
+text[477]="Pech de Bugarach (gauche), Corbi&egrave;res et Latour-de-France (centre)";
+text[478]="Environs de For&ccedil;a R&eacute;al et le massif de Madr&egrave;s en arri&egrave;re-plan";
+text[479]="La plaine du Roussillon et le massif des Alb&egrave;res vus de For&ccedil;a R&eacute;al";
+text[480]="Canigou, vall&eacute;e de la T&ecirc;t, Madr&egrave;s et Fenouill&egrave;des vus de For&ccedil;a R&eacute;al";
+text[481]="De gauche &agrave; droite : Aspres, Canigou, vall&eacute;e de la T&ecirc;t et Cerdagne";
+text[482]="Le massif de Madr&egrave;s et les Fenouill&egrave;des vus depuis For&ccedil;a R&eacute;al";
+text[483]="Montner, Latour-de-France et les Corbi&egrave;res vus depuis For&ccedil;a R&eacute;al";
+text[484]="De gauche &agrave; droite : Latour-de-France, Estagel et le mont Tauch";
+text[485]="R&eacute;gion d'Estagel et le mont Tauch vus depuis For&ccedil;a R&eacute;al";
+text[486]="Vue sur la plaine du Roussillon et les Alb&egrave;res depuis For&ccedil;a R&eacute;al";
+text[487]="Vue jusqu'&agrave; la Salanque et la M&eacute;diterran&eacute;e depuis For&ccedil;a R&eacute;al";
+text[488]="Paysage en direction de la M&eacute;diterran&eacute;e depuis For&ccedil;a R&eacute;al";
+text[489]="Les Corbi&egrave;res catalanes et la Salanque vues depuis For&ccedil;a R&eacute;al";
+text[490]="Ermitage de For&ccedil;a R&eacute;al devant Madr&egrave;s, Fenouill&egrave;des et Bugarach";
+text[491]="Ch&acirc;teau de Caladroy vu depuis le col de la Bataille";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(472*Math.random()+1);   // nombre aleatoire entre 1 et 472
+var i = Math.floor(491*Math.random()+1);   // nombre aleatoire entre 1 et 491
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");
