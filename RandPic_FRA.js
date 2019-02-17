@@ -494,11 +494,16 @@ text[488]="Paysage en direction de la M&eacute;diterran&eacute;e depuis For&cced
 text[489]="Les Corbi&egrave;res catalanes et la Salanque vues depuis For&ccedil;a R&eacute;al";
 text[490]="Ermitage de For&ccedil;a R&eacute;al devant Madr&egrave;s, Fenouill&egrave;des et Bugarach";
 text[491]="Ch&acirc;teau de Caladroy vu depuis le col de la Bataille";
+text[492]="Paysage pr&egrave;s d'un barrage sur la Garonne &agrave; Martres-Tolosane";
+text[493]="Caz&egrave;res vue de la rive droite de la Garonne";
+text[494]="Une route pr&egrave;s du hameau de Tambouret";
+text[495]="Verdure de Gensac-sur-Garonne &agrave; partir du hameau de Tambouret";
+text[496]="La r&eacute;gion du Volvestre vu de Carbonne";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(491*Math.random()+1);   // nombre aleatoire entre 1 et 491
+var i = Math.floor(496*Math.random()+1);   // nombre aleatoire entre 1 et 496
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");

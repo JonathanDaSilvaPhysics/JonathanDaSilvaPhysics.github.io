@@ -494,11 +494,16 @@ text[488]="Landscape towards the Mediterranean Sea from For&ccedil;a R&eacute;al
 text[489]="Catalan Corbi&egrave;res and Salanque ssen from For&ccedil;a R&eacute;al";
 text[490]="Hermitage of For&ccedil;a R&eacute;al with Madr&egrave;s, Fenouill&egrave;des and Bugarach";
 text[491]="Castle of Caladroy seen from the Col de la Bataille";
+text[492]="Landscape near a dam over the Garonne in Martres-Tolosane";
+text[493]="Caz&egrave;res seen from the right bank of the Garonne";
+text[494]="A road near the hamlet of Tambouret";
+text[495]="Greenery of Gensac-sur-Garonne from the hamlet of Tambouret";
+text[496]="Volvestre's area seen from Carbonne";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(491*Math.random()+1);  // random number between 1 and 491
+var i = Math.floor(496*Math.random()+1);  // random number between 1 and 496
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");
