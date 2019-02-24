@@ -499,11 +499,13 @@ text[493]="Caz&egrave;res vue de la rive droite de la Garonne";
 text[494]="Une route pr&egrave;s du hameau de Tambouret";
 text[495]="Verdure de Gensac-sur-Garonne &agrave; partir du hameau de Tambouret";
 text[496]="La r&eacute;gion du Volvestre vu de Carbonne";
+text[497]="Paysage depuis la r&eacute;gion du hameau de Mareux";
+text[498]="Hameaux de Rabastens et leurs environs";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(496*Math.random()+1);   // nombre aleatoire entre 1 et 496
+var i = Math.floor(498*Math.random()+1);  // nombre aleatoire entre 1 et 498
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");
