@@ -501,11 +501,14 @@ text[495]="Greenery of Gensac-sur-Garonne from the hamlet of Tambouret";
 text[496]="Volvestre's area seen from Carbonne";
 text[497]="Landscape from the area of the hamlet of Mareux";
 text[498]="Hamlets of Rabastens and their surroundings";
+text[499]="Monbrun and its environment";
+text[500]="Sinuous road near Thoux";
+text[501]="Landscape between Roquelaure-Saint-Aubin and Thoux";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(498*Math.random()+1);  // random number between 1 and 498
+var i = Math.floor(501*Math.random()+1);  // random number between 1 and 501
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");

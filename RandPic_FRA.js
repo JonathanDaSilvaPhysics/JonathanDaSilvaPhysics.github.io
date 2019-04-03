@@ -501,11 +501,14 @@ text[495]="Verdure de Gensac-sur-Garonne &agrave; partir du hameau de Tambouret"
 text[496]="La r&eacute;gion du Volvestre vu de Carbonne";
 text[497]="Paysage depuis la r&eacute;gion du hameau de Mareux";
 text[498]="Hameaux de Rabastens et leurs environs";
+text[499]="Monbrun et son environnement";
+text[500]="Route sinueuse dans les environs de Thoux";
+text[501]="Paysage entre Roquelaure-Saint-Aubin et Thoux";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(498*Math.random()+1);  // nombre aleatoire entre 1 et 498
+var i = Math.floor(501*Math.random()+1);  // nombre aleatoire entre 1 et 501
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");
