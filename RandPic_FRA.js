@@ -504,11 +504,19 @@ text[498]="Hameaux de Rabastens et leurs environs";
 text[499]="Monbrun et son environnement";
 text[500]="Route sinueuse dans les environs de Thoux";
 text[501]="Paysage entre Roquelaure-Saint-Aubin et Thoux";
+text[502]="Des vaches entre Arnaud-Guilhem et Proupiary";
+text[503]="Verdure de Proupiary avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
+text[504]="Vue sur les environs de Sepx et les Pyr&eacute;n&eacute;es";
+text[505]="Verdure de Sepx avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
+text[506]="&Eacute;glise Saint Nicolas de Lieoux et ses environs";
+text[507]="Vue sur la verdure de Lieoux";
+text[508]="Des vaches &agrave; Lieoux devant les Pyr&eacute;n&eacute;es";
+text[509]="Paysage entre Lieoux et Landorthe devant les Pyr&eacute;n&eacute;es";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(501*Math.random()+1);  // nombre aleatoire entre 1 et 501
+var i = Math.floor(509*Math.random()+1);  // nombre aleatoire entre 1 et 509
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");

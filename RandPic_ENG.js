@@ -504,11 +504,19 @@ text[498]="Hamlets of Rabastens and their surroundings";
 text[499]="Monbrun and its environment";
 text[500]="Sinuous road near Thoux";
 text[501]="Landscape between Roquelaure-Saint-Aubin and Thoux";
+text[502]="Cows between Arnaud-Guilhem and Proupiary";
+text[503]="Greenery of Proupiary with the Pyrenees in background";
+text[504]="View over Sepx's surroundings and the Pyrenees";
+text[505]="Greenery of Sepx with the Pyrenees in background";
+text[506]="Saint Nicolas church of Lieoux and its surroundings";
+text[507]="View over the greenery of Lieoux";
+text[508]="Cows in Lieoux in front of the Pyrenees";
+text[509]="Landscape between Lieoux and Landorthe in front of the Pyrenees";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(501*Math.random()+1);  // random number between 1 and 501
+var i = Math.floor(509*Math.random()+1);  // random number between 1 and 509
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");
