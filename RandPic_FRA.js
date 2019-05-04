@@ -512,11 +512,23 @@ text[506]="&Eacute;glise Saint Nicolas de Lieoux et ses environs";
 text[507]="Vue sur la verdure de Lieoux";
 text[508]="Des vaches &agrave; Lieoux devant les Pyr&eacute;n&eacute;es";
 text[509]="Paysage entre Lieoux et Landorthe devant les Pyr&eacute;n&eacute;es";
+text[510]="Vue autour de Sainte-Radegonde avec Rodez en arri&egrave;re-plan";
+text[511]="Sainte-Radegonde et son environnement";
+text[512]="En arri&egrave;re-plan : Rodez (gauche) et Sainte-Radegonde (droite)";
+text[513]="Paysage autour de Flavin vu au-dessus du hameau d'Ini&egrave;res";
+text[514]="Verdure entre Sainte-Radegonde et Pont-de-Salars";
+text[515]="Vue sur le lac de Pont-de-Salars";
+text[516]="Des vaches et la verdure autour du lac de Pont-de-Salars";
+text[517]="Vue pr&egrave;s du hameau de La Cazornhe appartenant &agrave; Le Vibal";
+text[518]="Paysage du massif des Palanges vu au-dessus du Vibal";
+text[519]="&Eacute;glise de La Loubi&egrave;re et ses environs";
+text[520]="Verdure autour de l'Aveyron vue pr&egrave;s de La Loubi&egrave;re";
+text[521]="Collines du S&eacute;gala autour du Viaur";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(509*Math.random()+1);  // nombre aleatoire entre 1 et 509
+var i = Math.floor(521*Math.random()+1);  // nombre aleatoire entre 1 et 521
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");

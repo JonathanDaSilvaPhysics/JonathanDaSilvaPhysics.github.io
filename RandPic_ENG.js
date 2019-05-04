@@ -512,11 +512,23 @@ text[506]="Saint Nicolas church of Lieoux and its surroundings";
 text[507]="View over the greenery of Lieoux";
 text[508]="Cows in Lieoux in front of the Pyrenees";
 text[509]="Landscape between Lieoux and Landorthe in front of the Pyrenees";
+text[510]="View around Sainte-Radegonde with Rodez in background";
+text[511]="Sainte-Radegonde and its environment";
+text[512]="In background : Rodez (left) and Sainte-Radegonde (right)";
+text[513]="Lanscape around Flavin seen from above the hamlet of Ini&egrave;res";
+text[514]="Greenery between Sainte-Radegonde and Pont-de-Salars";
+text[515]="View of the Lac de Pont-de-Salars";
+text[516]="Cows and greenery around the Lac de Pont-de-Salars";
+text[517]="View near the hamlet of La Cazornhe of Le Vibal";
+text[518]="Landscape of the Palanges massif seen from above Le Vibal";
+text[519]="Church of La Loubi&egrave;re and its surroundings";
+text[520]="Greenery around the Aveyron near La Loubi&egrave;re";
+text[521]="Hills of the S&eacute;gala around the Viaur";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(509*Math.random()+1);  // random number between 1 and 509
+var i = Math.floor(521*Math.random()+1);  // random number between 1 and 521
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");
