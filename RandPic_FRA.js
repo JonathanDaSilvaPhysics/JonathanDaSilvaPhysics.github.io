@@ -524,11 +524,28 @@ text[518]="Paysage du massif des Palanges vu au-dessus du Vibal";
 text[519]="&Eacute;glise de La Loubi&egrave;re et ses environs";
 text[520]="Verdure autour de l'Aveyron vue pr&egrave;s de La Loubi&egrave;re";
 text[521]="Collines du S&eacute;gala autour du Viaur";
+text[522]="Les environs de Plagne vus pr&egrave;s de Saint-Michel";
+text[523]="Vue sur Plagne et son environnement";
+text[524]="Paysage au-dessus de C&eacute;rizols avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
+text[525]="Verdure pr&egrave;s de C&eacute;rizols et les Pyr&eacute;n&eacute;es";
+text[526]="Volvestre et Pyr&eacute;n&eacute;es vues entre C&eacute;rizols et Fabas";
+text[527]="Verdure pr&egrave;s de Fabas avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
+text[528]="Verdure au-dessus de Sainte-Croix-Volvestre et les Pyr&eacute;n&eacute;es";
+text[529]="Vue sur la r&eacute;gion de Sainte-Croix-Volvestre";
+text[530]="Paysage entre Sainte-Croix-Volvestre et Lahit&egrave;re";
+text[531]="Des vaches avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
+text[532]="Des vaches dans la r&eacute;gion du Volvestre";
+text[533]="Paysage du Volvestre vu pr&egrave;s de Lahit&egrave;re";
+text[534]="Verdure du Volvestre vue entre Lahit&egrave;re et Montberaud";
+text[535]="Vue sur la verdure de la r&eacute;gion de Montberaud";
+text[536]="Une route en descente vers la vall&eacute;e du Volp pr&egrave;s de Montberaud";
+text[537]="Paysage du Volvestre vu de Saint-Christaud";
+text[538]="Cath&eacute;drale de la Nativit&eacute;-de-Marie de Rieux et ses environs";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(521*Math.random()+1);  // nombre aleatoire entre 1 et 521
+var i = Math.floor(538*Math.random()+1);  // nombre aleatoire entre 1 et 538
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");

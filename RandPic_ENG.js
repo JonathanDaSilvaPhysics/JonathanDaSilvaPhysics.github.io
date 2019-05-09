@@ -524,11 +524,28 @@ text[518]="Landscape of the Palanges massif seen from above Le Vibal";
 text[519]="Church of La Loubi&egrave;re and its surroundings";
 text[520]="Greenery around the Aveyron near La Loubi&egrave;re";
 text[521]="Hills of the S&eacute;gala around the Viaur";
+text[522]="Plagne's surroundings seen near Saint-Michel";
+text[523]="View over Plagne and its environment";
+text[524]="Landscape above C&eacute;rizols with the Pyrenees in background";
+text[525]="Greenery near C&eacute;rizols and the Pyrenees";
+text[526]="Volvestre and Pyrenees seen between C&eacute;rizols and Fabas";
+text[527]="Greenery near Fabas with the Pyrenees in background";
+text[528]="Greenery above Sainte-Croix-Volvestre and the Pyrenees";
+text[529]="View over Sainte-Croix-Volvestre's area";
+text[530]="Landscape between Sainte-Croix-Volvestre and Lahit&egrave;re";
+text[531]="Cows with the Pyrenees in background";
+text[532]="Cows in the Volvestre";
+text[533]="Landscape of the Volvestre seen near Lahit&egrave;re";
+text[534]="Greenery of the Volvestre seen between Lahit&egrave;re and Montberaud";
+text[535]="View over the greenery of Montberaud's area";
+text[536]="A downhill road to the Volp valley near Montberaud";
+text[537]="Landscape of the Volvestre seen from Saint-Christaud";
+text[538]="Rieux Cathedral and its surroundings";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(521*Math.random()+1);  // random number between 1 and 521
+var i = Math.floor(538*Math.random()+1);  // random number between 1 and 538
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");
