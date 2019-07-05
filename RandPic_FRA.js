@@ -541,11 +541,42 @@ text[535]="Vue sur la verdure de la r&eacute;gion de Montberaud";
 text[536]="Une route en descente vers la vall&eacute;e du Volp pr&egrave;s de Montberaud";
 text[537]="Paysage du Volvestre vu de Saint-Christaud";
 text[538]="Cath&eacute;drale de la Nativit&eacute;-de-Marie de Rieux et ses environs";
+text[539]="Paysage de la Vath Surgu&egrave;ra pr&egrave;s d'Omex";
+text[540]="Massif du Pibeste-Aoulhet vu pr&egrave;s d'Omex";
+text[541]="Gave de Pau et sommets du Lavedan vus pr&egrave;s de Bo&ocirc;-Silhen";
+text[542]="Vaches et verdure de la r&eacute;gion d'Ouzous dans le Lavedan";
+text[543]="Vue sur l'Arrib&egrave;ra de Sent Savin &agrave; partir d'Ouzous";
+text[544]="R&eacute;gion d'Argel&egrave;s-Gazost et sommets du Lavedan vus d'Ouzous";
+text[545]="Davant-Aiga et Arrib&egrave;ra de Sent Savin vues d'Ouzous";
+text[546]="Vall&eacute;es et sommets du Lavedan vus &agrave; partir d'Ouzous";
+text[547]="Ouzous et sa verdure pr&egrave;s du massif du Pibeste-Aoulhet";
+text[548]="L'Estrem de Sala entre Salles et S&egrave;re-en-Lavedan";
+text[549]="S&egrave;re-en-Lavedan et son environnement";
+text[550]="R&eacute;gion d'Ouzous vue entre S&egrave;re-en-Lavedan et Gez";
+text[551]="Vue en direction du pic de P&eacute;gu&egrave;re &agrave; partir de Beaucens";
+text[552]="Saint-Savin et Arcizans-Avant vus pr&egrave;s de Pr&eacute;chac";
+text[553]="Massif du Pibeste-Aoulhet et Agos-Vidalos vus de Lalannette";
+text[554]="De gauche &agrave; droite : Gabizos, Soum de la P&egrave;ne et Pibeste-Aoulhet";
+text[555]="Vue sur le Val d'Azun &agrave; partir de la chapelle Sainte-Marie de Lurp";
+text[556]="Paysage de l'Estrem de Sala vu de Saint-Pastous";
+text[557]="Vier-Bordes et ses environs";
+text[558]="Argel&egrave;s-Gazost et les reliefs environnant vus de Vier-Bordes";
+text[559]="Pic de Viscos et son environnement vu du hameau de Bordes";
+text[560]="Massif du Gabizos et r&eacute;gion d'Argel&egrave;s-Gazost vus de Vier-Bordes";
+text[561]="Pavillon d'Ad&eacute;la&iuml;de du prieur&eacute; de Burlats devant l'Agout";
+text[562]="&Eacute;glise Saint Fran&ccedil;ois d'Assise de Roquecourbe et l'Agout";
+text[563]="Champs et verdure pr&egrave;s de Saint-Jean-de-Vals";
+text[564]="R&eacute;gion de Saint-Germier vue sur la route menant &agrave; Laboulb&egrave;ne";
+text[565]="Paysage autour de la route menant &agrave; Lahas";
+text[566]="Coteaux de la Gimone vus pr&egrave;s de Lahas";
+text[567]="Champs et verdure dans le sud de Gimont";
+text[568]="Vue autour de Lahas &agrave; partir de la route menant &agrave; B&eacute;z&eacute;ril";
+text[569]="Des champs dans les environs de Montiron";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(538*Math.random()+1);  // nombre aleatoire entre 1 et 538
+var i = Math.floor(569*Math.random()+1);  // nombre aleatoire entre 1 et 569
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");

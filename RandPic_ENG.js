@@ -541,11 +541,42 @@ text[535]="View over the greenery of Montberaud's area";
 text[536]="A downhill road to the Volp valley near Montberaud";
 text[537]="Landscape of the Volvestre seen from Saint-Christaud";
 text[538]="Rieux Cathedral and its surroundings";
+text[539]="Landscape of the Vath Surgu&egrave;ra near Omex";
+text[540]="Pibeste-Aoulhet massif seen near Omex";
+text[541]="Gave de Pau and Lavedan summits seen near Bo&ocirc;-Silhen";
+text[542]="Cows and greenery of the area of Ouzous in the Lavedan";
+text[543]="View over the Arrib&egrave;ra de Sent Savin from Ouzous";
+text[544]="Argel&egrave;s-Gazost's area and Lavedan summits from Ouzous";
+text[545]="Davant-Aiga and Arrib&egrave;ra de Sent Savin seen from Ouzous";
+text[546]="Valleys and summits of the Lavedan seen from Ouzous";
+text[547]="Ouzous and its greenery near the Pibeste-Aoulhet massif";
+text[548]="The Estrem de Sala between Salles and S&egrave;re-en-Lavedan";
+text[549]="S&egrave;re-en-Lavedan and its surroundings";
+text[550]="Ouzous' area seen between S&egrave;re-en-Lavedan and Gez";
+text[551]="View towards the Pic de P&eacute;gu&egrave;re from Beaucens";
+text[552]="Saint-Savin and Arcizans-Avant seen from next to Pr&eacute;chac";
+text[553]="Pibeste-Aoulhet massif and Agos-Vidalos seen from Lalannette";
+text[554]="From left to right : Gabizos, Soum de la P&egrave;ne and Pibeste-Aoulhet";
+text[555]="View over the Val d'Azun from Sainte-Marie de Lurp chapel";
+text[556]="Landscape of the Estrem de Sala seen from Saint-Pastous";
+text[557]="Vier-Bordes and its surroundings";
+text[558]="Argel&egrave;s-Gazost and surrounding reliefs seen from Vier-Bordes";
+text[559]="Pic de Viscos and its environment seen from the hamlet of Bordes";
+text[560]="Gabizos massif and Argel&egrave;s-Gazost's area seen from Vier-Bordes";
+text[561]="The Adelaide Pavilion and the Agout in Burlats";
+text[562]="Saint Fran&ccedil;ois d'Assise church of Roquecourbe and the Agout";
+text[563]="Fields and greenery near Saint-Jean-de-Vals";
+text[564]="Saint-Germier's area seen from the road to Laboulb&egrave;ne";
+text[565]="Landscape around the road to Lahas";
+text[566]="Hills of the Gimone seen near Lahas";
+text[567]="Fields and greenery in the south of Gimont";
+text[568]="View around Lahas from the road to B&eacute;z&eacute;ril";
+text[569]="Fields in Montiron's surroundings";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(538*Math.random()+1);  // random number between 1 and 538
+var i = Math.floor(569*Math.random()+1);  // random number between 1 and 569
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");
