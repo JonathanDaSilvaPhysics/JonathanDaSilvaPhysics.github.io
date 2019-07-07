@@ -572,11 +572,13 @@ text[566]="Coteaux de la Gimone vus pr&egrave;s de Lahas";
 text[567]="Champs et verdure dans le sud de Gimont";
 text[568]="Vue autour de Lahas &agrave; partir de la route menant &agrave; B&eacute;z&eacute;ril";
 text[569]="Des champs dans les environs de Montiron";
+text[570]="Vue pr&egrave;s de Bachas avec Montoulieu-Saint-Bernard en arri&egrave;re-plan";
+text[571]="Montoulieu-Saint-Bernard et ses environs";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(569*Math.random()+1);  // nombre aleatoire entre 1 et 569
+var i = Math.floor(571*Math.random()+1);  // nombre aleatoire entre 1 et 571
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");
