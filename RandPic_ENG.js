@@ -584,7 +584,7 @@ text[577]="Landscape near Francon";
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(576*Math.random()+1);  // random number between 1 and 576
+var i = Math.floor(577*Math.random()+1);  // random number between 1 and 577
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");

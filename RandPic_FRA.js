@@ -584,7 +584,7 @@ text[577]="Paysage pr&egrave;s de Francon";
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(576*Math.random()+1);  // nombre aleatoire entre 1 et 576
+var i = Math.floor(577*Math.random()+1);  // nombre aleatoire entre 1 et 577
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");
