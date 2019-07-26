@@ -574,11 +574,17 @@ text[568]="View around Lahas from the road to B&eacute;z&eacute;ril";
 text[569]="Fields in Montiron's surroundings";
 text[570]="View near Bachas with Montoulieu-Saint-Bernard in background";
 text[571]="Montoulieu-Saint-Bernard and its surroundings";
+text[572]="Soudour massif and the Ari&egrave;ge seen from Tarascon-sur-Ari&egrave;ge";
+text[573]="View over Rabat-les-Trois-Seigneurs and its environment";
+text[574]="Soudour massif's surroundings seen near Rabat-les-Trois-Seigneurs";
+text[575]="Rabat-les-Trois-Seigneurs and Soudour massif seen near Gourbit";
+text[576]="Tour du Castella and the Ari&egrave;ge in Tarascon-sur-Ari&egrave;ge";
+text[577]="Landscape near Francon";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(571*Math.random()+1);  // random number between 1 and 571
+var i = Math.floor(576*Math.random()+1);  // random number between 1 and 576
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");

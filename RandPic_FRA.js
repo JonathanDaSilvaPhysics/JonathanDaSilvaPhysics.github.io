@@ -574,11 +574,17 @@ text[568]="Vue autour de Lahas &agrave; partir de la route menant &agrave; B&eac
 text[569]="Des champs dans les environs de Montiron";
 text[570]="Vue pr&egrave;s de Bachas avec Montoulieu-Saint-Bernard en arri&egrave;re-plan";
 text[571]="Montoulieu-Saint-Bernard et ses environs";
+text[572]="Massif du Soudour et l'Ari&egrave;ge vu de Tarascon-sur-Ari&egrave;ge";
+text[573]="Vue sur Rabat-les-Trois-Seigneurs et son environnement";
+text[574]="Environs du massif du Soudour pr&egrave;s de Rabat-les-Trois-Seigneurs";
+text[575]="Rabat-les-Trois-Seigneurs et massif du Soudour vus pr&egrave;s de Gourbit";
+text[576]="Tour du Castella et l'Ari&egrave;ge &agrave; Tarascon-sur-Ari&egrave;ge";
+text[577]="Paysage pr&egrave;s de Francon";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(571*Math.random()+1);  // nombre aleatoire entre 1 et 571
+var i = Math.floor(576*Math.random()+1);  // nombre aleatoire entre 1 et 576
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");
