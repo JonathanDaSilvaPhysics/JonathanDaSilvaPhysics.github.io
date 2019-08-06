@@ -580,11 +580,14 @@ text[574]="Environs du massif du Soudour pr&egrave;s de Rabat-les-Trois-Seigneur
 text[575]="Rabat-les-Trois-Seigneurs et massif du Soudour vus pr&egrave;s de Gourbit";
 text[576]="Tour du Castella et l'Ari&egrave;ge &agrave; Tarascon-sur-Ari&egrave;ge";
 text[577]="Paysage pr&egrave;s de Francon";
+text[578]="Environs de Sal&eacute;chan vus de Lourde";
+text[579]="Vue sur Lourde et les reliefs environnant";
+text[580]="Mont-de-Gali&eacute; et sa verdure";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(577*Math.random()+1);  // nombre aleatoire entre 1 et 577
+var i = Math.floor(580*Math.random()+1);  // nombre aleatoire entre 1 et 580
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");
