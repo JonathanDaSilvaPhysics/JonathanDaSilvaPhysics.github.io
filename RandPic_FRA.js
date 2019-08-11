@@ -583,11 +583,22 @@ text[577]="Paysage pr&egrave;s de Francon";
 text[578]="Environs de Sal&eacute;chan vus de Lourde";
 text[579]="Vue sur Lourde et les reliefs environnant";
 text[580]="Mont-de-Gali&eacute; et sa verdure";
+text[581]="Vignobles et les Corbi&egrave;res vus pr&egrave;s de Saint-Paul-de-Fenouillet";
+text[582]="La Clue de la Fou pr&egrave;s de Saint-Paul-de-Fenouillet";
+text[583]="Paysage autour de l'ermitage Saint-Antoine de Galamus";
+text[584]="La route &agrave; travers les gorges de Galamus";
+text[585]="Vue des gorges de Galamus &agrave; partir de la route les traversant";
+text[586]="L'Agly au fond des gorges de Galamus";
+text[587]="Route vers Camps-sur-l'Agly avec Pech de Bugarach en arri&egrave;re-plan";
+text[588]="Vue sur Saint-Paul-de-Fenouillet et la Clue de la Fou";
+text[589]="Montagnes des Fenouill&egrave;des de Maury &agrave; Saint-Paul-de-Fenouillet";
+text[590]="La route menant aux gorges de Galamus";
+text[591]="Les Corbi&egrave;res et le ch&acirc;teau de Qu&eacute;ribus vus pr&egrave;s de Maury";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(580*Math.random()+1);  // nombre aleatoire entre 1 et 580
+var i = Math.floor(591*Math.random()+1);  // nombre aleatoire entre 1 et 591
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");

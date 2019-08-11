@@ -583,11 +583,22 @@ text[577]="Landscape near Francon";
 text[578]="Sal&eacute;chan's surroundings seen from Lourde";
 text[579]="View over Lourde and surrounding reliefs";
 text[580]="Mont-de-Gali&eacute; and its greenery";
+text[581]="Vineyards and Corbi&egrave;res seen near Saint-Paul-de-Fenouillet";
+text[582]="The Clue de la Fou near Saint-Paul-de-Fenouillet";
+text[583]="Landscape around the hermitage Saint-Antoine de Galamus";
+text[584]="The road across the Gorges de Galamus";
+text[585]="View of the Gorges de Galamus from the road across them";
+text[586]="The Agly flowing at the bottom of the Gorges de Galamus";
+text[587]="Road to Camps-sur-l'Agly with Pech de Bugarach in background";
+text[588]="View over Saint-Paul-de-Fenouillet and the Clue de la Fou";
+text[589]="Fenouill&egrave;des' mountains from Maury to Saint-Paul-de-Fenouillet";
+text[590]="The road to the Gorges de Galamus";
+text[591]="Corbi&egrave;res and Qu&eacute;ribus castle seen near Maury";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(580*Math.random()+1);  // random number between 1 and 580
+var i = Math.floor(591*Math.random()+1);  // random number between 1 and 591
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");
