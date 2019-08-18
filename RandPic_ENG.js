@@ -594,11 +594,14 @@ text[588]="View over Saint-Paul-de-Fenouillet and the Clue de la Fou";
 text[589]="Fenouill&egrave;des' mountains from Maury to Saint-Paul-de-Fenouillet";
 text[590]="The road to the Gorges de Galamus";
 text[591]="Corbi&egrave;res and Qu&eacute;ribus castle seen near Maury";
+text[592]="Greenery of the Sabarth&egrave;s seen near the hamlet of Jarnat";
+text[593]="View over the Sabarth&egrave;s from the hamlet of Allens";
+text[594]="Landscape from the road to the hamlet of Serres";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(591*Math.random()+1);  // random number between 1 and 591
+var i = Math.floor(594*Math.random()+1);  // random number between 1 and 594
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");

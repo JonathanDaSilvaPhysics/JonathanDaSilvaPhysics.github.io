@@ -594,11 +594,14 @@ text[588]="Vue sur Saint-Paul-de-Fenouillet et la Clue de la Fou";
 text[589]="Montagnes des Fenouill&egrave;des de Maury &agrave; Saint-Paul-de-Fenouillet";
 text[590]="La route menant aux gorges de Galamus";
 text[591]="Les Corbi&egrave;res et le ch&acirc;teau de Qu&eacute;ribus vus pr&egrave;s de Maury";
+text[592]="Verdure du Sabarth&egrave;s vu pr&egrave;s du hameau de Jarnat";
+text[593]="Vue sur le Sabarth&egrave;s &agrave; partir du hameau de Allens";
+text[594]="Paysage depuis la route menant au hameau de Serres";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(591*Math.random()+1);  // nombre aleatoire entre 1 et 591
+var i = Math.floor(594*Math.random()+1);  // nombre aleatoire entre 1 et 594
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");
