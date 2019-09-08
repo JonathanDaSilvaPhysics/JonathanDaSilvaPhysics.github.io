@@ -597,11 +597,31 @@ text[591]="Les Corbi&egrave;res et le ch&acirc;teau de Qu&eacute;ribus vus pr&eg
 text[592]="Verdure du Sabarth&egrave;s vu pr&egrave;s du hameau de Jarnat";
 text[593]="Vue sur le Sabarth&egrave;s &agrave; partir du hameau de Allens";
 text[594]="Paysage depuis la route menant au hameau de Serres";
+text[595]="Amplaing vu depuis la route menant &agrave; Croqui&eacute;";
+text[596]="Paysage autour de la route menant &agrave; Croqui&eacute;";
+text[597]="Montagnes ari&eacute;geoises vues au-dessus de Croqui&eacute;";
+text[598]="Environs du massif du Soudour vus au-dessus de Croqui&eacute;";
+text[599]="De gauche &agrave; droite : Amplaing, Seignaux et Montoulieu";
+text[600]="De gauche &agrave; droite : Seignaux, Montoulieu et Foix";
+text[601]="Montagnes ari&eacute;geoises vues du col du Traucadou";
+text[602]="Vue sur le pic des Trois-Seigneurs et son environnement";
+text[603]="Verdure autour des Brougues et sommets de l'Ari&egrave;ge";
+text[604]="Paysage autour de la route menant au col du Traucadou";
+text[605]="Verdure et montagnes autour de la route vers le col du Traucadou";
+text[606]="Montgailhard et le massif du Plantaurel vus depuis Montoulieu";
+text[607]="Vue de Ginabat &agrave; la vall&eacute;e de Lesponne depuis Montoulieu";
+text[608]="Verdure autour de la tour de Montoulieu et Seignaux sur la droite";
+text[609]="Vall&eacute;e de l'Ari&egrave;ge et Montoulieu depuis sa tour";
+text[610]="Verdure autour de Mercus-Garrabet vue de Montoulieu";
+text[611]="Montoulieu et sa tour avec le massif du Plantaurel en arri&egrave;re-plan";
+text[612]="Garrabet et Mont Fourcat vus depuis Seignaux";
+text[613]="Mercus et montagnes ari&eacute;geoises vus depuis Seignaux";
+text[614]="Massif du Plantaurel vu pr&egrave;s de Prayols";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(594*Math.random()+1);  // nombre aleatoire entre 1 et 594
+var i = Math.floor(614*Math.random()+1);  // nombre aleatoire entre 1 et 614
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");

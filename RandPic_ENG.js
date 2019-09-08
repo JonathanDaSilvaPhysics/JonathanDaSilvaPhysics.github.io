@@ -597,11 +597,31 @@ text[591]="Corbi&egrave;res and Qu&eacute;ribus castle seen near Maury";
 text[592]="Greenery of the Sabarth&egrave;s seen near the hamlet of Jarnat";
 text[593]="View over the Sabarth&egrave;s from the hamlet of Allens";
 text[594]="Landscape from the road to the hamlet of Serres";
+text[595]="Amplaing seen from the road to Croqui&eacute;";
+text[596]="Landscape around the road to Croqui&eacute;";
+text[597]="Mountains of the Ari&egrave;ge seen above Croqui&eacute;";
+text[598]="Soudour massif's surroundings seen above Croqui&eacute;";
+text[599]="From left to right : Amplaing, Seignaux and Montoulieu";
+text[600]="From left to right : Seignaux, Montoulieu and Foix";
+text[601]="Mountains of the Ari&egrave;ge seen from the Col du Traucadou";
+text[602]="View over the Pic des Trois-Seigneurs and its environment";
+text[603]="Greenery around Les Brougues and summits of the Ari&egrave;ge";
+text[604]="Landscape around the road to the Col du Traucadou";
+text[605]="Greenery and mountains around the road to the Col du Traucadou";
+text[606]="Montgailhard and Plantaurel massif seen from Montoulieu";
+text[607]="View from Ginabat to the Lesponne valley from Montoulieu";
+text[608]="Greenery around Montoulieu's tower and Seignaux on the right";
+text[609]="Ari&egrave;ge valley and Montoulieu from its tower";
+text[610]="Greenery around Mercus-Garrabet seen from Montoulieu";
+text[611]="Montoulieu and its tower with Plantaurel massif in background";
+text[612]="Garrabet and Mont Fourcat seen from Seignaux";
+text[613]="Mercus and mountains of the Ari&egrave;ge seen from Seignaux";
+text[614]="Plantaurel massif seen near Prayols";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(594*Math.random()+1);  // random number between 1 and 594
+var i = Math.floor(614*Math.random()+1);  // random number between 1 and 614
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");
