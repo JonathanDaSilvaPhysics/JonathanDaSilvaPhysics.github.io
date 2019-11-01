@@ -617,11 +617,20 @@ text[611]="Montoulieu and its tower with Plantaurel massif in background";
 text[612]="Garrabet and Mont Fourcat seen from Seignaux";
 text[613]="Mercus and mountains of the Ari&egrave;ge seen from Seignaux";
 text[614]="Plantaurel massif seen near Prayols";
+text[615]="Landscape near Montgailhard with Montoulieu in background";
+text[616]="View from Lesponne valley to high mountains of the Pyrenees";
+text[617]="Pyrenees' mountains seen between Montgailhard and Soula";
+text[618]="Caraybat's surroundings on the road to Soula";
+text[619]="Pic de l'Aspre in the Plantaurel massif near Soula";
+text[620]="Greenery around the hamlet of Caraybat and Pyrenees' mountains";
+text[621]="Soula, Pic de l'Aspre and Leychert seen from Roquefixade";
+text[622]="View of Lesponne valley from Roquefixade";
+text[623]="Ch&acirc;teau de Roquefixade and its surroundings";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "LatLong" defined in RandPic_coordinates.js
 
-var i = Math.floor(614*Math.random()+1);  // random number between 1 and 614
+var i = Math.floor(623*Math.random()+1);  // random number between 1 and 623
 
 // now display the picture + the text + the google maps link in a banner :
 document.write("<div id='banniere_image' style='background:url(");

@@ -617,11 +617,20 @@ text[611]="Montoulieu et sa tour avec le massif du Plantaurel en arri&egrave;re-
 text[612]="Garrabet et Mont Fourcat vus depuis Seignaux";
 text[613]="Mercus et montagnes ari&eacute;geoises vus depuis Seignaux";
 text[614]="Massif du Plantaurel vu pr&egrave;s de Prayols";
+text[615]="Paysage pr&egrave;s de Montgailhard avec Montoulieu en arri&egrave;re-plan";
+text[616]="Vue de la vall&eacute;e de Lesponne jusqu'&agrave; la haute cha&icirc;ne pyr&eacute;n&eacute;enne";
+text[617]="Montagnes des Pyr&eacute;n&eacute;es vues entre Montgailhard et Soula";
+text[618]="Les environs de Caraybat sur la route menant &agrave; Soula";
+text[619]="Pic de l'Aspre dans le massif du Plantaurel pr&egrave;s de Soula";
+text[620]="Verdure autour du hameau de Caraybat et montagnes des Pyr&eacute;n&eacute;es";
+text[621]="Soula, pic de l'Aspre et Leychert vus de Roquefixade";
+text[622]="Vue de la vall&eacute;e de Lesponne &agrave; partir de Roquefixade";
+text[623]="Le ch&acirc;teau de Roquefixade et ses environs";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "LatLong" definie dans RandPic_coordinates.js
 
-var i = Math.floor(614*Math.random()+1);  // nombre aleatoire entre 1 et 614
+var i = Math.floor(623*Math.random()+1);  // nombre aleatoire entre 1 et 623
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 document.write("<div id='banniere_image' style='background:url(");
