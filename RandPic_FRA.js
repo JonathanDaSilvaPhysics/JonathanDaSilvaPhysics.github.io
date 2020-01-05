@@ -626,15 +626,27 @@ text[620]="Verdure autour du hameau de Caraybat et montagnes des Pyr&eacute;n&ea
 text[621]="Soula, pic de l'Aspre et Leychert vus de Roquefixade";
 text[622]="Vue de la vall&eacute;e de Lesponne &agrave; partir de Roquefixade";
 text[623]="Le ch&acirc;teau de Roquefixade et ses environs";
+text[624]="R&eacute;gion de Thuir avec le Canigou en arri&egrave;re-plan";
+text[625]="Castelnou, sa tour et le massif du Canigou";
+text[626]="De gauche &agrave; droite : Castelnou, le Canigou, la Tour de Castelnou et la chapelle Sant Mart&iacute; de la Roca";
+text[627]="Vue sur la plaine du Roussillon depuis les environs de Castelnou";
+text[628]="Route menant &agrave; Caixas avec la chapelle Sant Mart&iacute; de la Roca de Cam&eacute;las &agrave; droite";
+text[629]="Paysage des Aspres autour de la route menant &agrave; Caixas avec le massif des Alb&egrave;res en arri&egrave;re-plan";
+text[630]="Vue sur les Aspres et le massif des Alb&egrave;res &agrave; partir des environs de Caixas";
+text[631]="&Eacute;glise Sainte-Marie de Fontcouverte et son environnement avec le massif des Alb&egrave;res en arri&egrave;re-plan";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
-// tableau "LatLong" definie dans RandPic_coordinates.js
+// tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(623*Math.random()+1);  // nombre aleatoire entre 1 et 623
+var i = Math.floor(631*Math.random()+1);  // nombre aleatoire entre 1 et 631
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
-document.write("<div id='banniere_image' style='background:url(");
+if (isLarge[i]) document.write("<div id='pictures'>");
+else document.write("<div id='pictures_small'>");
+document.write("<h1>Quelques photos en passant</h1>");
+if (isLarge[i]) document.write("<div id='banniere_image_large' style='background:url(");
+else document.write("<div id='banniere_image' style='background:url(");
 document.write("images/RandPic/picture_" + i + ".jpg");
 document.write(") no-repeat center;'>");
-document.write("<div id='banniere_description'><a href='http://maps.google.fr/maps?f=q&amp;hl=fr&amp;q="+LatLong[i]+"'target='_blank'>"+text[i]+"</a></div></div>");
+document.write("<div id='banniere_description'><a href='http://maps.google.fr/maps?f=q&amp;hl=fr&amp;q="+latitudeLongitude[i]+"'target='_blank'>"+text[i]+"</a></div></div>");
 //-->

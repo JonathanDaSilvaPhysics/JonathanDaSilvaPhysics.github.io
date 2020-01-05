@@ -218,18 +218,29 @@ aside
 /* Bannière */
 
 /* Préalablement : convert picture_i.jpg -resize 400x400 picture_i.jpg*/
+/* for large : convert picture_i.jpg -resize 650x650 picture_i.jpg*/
 
-#banniere_image
+
+#banniere_image, #banniere_image_large
 {
     margin-top: 10px;
     height: 300px;
-    width: 400px;
     border-radius: 5px;
     position: relative;
     box-shadow: 0px 4px 4px rgb(133,109,77);
     margin-bottom: 1px;
     margin-left: 1px;
     margin-right: 1px;
+}
+
+#banniere_image
+{
+    width: 400px;
+}
+
+#banniere_image_large
+{
+    width: 650px;
 }
 
 #banniere_description
@@ -288,7 +299,7 @@ footer a:hover
     border-bottom: 2px dotted rgb(179,103,0);
 }
 
-#contact, #pictures
+#contact, #pictures_small, #pictures
 {
     display: inline-block;
     vertical-align: top;
@@ -296,13 +307,18 @@ footer a:hover
 
 #contact
 {
-    width: 56%;
+    width: 29%;
 }
 
-#pictures
+#pictures_small, #pictures
 {
-    width: 43%;
+    width: 70%;
     position:relative;
+}
+
+#pictures_small
+{
+    left: 250px;
 }
 
 .end
@@ -316,7 +332,7 @@ footer a:hover
 
 /* Pour activer un positionnement type inline-block sur les vieilles versions d'IE */
 
-.old_ie #name, .old_ie #logo, .old_ie header h1, .old_ie nav, .old_ie nav li, .old_ie article,  .old_ie aside, .old_ie #contact, .old_ie #pictures
+.old_ie #name, .old_ie #logo, .old_ie header h1, .old_ie nav, .old_ie nav li, .old_ie article,  .old_ie aside, .old_ie #contact, .old_ie #pictures_small, .old_ie #pictures
 {
     display: inline;
 }

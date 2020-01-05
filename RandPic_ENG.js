@@ -626,15 +626,28 @@ text[620]="Greenery around the hamlet of Caraybat and Pyrenees' mountains";
 text[621]="Soula, Pic de l'Aspre and Leychert seen from Roquefixade";
 text[622]="View of Lesponne valley from Roquefixade";
 text[623]="Ch&acirc;teau de Roquefixade and its surroundings";
+text[624]="Thuir's area with the Canigou in background";
+text[625]="Castelnou, its tower and the Canigou massif";
+text[626]="From left to right : Castelnou, the Canigou, Castelnou's tower and Sant Mart&iacute; de la Roca chapel of Cam&eacute;las";
+text[627]="View over the Roussillon plain from near Castelnou";
+text[628]="Road to Caixas with Sant Mart&iacute; de la Roca chapel of Cam&eacute;las on the right";
+text[629]="Landscape the Aspres around the road to Caixas with the Albera massif in background";
+text[630]="View of the Aspres and the Albera massif from near Caixas";
+text[631]="Sainte-Marie de Fontcouverte church and its surroundings with the Albera massif in background";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
-// array "LatLong" defined in RandPic_coordinates.js
+// array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(623*Math.random()+1);  // random number between 1 and 623
+var i = Math.floor(631*Math.random()+1);  // random number between 1 and 631
 
 // now display the picture + the text + the google maps link in a banner :
-document.write("<div id='banniere_image' style='background:url(");
+if (isLarge[i]) document.write("<div id='pictures'>");
+else document.write("<div id='pictures_small'>");
+document.write("<h1>Pictures, just for fun</h1>");
+if (isLarge[i]) document.write("<div id='banniere_image_large' style='background:url(");
+else document.write("<div id='banniere_image' style='background:url(");
 document.write("images/RandPic/picture_" + i + ".jpg");
 document.write(") no-repeat center;'>");
-document.write("<div id='banniere_description'><a href='http://maps.google.com/maps?f=q&amp;hl=en&amp;q="+LatLong[i]+"'target='_blank'>"+text[i]+"</a></div></div>");
+document.write("<div id='banniere_description'><a href='http://maps.google.com/maps?f=q&amp;hl=en&amp;q="+latitudeLongitude[i]+"'target='_blank'>"+text[i]+"</a></div></div>");
+document.write("</div>");
 //-->
