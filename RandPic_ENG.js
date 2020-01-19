@@ -634,11 +634,14 @@ text[628]="Road to Caixas with Sant Mart&iacute; de la Roca chapel of Cam&eacute
 text[629]="Landscape the Aspres around the road to Caixas with the Albera massif in background";
 text[630]="View of the Aspres and the Albera massif from near Caixas";
 text[631]="Sainte-Marie de Fontcouverte church and its surroundings with the Albera massif in background";
+text[632]="Miremont and its surroundings";
+text[633]="Greenery seen from the road between Auribail and Lagr&acirc;ce-Dieu with the Pyrenees in background";
+text[634]="Landscape of the area of Caujac";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(631*Math.random()+1);  // random number between 1 and 631
+var i = Math.floor(634*Math.random()+1);  // random number between 1 and 634
 
 // now display the picture + the text + the google maps link in a banner :
 if (isLarge[i]) document.write("<div id='pictures'>");

@@ -634,11 +634,14 @@ text[628]="Route menant &agrave; Caixas avec la chapelle Sant Mart&iacute; de la
 text[629]="Paysage des Aspres autour de la route menant &agrave; Caixas avec le massif des Alb&egrave;res en arri&egrave;re-plan";
 text[630]="Vue sur les Aspres et le massif des Alb&egrave;res &agrave; partir des environs de Caixas";
 text[631]="&Eacute;glise Sainte-Marie de Fontcouverte et son environnement avec le massif des Alb&egrave;res en arri&egrave;re-plan";
+text[632]="Miremont et ses environs";
+text[633]="Verdure vue depuis la route entre Auribail et Lagr&acirc;ce-Dieu avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
+text[634]="Paysage de la r&eacute;gion de Caujac";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(631*Math.random()+1);  // nombre aleatoire entre 1 et 631
+var i = Math.floor(634*Math.random()+1);  // nombre aleatoire entre 1 et 634
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");

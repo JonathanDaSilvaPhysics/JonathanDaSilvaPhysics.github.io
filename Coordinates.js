@@ -632,5 +632,8 @@ latitudeLongitude[628]="42.617912,2.689462";
 latitudeLongitude[629]="42.604693,2.665523";
 latitudeLongitude[630]="42.601959,2.657796";
 latitudeLongitude[631]="42.603612,2.653929";
+latitudeLongitude[632]="43.365337,1.428795";
+latitudeLongitude[633]="43.332865,1.376689";
+latitudeLongitude[634]="43.300499,1.464396";
 
 //-->
