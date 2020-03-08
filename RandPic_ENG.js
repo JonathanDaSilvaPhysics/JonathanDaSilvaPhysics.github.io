@@ -637,11 +637,21 @@ text[631]="Sainte-Marie de Fontcouverte church and its surroundings with the Alb
 text[632]="Miremont and its surroundings";
 text[633]="Greenery seen from the road between Auribail and Lagr&acirc;ce-Dieu with the Pyrenees in background";
 text[634]="Landscape of the area of Caujac";
+text[635]="Freychenet and its environment";
+text[636]="The hamlet of Gabachou in Lesponne valley";
+text[637]="Plantaurel massif and Lesponne valley seen from above the hamlet of Gabachou";
+text[638]="View over Gabachou and Lesponne valley with Roquefixade and its castle in background";
+text[639]="Landscape on the road of the Col de la Lauze with the Mont Fourcat (left)";
+text[640]="Landscape near Montferrier with the Castle of Montsegur in background";
+text[641]="Albi's downtown with the Old Bridge abve the Tarn";
+text[642]="View over Albi around the Tarn from its downtown (left) to the Madeleine church (right)";
+text[643]="Carlus and its greenery";
+text[644]="Fields in Poulan-Pouzols with Carlus in background";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(634*Math.random()+1);  // random number between 1 and 634
+var i = Math.floor(644*Math.random()+1);  // random number between 1 and 644
 
 // now display the picture + the text + the google maps link in a banner :
 if (isLarge[i]) document.write("<div id='pictures'>");
