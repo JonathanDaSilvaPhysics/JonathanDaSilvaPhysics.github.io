@@ -644,14 +644,17 @@ text[638]="Vue sur Gabachou et la vall&eacute;e de Lesponne avec Roquefixade et 
 text[639]="Paysage sur la route du col de la Lauze avec le Mont Fourcat (gauche)";
 text[640]="Paysage pr&egrave;s de Montferrier avec le ch&acirc;teau de Monts&eacute;gur en arri&egrave;re-plan";
 text[641]="Centre-ville d'Albi avec le pont Vieux au-dessus du Tarn";
-text[642]="Vue sur Albi autour du Tarn, de son centre-ville (gauche) &agrave; &eacute;glise de la Madeleine (droite)";
+text[642]="Vue sur Albi autour du Tarn, de son centre-ville (gauche) &agrave; l'&eacute;glise de la Madeleine (droite)";
 text[643]="Carlus et sa verdure";
 text[644]="Des champs &agrave; Poulan-Pouzols avec Carlus en arri&egrave;re-plan";
+text[645]="Verdure de la r&eacute;gion d'Escorneb&oelig;uf avec Sainte-Marie en arri&egrave;re-plan";
+text[646]="Paysage en direction de Saint-Germier vu sur la route entre Touget et Sirac";
+text[647]="Environnement autour d'une petite route menant &agrave; Saint-Orens";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(644*Math.random()+1);  // nombre aleatoire entre 1 et 644
+var i = Math.floor(647*Math.random()+1);  // nombre aleatoire entre 1 et 647
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");

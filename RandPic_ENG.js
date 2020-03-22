@@ -647,11 +647,14 @@ text[641]="Albi's downtown with the Old Bridge abve the Tarn";
 text[642]="View over Albi around the Tarn from its downtown (left) to the Madeleine church (right)";
 text[643]="Carlus and its greenery";
 text[644]="Fields in Poulan-Pouzols with Carlus in background";
+text[645]="Greenery of Escorneb&oelig;uf's area with Sainte-Marie in background";
+text[646]="Landscape towards Saint-Germier seen on the road from Touget to Sirac";
+text[647]="Environment around a small road to Saint-Orens";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(644*Math.random()+1);  // random number between 1 and 644
+var i = Math.floor(647*Math.random()+1);  // random number between 1 and 647
 
 // now display the picture + the text + the google maps link in a banner :
 if (isLarge[i]) document.write("<div id='pictures'>");
