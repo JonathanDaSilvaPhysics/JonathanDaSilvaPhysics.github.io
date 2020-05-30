@@ -650,11 +650,12 @@ text[644]="Des champs &agrave; Poulan-Pouzols avec Carlus en arri&egrave;re-plan
 text[645]="Verdure de la r&eacute;gion d'Escorneb&oelig;uf avec Sainte-Marie en arri&egrave;re-plan";
 text[646]="Paysage en direction de Saint-Germier vu sur la route entre Touget et Sirac";
 text[647]="Environnement autour d'une petite route menant &agrave; Saint-Orens";
+text[648]="Vue en direction de Corronsac &agrave; partir de Rebigue";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(647*Math.random()+1);  // nombre aleatoire entre 1 et 647
+var i = Math.floor(648*Math.random()+1);  // nombre aleatoire entre 1 et 648
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");
