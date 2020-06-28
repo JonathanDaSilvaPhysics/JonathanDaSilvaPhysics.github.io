@@ -247,7 +247,7 @@ text[241]="Paysage autour de la Garonne &agrave; Portet-sur-Garonne";
 text[242]="Vue sur le lac de la Ram&eacute;e &agrave; Tournefeuille";
 text[243]="Verdure de Vieille-toulouse";
 text[244]="Pechbusque, sa verdure et ses alentours";
-text[245]="Vue sur les coteaux de Pech-David avec Toulouse en arri&egrave;re-plan";
+text[245]="Vue sur les coteaux de Pech-David avec Toulouse en arri&egrave;re-plan (gauche) et Pechbusque (droite)";
 text[246]="Champ de colza &agrave; Saint-G&eacute;nies-Bellevue";
 text[247]="Champ en pente entre Saint-Loup-Cammas et Lapeyrouse-Fossat";
 text[248]="Verdure autour de Bonrepos-sur-Aussonnelle";
@@ -340,8 +340,8 @@ text[334]="Vue sur Lagraulet-Saint-Nicolas";
 text[335]="La r&eacute;gion de Cadours vue depuis Puyss&eacute;gur";
 text[336]="Champs entre Puyss&eacute;gur et Drudas et les environs du Gr&egrave;s";
 text[337]="La r&eacute;gion de Drudas avec Pelleport en arri&egrave;re-plan";
-text[338]="Un peu de brouillard pr&egrave;s de Saint-Thomas";
-text[339]="Brouillard et paysage de Sabonn&egrave;res";
+text[338]="Saint-Thomas et ses environs";
+text[339]="Paysage de Sabonn&egrave;res";
 text[340]="Lar&eacute;ole et son ch&acirc;teau";
 text[341]="R&eacute;gion de Lar&eacute;ole vue pr&egrave;s de Ardizas";
 text[342]="Paysage entre Lar&eacute;ole (gauche) et Cadours (droite)";
@@ -651,11 +651,13 @@ text[645]="Verdure de la r&eacute;gion d'Escorneb&oelig;uf avec Sainte-Marie en 
 text[646]="Paysage en direction de Saint-Germier vu sur la route entre Touget et Sirac";
 text[647]="Environnement autour d'une petite route menant &agrave; Saint-Orens";
 text[648]="Vue en direction de Corronsac &agrave; partir de Rebigue";
+text[649]="Verdure entre Saint-Lys et Saint-Thomas";
+text[650]="Paysage autour de Deyme vu &agrave; partir de la route entre Corronsac et Pompertuzat";
 
-// definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres décimaux)
+// definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(648*Math.random()+1);  // nombre aleatoire entre 1 et 648
+var i = Math.floor(650*Math.random()+1);  // nombre aleatoire entre 1 et 650
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");

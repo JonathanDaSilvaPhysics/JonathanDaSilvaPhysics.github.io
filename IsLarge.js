@@ -245,7 +245,7 @@ isLarge[241]=false;
 isLarge[242]=false;
 isLarge[243]=false;
 isLarge[244]=false;
-isLarge[245]=false;
+isLarge[245]=true;
 isLarge[246]=false;
 isLarge[247]=false;
 isLarge[248]=false;
@@ -338,8 +338,8 @@ isLarge[334]=false;
 isLarge[335]=false;
 isLarge[336]=false;
 isLarge[337]=false;
-isLarge[338]=false;
-isLarge[339]=false;
+isLarge[338]=true;
+isLarge[339]=true;
 isLarge[340]=false;
 isLarge[341]=false;
 isLarge[342]=false;
@@ -649,5 +649,7 @@ isLarge[645]=true;
 isLarge[646]=true;
 isLarge[647]=true;
 isLarge[648]=true;
+isLarge[649]=true;
+isLarge[650]=true;
 
 //-->

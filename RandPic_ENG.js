@@ -247,7 +247,7 @@ text[241]="Landscape around the river Garonne in Portet-sur-Garonne";
 text[242]="View of the lac de la Ram&eacute;e in Tournefeuille";
 text[243]="Greenery of Vieille-toulouse";
 text[244]="Pechbusque, its greenery and its surroundings";
-text[245]="View over the hill of Pech-David with Toulouse in background";
+text[245]="View over the hill of Pech-David with Toulouse in background (left) and Pechbusque (right)";
 text[246]="Rapeseed field in Saint-G&eacute;nies-Bellevue";
 text[247]="Sloping field between Saint-Loup-Cammas and Lapeyrouse-Fossat";
 text[248]="Greenery around Bonrepos-sur-Aussonnelle";
@@ -340,8 +340,8 @@ text[334]="View over Lagraulet-Saint-Nicolas";
 text[335]="Cadours' area seen from Puyss&eacute;gur";
 text[336]="Fields between Puyss&eacute;gur and Drudas and Le Gr&egrave;s' surroundings";
 text[337]="Drudas' area with Pelleport in background";
-text[338]="A bit of fog near Saint-Thomas";
-text[339]="Fog and landscape of Sabonn&egrave;res";
+text[338]="Saint-Thomas and its surroundings";
+text[339]="Landscape of Sabonn&egrave;res";
 text[340]="Lar&eacute;ole and its castle";
 text[341]="Area of Lar&eacute;ole seen near Ardizas";
 text[342]="Landscape between Lar&eacute;ole (left) and Cadours (right)";
@@ -651,11 +651,14 @@ text[645]="Greenery of Escorneb&oelig;uf's area with Sainte-Marie in background"
 text[646]="Landscape towards Saint-Germier seen on the road from Touget to Sirac";
 text[647]="Environment around a small road to Saint-Orens";
 text[648]="View towards Corronsac from Rebigue";
+text[649]="Greenery between Saint-Lys and Saint-Thomas";
+text[650]="Landscape around Deyme seen from the road between Corronsac and Pompertuzat";
+
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(648*Math.random()+1);  // random number between 1 and 648
+var i = Math.floor(650*Math.random()+1);  // random number between 1 and 650
 
 // now display the picture + the text + the google maps link in a banner :
 if (isLarge[i]) document.write("<div id='pictures'>");
