@@ -653,11 +653,14 @@ text[647]="Environnement autour d'une petite route menant &agrave; Saint-Orens";
 text[648]="Vue en direction de Corronsac &agrave; partir de Rebigue";
 text[649]="Verdure entre Saint-Lys et Saint-Thomas";
 text[650]="Paysage autour de Deyme vu &agrave; partir de la route entre Corronsac et Pompertuzat";
+text[651]="&Eacute;glise Saint-Anatoly et ses environs &agrave; Lanta";
+text[652]="Verdure du nord de Lanta";
+text[653]="Vue autour de champs de tournesol sur la route entre Lafage et Montauriol";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(650*Math.random()+1);  // nombre aleatoire entre 1 et 650
+var i = Math.floor(653*Math.random()+1);  // nombre aleatoire entre 1 et 653
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");
