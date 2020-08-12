@@ -656,12 +656,19 @@ text[650]="Landscape around Deyme seen from the road between Corronsac and Pompe
 text[651]="Saint-Anatoly church and its surroundings in Lanta";
 text[652]="Greenery of the north of Lanta";
 text[653]="View around sunflower fields on the road between Lafage and Montauriol";
+text[654]="View from Marignac-Lasclares with the Pyrenees in background";
+text[655]="Gratens and its environment";
+text[656]="Heights and greenery of Pouy-de-Touges";
+text[657]="A road in Castelnau-Picampeau and the Pyrenees";
+text[658]="Landscape around Castelnau-Picampeau with the Pyrenees in background";
+text[659]="Greenery between Casties-Labrande and Castelnau-Picampeau";
+text[660]="View over the area between Casties-Labrande and Pouy-de-Touges";
 
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(653*Math.random()+1);  // random number between 1 and 653
+var i = Math.floor(660*Math.random()+1);  // random number between 1 and 660
 
 // now display the picture + the text + the google maps link in a banner :
 if (isLarge[i]) document.write("<div id='pictures'>");

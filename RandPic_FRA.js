@@ -656,11 +656,18 @@ text[650]="Paysage autour de Deyme vu &agrave; partir de la route entre Corronsa
 text[651]="&Eacute;glise Saint-Anatoly et ses environs &agrave; Lanta";
 text[652]="Verdure du nord de Lanta";
 text[653]="Vue autour de champs de tournesol sur la route entre Lafage et Montauriol";
+text[654]="Vue &agrave; partir de Marignac-Lasclares avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
+text[655]="Gratens et son environnement";
+text[656]="Hauteurs et verdure de Pouy-de-Touges";
+text[657]="Une route &agrave; Castelnau-Picampeau et les Pyr&eacute;n&eacute;es";
+text[658]="Paysage autour de Castelnau-Picampeau avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
+text[659]="Verdure entre Casties-Labrande et Castelnau-Picampeau";
+text[660]="Vue sur la r&eacute;gion entre Casties-Labrande et Pouy-de-Touges";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(653*Math.random()+1);  // nombre aleatoire entre 1 et 653
+var i = Math.floor(660*Math.random()+1);  // nombre aleatoire entre 1 et 660
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");
