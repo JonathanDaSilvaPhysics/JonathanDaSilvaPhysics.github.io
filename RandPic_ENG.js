@@ -677,12 +677,15 @@ text[671]="Clouds above Arnette valley seen near the top of the Pic de Nore";
 text[672]="Landscape towards the east of the Cabard&egrave;s from the Pic de Nore";
 text[673]="View over the area of Pradelles-Cabard&egrave;s from the Pic de Nore";
 text[674]="The medieval village of Hautpoul seen from Castaunouze";
+text[675]="Fields near the road to Seysses-Sav&egrave;s with Saint-Thomas in background";
+text[676]="Landscape around the road between Bragayrac and Seysses-Sav&egrave;s";
+text[677]="Fields between Bragayrac and Seysses-Sav&egrave;s with Saint-Thomas in background";
 
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(674*Math.random()+1);  // random number between 1 and 674
+var i = Math.floor(3*Math.random()+675);  // random number between 1 and 674
 
 // now display the picture + the text + the google maps link in a banner :
 if (isLarge[i]) document.write("<div id='pictures'>");

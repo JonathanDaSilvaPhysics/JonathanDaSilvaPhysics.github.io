@@ -677,11 +677,14 @@ text[671]="Nuages au-dessus de la vall&eacute;e de l'Arnette vus pr&egrave;s du 
 text[672]="Paysage en direction de l'est du Cabard&egrave;s depuis le Pic de Nore";
 text[673]="Vue sur la r&eacute;gion de Pradelles-Cabard&egrave;s &agrave; partir du Pic de Nore";
 text[674]="Le village m&eacute;di&eacute;val d'Hautpoul vu depuis Castaunouze";
+text[675]="Des champs pr&egrave;s de la route menant &agrave; Seysses-Sav&egrave;s avec Saint-Thomas en arri&egrave;re-plan";
+text[676]="Paysage autour de la route entre Bragayrac et Seysses-Sav&egrave;s";
+text[677]="Des champs entre Bragayrac et Seysses-Sav&egrave;s avec Saint-Thomas en arri&egrave;re-plan";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(674*Math.random()+1);  // nombre aleatoire entre 1 et 674
+var i = Math.floor(3*Math.random()+675);  // nombre aleatoire entre 1 et 674
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");
