@@ -685,7 +685,7 @@ text[677]="Fields between Bragayrac and Seysses-Sav&egrave;s with Saint-Thomas i
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(3*Math.random()+675);  // random number between 1 and 674
+var i = Math.floor(677*Math.random()+1);  // random number between 1 and 677
 
 // now display the picture + the text + the google maps link in a banner :
 if (isLarge[i]) document.write("<div id='pictures'>");
