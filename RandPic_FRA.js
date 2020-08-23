@@ -669,11 +669,19 @@ text[663]="Des champs dans la r&eacute;gion de Noilhan";
 text[664]="Paysage en direction du sud de Noilhan";
 text[665]="Vue sur la r&eacute;gion de Monferran-Sav&egrave;s (en arri&egrave;re-plan) &agrave; partir de Castillon-Sav&egrave;s";
 text[666]="Paysage en direction de Fr&eacute;gouville &agrave; partir de la route entre Monferran-Sav&egrave;s et Marestaing";
+text[667]="Castaunouze vu du village m&eacute;di&eacute;val d'Hautpoul";
+text[668]="Mazamet et la passerelle au-dessus de la vall&eacute;e de l'Arnette vues depuis les ruines du ch&acirc;teau d'Hautpoul";
+text[669]="Brouillard sur la route du pic de Nore apr&egrave;s le lieu-dit M&eacute;tairie Haute";
+text[670]="Vue autour de l'&eacute;metteur du pic de Nore depuis la route pr&egrave;s du sommet du pic de Nore";
+text[671]="Nuages au-dessus de la vall&eacute;e de l'Arnette vus pr&egrave;s du sommet du pic de Nore";
+text[672]="Paysage en direction de l'est du Cabard&egrave;s depuis le Pic de Nore";
+text[673]="Vue sur la r&eacute;gion de Pradelles-Cabard&egrave;s &agrave; partir du Pic de Nore";
+text[674]="Le village m&eacute;di&eacute;val d'Hautpoul vu depuis Castaunouze";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(666*Math.random()+1);  // nombre aleatoire entre 1 et 666
+var i = Math.floor(674*Math.random()+1);  // nombre aleatoire entre 1 et 674
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");

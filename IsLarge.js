@@ -667,5 +667,13 @@ isLarge[663]=true;
 isLarge[664]=true;
 isLarge[665]=true;
 isLarge[666]=true;
+isLarge[667]=true;
+isLarge[668]=true;
+isLarge[669]=true;
+isLarge[670]=true;
+isLarge[671]=true;
+isLarge[672]=true;
+isLarge[673]=true;
+isLarge[674]=true;
 
 //-->

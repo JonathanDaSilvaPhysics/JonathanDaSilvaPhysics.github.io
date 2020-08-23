@@ -667,5 +667,13 @@ latitudeLongitude[663]="43.543949,0.927170";
 latitudeLongitude[664]="43.538564,0.930681";
 latitudeLongitude[665]="43.571192,0.987283";
 latitudeLongitude[666]="43.589948,0.994816";
+latitudeLongitude[667]="43.476032,2.378767";
+latitudeLongitude[668]="43.476622,2.378527";
+latitudeLongitude[669]="43.458643,2.432136";
+latitudeLongitude[670]="43.429566,2.470822";
+latitudeLongitude[671]="43.428603,2.470321";
+latitudeLongitude[672]="43.423853,2.462841";
+latitudeLongitude[673]="43.423853,2.462841";
+latitudeLongitude[674]="43.477338,2.385977";
 
 //-->

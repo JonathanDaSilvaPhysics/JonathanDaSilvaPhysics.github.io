@@ -669,12 +669,20 @@ text[663]="Fields in the area of Noilhan";
 text[664]="Landscape towards the south of Noilhan";
 text[665]="View over the area of Monferran-Sav&egrave;s (in background) from Castillon-Sav&egrave;s";
 text[666]="Landscape towards Fr&eacute;gouville from the road between Monferran-Sav&egrave;s and Marestaing";
+text[667]="Castaunouze seen from the medieval village of Hautpoul";
+text[668]="Mazamet and the footbridge to the ruins of Saint-Sauveur church seen from the ruins of Hautpoul castle";
+text[669]="Fog on the road to the Pic de Nore after the hamlet of M&eacute;tairie Haute";
+text[670]="View around the Pic de Nore transmitter from the road near the top of the Pic de Nore";
+text[671]="Clouds above Arnette valley seen near the top of the Pic de Nore";
+text[672]="Landscape towards the east of the Cabard&egrave;s from the Pic de Nore";
+text[673]="View over the area of Pradelles-Cabard&egrave;s from the Pic de Nore";
+text[674]="The medieval village of Hautpoul seen from Castaunouze";
 
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(666*Math.random()+1);  // random number between 1 and 666
+var i = Math.floor(674*Math.random()+1);  // random number between 1 and 674
 
 // now display the picture + the text + the google maps link in a banner :
 if (isLarge[i]) document.write("<div id='pictures'>");
