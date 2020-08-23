@@ -663,11 +663,17 @@ text[657]="Une route &agrave; Castelnau-Picampeau et les Pyr&eacute;n&eacute;es"
 text[658]="Paysage autour de Castelnau-Picampeau avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
 text[659]="Verdure entre Casties-Labrande et Castelnau-Picampeau";
 text[660]="Vue sur la r&eacute;gion entre Casties-Labrande et Pouy-de-Touges";
+text[661]="Les environs de la route reliant Giscaro &agrave; Fr&eacute;gouville";
+text[662]="Verdure autour de Fr&eacute;gouville";
+text[663]="Des champs dans la r&eacute;gion de Noilhan";
+text[664]="Paysage en direction du sud de Noilhan";
+text[665]="Vue sur la r&eacute;gion de Monferran-Sav&egrave;s (en arri&egrave;re-plan) &agrave; partir de Castillon-Sav&egrave;s";
+text[666]="Paysage en direction de Fr&eacute;gouville &agrave; partir de la route entre Monferran-Sav&egrave;s et Marestaing";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(660*Math.random()+1);  // nombre aleatoire entre 1 et 660
+var i = Math.floor(666*Math.random()+1);  // nombre aleatoire entre 1 et 666
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");

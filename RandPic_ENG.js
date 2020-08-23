@@ -663,12 +663,18 @@ text[657]="A road in Castelnau-Picampeau and the Pyrenees";
 text[658]="Landscape around Castelnau-Picampeau with the Pyrenees in background";
 text[659]="Greenery between Casties-Labrande and Castelnau-Picampeau";
 text[660]="View over the area between Casties-Labrande and Pouy-de-Touges";
+text[661]="Surroundings of the road connecting Giscaro to Fr&eacute;gouville";
+text[662]="Greenery around Fr&eacute;gouville";
+text[663]="Fields in the area of Noilhan";
+text[664]="Landscape towards the south of Noilhan";
+text[665]="View over the area of Monferran-Sav&egrave;s (in background) from Castillon-Sav&egrave;s";
+text[666]="Landscape towards Fr&eacute;gouville from the road between Monferran-Sav&egrave;s and Marestaing";
 
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(660*Math.random()+1);  // random number between 1 and 660
+var i = Math.floor(666*Math.random()+1);  // random number between 1 and 666
 
 // now display the picture + the text + the google maps link in a banner :
 if (isLarge[i]) document.write("<div id='pictures'>");
