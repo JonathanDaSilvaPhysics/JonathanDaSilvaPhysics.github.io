@@ -680,12 +680,25 @@ text[674]="The medieval village of Hautpoul seen from Castaunouze";
 text[675]="Fields near the road to Seysses-Sav&egrave;s with Saint-Thomas in background";
 text[676]="Landscape around the road between Bragayrac and Seysses-Sav&egrave;s";
 text[677]="Fields between Bragayrac and Seysses-Sav&egrave;s with Saint-Thomas in background";
+text[678]="Sunrise near Duran";
+text[679]="A small road between Castin and Castillon-Massas";
+text[680]="Landscape towards Roquelaure seen near Castillon-Massas";
+text[681]="Jegun (in background) seen from the road to Lavardens";
+text[682]="View over the area of Jegun from the road to Lavardens";
+text[683]="Castle and church of Lavardens and their environment";
+text[684]="Lavardens' surroundings";
+text[685]="Fields and landscape in the area of M&eacute;rens";
+text[686]="Peyrusse-Massas and its surroundings";
+text[687]="Landscape on the road between Peyrusse-Massas and Roquelaure";
+text[688]="Fields in Roquelaure with Peyrusse-Massas in background";
+text[689]="Landscape near Roquelaure with Montaut-les-Cr&eacute;neaux in background";
+text[690]="Pyrenees seen from the road between Montaut and Villeneuve-du-Par&eacute;age";
 
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(677*Math.random()+1);  // random number between 1 and 677
+var i = Math.floor(690*Math.random()+1);  // random number between 1 and 690
 
 // now display the picture + the text + the google maps link in a banner :
 if (isLarge[i]) document.write("<div id='pictures'>");

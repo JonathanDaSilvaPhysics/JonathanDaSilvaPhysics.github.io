@@ -680,11 +680,24 @@ text[674]="Le village m&eacute;di&eacute;val d'Hautpoul vu depuis Castaunouze";
 text[675]="Des champs pr&egrave;s de la route menant &agrave; Seysses-Sav&egrave;s avec Saint-Thomas en arri&egrave;re-plan";
 text[676]="Paysage autour de la route entre Bragayrac et Seysses-Sav&egrave;s";
 text[677]="Des champs entre Bragayrac et Seysses-Sav&egrave;s avec Saint-Thomas en arri&egrave;re-plan";
+text[678]="Lever de soleil pr&egrave;s de Duran";
+text[679]="Une petite route entre Castin et Castillon-Massas";
+text[680]="Paysage en direction de Roquelaure vu pr&egrave;s de Castillon-Massas";
+text[681]="Jegun (en arri&egrave;re-plan) vu depuis la route menant &agrave; Lavardens";
+text[682]="Vue sur la r&eacute;gion de Jegun depuis la route menant &agrave; Lavardens";
+text[683]="Ch&acirc;teau et &eacute;glise de Lavardens et leur environnement";
+text[684]="Les environs de Lavardens";
+text[685]="Des champs et le paysage dans la r&eacute;gion de M&eacute;rens";
+text[686]="Peyrusse-Massas et ses environs";
+text[687]="Paysage sur la route entre Peyrusse-Massas et Roquelaure";
+text[688]="Des champs &agrave; Roquelaure avec Peyrusse-Massas en arri&egrave;re-plan";
+text[689]="Paysage pr&egrave;s de Roquelaure avec Montaut-les-Cr&eacute;neaux en arri&egrave;re-plan";
+text[690]="Les Pyr&eacute;n&eacute;es vu depuis la route entre Montaut et Villeneuve-du-Par&eacute;age";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(677*Math.random()+1);  // nombre aleatoire entre 1 et 677
+var i = Math.floor(690*Math.random()+1);  // nombre aleatoire entre 1 et 690
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");
