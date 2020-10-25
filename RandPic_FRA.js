@@ -693,11 +693,17 @@ text[687]="Paysage sur la route entre Peyrusse-Massas et Roquelaure";
 text[688]="Des champs &agrave; Roquelaure avec Peyrusse-Massas en arri&egrave;re-plan";
 text[689]="Paysage pr&egrave;s de Roquelaure avec Montaut-les-Cr&eacute;neaux en arri&egrave;re-plan";
 text[690]="Les Pyr&eacute;n&eacute;es vu depuis la route entre Montaut et Villeneuve-du-Par&eacute;age";
+text[691]="La route entre B&eacute;zac et Escosse avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
+text[692]="Les environs d'Escosse vus &agrave; partir des hauteurs de Saint-Victor-Rouzaud";
+text[693]="Coteaux de Pamiers vus autour de Saint-Victor-Rouzaud";
+text[694]="Verdure de la r&eacute;gion de Saint-Bauzeil avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
+text[695]="Paysage de Saint-Bauzeil et des sommets des Pyr&eacute;n&eacute;es";
+text[696]="Vue autour de Saint-Bauzeil avec des vaches et des sommets des Pyr&eacute;n&eacute;es";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(690*Math.random()+1);  // nombre aleatoire entre 1 et 690
+var i = Math.floor(696*Math.random()+1);  // nombre aleatoire entre 1 et 696
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");

@@ -693,12 +693,18 @@ text[687]="Landscape on the road between Peyrusse-Massas and Roquelaure";
 text[688]="Fields in Roquelaure with Peyrusse-Massas in background";
 text[689]="Landscape near Roquelaure with Montaut-les-Cr&eacute;neaux in background";
 text[690]="Pyrenees seen from the road between Montaut and Villeneuve-du-Par&eacute;age";
+text[691]="The road between B&eacute;zac and Escosse with the Pyrenees in background";
+text[692]="Escosse's surroundings seen from the heights of Saint-Victor-Rouzaud";
+text[693]="Hills of Pamiers seen around Saint-Victor-Rouzaud";
+text[694]="Greenery of the area of Saint-Bauzeil with the Pyrenees in background";
+text[695]="Landscape of Saint-Bauzeil and summits of the Pyrenees";
+text[696]="View around Saint-Bauzeil with cows and summits of the Pyrenees";
 
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(690*Math.random()+1);  // random number between 1 and 690
+var i = Math.floor(696*Math.random()+1);  // random number between 1 and 696
 
 // now display the picture + the text + the google maps link in a banner :
 if (isLarge[i]) document.write("<div id='pictures'>");
