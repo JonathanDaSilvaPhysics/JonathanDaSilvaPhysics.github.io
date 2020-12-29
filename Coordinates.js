@@ -700,5 +700,6 @@ latitudeLongitude[696]="43.080021,1.596189";
 latitudeLongitude[697]="42.717640,2.628446";
 latitudeLongitude[698]="42.717640,2.628446";
 latitudeLongitude[699]="42.718706,2.613614";
+latitudeLongitude[700]="42.744509,2.569457";
 
 //-->
