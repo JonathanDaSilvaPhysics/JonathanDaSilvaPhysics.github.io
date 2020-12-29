@@ -699,11 +699,14 @@ text[693]="Coteaux de Pamiers vus autour de Saint-Victor-Rouzaud";
 text[694]="Verdure de la r&eacute;gion de Saint-Bauzeil avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
 text[695]="Paysage de Saint-Bauzeil et des sommets des Pyr&eacute;n&eacute;es";
 text[696]="Vue autour de Saint-Bauzeil avec des vaches et des sommets des Pyr&eacute;n&eacute;es";
+text[697]="De gauche à droite : le Canigou, le massif de Madr&egrave;s et la r&eacute;gion de B&eacute;lesta";
+text[698]="Paysage de la r&eacute;gion de B&eacute;lesta devant le massif de Madr&egrave;s, avec Montalba-le-Ch&acirc;teau en arri&egrave;re-plan (gauche)";
+text[699]="Les environs de B&eacute;lesta";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(696*Math.random()+1);  // nombre aleatoire entre 1 et 696
+var i = Math.floor(699*Math.random()+1);  // nombre aleatoire entre 1 et 699
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");
