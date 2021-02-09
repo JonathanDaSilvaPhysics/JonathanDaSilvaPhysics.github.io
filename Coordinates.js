@@ -103,10 +103,10 @@ latitudeLongitude[99]= "42.748598,2.563505";
 latitudeLongitude[100]="42.734437,2.577750";
 latitudeLongitude[101]="42.727570,2.599162";
 latitudeLongitude[102]="42.624077,2.901974";
-latitudeLongitude[103]="42.795080,2.724308";
+latitudeLongitude[103]="42.795189,2.724427";
 latitudeLongitude[104]="42.826884,2.751921";
-latitudeLongitude[105]="42.851126,2.794421";
-latitudeLongitude[106]="42.851126,2.794421";
+latitudeLongitude[105]="42.851442,2.794003";
+latitudeLongitude[106]="42.852939,2.792203";
 latitudeLongitude[107]="42.862656,2.878392";
 latitudeLongitude[108]="53.562547,-1.883908";
 latitudeLongitude[109]="53.531677,-1.853462";
@@ -702,5 +702,8 @@ latitudeLongitude[698]="42.717640,2.628446";
 latitudeLongitude[699]="42.718706,2.613614";
 latitudeLongitude[700]="42.744509,2.569457";
 latitudeLongitude[701]="42.564196,2.643618";
+latitudeLongitude[702]="42.788748,2.740085";
+latitudeLongitude[703]="42.790467,2.733090";
+latitudeLongitude[704]="42.794823,2.724412";
 
 //-->

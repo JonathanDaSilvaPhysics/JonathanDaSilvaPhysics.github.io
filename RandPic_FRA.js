@@ -105,10 +105,10 @@ text[99]= "Le lac de Caramany et les environs du village de Caramany";
 text[100]="Vue sur le village de Caramany";
 text[101]="Paysage du Haut-Fenouill&egrave;des &agrave; la carri&egrave;re de Lansac en passant par la r&eacute;gion du lac de Caramany";
 text[102]="Villeneuve de la Raho et son lac";
-text[103]="Vue sur les Corbi&egrave;res pr&egrave;s de Tautavel";
+text[103]="Vue sur les Corbi&egrave;res pr&egrave;s de Tautavel, avec le ch&acirc;teau de Qu&eacute;ribus (gauche) et le mont Tauch (droite)";
 text[104]="Vignes entre Tautavel et la Caune de l'Arago";
 text[105]="Vingrau et la Serrat de la Nar&egrave;de avec la Cerdagne en arri&egrave;re-plan";
-text[106]="Serrat de la Nar&egrave;de sur la route vers le hameau du Pas de l'&Eacute;chelle";
+text[106]="Serrat de la Nar&egrave;de et ses environs sur la route vers le hameau du Pas de l'&Eacute;chelle";
 text[107]="Opoul-P&eacute;rillos et son ch&acirc;teau";
 text[108]="Holme Valley vue &agrave; partir de la route d'Holmfirth";
 text[109]="Holmfirth vue &agrave; partir de Holme Moss";
@@ -704,11 +704,14 @@ text[698]="Paysage de la r&eacute;gion de B&eacute;lesta devant le massif de Mad
 text[699]="Les environs de B&eacute;lesta";
 text[700]="Les environs de Caramany pr&egrave;s de l'Agly";
 text[701]="Verdure de la r&eacute;gion de Prunet-et-Belpuig avec le Vallespir en arri&egrave;re-plan";
+text[702]="Paysage entre Cases-de-P&egrave;ne et Tautavel avec le Canigou, la Cerdagne et le massif de Madr&egrave;s en arri&egrave;re-plan";
+text[703]="De gauche à droite : For&ccedil;a R&eacute;al, le Canigou, la Cerdagne et le massif de Madr&egrave;s";
+text[704]="Vue pr&egrave;s de Tautavel au-dessus du Verdouble, vers Latour-de-France et des sommets des Pyr&eacute;n&eacute;es-Orientales";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(701*Math.random()+1);  // nombre aleatoire entre 1 et 701
+var i = Math.floor(704*Math.random()+1);  // nombre aleatoire entre 1 et 704
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");

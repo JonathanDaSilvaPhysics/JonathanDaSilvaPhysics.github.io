@@ -105,10 +105,10 @@ text[99]= "Caramany lake and the surroundings of Caramany village";
 text[100]="View over Caramany village";
 text[101]="Landscape from the top of the Fenouill&egrave;des to Lansac's quarry with Caramany lake's area at the center";
 text[102]="Villeneuve de la Raho and its lake";
-text[103]="View of the Corbi&egrave;res near Tautavel";
+text[103]="View of the Corbi&egrave;res near Tautavel, with Qu&eacute;ribus castle (left) and the Mont Tauch (right)";
 text[104]="Vineyards between Tautavel and la Caune de l'Arago";
 text[105]="Vingrau and the Serrat de la Nar&egrave;de with Cerdanya in background";
-text[106]="Serrat de la Nar&egrave;de from the road to the hamlet of Pas de l'&Eacute;chelle";
+text[106]="Serrat de la Nar&egrave;de and its surroundings from the road to the hamlet of Pas de l'&Eacute;chelle";
 text[107]="Opoul-P&eacute;rillos and its castle";
 text[108]="Holme Valley from Holmfirth Road";
 text[109]="Holmfirth from Holme Moss";
@@ -704,12 +704,15 @@ text[698]="Landscape of the area of B&eacute;lesta in front of Madr&egrave;s mas
 text[699]="B&eacute;lesta's surroundings";
 text[700]="Caramany's surroundings near the Agly";
 text[701]="Greenery of the area of Prunet-et-Belpuig with the Vallespir in background";
+text[702]="Landscape between Cases-de-P&egrave;ne and Tautavel with the Canigou, Cerdanya and Madr&egrave;s massif in background";
+text[703]="From left to right : For&ccedil;a R&eacute;al, the Canigou, Cerdanya and Madr&egrave;s massif";
+text[704]="View near Tautavel above the Verdouble, towards Latour-de-France and summits of Pyr&eacute;n&eacute;es-Orientales";
 
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(701*Math.random()+1);  // random number between 1 and 701
+var i = Math.floor(704*Math.random()+1);  // random number between 1 and 704
 
 // now display the picture + the text + the google maps link in a banner :
 if (isLarge[i]) document.write("<div id='pictures'>");

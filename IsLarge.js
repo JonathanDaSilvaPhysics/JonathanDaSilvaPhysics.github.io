@@ -103,10 +103,10 @@ isLarge[99]= true;
 isLarge[100]=true;
 isLarge[101]=true;
 isLarge[102]=false;
-isLarge[103]=false;
+isLarge[103]=true;
 isLarge[104]=false;
-isLarge[105]=false;
-isLarge[106]=false;
+isLarge[105]=true;
+isLarge[106]=true;
 isLarge[107]=false;
 isLarge[108]=false;
 isLarge[109]=false;
@@ -702,5 +702,8 @@ isLarge[698]=true;
 isLarge[699]=true;
 isLarge[700]=true;
 isLarge[701]=true;
+isLarge[702]=true;
+isLarge[703]=true;
+isLarge[704]=true;
 
 //-->
