@@ -710,12 +710,12 @@ latitudeLongitude[706]="42.621029,2.536914";
 latitudeLongitude[707]="42.621029,2.536914";
 latitudeLongitude[708]="42.613510,2.539169";
 latitudeLongitude[709]="42.612530,2.541430";
-latitudeLongitude[710]="";
-latitudeLongitude[711]="";
-latitudeLongitude[712]="";
-latitudeLongitude[713]="";
-latitudeLongitude[714]="";
-latitudeLongitude[715]="";
-latitudeLongitude[716]="";
+latitudeLongitude[710]="42.653420,2.523893";
+latitudeLongitude[711]="42.655234,2.528850";
+latitudeLongitude[712]="42.702049,2.510900";
+latitudeLongitude[713]="42.701754,2.515160";
+latitudeLongitude[714]="42.703072,2.516296";
+latitudeLongitude[715]="42.710265,2.513628";
+latitudeLongitude[716]="42.683941,2.609492";
 
 //-->

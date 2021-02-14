@@ -712,18 +712,18 @@ text[706]="Joch's area with the Madr&egrave;s massif in background";
 text[707]="Landscape of T&ecirc;t valley from Joch to Vin&ccedil;a with Madr&egrave;s massif and Fenouill&egrave;des in background"; 
 text[708]="Greenery around the road to Glorianes with a bit of Canigou in background (right)";
 text[709]="The environment of the road to Glorianes with the Canigou in background";
-text[710]="";
-text[711]="";
-text[712]="";
-text[713]="";
-text[714]="";
-text[715]="";
-text[716]="";
+text[710]="Canigou and Cerdanya seen on the road to Tarerach near Vin&ccedil;a lake";
+text[711]="View over the area of Vin&ccedil;a, its lake and the Canigou massif";
+text[712]="Greenery of the area of Tarerach seen from the road to the col des Auzines and the Canigou massif";
+text[713]="Canigou massif, Cerdanya and lanscape of the area of Tarerach";
+text[714]="Canigou massif and Cerdanya seen close to the top of the col des Auzines";
+text[715]="Tr&eacute;villach and its environment seen from the col des Auzines";
+text[716]="View over the area of Ille-sur-T&ecirc;t and its hoodoos with the Albera massif in background (left)";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(709*Math.random()+1);  // random number between 1 and 709
+var i = Math.floor(716*Math.random()+1);  // random number between 1 and 716
 
 // now display the picture + the text + the google maps link in a banner :
 if (isLarge[i]) document.write("<div id='pictures'>");
