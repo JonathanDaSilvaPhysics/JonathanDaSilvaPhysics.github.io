@@ -705,5 +705,17 @@ isLarge[701]=true;
 isLarge[702]=true;
 isLarge[703]=true;
 isLarge[704]=true;
+isLarge[705]=true;
+isLarge[706]=true;
+isLarge[707]=true;
+isLarge[708]=true;
+isLarge[709]=true;
+isLarge[710]=true;
+isLarge[711]=true;
+isLarge[712]=true;
+isLarge[713]=true;
+isLarge[714]=true;
+isLarge[715]=true;
+isLarge[716]=true;
 
 //-->

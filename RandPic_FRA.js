@@ -707,11 +707,23 @@ text[701]="Verdure de la r&eacute;gion de Prunet-et-Belpuig avec le Vallespir en
 text[702]="Paysage entre Cases-de-P&egrave;ne et Tautavel avec le Canigou, la Cerdagne et le massif du Madr&egrave;s en arri&egrave;re-plan";
 text[703]="De gauche à droite : For&ccedil;a R&eacute;al, le Canigou, la Cerdagne et le massif du Madr&egrave;s";
 text[704]="Vue pr&egrave;s de Tautavel au-dessus du Verdouble, vers Latour-de-France et des sommets des Pyr&eacute;n&eacute;es-Orientales";
+text[705]="Vin&ccedil;a et ses environs vus sur la route menant &agrave; Glorianes";
+text[706]="R&eacute;gion de Joch avec le massif du Madr&egrave;s en arri&egrave;re-plan";
+text[707]="Paysage de la vall&eacute;e de la T&ecirc;t de Joch &agrave; Vin&ccedil;a avec le massif du Madr&egrave;s et les Fenouill&egrave;des en arri&egrave;re-plan";
+text[708]="Verdure autour de la route menant &agrave; Glorianes avec un petit peu de Canigou en arri&egrave;re-plan (droite)";
+text[709]="L'environnement de la route de Glorianes avec le Canigou en arri&egrave;re-plan";
+text[710]="";
+text[711]="";
+text[712]="";
+text[713]="";
+text[714]="";
+text[715]="";
+text[716]="";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(704*Math.random()+1);  // nombre aleatoire entre 1 et 704
+var i = Math.floor(709*Math.random()+1);  // nombre aleatoire entre 1 et 709
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");

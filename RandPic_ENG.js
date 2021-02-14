@@ -707,12 +707,23 @@ text[701]="Greenery of the area of Prunet-et-Belpuig with the Vallespir in backg
 text[702]="Landscape between Cases-de-P&egrave;ne and Tautavel with the Canigou, Cerdanya and Madr&egrave;s massif in background";
 text[703]="From left to right : For&ccedil;a R&eacute;al, the Canigou, Cerdanya and Madr&egrave;s massif";
 text[704]="View near Tautavel above the Verdouble, towards Latour-de-France and summits of Pyr&eacute;n&eacute;es-Orientales";
-
+text[705]="Vin&ccedil;a and its surroundings seen from the road to Glorianes";
+text[706]="Joch's area with the Madr&egrave;s massif in background";
+text[707]="Landscape of T&ecirc;t valley from Joch to Vin&ccedil;a with Madr&egrave;s massif and Fenouill&egrave;des in background"; 
+text[708]="Greenery around the road to Glorianes with a bit of Canigou in background (right)";
+text[709]="The environment of the road to Glorianes with the Canigou in background";
+text[710]="";
+text[711]="";
+text[712]="";
+text[713]="";
+text[714]="";
+text[715]="";
+text[716]="";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(704*Math.random()+1);  // random number between 1 and 704
+var i = Math.floor(709*Math.random()+1);  // random number between 1 and 709
 
 // now display the picture + the text + the google maps link in a banner :
 if (isLarge[i]) document.write("<div id='pictures'>");
