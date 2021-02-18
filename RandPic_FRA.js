@@ -719,11 +719,21 @@ text[713]="Massif du Canigou, Cerdagne et paysage de la r&eacute;gion de Tarerac
 text[714]="Massif du Canigou et Cerdagne vus pr&egrave;s du sommet du col des Auzines";
 text[715]="Tr&eacute;villach et son environnement vu du col des Auzines";
 text[716]="Vue sur les Orgues d'Ille-sur-T&ecirc;t et ses environs avec le massif des Alb&egrave;res en arri&egrave;re-plan (gauche)";
+text[717]="Verdure de la vall&eacute;e de la Lentill&agrave; vue sur la route menant &agrave; Baillestavy";
+text[718]="Vieux pont de la Farga au-dessus de la Lentill&agrave; &agrave; Baillestavy";
+text[719]="Le hameau de La Torre et ses environs &agrave; Baillestavy";
+text[720]="Sommets du massif du Canigou vus depuis la route de Valmanya";
+text[721]="Valmanya et son environnement dans le massif du Canigou";
+text[722]="La route du col de Palom&egrave;re pr&egrave;s de Valmanya et des sommets du massif du Canigou";
+text[723]="Paysage autour de la route du col de Palom&egrave;re avec des sommets du massif du Canigou";
+text[724]="Vue sur les sommets du massif du Canigou, le haut de la vall&eacute;e de la Lentill&agrave; et Valmanya";
+text[725]="Paysage du massif du Canigou vu pr&egrave;s du sommet du col de Palom&egrave;re";
+text[726]="";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(716*Math.random()+1);  // nombre aleatoire entre 1 et 716
+var i = Math.floor(725*Math.random()+1);  // nombre aleatoire entre 1 et 725
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");
