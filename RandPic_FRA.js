@@ -728,12 +728,16 @@ text[722]="La route du col de Palom&egrave;re pr&egrave;s de Valmanya et des som
 text[723]="Paysage autour de la route du col de Palom&egrave;re avec des sommets du massif du Canigou";
 text[724]="Vue sur les sommets du massif du Canigou, le haut de la vall&eacute;e de la Lentill&agrave; et Valmanya";
 text[725]="Paysage du massif du Canigou vu pr&egrave;s du sommet du col de Palom&egrave;re";
-text[726]="";
+text[726]="Paysage au-dessus de la vall&eacute;e du Boul&egrave;s et de La Bastide vu pr&egrave;s du sommet du col de Palom&egrave;re";
+text[727]="Verdure et sommets du massif du Canigou vus pr&egrave;s du sommet du col de Palom&egrave;re";
+text[728]="La Bastide et ses environs";
+text[729]="Vue sur le massif du Canigou et La Bastide";
+text[730]="Le massif du Canigou et la r&eacute;gion de La Bastide vus pr&egrave;s du sommet du col de Xatard";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(725*Math.random()+1);  // nombre aleatoire entre 1 et 725
+var i = Math.floor(730*Math.random()+1);  // nombre aleatoire entre 1 et 730
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");

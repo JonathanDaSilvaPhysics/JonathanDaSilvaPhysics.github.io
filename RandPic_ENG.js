@@ -728,12 +728,16 @@ text[722]="The road to the col de Palom&egrave;re near Valmanya and summits of t
 text[723]="Landscape around the road to the col de Palom&egrave;re with summits of the Canigou massif";
 text[724]="View over summits of the Canigou massif, the top of Lentill&agrave; valley and Valmanya";
 text[725]="Landscape of the Canigou massif seen near the top of the col de Palom&egrave;re";
-text[726]="";
+text[726]="Landscape above the Boul&egrave;s valley and La Bastide seen near the top of the col de Palom&egrave;re";
+text[727]="Greenery and summits of the Canigou massif seen near the top of the col de Palom&egrave;re";
+text[728]="La Bastide and its surroundings";
+text[729]="View of the Canigou massif and La Bastide";
+text[730]="The Canigou massif and the area of La Bastide seen near the top of the col de Xatard";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(725*Math.random()+1);  // random number between 1 and 725
+var i = Math.floor(730*Math.random()+1);  // random number between 1 and 730
 
 // now display the picture + the text + the google maps link in a banner :
 if (isLarge[i]) document.write("<div id='pictures'>");

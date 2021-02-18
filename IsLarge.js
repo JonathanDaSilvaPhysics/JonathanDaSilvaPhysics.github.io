@@ -727,5 +727,9 @@ isLarge[723]=true;
 isLarge[724]=true;
 isLarge[725]=true;
 isLarge[726]=true;
+isLarge[727]=true;
+isLarge[728]=true;
+isLarge[729]=true;
+isLarge[730]=true;
 
 //-->
