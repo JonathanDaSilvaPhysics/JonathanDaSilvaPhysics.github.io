@@ -733,11 +733,14 @@ text[727]="Greenery and summits of the Canigou massif seen near the top of the c
 text[728]="La Bastide and its surroundings";
 text[729]="View of the Canigou massif and La Bastide";
 text[730]="The Canigou massif and the area of La Bastide seen near the top of the col de Xatard";
+text[731]="Eus and its environment";
+text[732]="Eus' area and nearby T&ecirc;t valley";
+text[733]="Greenery and clouds around Clara (right) in the Canigou massif";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(730*Math.random()+1);  // random number between 1 and 730
+var i = Math.floor(733*Math.random()+1);  // random number between 1 and 733
 
 // now display the picture + the text + the google maps link in a banner :
 if (isLarge[i]) document.write("<div id='pictures'>");

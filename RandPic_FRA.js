@@ -733,11 +733,14 @@ text[727]="Verdure et sommets du massif du Canigou vus pr&egrave;s du sommet du 
 text[728]="La Bastide et ses environs";
 text[729]="Vue sur le massif du Canigou et La Bastide";
 text[730]="Le massif du Canigou et la r&eacute;gion de La Bastide vus pr&egrave;s du sommet du col de Xatard";
+text[731]="Eus et son environnement";
+text[732]="R&eacute;gion d'Eus avec la vall&eacute;e de la T&ecirc;t &agrave; proximit&eacute;";
+text[733]="Verdure et nuages autour de Clara (droite) dans le massif du Canigou";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(730*Math.random()+1);  // nombre aleatoire entre 1 et 730
+var i = Math.floor(733*Math.random()+1);  // nombre aleatoire entre 1 et 733
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");
