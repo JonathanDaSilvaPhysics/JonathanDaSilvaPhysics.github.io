@@ -734,5 +734,7 @@ latitudeLongitude[730]="42.553079,2.612491";
 latitudeLongitude[731]="42.643053,2.455197";
 latitudeLongitude[732]="42.643163,2.454902";
 latitudeLongitude[733]="42.596737,2.439480";
+latitudeLongitude[734]="42.969558,1.646002";
+latitudeLongitude[735]="42.973109,1.684663";
 
 //-->
