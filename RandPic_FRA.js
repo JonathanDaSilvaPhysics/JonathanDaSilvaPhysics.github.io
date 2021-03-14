@@ -738,11 +738,13 @@ text[732]="R&eacute;gion d'Eus avec la vall&eacute;e de la T&ecirc;t &agrave; pr
 text[733]="Verdure et nuages autour de Clara (droite) dans le massif du Canigou";
 text[734]="Verdure dans la r&eacute;gion de Pradi&egrave;res";
 text[735]="Le hameau du Sabarth&egrave;s et ses environs vus depuis L'Herm";
+text[736]="Des champs dans les environs de L&eacute;ojac";
+text[737]="Paysage autour de G&eacute;n&eacute;bri&egrave;res";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(735*Math.random()+1);  // nombre aleatoire entre 1 et 735
+var i = Math.floor(737*Math.random()+1);  // nombre aleatoire entre 1 et 737
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");

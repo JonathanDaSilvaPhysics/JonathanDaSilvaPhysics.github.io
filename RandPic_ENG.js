@@ -738,11 +738,13 @@ text[732]="Eus' area and nearby T&ecirc;t valley";
 text[733]="Greenery and clouds around Clara (right) in the Canigou massif";
 text[734]="Greenery in the area of Pradi&egrave;res";
 text[735]="The hamlet of Sabarth&egrave;s and its surroundings seen from L'Herm";
+text[736]="Fields in L&eacute;ojac's surroundings";
+text[737]="Landscape around G&eacute;n&eacute;bri&egrave;res";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(735*Math.random()+1);  // random number between 1 and 735
+var i = Math.floor(737*Math.random()+1);  // random number between 1 and 737
 
 // now display the picture + the text + the google maps link in a banner :
 if (isLarge[i]) document.write("<div id='pictures'>");
