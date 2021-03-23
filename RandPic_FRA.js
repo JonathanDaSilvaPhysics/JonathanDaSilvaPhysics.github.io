@@ -740,11 +740,16 @@ text[734]="Verdure dans la r&eacute;gion de Pradi&egrave;res";
 text[735]="Le hameau du Sabarth&egrave;s et ses environs vus depuis L'Herm";
 text[736]="Des champs dans les environs de L&eacute;ojac";
 text[737]="Paysage autour de G&eacute;n&eacute;bri&egrave;res";
+text[738]="Vue dans la r&eacute;gion de Mirannes";
+text[739]="Des champs et le village de Mirannes";
+text[740]="Verdure pr&egrave;s de Saint-Arailles";
+text[741]="Vue sur la r&eacute;gion du Brouilh-Monbert";
+text[742]="Biran avec sa tour de guet et sa porte";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(737*Math.random()+1);  // nombre aleatoire entre 1 et 737
+var i = Math.floor(742*Math.random()+1);  // nombre aleatoire entre 1 et 742
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");
