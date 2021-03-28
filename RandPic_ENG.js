@@ -745,11 +745,13 @@ text[739]="Fields and Mirannes";
 text[740]="Greenery near Saint-Arailles";
 text[741]="View over the area of Le Brouilh-Monbert";
 text[742]="Biran with its fortified tower and its door";
+text[743]="Vines and a small road between Gaillac and Broze";
+text[744]="Landscape and vineyards of the area of Gaillac seen from its heights";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(742*Math.random()+1);  // random number between 1 and 742
+var i = Math.floor(744*Math.random()+1);  // random number between 1 and 744
 
 // now display the picture + the text + the google maps link in a banner :
 if (isLarge[i]) document.write("<div id='pictures'>");

@@ -745,11 +745,13 @@ text[739]="Des champs et le village de Mirannes";
 text[740]="Verdure pr&egrave;s de Saint-Arailles";
 text[741]="Vue sur la r&eacute;gion du Brouilh-Monbert";
 text[742]="Biran avec sa tour de guet et sa porte";
+text[743]="Des vignes et une petite route entre Gaillac et Broze";
+text[744]="Paysage et vignobles de la r&eacute;gion de Gaillac vus &agrave; partir de ses hauteurs";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(742*Math.random()+1);  // nombre aleatoire entre 1 et 742
+var i = Math.floor(744*Math.random()+1);  // nombre aleatoire entre 1 et 744
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");
