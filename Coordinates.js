@@ -745,5 +745,9 @@ latitudeLongitude[741]="43.668313,0.371760";
 latitudeLongitude[742]="43.695831,0.420877";
 latitudeLongitude[743]="43.946068,1.884971";
 latitudeLongitude[744]="43.947111,1.886954";
+latitudeLongitude[745]="42.908997,1.562752";
+latitudeLongitude[746]="42.912088,1.565468";
+latitudeLongitude[747]="42.919836,1.575250";
+latitudeLongitude[748]="42.921172,1.583895";
 
 //-->

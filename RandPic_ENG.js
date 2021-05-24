@@ -747,11 +747,15 @@ text[741]="View over the area of Le Brouilh-Monbert";
 text[742]="Biran with its fortified tower and its door";
 text[743]="Vines and a small road between Gaillac and Broze";
 text[744]="Landscape and vineyards of the area of Gaillac seen from its heights";
+text[745]="End of the road of the Prat d'Albis near the Bout de Touron";
+text[746]="Greenery around the Bout de Touron seen from the Pla des Peyres";
+text[747]="Ari&egrave;ge and Barguilli&egrave;re valleys around Foix seen between Prat d'Albis and Pla des Peyres";
+text[748]="Mont Fourcat seen from the Prat d'Albis";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(744*Math.random()+1);  // random number between 1 and 744
+var i = Math.floor(748*Math.random()+1);  // random number between 1 and 748
 
 // now display the picture + the text + the google maps link in a banner :
 if (isLarge[i]) document.write("<div id='pictures'>");
