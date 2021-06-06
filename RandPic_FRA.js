@@ -751,11 +751,12 @@ text[745]="Fin de la route du Prat d'Albis pr&egrave;s du Bout de Touron";
 text[746]="Verdure autour du Bout de Touron vu depuis le Pla des Peyres";
 text[747]="Vall&eacute;es de l'Ari&egrave;ge et de la Barguilli&egrave;re autour de Foix vues entre Prat d'Albis et Pla des Peyres";
 text[748]="Mont Fourcat vu depuis le Prat d'Albis";
+text[749]="Vue sur la r&eacute;gion de Brignemont &agrave; partir de la route entre Sarrant et Cox";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(748*Math.random()+1);  // nombre aleatoire entre 1 et 748
+var i = Math.floor(749*Math.random()+1);  // nombre aleatoire entre 1 et 749
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");
