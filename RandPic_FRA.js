@@ -752,11 +752,19 @@ text[746]="Verdure autour du Bout de Touron vu depuis le Pla des Peyres";
 text[747]="Vall&eacute;es de l'Ari&egrave;ge et de la Barguilli&egrave;re autour de Foix vues entre Prat d'Albis et Pla des Peyres";
 text[748]="Mont Fourcat vu depuis le Prat d'Albis";
 text[749]="Vue sur la r&eacute;gion de Brignemont &agrave; partir de la route entre Sarrant et Cox";
+text[750]="Pic de Baychon au-dessus de Niaux vu &agrave; partir de la route menant &agrave; G&eacute;nat";
+text[751]="Verdure autour du ch&acirc;teau de Miglos et de Capoulet vue de la route menant &agrave; Lap&egrave;ge";
+text[752]="Paysage en direction du ch&acirc;teau de Miglos, d'Arquizat et du col de Larnat &agrave; partir de Lap&egrave;ge";
+text[753]="Vall&eacute;es de Vicdessos et de Siguer dans le massif des Pyr&eacute;n&eacute;es vus de Lap&egrave;ge";
+text[754]="Capoulet-et-Junac, ch&acirc;teau de Miglos et Arquizat vus de la route de Lap&egrave;ge";
+text[755]="Le Ruisseau de Vicdessos &agrave; Niaux avec le Bouiche de Gesti&egrave;s en arri&egrave;re-plan";
+text[756]="Niaux et le Bouiche de Gesti&egrave;s vus de la route menant &agrave; la grotte de Niaux";
+text[757]="Alliat et son environnement vallonn&eacute; et verdoyant vus de la route menant &agrave; la grotte de Niaux";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(749*Math.random()+1);  // nombre aleatoire entre 1 et 749
+var i = Math.floor(757*Math.random()+1);  // nombre aleatoire entre 1 et 757
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");

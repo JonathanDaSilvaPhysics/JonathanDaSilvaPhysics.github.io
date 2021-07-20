@@ -752,11 +752,19 @@ text[746]="Greenery around the Bout de Touron seen from the Pla des Peyres";
 text[747]="Ari&egrave;ge and Barguilli&egrave;re valleys around Foix seen between Prat d'Albis and Pla des Peyres";
 text[748]="Mont Fourcat seen from the Prat d'Albis";
 text[749]="View over the area of Brignemont from the road between Sarrant and Cox";
+text[750]="Pic de Baychon above Niaux seen from the road to G&eacute;nat";
+text[751]="Greenery around the ch&acirc;teau de Miglos and Capoulet from the road to Lap&egrave;ge";
+text[752]="Landscape towards the ch&acirc;teau de Miglos, Arquizat and the col de Larnat from Lap&egrave;ge";
+text[753]="Vicdessos and Siguer valleys in the Pyrenees massif seen from Lap&egrave;ge";
+text[754]="Capoulet-et-Junac, ch&acirc;teau de Miglos and Arquizat from the road to Lap&egrave;ge";
+text[755]="Vicdessos stream in Niaux with the Bouiche de Gesti&egrave;s in background";
+text[756]="Niaux and the Bouiche de Gesti&egrave;s seen from the road to the Cave of Niaux";
+text[757]="Alliat and its hilly and greenery surroundings seen from the road to the Cave of Niaux";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(749*Math.random()+1);  // random number between 1 and 749
+var i = Math.floor(757*Math.random()+1);  // random number between 1 and 757
 
 // now display the picture + the text + the google maps link in a banner :
 if (isLarge[i]) document.write("<div id='pictures'>");

@@ -750,5 +750,13 @@ latitudeLongitude[746]="42.912088,1.565468";
 latitudeLongitude[747]="42.919836,1.575250";
 latitudeLongitude[748]="42.921172,1.583895";
 latitudeLongitude[749]="43.766335,0.957574";
+latitudeLongitude[750]="42.820252,1.575398";
+latitudeLongitude[751]="42.801540,1.586253";
+latitudeLongitude[752]="42.800146,1.571793";
+latitudeLongitude[753]="42.799454,1.570798";
+latitudeLongitude[754]="42.798499,1.573610";
+latitudeLongitude[755]="42.812706,1.589665";
+latitudeLongitude[756]="42.817718,1.593907";
+latitudeLongitude[757]="42.817718,1.593907";
 
 //-->
