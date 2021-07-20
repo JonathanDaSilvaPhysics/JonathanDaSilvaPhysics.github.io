@@ -766,7 +766,7 @@ text[757]="Alliat and its hilly and greenery surroundings seen from the road to 
 
 var i = Math.floor(757*Math.random()+1);  // random number between 1 and 757
 
-// now display the picture + the text + the google maps link in a banner :
+// now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) document.write("<div id='pictures'>");
 else document.write("<div id='pictures_small'>");
 document.write("<h1>Pictures, just for fun</h1>");
