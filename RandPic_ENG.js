@@ -760,11 +760,14 @@ text[754]="Capoulet-et-Junac, ch&acirc;teau de Miglos and Arquizat from the road
 text[755]="Vicdessos stream in Niaux with the Bouiche de Gesti&egrave;s in background";
 text[756]="Niaux and the Bouiche de Gesti&egrave;s seen from the road to the Cave of Niaux";
 text[757]="Alliat and its hilly and greenery surroundings seen from the road to the Cave of Niaux";
+text[758]="Greenery of the National Reserve of Mantet";
+text[759]="Lanscape around the road near the top of the col de Mantet";
+text[760]="View towards the summit of the col de Mantet";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(757*Math.random()+1);  // random number between 1 and 757
+var i = Math.floor(760*Math.random()+1);  // random number between 1 and 760
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) document.write("<div id='pictures'>");

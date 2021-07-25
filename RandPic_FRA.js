@@ -760,11 +760,14 @@ text[754]="Capoulet-et-Junac, ch&acirc;teau de Miglos et Arquizat vus de la rout
 text[755]="Le Ruisseau de Vicdessos &agrave; Niaux avec le Bouiche de Gesti&egrave;s en arri&egrave;re-plan";
 text[756]="Niaux et le Bouiche de Gesti&egrave;s vus de la route menant &agrave; la grotte de Niaux";
 text[757]="Alliat et son environnement vallonn&eacute; et verdoyant vus de la route menant &agrave; la grotte de Niaux";
+text[758]="Verdure de la R&eacute;serve Naturelle de Mantet";
+text[759]="Paysage autour de la route pr&egrave;s du sommet du col de Mantet";
+text[760]="Vue en direction du sommet du col de Mantet";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(757*Math.random()+1);  // nombre aleatoire entre 1 et 757
+var i = Math.floor(760*Math.random()+1);  // nombre aleatoire entre 1 et 760
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");
