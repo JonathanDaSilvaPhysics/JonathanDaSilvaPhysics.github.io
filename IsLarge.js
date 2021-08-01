@@ -761,5 +761,22 @@ isLarge[757]=true;
 isLarge[758]=true;
 isLarge[759]=true;
 isLarge[760]=true;
+isLarge[761]=true;
+isLarge[762]=true;
+isLarge[763]=true;
+isLarge[764]=true;
+isLarge[765]=true;
+isLarge[766]=true;
+isLarge[767]=true;
+isLarge[768]=true;
+isLarge[769]=true;
+isLarge[770]=true;
+isLarge[771]=true;
+isLarge[772]=true;
+isLarge[773]=true;
+isLarge[774]=true;
+isLarge[775]=true;
+isLarge[776]=true;
+isLarge[777]=true;
 
 //-->

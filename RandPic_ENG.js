@@ -763,11 +763,28 @@ text[757]="Alliat and its hilly and greenery surroundings seen from the road to 
 text[758]="Greenery of the National Reserve of Mantet";
 text[759]="Lanscape around the road near the top of the col de Mantet";
 text[760]="View towards the summit of the col de Mantet";
+text[761]="The Qui&eacute; massif and its environment seen from Pech";
+text[762]="The Ch&acirc;teau de Gudanes in front of summits of the Tabe massif seen from Ch&acirc;teau-Verdun";
+text[763]="Greenery near Saint-Blaise church of Verdun with Larnat in background (center)";
+text[764]="Saint-Blaise church of Verdun in front of the Qui&eacute; massif";
+text[765]="View towards the Plateau de Beille and the Aston valley from above Les Cabannes and Verdun";
+text[766]="View around the road to the Pas de Souloumbrie with Larnat in background";
+text[767]="";
+text[768]="";
+text[769]="";
+text[770]="";
+text[771]="";
+text[772]="";
+text[773]="";
+text[774]="";
+text[775]="";
+text[776]="";
+text[777]="";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(760*Math.random()+1);  // random number between 1 and 760
+var i = Math.floor(766*Math.random()+1);  // random number between 1 and 766
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) document.write("<div id='pictures'>");
