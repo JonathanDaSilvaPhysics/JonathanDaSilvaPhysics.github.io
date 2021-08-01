@@ -775,16 +775,16 @@ text[769]="Verdure autour de Lordat, son ch&acirc;teau et le pic Calmont vue de 
 text[770]="&Eacute;glise Saint-Julien d'Axiat dans la verdure du massif de Tabe";
 text[771]="Les ruines du ch&acirc;teau de Lordat et leurs environs avec le plateau de Beille en arri&egrave;re-plan";
 text[772]="Vue autour de la route pr&egrave;s de Lordat avec des sommets du massif de Tabe";
-text[773]="";
-text[774]="";
-text[775]="";
-text[776]="";
-text[777]="";
+text[773]="Le ch&acirc;teau de Lordat et ses environs";
+text[774]="Vue sur Lordat et le pic Calmont";
+text[775]="Paysage de la vall&eacute;e de l'Ari&egrave;ge autour de Luzenac vu pr&egrave;s de Lordat";
+text[776]="Les ruines du ch&acirc;teau de Lordat vues de la route entre Lordat et Vernaux";
+text[777]="Verdure autour de Montoulieu avec le Prat d'Albis en arri&egrave;re-plan (droite)";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(772*Math.random()+1);  // nombre aleatoire entre 1 et 772
+var i = Math.floor(777*Math.random()+1);  // nombre aleatoire entre 1 et 777
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");

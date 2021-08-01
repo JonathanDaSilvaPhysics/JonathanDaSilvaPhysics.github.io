@@ -775,16 +775,16 @@ text[769]="Greenery around Lordat, its castle and the Pic Calmont seen from the 
 text[770]="Saint-Julien church of Axiat in the greenery of Tabe massif";
 text[771]="Ruins of Lordat Castle and their surroundings with the Plateau de Beille in background";
 text[772]="View around the road near Lordat with summits of the Tabe massif";
-text[773]="";
-text[774]="";
-text[775]="";
-text[776]="";
-text[777]="";
+text[773]="Lordat Castle and its surroundings";
+text[774]="View over Lordat and the Pic Calmont";
+text[775]="Landscape of the Ari&egrave;ge valley around Luzenac seen near Lordat";
+text[776]="Ruins of Lordat Castle seen from the road between Lordat and Vernaux";
+text[777]="Greenery around Montoulieu with the Prat d'Albis in background (right)";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(772*Math.random()+1);  // random number between 1 and 772
+var i = Math.floor(777*Math.random()+1);  // random number between 1 and 777
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) document.write("<div id='pictures'>");

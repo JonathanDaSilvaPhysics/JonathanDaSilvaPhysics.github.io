@@ -773,10 +773,10 @@ latitudeLongitude[769]="42.788208,1.741871";
 latitudeLongitude[770]="42.782269,1.757340";
 latitudeLongitude[771]="42.777617,1.754696";
 latitudeLongitude[772]="42.777598,1.754699";
-latitudeLongitude[773]="";
-latitudeLongitude[774]="";
-latitudeLongitude[775]="";
-latitudeLongitude[776]="";
-latitudeLongitude[777]="";
+latitudeLongitude[773]="42.776285,1.752156";
+latitudeLongitude[774]="42.775891,1.749941";
+latitudeLongitude[775]="42.775048,1.754348";
+latitudeLongitude[776]="42.772970,1.760398";
+latitudeLongitude[777]="42.910117,1.643014";
 
 //-->
