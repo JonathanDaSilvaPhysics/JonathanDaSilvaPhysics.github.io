@@ -769,12 +769,12 @@ text[763]="Greenery near Saint-Blaise church of Verdun with Larnat in background
 text[764]="Saint-Blaise church of Verdun in front of the Qui&eacute; massif";
 text[765]="View towards the Plateau de Beille and the Aston valley from above Les Cabannes and Verdun";
 text[766]="View around the road to the Pas de Souloumbrie with Larnat in background";
-text[767]="";
-text[768]="";
-text[769]="";
-text[770]="";
-text[771]="";
-text[772]="";
+text[767]="Landscape above Les Cabannes and Verdun with the Plateau de Beille, Aston and its valley";
+text[768]="View over the Plateau de Beille from the area of Caychax";
+text[769]="Greenery around Lordat, its castle and the Pic Calmont seen from the road between Appy and Axiat";
+text[770]="Saint-Julien church of Axiat in the greenery of Tabe massif";
+text[771]="Ruins of Lordat Castle and their surroundings with the Plateau de Beille in background";
+text[772]="View around the road near Lordat with summits of the Tabe massif";
 text[773]="";
 text[774]="";
 text[775]="";
@@ -784,7 +784,7 @@ text[777]="";
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(766*Math.random()+1);  // random number between 1 and 766
+var i = Math.floor(772*Math.random()+1);  // random number between 1 and 772
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) document.write("<div id='pictures'>");

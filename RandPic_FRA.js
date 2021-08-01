@@ -764,17 +764,17 @@ text[758]="Verdure de la R&eacute;serve Naturelle de Mantet";
 text[759]="Paysage autour de la route pr&egrave;s du sommet du col de Mantet";
 text[760]="Vue en direction du sommet du col de Mantet";
 text[761]="Le massif du Qui&eacute; et son environnement vus de Pech";
-text[762]="Le Ch&acirc;teau de Gudanes devant des sommets du massif de Tabe vus de Ch&acirc;teau-Verdun";
+text[762]="Le ch&acirc;teau de Gudanes devant des sommets du massif de Tabe vus de Ch&acirc;teau-Verdun";
 text[763]="Verdure pr&egrave;s de l'&eacute;glise Saint-Blaise de Verdun avec Larnat en arri&egrave;re-plan (centre)";
 text[764]="&Eacute;glise Saint-Blaise de Verdun devant le massif du Qui&eacute;";
 text[765]="Plateau de Beille et vall&eacute;e de l'Aston vus au-dessus des Cabannes et de Verdun";
 text[766]="Vue autour de la route menant au pas de Souloumbrie avec Larnat en arri&egrave;re-plan";
-text[767]="";
-text[768]="";
-text[769]="";
-text[770]="";
-text[771]="";
-text[772]="";
+text[767]="Paysage au-dessus des Cabannes et de Verdun avec le plateau de Beille, Aston et sa vall&eacute;e";
+text[768]="Vue sur le plateau de Beille &agrave; partir de la r&eacute;gion de Caychax";
+text[769]="Verdure autour de Lordat, son ch&acirc;teau et le pic Calmont vue de la route entre Appy et Axiat";
+text[770]="&Eacute;glise Saint-Julien d'Axiat dans la verdure du massif de Tabe";
+text[771]="Les ruines du ch&acirc;teau de Lordat et leurs environs avec le plateau de Beille en arri&egrave;re-plan";
+text[772]="Vue autour de la route pr&egrave;s de Lordat avec des sommets du massif de Tabe";
 text[773]="";
 text[774]="";
 text[775]="";
@@ -784,7 +784,7 @@ text[777]="";
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(766*Math.random()+1);  // nombre aleatoire entre 1 et 766
+var i = Math.floor(772*Math.random()+1);  // nombre aleatoire entre 1 et 772
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");
