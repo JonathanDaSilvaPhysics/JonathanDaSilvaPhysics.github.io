@@ -16,6 +16,7 @@ body
     background: rgb(237,237,237);
     font-family: 'Trebuchet MS', Arial, sans-serif;
     background: url('images/picture_0.jpg') no-repeat center;
+    background-size: cover;
 }
 
 #bloc_page_header
