@@ -778,5 +778,8 @@ isLarge[774]=true;
 isLarge[775]=true;
 isLarge[776]=true;
 isLarge[777]=true;
+isLarge[778]=true;
+isLarge[779]=true;
+isLarge[780]=true;
 
 //-->

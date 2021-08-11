@@ -780,11 +780,14 @@ text[774]="Vue sur Lordat et le pic Calmont";
 text[775]="Paysage de la vall&eacute;e de l'Ari&egrave;ge autour de Luzenac vu pr&egrave;s de Lordat";
 text[776]="Les ruines du ch&acirc;teau de Lordat vues de la route entre Lordat et Vernaux";
 text[777]="Verdure autour de Montoulieu avec le Prat d'Albis en arri&egrave;re-plan (droite)";
+text[778]="D&eacute;cor de la r&eacute;gion de Tarabel avec Aurin (gauche) et Maureville (droite) en arri&egrave;re-plan";
+text[779]="Champs et verdure pr&egrave;s d'Aurin";
+text[780]="Vue sur Aurin et ses champs environnants";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(777*Math.random()+1);  // nombre aleatoire entre 1 et 777
+var i = Math.floor(780*Math.random()+1);  // nombre aleatoire entre 1 et 780
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");
