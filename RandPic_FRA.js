@@ -783,11 +783,22 @@ text[777]="Verdure autour de Montoulieu avec le Prat d'Albis en arri&egrave;re-p
 text[778]="D&eacute;cor de la r&eacute;gion de Tarabel avec Aurin (gauche) et Maureville (droite) en arri&egrave;re-plan";
 text[779]="Champs et verdure pr&egrave;s d'Aurin";
 text[780]="Vue sur Aurin et ses champs environnants";
+text[781]="Des vaches et un l&eacute;ger brouillard entre Lespiteau et Soueich";
+text[782]="Verdure entre Aspet et Milhas avec le pic de Cagire en arri&egrave;re-plan";
+text[783]="Vue en direction de Sengouagnet et du pic de Cagire &agrave; partir des environs de Milhas";
+text[784]="De gauche &agrave; droite : pic de Cagire, pic du Gar et r&eacute;gion de Sengouagnet vus du hameau de Campas";
+text[785]="D&eacute;cor autour de l'&eacute;glise Saint-F&eacute;lix de Milhas avec le pic de Cagire et le pic du Gar en arri&egrave;re-plan"; 
+text[786]="Milhas et son environnement";
+text[787]="";
+text[788]="";
+text[789]="";
+text[790]="";
+text[791]="";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(780*Math.random()+1);  // nombre aleatoire entre 1 et 780
+var i = Math.floor(786*Math.random()+1);  // nombre aleatoire entre 1 et 786
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");

@@ -781,5 +781,16 @@ isLarge[777]=true;
 isLarge[778]=true;
 isLarge[779]=true;
 isLarge[780]=true;
+isLarge[781]=true;
+isLarge[782]=true;
+isLarge[783]=true;
+isLarge[784]=true;
+isLarge[785]=true;
+isLarge[786]=true;
+isLarge[787]=true;
+isLarge[788]=true;
+isLarge[789]=true;
+isLarge[790]=true;
+isLarge[791]=true;
 
 //-->

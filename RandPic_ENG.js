@@ -783,11 +783,22 @@ text[777]="Greenery around Montoulieu with the Prat d'Albis in background (right
 text[778]="Scenery of the area of Tarabel with Aurin (left) and Maureville (right) in background";
 text[779]="Fields and greenery near Aurin";
 text[780]="View over Aurin and its surrounding fields";
+text[781]="Cows and a light fog between Lespiteau and Soueich";
+text[782]="Greenery between Aspet and Milhas with the Pic de Cagire in background";
+text[783]="View towards Sengouagnet and the Pic de Cagire from near Milhas";
+text[784]="From left to right : Pic de Cagire, Pic du Gar and area of Sengouagnet seen from the hamlet of Campas";
+text[785]="Scenery around Saint-F&eacute;lix church of Milhas with pic de Cagire and pic du Gar in background";
+text[786]="Milhas and its environment";
+text[787]="";
+text[788]="";
+text[789]="";
+text[790]="";
+text[791]="";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(780*Math.random()+1);  // random number between 1 and 780
+var i = Math.floor(786*Math.random()+1);  // random number between 1 and 786
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) document.write("<div id='pictures'>");
