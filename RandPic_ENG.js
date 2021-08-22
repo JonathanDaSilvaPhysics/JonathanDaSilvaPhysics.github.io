@@ -789,16 +789,16 @@ text[783]="View towards Sengouagnet and the Pic de Cagire from near Milhas";
 text[784]="From left to right : Pic de Cagire, Pic du Gar and area of Sengouagnet seen from the hamlet of Campas";
 text[785]="Scenery around Saint-F&eacute;lix church of Milhas with pic de Cagire and pic du Gar in background";
 text[786]="Milhas and its environment";
-text[787]="";
-text[788]="";
-text[789]="";
-text[790]="";
-text[791]="";
+text[787]="Greenery in the area of Milhas";
+text[788]="A grazing cow seen on the road to the hamlet of Laouech";
+text[789]="A curious cow seen on the road to the hamlet of Laouech";
+text[790]="Landscape of the area between Sengouagnet and Milhas seen on the road to Razecueill&eacute;";
+text[791]="Greenery around the Pic de Campoun (right) seen from the road to the hamlet of L&ocirc;o";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(786*Math.random()+1);  // random number between 1 and 786
+var i = Math.floor(791*Math.random()+1);  // random number between 1 and 791
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) document.write("<div id='pictures'>");

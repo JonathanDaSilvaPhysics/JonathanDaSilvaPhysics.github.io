@@ -789,16 +789,16 @@ text[783]="Vue en direction de Sengouagnet et du pic de Cagire &agrave; partir d
 text[784]="De gauche &agrave; droite : pic de Cagire, pic du Gar et r&eacute;gion de Sengouagnet vus du hameau de Campas";
 text[785]="D&eacute;cor autour de l'&eacute;glise Saint-F&eacute;lix de Milhas avec le pic de Cagire et le pic du Gar en arri&egrave;re-plan"; 
 text[786]="Milhas et son environnement";
-text[787]="";
-text[788]="";
-text[789]="";
-text[790]="";
-text[791]="";
+text[787]="Verdure dans la r&eacute;gion de Milhas";
+text[788]="Une vache qui broute vue sur la route menant au hameau de Laouech";
+text[789]="Une vache curieuse vue sur la route menant au hameau de Laouech";
+text[790]="Paysage de la r&eacute;gion entre Sengouagnet et Milhas vu de la route menant &agrave; Razecueill&eacute;";
+text[791]="Verdure autour du pic de Campoun (droite) vue de la route menant au hameau de L&ocirc;o";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(786*Math.random()+1);  // nombre aleatoire entre 1 et 786
+var i = Math.floor(791*Math.random()+1);  // nombre aleatoire entre 1 et 791
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");
