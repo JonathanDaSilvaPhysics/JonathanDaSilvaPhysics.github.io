@@ -794,11 +794,20 @@ text[788]="A grazing cow seen on the road to the hamlet of Laouech";
 text[789]="A curious cow seen on the road to the hamlet of Laouech";
 text[790]="Landscape of the area between Sengouagnet and Milhas seen on the road to Razecueill&eacute;";
 text[791]="Greenery around the Pic de Campoun (right) seen from the road to the hamlet of L&ocirc;o";
+text[792]="From left to right : Pic de la Bède, Capoulet-et-Junac and Lap&egrave;ge (top-right)";
+text[793]="Landscape around the road to Miglos with the Pic de la Bède and Capoulet-et-Junac in background (right)";
+text[794]="Greenery near the hamlet of Norgeat in Miglos";
+text[795]="View over the hamlet of Arquizat and its surrounding greenery";
+text[796]="Scenery of the Vicdessos valley seen near Miglos with Capoulet-et-Junac and Lap&egrave;ge";
+text[797]="";
+text[798]="";
+text[799]="";
+text[800]="";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(791*Math.random()+1);  // random number between 1 and 791
+var i = Math.floor(796*Math.random()+1);  // random number between 1 and 796
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) document.write("<div id='pictures'>");

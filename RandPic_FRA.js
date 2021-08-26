@@ -794,11 +794,20 @@ text[788]="Une vache qui broute vue sur la route menant au hameau de Laouech";
 text[789]="Une vache curieuse vue sur la route menant au hameau de Laouech";
 text[790]="Paysage de la r&eacute;gion entre Sengouagnet et Milhas vu de la route menant &agrave; Razecueill&eacute;";
 text[791]="Verdure autour du pic de Campoun (droite) vue de la route menant au hameau de L&ocirc;o";
+text[792]="De gauche &agrave; droite : pic de la Bède, Capoulet-et-Junac et Lap&egrave;ge (en haut &agrave; droite)";
+text[793]="Paysage autour de la route vers Miglos avec le pic de la Bède et Capoulet-et-Junac en arri&egrave;re-plan (droite)";
+text[794]="Verdure pr&egrave;s du hameau de Norgeat &agrave; Miglos";
+text[795]="Vue sur le hameau d'Arquizat et sa verdure environnante";
+text[796]="D&eacute;cor de la vall&eacute;e de Vicdessos vu pr&egrave;s de Miglos avec Capoulet-et-Junac et Lap&egrave;ge";
+text[797]="";
+text[798]="";
+text[799]="";
+text[800]="";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(791*Math.random()+1);  // nombre aleatoire entre 1 et 791
+var i = Math.floor(796*Math.random()+1);  // nombre aleatoire entre 1 et 796
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");
