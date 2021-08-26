@@ -799,15 +799,15 @@ text[793]="Landscape around the road to Miglos with the Pic de la Bède and Capo
 text[794]="Greenery near the hamlet of Norgeat in Miglos";
 text[795]="View over the hamlet of Arquizat and its surrounding greenery";
 text[796]="Scenery of the Vicdessos valley seen near Miglos with Capoulet-et-Junac and Lap&egrave;ge";
-text[797]="";
-text[798]="";
-text[799]="";
-text[800]="";
+text[797]="Capoulet-et-Junac, Lap&egrave;ge and Miglos Castle seen near Miglos";
+text[798]="Ruins of Miglos Castle with Lap&egrave;ge in background (left)";
+text[799]="View over the ruins of Miglos Castle from the road between Miglos and Niaux";
+text[800]="Pic de la Bède, Lap&egrave;ge and its road with slope breaks seen near the hamlet of Baychon";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(796*Math.random()+1);  // random number between 1 and 796
+var i = Math.floor(800*Math.random()+1);  // random number between 1 and 800
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) document.write("<div id='pictures'>");

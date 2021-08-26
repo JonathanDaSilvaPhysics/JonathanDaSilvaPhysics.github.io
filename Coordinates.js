@@ -797,9 +797,9 @@ latitudeLongitude[793]="42.797958,1.588608";
 latitudeLongitude[794]="42.778863,1.601988";
 latitudeLongitude[795]="42.793891,1.596782";
 latitudeLongitude[796]="42.794875,1.593007";
-latitudeLongitude[797]="";
-latitudeLongitude[798]="";
-latitudeLongitude[799]="";
-latitudeLongitude[800]="";
+latitudeLongitude[797]="42.794875,1.593007";
+latitudeLongitude[798]="42.796323,1.591021";
+latitudeLongitude[799]="42.798800,1.592514";
+latitudeLongitude[800]="42.803079,1.595186";
 
 //-->

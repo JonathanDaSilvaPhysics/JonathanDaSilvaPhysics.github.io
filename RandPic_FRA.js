@@ -799,15 +799,15 @@ text[793]="Paysage autour de la route vers Miglos avec le pic de la Bède et Cap
 text[794]="Verdure pr&egrave;s du hameau de Norgeat &agrave; Miglos";
 text[795]="Vue sur le hameau d'Arquizat et sa verdure environnante";
 text[796]="D&eacute;cor de la vall&eacute;e de Vicdessos vu pr&egrave;s de Miglos avec Capoulet-et-Junac et Lap&egrave;ge";
-text[797]="";
-text[798]="";
-text[799]="";
-text[800]="";
+text[797]="Capoulet-et-Junac, Lap&egrave;ge et le ch&acirc;teau de Miglos vu pr&egrave;s de Miglos";
+text[798]="Les ruines du ch&acirc;teau de Miglos avec Lap&egrave;ge en arri&egrave;re-plan (gauche)";
+text[799]="Vue sur les ruines du ch&acirc;teau de Miglos &agrave; partir de la route entre Miglos et Niaux";
+text[800]="Pic de la Bède, Lap&egrave;ge et sa route avec ruptures de pente vus pr&egrave;s du hameau de Baychon";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(796*Math.random()+1);  // nombre aleatoire entre 1 et 796
+var i = Math.floor(800*Math.random()+1);  // nombre aleatoire entre 1 et 800
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");
