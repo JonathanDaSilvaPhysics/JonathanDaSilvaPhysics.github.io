@@ -803,11 +803,20 @@ text[797]="Capoulet-et-Junac, Lap&egrave;ge and Miglos Castle seen near Miglos";
 text[798]="Ruins of Miglos Castle with Lap&egrave;ge in background (left)";
 text[799]="View over the ruins of Miglos Castle from the road between Miglos and Niaux";
 text[800]="Pic de la Bède, Lap&egrave;ge and its road with slope breaks seen near the hamlet of Baychon";
+text[801]="A bridge over the Siguer sream in Laramade";
+text[802]="Mining-related facilities over the Vicdessos stream in Laramade";
+text[803]="Saint-Orens church of Illier and its surroundings with summits of the Vicdessos valley in background (left)";
+text[804]="Greenery and summits of the Vicdessos valley seen from Illier";
+text[805]="Greeny scenery of Illier";
+text[806]="Lanscape around Illier with the Bouiche de Gesti&egrave;s in background (right)";
+text[807]="View over of the Vicdessos valley and the Bouiche de Gesti&egrave;s from the road to Illier";
+text[808]="Greenery around the climb to Illier";
+text[809]="A curious horse near the hamlet of Seuillac in Siguer";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(800*Math.random()+1);  // random number between 1 and 800
+var i = Math.floor(809*Math.random()+1);  // random number between 1 and 809
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) document.write("<div id='pictures'>");

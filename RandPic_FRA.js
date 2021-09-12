@@ -803,11 +803,20 @@ text[797]="Capoulet-et-Junac, Lap&egrave;ge et le ch&acirc;teau de Miglos vu pr&
 text[798]="Les ruines du ch&acirc;teau de Miglos avec Lap&egrave;ge en arri&egrave;re-plan (gauche)";
 text[799]="Vue sur les ruines du ch&acirc;teau de Miglos &agrave; partir de la route entre Miglos et Niaux";
 text[800]="Pic de la Bède, Lap&egrave;ge et sa route avec ruptures de pente vus pr&egrave;s du hameau de Baychon";
+text[801]="Un pont au-dessus du ruisseau de Siguer &agrave; Laramade";
+text[802]="Installations li&eacute;es &agrave; l'extraction mini&egrave;re au-dessus du ruisseau de Vicdessos &agrave; Laramade";
+text[803]="&Eacute;glise Saint-Orens d'Illier et ses environs avec des sommets de la vall&eacute;e de Vicdessos en arri&egrave;re-plan (gauche)";
+text[804]="Verdure et sommets de la vall&eacute;e de Vicdessos vus d'Illier";
+text[805]="D&eacute;cor verdoyant d'Illier";
+text[806]="Paysage autour d'Illier avec le Bouiche de Gesti&egrave;s en arri&egrave;re-plan (droite)";
+text[807]="Vue sur la vall&eacute;e de Vicdessos et le Bouiche de Gesti&egrave;s &agrave; partir de la route menant &agrave; Illier";
+text[808]="Verdure autour de la mont&eacute;e vers Illier";
+text[809]="Un cheval curieux pr&egrave;s du hameau de Seuillac &agrave; Siguer";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(800*Math.random()+1);  // nombre aleatoire entre 1 et 800
+var i = Math.floor(809*Math.random()+1);  // nombre aleatoire entre 1 et 809
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");

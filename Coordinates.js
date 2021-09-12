@@ -801,5 +801,14 @@ latitudeLongitude[797]="42.794875,1.593007";
 latitudeLongitude[798]="42.796323,1.591021";
 latitudeLongitude[799]="42.798800,1.592514";
 latitudeLongitude[800]="42.803079,1.595186";
+latitudeLongitude[801]="42.784449,1.559923";
+latitudeLongitude[802]="42.784160,1.558194";
+latitudeLongitude[803]="42.787372,1.539772";
+latitudeLongitude[804]="42.787580,1.539141";
+latitudeLongitude[805]="42.787315,1.537595";
+latitudeLongitude[806]="42.787284,1.538017";
+latitudeLongitude[807]="42.785872,1.544979";
+latitudeLongitude[808]="42.786485,1.547746";
+latitudeLongitude[809]="42.765381,1.561266";
 
 //-->
