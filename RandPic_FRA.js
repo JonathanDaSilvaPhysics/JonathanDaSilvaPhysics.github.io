@@ -812,11 +812,21 @@ text[806]="Paysage autour d'Illier avec le Bouiche de Gesti&egrave;s en arri&egr
 text[807]="Vue sur la vall&eacute;e de Vicdessos et le Bouiche de Gesti&egrave;s &agrave; partir de la route menant &agrave; Illier";
 text[808]="Verdure autour de la mont&eacute;e vers Illier";
 text[809]="Un cheval curieux pr&egrave;s du hameau de Seuillac &agrave; Siguer";
+text[810]="Le ruisseau de Siguer &agrave; Siguer aves les pics de Balj&eacute;sou et du Midi de Siguer en arri&egrave;re-plan";
+text[811]="D&eacute;cor autour de la route pr&egrave;s du hameau de Camarilles avec le pic de Taychou";
+text[812]="Verdure autour du hameau de Camarilles avec Gesti&egrave;s en arri&egrave;re-plan";
+text[813]="D&eacute;cor de la vall&eacute;e de Siguer vu de Gesti&egrave;s avec les pics du Midi de Siguer, de Taychou et d'Endron";
+text[814]="Gesti&egrave;s et son environnement";
+text[815]="Pic de la Bède et Lercoul vus de Gesti&egrave;s";
+text[816]="Verdure autour de la route menant &agrave; Gesti&egrave;s avec sa chapelle Saint-Nicolas en arri&egrave;re-plan";
+text[817]="Vue sur le pic de la Bède (gauche) et Lercoul (centre) &agrave; partir des environs de Gesti&egrave;s";
+text[818]="De gauche &agrave; droite dans la vall&eacute;e de Siguer : pics de Balj&eacute;sou, du Midi de Siguer, de Taychou et d'Endron";
+text[819]="D&eacute;cor de la vall&eacute;e de Siguer avec le pic de la Bède, le hameau de Seuillac et Lercoul";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(809*Math.random()+1);  // nombre aleatoire entre 1 et 809
+var i = Math.floor(819*Math.random()+1);  // nombre aleatoire entre 1 et 819
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");

@@ -812,11 +812,21 @@ text[806]="Lanscape around Illier with the Bouiche de Gesti&egrave;s in backgrou
 text[807]="View over of the Vicdessos valley and the Bouiche de Gesti&egrave;s from the road to Illier";
 text[808]="Greenery around the climb to Illier";
 text[809]="A curious horse near the hamlet of Seuillac in Siguer";
+text[810]="The Siguer sream in Siguer with the Pic de Balj&eacute;sou and the Pic du Midi de Siguer in background";
+text[811]="Scenery around the road near the hamlet of Camarilles with the Pic de Taychou";
+text[812]="Greenery around the hamlet of Camarilles with Gesti&egrave;s in background";
+text[813]="Scenery of the Siguer valley seen from Gesti&egrave;s with Pic du Midi de Siguer, Pic de Taychou and Pic d'Endron";
+text[814]="Gesti&egrave;s and its environment";
+text[815]="Pic de la Bède and Lercoul seen from Gesti&egrave;s";
+text[816]="Greenery around the road to Gesti&egrave;s with its Saint-Nicolas chapel in background";
+text[817]="View over the Pic de la Bède (left) and Lercoul (center) from near Gesti&egrave;s";
+text[818]="From left to right in Siguer valley : Pic de Balj&eacute;sou, Pic du Midi de Siguer, Pic de Taychou and Pic d'Endron";
+text[819]="Scenery of the Siguer valley with the Pic de la Bède, the hamlet of Seuillac and Lercoul";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(809*Math.random()+1);  // random number between 1 and 809
+var i = Math.floor(819*Math.random()+1);  // random number between 1 and 819
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) document.write("<div id='pictures'>");
