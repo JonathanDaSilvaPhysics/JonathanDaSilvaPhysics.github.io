@@ -822,11 +822,13 @@ text[816]="Greenery around the road to Gesti&egrave;s with its Saint-Nicolas cha
 text[817]="View over the Pic de la Bède (left) and Lercoul (center) from near Gesti&egrave;s";
 text[818]="From left to right in Siguer valley : Pic de Balj&eacute;sou, Pic du Midi de Siguer, Pic de Taychou and Pic d'Endron";
 text[819]="Scenery of the Siguer valley with the Pic de la Bède, the hamlet of Seuillac and Lercoul";
+text[820]="Landscape near Bellongue valley around Portet-d'Aspet seen near the top of the Col de Portet d'Aspet";
+text[821]="A circumspect horse at the top of the Col de Portet d'Aspet";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(819*Math.random()+1);  // random number between 1 and 819
+var i = Math.floor(821*Math.random()+1);  // random number between 1 and 821
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) document.write("<div id='pictures'>");

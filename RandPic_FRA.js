@@ -822,11 +822,13 @@ text[816]="Verdure autour de la route menant &agrave; Gesti&egrave;s avec sa cha
 text[817]="Vue sur le pic de la Bède (gauche) et Lercoul (centre) &agrave; partir des environs de Gesti&egrave;s";
 text[818]="De gauche &agrave; droite dans la vall&eacute;e de Siguer : pics de Balj&eacute;sou, du Midi de Siguer, de Taychou et d'Endron";
 text[819]="D&eacute;cor de la vall&eacute;e de Siguer avec le pic de la Bède, le hameau de Seuillac et Lercoul";
+text[820]="Paysage pr&egrave;s de la vall&eacute;e de la Bellongue autour de Portet-d'Aspet vu pr&egrave;s du sommet du col de Portet d'Aspet";
+text[821]="Un cheval circonspect au sommet du col de Portet d'Aspet";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(819*Math.random()+1);  // nombre aleatoire entre 1 et 819
+var i = Math.floor(821*Math.random()+1);  // nombre aleatoire entre 1 et 821
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");
