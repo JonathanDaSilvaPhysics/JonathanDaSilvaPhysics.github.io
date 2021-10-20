@@ -824,11 +824,20 @@ text[818]="From left to right in Siguer valley : Pic de Balj&eacute;sou, Pic du 
 text[819]="Scenery of the Siguer valley with the Pic de la Bède, the hamlet of Seuillac and Lercoul";
 text[820]="Landscape near Bellongue valley around Portet-d'Aspet seen near the top of the Col de Portet d'Aspet";
 text[821]="A circumspect horse at the top of the Col de Portet d'Aspet";
+text[822]="Greenery of Siguer valley with Gesti&egrave;s and Siguer, seen from Lercoul";
+text[823]="Curious sheeps in Lercoul";
+text[824]="Scenery near the Roche de Barracou above Lercoul";
+text[825]="View around the road to the Roche de Barracou above Lercoul";
+text[826]="Greenery around Lercoul";
+text[827]="Scenery of Lercoul with the Siguer valley in background";
+text[828]="Greenery around the Pic de la Bède seen from the road between Siguer and Lercoul";
+text[829]="View over Gesti&egrave;s (center) and Siguer (bottom-right) from the road to Lercoul";
+text[830]="Landscape of Siguer valley with Gesti&egrave;s (left) and Siguer (bottom)";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(821*Math.random()+1);  // random number between 1 and 821
+var i = Math.floor(830*Math.random()+1);  // random number between 1 and 830
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) document.write("<div id='pictures'>");

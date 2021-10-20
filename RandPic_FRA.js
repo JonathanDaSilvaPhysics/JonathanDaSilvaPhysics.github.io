@@ -824,11 +824,20 @@ text[818]="De gauche &agrave; droite dans la vall&eacute;e de Siguer : pics de B
 text[819]="D&eacute;cor de la vall&eacute;e de Siguer avec le pic de la Bède, le hameau de Seuillac et Lercoul";
 text[820]="Paysage pr&egrave;s de la vall&eacute;e de la Bellongue autour de Portet-d'Aspet vu pr&egrave;s du sommet du col de Portet d'Aspet";
 text[821]="Un cheval circonspect au sommet du col de Portet d'Aspet";
+text[822]="Verdure de la vall&eacute;e de Siguer avec Gesti&egrave;s et Siguer, vue de Lercoul";
+text[823]="Moutons curieux &agrave; Lercoul";
+text[824]="D&eacute;cor pr&egrave;s de la Roche de Barracou au-dessus de Lercoul";
+text[825]="Vue autour de la route vers la Roche de Barracou au-dessus de Lercoul";
+text[826]="Verdure autour de Lercoul";
+text[827]="D&eacute;cor de Lercoul avec la vall&eacute;e de Siguer en arri&egrave;re-plan";
+text[828]="Verdure autour du pic de la Bède vue de la route entre Siguer et Lercoul";
+text[829]="Vue sur Gesti&egrave;s (centre) et Siguer (en bas &agrave; droite) &agrave; partir de la route de Lercoul";
+text[830]="Paysage de la vall&eacute;e de Siguer avec Gesti&egrave;s (gauche) et Siguer (en bas)";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(821*Math.random()+1);  // nombre aleatoire entre 1 et 821
+var i = Math.floor(830*Math.random()+1);  // nombre aleatoire entre 1 et 830
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");
