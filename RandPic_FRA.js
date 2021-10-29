@@ -833,11 +833,17 @@ text[827]="D&eacute;cor de Lercoul avec la vall&eacute;e de Siguer en arri&egrav
 text[828]="Verdure autour du pic de la Bède vue de la route entre Siguer et Lercoul";
 text[829]="Vue sur Gesti&egrave;s (centre) et Siguer (en bas &agrave; droite) &agrave; partir de la route de Lercoul";
 text[830]="Paysage de la vall&eacute;e de Siguer avec Gesti&egrave;s (gauche) et Siguer (en bas)";
+text[831]="No&eacute; vue de la route menant &agrave; Montaut";
+text[832]="Des champs pr&egrave;s de Montgazin avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
+text[833]="Paysage du nord de Montgazin";
+text[834]="D&eacute;cor de la r&eacute;gion entre Montgazin et Lacaugne";
+text[835]="Des champs pr&egrave;s de L&eacute;zat-sur-L&egrave;ze avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
+text[836]="Champs et verdure de la r&eacute;gion de Lacaugne";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(830*Math.random()+1);  // nombre aleatoire entre 1 et 830
+var i = Math.floor(836*Math.random()+1);  // nombre aleatoire entre 1 et 836
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) document.write("<div id='pictures'>");

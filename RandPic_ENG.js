@@ -833,11 +833,17 @@ text[827]="Scenery of Lercoul with the Siguer valley in background";
 text[828]="Greenery around the Pic de la Bède seen from the road between Siguer and Lercoul";
 text[829]="View over Gesti&egrave;s (center) and Siguer (bottom-right) from the road to Lercoul";
 text[830]="Landscape of Siguer valley with Gesti&egrave;s (left) and Siguer (bottom)";
+text[831]="No&eacute; seen from the road to Montaut";
+text[832]="Fields near Montgazin with the Pyrenees in background";
+text[833]="Landscape of the north of Montgazin";
+text[834]="Scenery of the area between Montgazin and Lacaugne";
+text[835]="Fields near L&eacute;zat-sur-L&egrave;ze with the Pyrenees in background";
+text[836]="Fields and greenery of the area of Lacaugne";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(830*Math.random()+1);  // random number between 1 and 830
+var i = Math.floor(836*Math.random()+1);  // random number between 1 and 836
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) document.write("<div id='pictures'>");

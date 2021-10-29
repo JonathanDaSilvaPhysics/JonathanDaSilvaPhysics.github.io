@@ -831,5 +831,11 @@ latitudeLongitude[827]="42.770301,1.545009";
 latitudeLongitude[828]="42.769459,1.554216";
 latitudeLongitude[829]="42.769183,1.555124";
 latitudeLongitude[830]="42.768906,1.556604";
+latitudeLongitude[831]="43.344522,1.283843";
+latitudeLongitude[832]="43.316702,1.301309";
+latitudeLongitude[833]="43.309696,1.302660";
+latitudeLongitude[834]="43.294619,1.296430";
+latitudeLongitude[835]="43.277910,1.311045";
+latitudeLongitude[836]="43.275945,1.286501";
 
 //-->
