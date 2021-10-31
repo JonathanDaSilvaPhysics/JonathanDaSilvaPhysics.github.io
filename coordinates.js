@@ -1,5 +1,3 @@
-<!--
-
 var latitudeLongitude = new Array ();
 latitudeLongitude[1] = "53.463743,-2.291724";
 latitudeLongitude[2] = "45.804527,6.170838";
@@ -837,5 +835,3 @@ latitudeLongitude[833]="43.309696,1.302660";
 latitudeLongitude[834]="43.294619,1.296430";
 latitudeLongitude[835]="43.277910,1.311045";
 latitudeLongitude[836]="43.275945,1.286501";
-
-//-->

@@ -1,5 +1,10 @@
-<!--
-// Balise ci-dessus : pour ancien navigateur ne reconnaissant pas js
+// Afficher la partie contact :
+
+document.write("<div id='contact'><h1>Contact</h1><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 31 octobre 2021</span></p>");
+document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
+document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
+
 // Afficher aleatoirement une image :
 
 var text = new Array ();   // definir le texte de chaque lien
@@ -854,4 +859,3 @@ else document.write("<div id='banniere_image' style='background:url(");
 document.write("images/RandPic/picture_" + i + ".jpg");
 document.write(") no-repeat center;'>");
 document.write("<div id='banniere_description'><a href='http://maps.google.fr/maps?f=q&amp;hl=fr&amp;q="+latitudeLongitude[i]+"'target='_blank'>"+text[i]+"</a></div></div>");
-//-->

@@ -1,5 +1,10 @@
-<!--
-// Tag above : for old browser that doesn't recognize js
+// Display contact section :
+
+document.write("<div id='contact'><h1>Contact</h1><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
+document.write("<p> <span class='end'>Last update : 31 october 2021</span></p>");
+document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
+document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
+
 // Display randomly a picture :
 
 var text = new Array ();   // define the text for each picture
@@ -855,4 +860,3 @@ document.write("images/RandPic/picture_" + i + ".jpg");
 document.write(") no-repeat center;'>");
 document.write("<div id='banniere_description'><a href='http://maps.google.com/maps?f=q&amp;hl=en&amp;q="+latitudeLongitude[i]+"'target='_blank'>"+text[i]+"</a></div></div>");
 document.write("</div>");
-//-->

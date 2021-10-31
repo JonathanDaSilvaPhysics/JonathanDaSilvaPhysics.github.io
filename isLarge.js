@@ -1,5 +1,3 @@
-<!--
-
 var isLarge = new Array ();
 isLarge[1] = false;
 isLarge[2] = false;
@@ -837,5 +835,3 @@ isLarge[833]=true;
 isLarge[834]=true;
 isLarge[835]=true;
 isLarge[836]=true;
-
-//-->
