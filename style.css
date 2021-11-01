@@ -222,7 +222,7 @@ aside
 /* for large : convert picture_i.jpg -resize 650x650 picture_i.jpg*/
 
 
-#banniere_image, #banniere_image_large
+.banniere_image, .banniere_image_large
 {
     margin-top: 10px;
     height: 300px;
@@ -234,17 +234,17 @@ aside
     margin-right: 1px;
 }
 
-#banniere_image
+.banniere_image
 {
     width: 400px;
 }
 
-#banniere_image_large
+.banniere_image_large
 {
     width: 650px;
 }
 
-#banniere_description
+.banniere_description
 {
     position: absolute;
     bottom: 0;
@@ -260,13 +260,13 @@ aside
     align-items: center;
 }
 
-#banniere_description a
+.banniere_description a
 {
     color: var(--main-blocks);
     text-decoration: none;
 }
 
-#banniere_description a:hover
+.banniere_description a:hover
 {
     border-bottom: none;
 }
@@ -295,13 +295,13 @@ footer a:hover
     border-bottom: 2px dotted var(--mail-link);
 }
 
-#contact, #pictures_small, #pictures
+.contact, .pictures_small, .pictures
 {
     display: inline-block;
     vertical-align: top;
 }
 
-#pictures_small, #pictures
+.pictures_small, .pictures
 {
     position:relative;
 }
@@ -317,7 +317,7 @@ footer a:hover
 
 /* Pour activer un positionnement type inline-block sur les vieilles versions d'IE */
 
-.old_ie header h1, .old_ie nav, .old_ie nav li, .old_ie article,  .old_ie aside, .old_ie #contact, .old_ie #pictures_small, .old_ie #pictures
+.old_ie header h1, .old_ie nav, .old_ie nav li, .old_ie article,  .old_ie aside, .old_ie .contact, .old_ie .pictures_small, .old_ie .pictures
 {
     display: inline;
 }
@@ -340,20 +340,20 @@ footer a:hover
         height: auto;
     }
 
-    #contact, #pictures, #pictures_small
+    .contact, .pictures, .pictures_small
     {
         width: 100%;
         text-align: center;
         padding-bottom: 10px;
     }
 
-    #banniere_image, #banniere_image_large
+    .banniere_image, .banniere_image_large
     {
         box-shadow: unset;
         display: inline-flex;
     }
 
-    #banniere_description
+    .banniere_description
     {
         top: 0;
         width: 100%;
@@ -372,12 +372,12 @@ footer a:hover
         padding-bottom: 10px;
     }
 
-    #banniere_image, #banniere_image_large
+    .banniere_image, .banniere_image_large
     {
         width: 100%;
     }
 
-    #banniere_description
+    .banniere_description
     {
         height: 33px;
     }
@@ -422,7 +422,7 @@ footer a:hover
         height: auto;
     }
 
-    #contact, #pictures, #pictures_small
+    .contact, .pictures, .pictures_small
     {
         width: 100%;
         text-align: center;
@@ -432,7 +432,7 @@ footer a:hover
 
     @media screen and (max-width: 480px) {
 
-        #banniere_description
+        .banniere_description
         {
             height: 50px;
     }

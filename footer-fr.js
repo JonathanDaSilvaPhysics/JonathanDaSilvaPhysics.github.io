@@ -1,6 +1,6 @@
 // Afficher la partie contact :
 
-document.write("<div id='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
+document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
 document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 1 novembre 2021</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
@@ -851,11 +851,11 @@ text[836]="Champs et verdure de la r&eacute;gion de Lacaugne";
 var i = Math.floor(836*Math.random()+1);  // nombre aleatoire entre 1 et 836
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
-if (isLarge[i]) document.write("<div id='pictures'>");
-else document.write("<div id='pictures_small'>");
+if (isLarge[i]) document.write("<div class='pictures'>");
+else document.write("<div class='pictures_small'>");
 document.write("<h2>Quelques photos en passant</h2>");
-if (isLarge[i]) document.write("<div id='banniere_image_large' style='background:url(");
-else document.write("<div id='banniere_image' style='background:url(");
+if (isLarge[i]) document.write("<div class='banniere_image_large' style='background:url(");
+else document.write("<div class='banniere_image' style='background:url(");
 document.write("images/RandPic/picture_" + i + ".jpg");
 document.write(") no-repeat center;'>");
-document.write("<div id='banniere_description'><a href='http://maps.google.fr/maps?f=q&amp;hl=fr&amp;q="+latitudeLongitude[i]+"'target='_blank'>"+text[i]+"</a></div></div>");
+document.write("<div class='banniere_description'><a href='http://maps.google.fr/maps?f=q&amp;hl=fr&amp;q="+latitudeLongitude[i]+"'target='_blank'>"+text[i]+"</a></div></div>");
