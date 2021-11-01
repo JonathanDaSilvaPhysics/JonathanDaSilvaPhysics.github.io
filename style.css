@@ -322,7 +322,7 @@ footer a:hover
 
 /* Pour activer un positionnement type inline-block sur les vieilles versions d'IE */
 
-.old_ie #name, .old_ie header h1, .old_ie nav, .old_ie nav li, .old_ie article,  .old_ie aside, .old_ie #contact, .old_ie #pictures_small, .old_ie #pictures
+.old_ie header h1, .old_ie nav, .old_ie nav li, .old_ie article,  .old_ie aside, .old_ie #contact, .old_ie #pictures_small, .old_ie #pictures
 {
     display: inline;
 }
