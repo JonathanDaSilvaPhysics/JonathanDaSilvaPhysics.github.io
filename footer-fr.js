@@ -851,11 +851,15 @@ text[836]="Champs et verdure de la r&eacute;gion de Lacaugne";
 var i = Math.floor(836*Math.random()+1);  // nombre aleatoire entre 1 et 836
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
-if (isLarge[i]) document.write("<div class='pictures'>");
-else document.write("<div class='pictures_small'>");
-document.write("<h2>Quelques photos en passant</h2>");
-if (isLarge[i]) document.write("<div class='banniere_image_large' style='background:url(");
-else document.write("<div class='banniere_image' style='background:url(");
-document.write("images/RandPic/picture_" + i + ".jpg");
-document.write(") no-repeat center;'>");
-document.write("<div class='banniere_description'><a href='http://maps.google.fr/maps?f=q&amp;hl=fr&amp;q="+latitudeLongitude[i]+"'target='_blank'>"+text[i]+"</a></div></div>");
+if (isLarge[i]) {
+    document.write("<div class='picture__block--large'>");
+    document.write("<h2>Quelques photos en passant</h2>");
+    document.write("<div class='picture--large'");
+}
+else {
+    document.write("<div class='picture__block'>");
+    document.write("<h2>Quelques photos en passant</h2>");
+    document.write("<div class='picture'");
+}
+document.write("style='background:url(images/RandPic/picture_" + i + ".jpg) no-repeat center;'>");
+document.write("<div class='caption'><a href='http://maps.google.fr/maps?f=q&amp;hl=fr&amp;q="+latitudeLongitude[i]+"'target='_blank'>"+text[i]+"</a></div></div></div>");

@@ -221,8 +221,7 @@ aside
 /* Préalablement : convert picture_i.jpg -resize 400x400 picture_i.jpg*/
 /* for large : convert picture_i.jpg -resize 650x650 picture_i.jpg*/
 
-
-.banniere_image, .banniere_image_large
+.picture, .picture--large
 {
     margin-top: 10px;
     height: 300px;
@@ -234,24 +233,23 @@ aside
     margin-right: 1px;
 }
 
-.banniere_image
+.picture
 {
     width: 400px;
 }
 
-.banniere_image_large
+.picture--large
 {
     width: 650px;
 }
 
-.banniere_description
+.caption
 {
     position: absolute;
     bottom: 0;
     border-radius: 0px 0px 5px 5px;
     width: 99.5%;
     height: 20px;
-    background-color: unset;
     color: var(--main-blocks);
     background-color: var(--picture-caption);
     font-size: 0.8em;
@@ -260,14 +258,15 @@ aside
     align-items: center;
 }
 
-.banniere_description a
+.caption a
 {
     color: var(--main-blocks);
     text-decoration: none;
 }
 
-.banniere_description a:hover
+.caption a:hover
 {
+    color: var(--main-blocks);
     border-bottom: none;
 }
 
@@ -295,15 +294,25 @@ footer a:hover
     border-bottom: 2px dotted var(--mail-link);
 }
 
-.contact, .pictures_small, .pictures
+.contact, .picture__block, .picture__block--large
 {
     display: inline-block;
     vertical-align: top;
 }
 
-.pictures_small, .pictures
+.picture__block, .picture__block--large
 {
-    position:relative;
+    position: relative;
+}
+
+.picture__block
+{
+    width: 402px;
+}
+
+.picture__block--large
+{
+    width: 652px;
 }
 
 .end
@@ -317,7 +326,7 @@ footer a:hover
 
 /* Pour activer un positionnement type inline-block sur les vieilles versions d'IE */
 
-.old_ie header h1, .old_ie nav, .old_ie nav li, .old_ie article,  .old_ie aside, .old_ie .contact, .old_ie .pictures_small, .old_ie .pictures
+.old_ie header h1, .old_ie nav, .old_ie nav li, .old_ie article,  .old_ie aside, .old_ie .contact, .old_ie .picture__block, .old_ie .picture__block--large
 {
     display: inline;
 }
@@ -340,20 +349,20 @@ footer a:hover
         height: auto;
     }
 
-    .contact, .pictures, .pictures_small
+    .contact, .picture__block, .picture__block--large
     {
-        width: 100%;
+        max-width: 100%;
         text-align: center;
         padding-bottom: 10px;
     }
 
-    .banniere_image, .banniere_image_large
+    .picture, .picture--large
     {
         box-shadow: unset;
         display: inline-flex;
     }
 
-    .banniere_description
+    .caption
     {
         top: 0;
         width: 100%;
@@ -372,12 +381,12 @@ footer a:hover
         padding-bottom: 10px;
     }
 
-    .banniere_image, .banniere_image_large
+    .picture, .picture--large
     {
         width: 100%;
     }
 
-    .banniere_description
+    .caption
     {
         height: 33px;
     }
@@ -422,9 +431,8 @@ footer a:hover
         height: auto;
     }
 
-    .contact, .pictures, .pictures_small
+    .contact, .picture__block, .picture__block--large
     {
-        width: 100%;
         text-align: center;
         padding-bottom: 10px;
     }
@@ -432,7 +440,7 @@ footer a:hover
 
     @media screen and (max-width: 480px) {
 
-        .banniere_description
+        .caption
         {
             height: 50px;
     }
