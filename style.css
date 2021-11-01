@@ -21,7 +21,7 @@
     --mail-link: rgb(179,103,0);
     --last-update: rgba(255,0,0,0.7);
     --shadow-image: rgb(133,109,77);
-    --mobile-image-description: rgba(24,24,24,0.3);
+    --picture-caption: rgba(24,24,24,0.3);
 }
 
 /* Eléments principaux de la page */
@@ -33,50 +33,38 @@ body
     background-size: cover;
 }
 
-#bloc_page_header
+.block
 {
     background-color: var(--main-blocks);
     max-width: 964px;
     padding: 15px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 20px;
     margin-bottom: 20px;
-    justify-content: center;
     border-radius: 20px / 20px;
     text-align: center;
 }
 
-#bloc_page_content
+.block__header
 {
-    background-color: var(--main-blocks);
-    max-width: 964px;
+    margin-top: 20px;
+}
+
+.block__content
+{
     height: 230px;
-    padding: 15px;
     padding-top: 0px;
-    overflow:auto;
-    margin-left: auto;
-    margin-right: auto;
+    overflow: auto;
     display: flex;
     justify-content: space-evenly;
-    margin-bottom: 20px;
-    border-radius: 20px / 20px;
-    text-align: center;
 } 
 
-#bloc_page_footer
+.block__footer
 {
-    background-color: var(--main-blocks);
-    max-width: 964px;
     height: 380px;
-    padding: 15px;
     padding-bottom: 0px;
     display: flex;
     justify-content: space-between;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 20px;
-    border-radius: 20px / 20px;
 }
 
 h2, nav a
@@ -265,14 +253,17 @@ aside
 #banniere_description
 {
     position: absolute;
-    bottom: -10px;
+    bottom: 0;
     border-radius: 0px 0px 5px 5px;
     width: 99.5%;
-    height: 33px;
-    padding-left: 10px;
+    height: 20px;
     background-color: unset;
     color: var(--main-blocks);
+    background-color: var(--picture-caption);
     font-size: 0.8em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #banniere_description a
@@ -348,7 +339,7 @@ footer a:hover
 
 @media screen and (max-width: 992px) {
 
-    #bloc_page_footer
+    .block__footer
     {
         display: block;
         padding: 5px;
@@ -370,26 +361,26 @@ footer a:hover
 
     #banniere_description
     {
-        padding-left: 0;
         top: 0;
-        background-color: var(--mobile-image-description);
         width: 100%;
-        display: flex;
-        justify-content: center;
-        align-items: center;
     }
 }
 
 @media screen and (max-width: 768px) {
 
-    #bloc_page_content
+    .block__content
     {
         padding: 0;
     }
 
     #banniere_image, #banniere_image_large
     {
-        width: 100%
+        width: 100%;
+    }
+
+    #banniere_description
+    {
+        height: 33px;
     }
 }
 
@@ -420,12 +411,12 @@ footer a:hover
         margin-right: 0;
     }
 
-    #bloc_page_content
+    .block__content
     {
         flex-wrap: wrap;
     }
 
-    #bloc_page_footer
+    .block__footer
     {
         display: block;
         padding: 5px;
