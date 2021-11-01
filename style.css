@@ -192,19 +192,17 @@ article h3
     color: var(--nav-activate)
 }
 
-
-#CV
+.cv
 {
     background-color: var(--cv-block);
     box-shadow: 0px 2px 5px var(--cv-block);
 }
 
-#thesis
+.thesis
 {
     background-color: var(--thesis-block);
     box-shadow: 0px 2px 5px var(--thesis-block);
 }
-
 
 aside
 {
