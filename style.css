@@ -216,6 +216,58 @@ aside
     text-align: center;
 }
 
+/* Footer */
+
+footer p, footer ul
+{
+    font-size: 0.8em;
+}
+
+footer h2
+{
+    font-size: 1.1em;
+}
+
+footer a
+{
+    color: unset;
+    text-decoration: none;
+}
+
+footer a:hover
+{
+    color: var(--mail-link);
+    border-bottom: 2px dotted var(--mail-link);
+}
+
+.contact, .picture__block, .picture__block--large
+{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.picture__block, .picture__block--large
+{
+    position: relative;
+}
+
+.picture__block
+{
+    width: 402px;
+}
+
+.picture__block--large
+{
+    width: 652px;
+}
+
+.end
+{
+    color: var(--last-update);
+    font-size: 0.8em;
+    font-style: oblique;
+}
+
 /* Bannière */
 
 /* Préalablement : convert picture_i.jpg -resize 400x400 picture_i.jpg*/
@@ -268,58 +320,6 @@ aside
 {
     color: var(--main-blocks);
     border-bottom: none;
-}
-
-/* Footer */
-
-footer p, footer ul
-{
-    font-size: 0.8em;
-}
-
-footer h2
-{
-    font-size: 1.1em;
-}
-
-footer a
-{
-    color: unset;
-    text-decoration: none;
-}
-
-footer a:hover
-{
-    color: var(--mail-link);
-    border-bottom: 2px dotted var(--mail-link);
-}
-
-.contact, .picture__block, .picture__block--large
-{
-    display: inline-block;
-    vertical-align: top;
-}
-
-.picture__block, .picture__block--large
-{
-    position: relative;
-}
-
-.picture__block
-{
-    width: 402px;
-}
-
-.picture__block--large
-{
-    width: 652px;
-}
-
-.end
-{
-    color: var(--last-update);
-    font-size: 0.8em;
-    font-style: oblique;
 }
 
 /* Correctifs pour les vieilles versions d'Internet Explorer */
