@@ -7,13 +7,27 @@
          url('polices/journal-webfont.woff') format('woff'),
          url('polices/journal-webfont.ttf') format('truetype'),
          url('polices/journal-webfont.svg#journal') format('svg');
-}         
+}
+
+/* Définition de couleurs personnalisées */
+
+:root {
+    --main-blocks: rgba(244,244,255,0.85);
+    --nav-block: rgb(244,245,220);
+    --nav-activate: rgb(86,130,3);
+    --article-links: rgb(84,114,174);
+    --cv-block: rgba(255,127,0,0.8);
+    --thesis-block: rgba(130,196,108,0.7);
+    --mail-link: rgb(179,103,0);
+    --last-update: rgba(255,0,0,0.7);
+    --shadow-image: rgb(133,109,77);
+    --mobile-image-description: rgba(24,24,24,0.3);
+}
 
 /* Eléments principaux de la page */
 
 body
 {
-    background: rgb(237,237,237);
     font-family: 'Trebuchet MS', Arial, sans-serif;
     background: url('images/picture_0.jpg') no-repeat center;
     background-size: cover;
@@ -21,7 +35,7 @@ body
 
 #bloc_page_header
 {
-    background: rgba(244,244,255,0.85);
+    background-color: var(--main-blocks);
     max-width: 964px;
     padding: 15px;
     margin-left: auto;
@@ -35,7 +49,7 @@ body
 
 #bloc_page_content
 {
-    background: rgba(244,244,255,0.85);
+    background-color: var(--main-blocks);
     max-width: 964px;
     height: 230px;
     padding: 15px;
@@ -52,7 +66,7 @@ body
 
 #bloc_page_footer
 {
-    background: rgba(244,244,255,0.85);
+    background-color: var(--main-blocks);
     max-width: 964px;
     height: 380px;
     padding: 15px;
@@ -89,7 +103,7 @@ nav
 {
     display: inline-block;
     text-align: center;
-    background: rgb(244,245,220);	
+    background-color: var(--nav-block);
     border-radius: 10px / 10px;
 }
 
@@ -108,30 +122,30 @@ nav li
 nav a
 {
     font-size: 1.3em;
-    color: #181818;
+    color: unset;
     padding-bottom: 3px;
     text-decoration: none;
 }
 
 nav a:hover
 {
-    color: rgb(86,130,3);
-    border-bottom: 4px solid rgb(86,130,3);
+    color: var(--nav-activate);
+    border-bottom: 4px solid var(--nav-activate);
 }
 
 nav li.active
 {
-    background-color: rgb(86,130,3);
+    background-color: var(--nav-activate);
 }
 
 nav li.active a
 {
-    color: rgb(244,245,220);
+    color: var(--nav-block);
 }
 
 nav li.active a:hover
 {
-    color: rgb(244,245,220);
+    color: var(--nav-block);
     border-bottom: none;
 }
 
@@ -158,14 +172,13 @@ article p
 
 article a
 {
-    color: #181818;
+    color: var(--article-links);
     text-decoration: none;
 }
 
 article a:hover
 {
-    color: rgb(84,114,174);
-    border-bottom: 2px dashed rgb(84,114,174);
+    border-bottom: 2px dashed var(--article-links);
 }
 
 article ul
@@ -191,20 +204,20 @@ article h3
     font-family: journal, sans-serif;
     font-size: 1.2em;
     font-weight: bold;
-    color: rgba(86,130,3,0.8);
+    color: var(--nav-activate)
 }
 
 
 #CV
 {
-    background-color: rgba(255,127,0,0.8);
-    box-shadow: 0px 2px 5px rgba(255,127,0,0.8);
+    background-color: var(--cv-block);
+    box-shadow: 0px 2px 5px var(--cv-block);
 }
 
 #thesis
 {
-    background-color: rgba(130,196,108,0.7);
-    box-shadow: 0px 2px 5px rgba(130,196,108,0.7);
+    background-color: var(--thesis-block);
+    box-shadow: 0px 2px 5px var(--thesis-block);
 }
 
 
@@ -233,7 +246,7 @@ aside
     height: 300px;
     border-radius: 5px;
     position: relative;
-    box-shadow: 0px 4px 4px rgb(133,109,77);
+    box-shadow: 0px 4px 4px var(--shadow-image);
     margin-bottom: 1px;
     margin-left: 1px;
     margin-right: 1px;
@@ -257,23 +270,20 @@ aside
     width: 99.5%;
     height: 33px;
     padding-left: 10px;
-    background-color: rgb(24,24,24); /* Pour les anciens navigateurs */
-    background-color: rgba(24,24,24,0);
-    color: white;
+    background-color: unset;
+    color: var(--main-blocks);
     font-size: 0.8em;
 }
 
 #banniere_description a
 {
-    color: white;
+    color: var(--main-blocks);
     text-decoration: none;
 }
 
 #banniere_description a:hover
 {
-    color: white;
     border-bottom: none;
-
 }
 
 /* Footer */
@@ -290,14 +300,14 @@ footer h2
 
 footer a
 {
-    color: #181818;
+    color: unset;
     text-decoration: none;
 }
 
 footer a:hover
 {
-    color: rgb(179,103,0);
-    border-bottom: 2px dotted rgb(179,103,0);
+    color: var(--mail-link);
+    border-bottom: 2px dotted var(--mail-link);
 }
 
 #contact, #pictures_small, #pictures
@@ -313,7 +323,7 @@ footer a:hover
 
 .end
 {
-    color: rgba(255,0,0,0.7);
+    color: var(--last-update);
     font-size: 0.8em;
     font-style: oblique;
 }
@@ -362,7 +372,7 @@ footer a:hover
     {
         padding-left: 0;
         top: 0;
-        background-color: rgba(24,24,24,0.3);
+        background-color: var(--mobile-image-description);
         width: 100%;
         display: flex;
         justify-content: center;
