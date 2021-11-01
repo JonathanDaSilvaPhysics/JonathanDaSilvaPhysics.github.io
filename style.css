@@ -424,13 +424,6 @@ footer a:hover
         flex-wrap: wrap;
     }
 
-    .block__footer
-    {
-        display: block;
-        padding: 5px;
-        height: auto;
-    }
-
     .contact, .picture__block, .picture__block--large
     {
         text-align: center;
