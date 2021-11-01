@@ -33,7 +33,7 @@ body
     text-align: center;
 }
 
-#bloc_page_section
+#bloc_page_content
 {
     background: rgba(244,244,255,0.85);
     width: 964px;
@@ -61,10 +61,11 @@ body
     border-radius: 20px / 20px;
 }
 
-section h1, footer h1, nav a
+h2, nav a
 {
     font-family: journal, serif;
     font-weight: bold;
+    font-size: 1.2em;
     text-transform: uppercase;
 }
 
@@ -83,7 +84,7 @@ header
 
 header h1
 {
-    font-family: 'journal', sans-serif;
+    font-family: journal, sans-serif;
     font-size: 2.6em;
     font-weight: bold;
 }
@@ -175,9 +176,9 @@ article ol.c
     list-style-type: circle;
 }
 
-article h2
+article h3
 {
-    font-family: 'journal', sans-serif;
+    font-family: journal, sans-serif;
     font-size: 1.2em;
     font-weight: bold;
     color: rgba(86,130,3,0.8);
@@ -276,7 +277,7 @@ footer p, footer ul
     font-size: 0.8em;
 }
 
-footer h1
+footer h2
 {
     font-size: 1.1em;
 }
@@ -333,7 +334,7 @@ footer a:hover
 
 /* Quelques ajustements pour les vieilles versions d'IE */
 
-.old_ie section h1, .ie8 section h1
+.old_ie h2, .ie8 h2
 {
     font-size: 1.1em;
 }
