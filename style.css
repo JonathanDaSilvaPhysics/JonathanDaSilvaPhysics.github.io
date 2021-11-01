@@ -64,7 +64,7 @@ body
     height: 380px;
     padding-bottom: 0px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 h2, nav a
