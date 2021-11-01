@@ -133,7 +133,6 @@ nav li.active a
 
 nav li.active a:hover
 {
-    color: var(--nav-block);
     border-bottom: none;
 }
 
@@ -150,12 +149,13 @@ article
 {
     width: 75%;
     margin-right: 20px;
+    font-size: 0.9em;
 }
 
-
-article p
+.lists
 {
-    font-size: 0.9em;
+    width: 85%;
+    margin: 0;
 }
 
 article a
@@ -171,19 +171,16 @@ article a:hover
 
 article ul
 {
-    font-size: 0.9em;
     list-style-type: lower-roman;
 }
 
-article ol.s
+.lists__element
 {
-    font-size: 0.9em;
     list-style-type: square;
 }
 
-article ol.c
+.lists__subelement
 {
-    font-size: 0.9em;
     list-style-type: circle;
 }
 
@@ -217,8 +214,7 @@ aside
     border-radius: 20px / 50px;
     margin-top: 40px;
     padding: 1px;
-    color: white;
-    font-size: 0.9em;
+    color: var(--main-blocks);
     text-align: center;
 }
 
@@ -371,6 +367,11 @@ footer a:hover
     .block__content
     {
         padding: 0;
+    }
+
+    article li
+    {
+        padding-bottom: 10px;
     }
 
     #banniere_image, #banniere_image_large
