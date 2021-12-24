@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 4 novembre 2021</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 24 d&eacute;cembre 2021</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -844,11 +844,17 @@ text[833]="Paysage du nord de Montgazin";
 text[834]="D&eacute;cor de la r&eacute;gion entre Montgazin et Lacaugne";
 text[835]="Des champs pr&egrave;s de L&eacute;zat-sur-L&egrave;ze avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
 text[836]="Champs et verdure de la r&eacute;gion de Lacaugne";
+text[837]="Paysage entre Marsan et Lahitte avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
+text[838]="Vue en direction de Lahitte et son environnement";
+text[839]="Des vaches pr&egrave;s de Rodez";
+text[840]="D&eacute;cor pr&egrave;s du hameau de Capdenaguet avec l'Aubrac en arri&egrave;re-plan";
+text[841]="Vue sur le hameau de Capdenaguet avec Balsac en arri&egrave;re-plan (gauche)";
+text[842]="Verdure pr&egrave;s du vieux village d'Onet-le-Ch&acirc;teau avec Rodez en arri&egrave;re-plan";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(836*Math.random()+1);  // nombre aleatoire entre 1 et 836
+var i = Math.floor(842*Math.random()+1);  // nombre aleatoire entre 1 et 842
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {
