@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 24 d&eacute;cembre 2021</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 27 d&eacute;cembre 2021</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -483,12 +483,12 @@ text[472]="Vignobles pr&egrave;s de Fra&iuml;ss&eacute;-des-Corbi&egrave;res";
 text[473]="Le massif du Canigou vu depuis la route d'Estagel";
 text[474]="Latour-de-France et ses environs";
 text[475]="Villages de la vall&eacute;e de l'Agly et les Corbi&egrave;res vus du Col del Bou";
-text[476]="Vall&eacute;e de la T&ecirc;t, Canigou et Cerdagne vus pr&egrave;s de For&ccedil;a R&eacute;al";
+text[476]="Vall&eacute;e de la T&ecirc;t, Canigou et Cerdagne vus de For&ccedil;a R&eacute;al";
 text[477]="Pech de Bugarach (gauche), Corbi&egrave;res et Latour-de-France (centre)";
 text[478]="Environs de For&ccedil;a R&eacute;al et le massif du Madr&egrave;s en arri&egrave;re-plan";
 text[479]="La plaine du Roussillon et le massif des Alb&egrave;res vus de For&ccedil;a R&eacute;al";
 text[480]="Canigou, vall&eacute;e de la T&ecirc;t, Madr&egrave;s et Fenouill&egrave;des vus de For&ccedil;a R&eacute;al";
-text[481]="De gauche &agrave; droite : Aspres, Canigou, vall&eacute;e de la T&ecirc;t et Cerdagne";
+text[481]="De gauche &agrave; droite : Aspres, vall&eacute;e de la T&ecirc;t, Canigou et Cerdagne";
 text[482]="Le massif du Madr&egrave;s et les Fenouill&egrave;des vus depuis For&ccedil;a R&eacute;al";
 text[483]="Montner, Latour-de-France et les Corbi&egrave;res vus depuis For&ccedil;a R&eacute;al";
 text[484]="De gauche &agrave; droite : Latour-de-France, Estagel et le mont Tauch";
