@@ -850,11 +850,12 @@ text[839]="Des vaches pr&egrave;s de Rodez";
 text[840]="D&eacute;cor pr&egrave;s du hameau de Capdenaguet avec l'Aubrac en arri&egrave;re-plan";
 text[841]="Vue sur le hameau de Capdenaguet avec Balsac en arri&egrave;re-plan (gauche)";
 text[842]="Verdure pr&egrave;s du vieux village d'Onet-le-Ch&acirc;teau avec Rodez en arri&egrave;re-plan";
+text[843]="L'antenne de For&ccedil;a R&eacute;al devant la plaine du Roussillon";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(842*Math.random()+1);  // nombre aleatoire entre 1 et 842
+var i = Math.floor(843*Math.random()+1);  // nombre aleatoire entre 1 et 843
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {

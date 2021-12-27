@@ -850,11 +850,12 @@ text[839]="Cows near Rodez";
 text[840]="Scenery near the hamlet of Capdenaguet with the Aubrac in background";
 text[841]="View over the hamlet of Capdenaguet with Balsac in background (left)";
 text[842]="Greenery near the old village of Onet-le-Ch&acirc;teau with Rodez in background";
+text[843]="The transmitter of For&ccedil;a R&eacute;al in front of the Roussillon plain";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(842*Math.random()+1);  // random number between 1 and 842
+var i = Math.floor(843*Math.random()+1);  // random number between 1 and 843
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) {
