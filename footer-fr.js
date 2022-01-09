@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 27 d&eacute;cembre 2021</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 9 janvier 2022</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -479,7 +479,7 @@ text[468]="R&eacute;gion de Brassac et ses hameaux vu du Bez";
 text[469]="D&eacute;cor du Sidobre autour du hameau des Pradels";
 text[470]="Paysage sur la route pr&egrave;s du Bez";
 text[471]="Montagne Noire (gauche) et Saint-Salvy-de-la-Balme (droite)";
-text[472]="Vignobles pr&egrave;s de Fra&iuml;ss&eacute;-des-Corbi&egrave;res";
+text[472]="Vignobles et paysage des Corbi&egrave;res vus pr&egrave;s de Fra&iuml;ss&eacute;-des-Corbi&egrave;res";
 text[473]="Le massif du Canigou vu depuis la route d'Estagel";
 text[474]="Latour-de-France et ses environs";
 text[475]="Villages de la vall&eacute;e de l'Agly et les Corbi&egrave;res vus du Col del Bou";
@@ -851,11 +851,17 @@ text[840]="D&eacute;cor pr&egrave;s du hameau de Capdenaguet avec l'Aubrac en ar
 text[841]="Vue sur le hameau de Capdenaguet avec Balsac en arri&egrave;re-plan (gauche)";
 text[842]="Verdure pr&egrave;s du vieux village d'Onet-le-Ch&acirc;teau avec Rodez en arri&egrave;re-plan";
 text[843]="L'antenne de For&ccedil;a R&eacute;al devant la plaine du Roussillon";
+text[844]="La plage de Port-la-Nouvelle avec les massifs des Alb&egrave;res (gauche) et du Canigou (droite) en arri&egrave;re-plan";
+text[845]="La Berre, Durban-Corbi&egrave;res et son ch&acirc;teau";
+text[846]="Une petite route et le ch&acirc;teau de Durban-Corbi&egrave;res";
+text[847]="Le ch&acirc;teau de Durban-Corbi&egrave;res et ses environs";
+text[848]="Vue sur les Corbi&egrave;res &agrave; proximit&eacute; du sommet du col de P&eacute;reille";
+text[849]="D&eacute;cor des Corbi&egrave;res observ&eacute; pr&egrave;s du sommet du col de P&eacute;reille";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(843*Math.random()+1);  // nombre aleatoire entre 1 et 843
+var i = Math.floor(849*Math.random()+1);  // nombre aleatoire entre 1 et 849
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {

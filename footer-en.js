@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 27 december 2021</span></p>");
+document.write("<p> <span class='end'>Last update : 9 january 2022</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -479,7 +479,7 @@ text[468]="Brassac's area and hamlets seen from Le Bez";
 text[469]="Scenery of the Sidobre around the hamlet of Les Pradels";
 text[470]="Landscape on the road near Le Bez";
 text[471]="Montagne Noire (left) and Saint-Salvy-de-la-Balme (right)";
-text[472]="Vineyards near Fra&iuml;ss&eacute;-des-Corbi&egrave;res";
+text[472]="Vineyards and landscape of the Corbi&egrave;res seen near Fra&iuml;ss&eacute;-des-Corbi&egrave;res";
 text[473]="Canigou massif seen from the road to Estagel";
 text[474]="Latour-de-France and its surroundings";
 text[475]="Villages of Agly's valley and the Corbi&egrave;res from the Col del Bou";
@@ -851,11 +851,17 @@ text[840]="Scenery near the hamlet of Capdenaguet with the Aubrac in background"
 text[841]="View over the hamlet of Capdenaguet with Balsac in background (left)";
 text[842]="Greenery near the old village of Onet-le-Ch&acirc;teau with Rodez in background";
 text[843]="The transmitter of For&ccedil;a R&eacute;al in front of the Roussillon plain";
+text[844]="View near the beach at Port-la-Nouvelle with Albera (left) and Canigou (right) mountain ranges in background";
+text[845]="The Berre, Durban-Corbi&egrave;res and its castle";
+text[846]="A small road and Durban-Corbi&egrave;res' castle";
+text[847]="Durban-Corbi&egrave;res' castle and its surroundings";
+text[848]="View over the Corbi&egrave;res from near the top of the col de P&eacute;reille";
+text[849]="Scenery of the Corbi&egrave;res seen near the top of the col de P&eacute;reille";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(843*Math.random()+1);  // random number between 1 and 843
+var i = Math.floor(849*Math.random()+1);  // random number between 1 and 849
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) {
