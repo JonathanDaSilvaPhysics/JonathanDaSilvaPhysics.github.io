@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 9 janvier 2022</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 27 f&eacute;vrier 2022</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -857,11 +857,16 @@ text[846]="Une petite route et le ch&acirc;teau de Durban-Corbi&egrave;res";
 text[847]="Le ch&acirc;teau de Durban-Corbi&egrave;res et ses environs";
 text[848]="Vue sur les Corbi&egrave;res &agrave; proximit&eacute; du sommet du col de P&eacute;reille";
 text[849]="D&eacute;cor des Corbi&egrave;res observ&eacute; pr&egrave;s du sommet du col de P&eacute;reille";
+text[850]="Matin&eacute;e (tr&egrave;s) fra&icirc;che pr&egrave;s de Rieux-Volvestre avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
+text[851]="Le pont de Lajous sur l'Arize et la cath&eacute;drale de la Nativit&eacute;-de-Marie de Rieux &agrave; Rieux-Volvestre";
+text[852]="Champs gel&eacute;s et les Pyr&eacute;n&eacute;es (mont Valier au centre) vus entre Rieux-Volvestre et Montesquieu-Volvestre";
+text[853]="&Eacute;glise Saint-Antoine de Fornex et ses environs";
+text[854]="Paysage entourant l'&eacute;glise et le ch&acirc;teau (cach&eacute;) de Fornex";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(849*Math.random()+1);  // nombre aleatoire entre 1 et 849
+var i = Math.floor(854*Math.random()+1);  // nombre aleatoire entre 1 et 854
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {
