@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 27 february 2022</span></p>");
+document.write("<p> <span class='end'>Last update : 5 march 2022</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -862,11 +862,15 @@ text[851]="Lajous bridge over the Arize and Rieux Cathedral in Rieux-Volvestre";
 text[852]="Frozen fields and the Pyrenees seen between Rieux-Volvestre and Montesquieu-Volvestre";
 text[853]="Saint-Antoine church of Fornex and its surroundings";
 text[854]="Landscape surrounding the church and the (hidden) castle of Fornex";
+text[855]="Scenery above the area of La Bastide-de-Besplas with the Pyrenees in background";
+text[856]="Greenery towards M&eacute;ras";
+text[857]="View near Loubaut with summits of the Pyrenees (including the Pic du Midi de Bigorre)";
+text[858]="Landscape around the road to M&eacute;ras with the Montcalm Massif in background (right)";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(854*Math.random()+1);  // random number between 1 and 854
+var i = Math.floor(858*Math.random()+1);  // random number between 1 and 858
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) {

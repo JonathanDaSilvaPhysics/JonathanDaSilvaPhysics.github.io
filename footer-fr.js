@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 27 f&eacute;vrier 2022</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 5 mars 2022</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -862,11 +862,15 @@ text[851]="Le pont de Lajous sur l'Arize et la cath&eacute;drale de la Nativit&e
 text[852]="Champs gel&eacute;s et les Pyr&eacute;n&eacute;es (mont Valier au centre) vus entre Rieux-Volvestre et Montesquieu-Volvestre";
 text[853]="&Eacute;glise Saint-Antoine de Fornex et ses environs";
 text[854]="Paysage entourant l'&eacute;glise et le ch&acirc;teau (cach&eacute;) de Fornex";
+text[855]="D&eacute;cor au-dessus de la r&eacute;gion de La Bastide-de-Besplas avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
+text[856]="Verdure et M&eacute;ras en arri&egrave;re-plan (centre)";
+text[857]="Vue pr&egrave;s de Loubaut avec des sommets des Pyr&eacute;n&eacute;es (dont le pic du Midi de Bigorre)";
+text[858]="Paysage autour de la route menant &agrave; M&eacute;ras avec le massif du Montcalm en arri&egrave;re-plan (droite)";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(854*Math.random()+1);  // nombre aleatoire entre 1 et 854
+var i = Math.floor(858*Math.random()+1);  // nombre aleatoire entre 1 et 858
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {
