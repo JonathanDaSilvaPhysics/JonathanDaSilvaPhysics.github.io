@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 5 mars 2022</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 6 mars 2022</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -866,11 +866,15 @@ text[855]="D&eacute;cor au-dessus de la r&eacute;gion de La Bastide-de-Besplas a
 text[856]="Verdure et M&eacute;ras en arri&egrave;re-plan (centre)";
 text[857]="Vue pr&egrave;s de Loubaut avec des sommets des Pyr&eacute;n&eacute;es (dont le pic du Midi de Bigorre)";
 text[858]="Paysage autour de la route menant &agrave; M&eacute;ras avec le massif du Montcalm en arri&egrave;re-plan (droite)";
+text[859]="D&eacute;cor du Volvestre vu pr&egrave;s de M&eacute;ras avec les Pyr&eacute;n&eacute;es (mont Valier au centre) en arri&egrave;re-plan";
+text[860]="Relief du Volvestre pr&egrave;s de M&eacute;ras et le massif du Montcalm";
+text[861]="Paysage et verdure du sud de M&eacute;ras avec les Pyr&eacute;n&eacute;es (mont Valier au centre) en arri&egrave;re-plan";
+text[862]="Vue sur le Volvestre &agrave; partir de Latour avec le pic du Midi de Bigorre en arri&egrave;re-plan (centre)";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(858*Math.random()+1);  // nombre aleatoire entre 1 et 858
+var i = Math.floor(862*Math.random()+1);  // nombre aleatoire entre 1 et 862
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {
