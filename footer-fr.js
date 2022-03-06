@@ -870,11 +870,15 @@ text[859]="D&eacute;cor du Volvestre vu pr&egrave;s de M&eacute;ras avec les Pyr
 text[860]="Relief du Volvestre pr&egrave;s de M&eacute;ras et le massif du Montcalm";
 text[861]="Paysage et verdure du sud de M&eacute;ras avec les Pyr&eacute;n&eacute;es (mont Valier au centre) en arri&egrave;re-plan";
 text[862]="Vue sur le Volvestre &agrave; partir de Latour avec le pic du Midi de Bigorre en arri&egrave;re-plan (centre)";
+text[863]="D&eacute;cor du nord de Latour et deux vaches se reposant";
+text[864]="Un cheval pr&egrave;s de Latour devant les Pyr&eacute;n&eacute;es";
+text[865]="Vue &agrave; partir du nord de Latour en direction des Pyr&eacute;n&eacute;es (mont Valier au centre)";
+text[866]="Des champs au nord de Latour et les Pyr&eacute;n&eacute;es";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(862*Math.random()+1);  // nombre aleatoire entre 1 et 862
+var i = Math.floor(866*Math.random()+1);  // nombre aleatoire entre 1 et 866
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {

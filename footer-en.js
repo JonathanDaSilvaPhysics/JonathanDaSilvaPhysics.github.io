@@ -870,11 +870,15 @@ text[859]="Scenery of the Volvestre seen near M&eacute;ras with the Pyrenees (Mo
 text[860]="Relief of the Volvestre near M&eacute;ras and the Montcalm Massif";
 text[861]="Landscape and greenery of the south of M&eacute;ras with the Pyrenees (Mont Valier at the centre) in background";
 text[862]="View over the Volvestre from Latour with the Pic du Midi de Bigorre in background (center)";
+text[863]="Scenery of the north of Latour and two cows resting";
+text[864]="A horse near Latour in front of the Pyrenees";
+text[865]="View from the north of Latour towards the Pyrenees (Mont Valier at the centre)";
+text[866]="Fields in the north of Latour and the Pyrenees";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(862*Math.random()+1);  // random number between 1 and 862
+var i = Math.floor(866*Math.random()+1);  // random number between 1 and 866
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) {
