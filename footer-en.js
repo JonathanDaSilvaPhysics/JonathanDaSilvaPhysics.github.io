@@ -878,11 +878,14 @@ text[867]="Landscape between Latour and Bax with the Pyrenees in background";
 text[868]="Scenery of the area between Latour and Bax in front of the Pyrenees (Mont Valier at the centre)";
 text[869]="A horse in a field between Latour and Bax in front of the Pyrenees";
 text[870]="Greenery near Mailholas with Latrape in background (center)";
+text[871]="Fresh morning in the hamlet of Le Souleilla";
+text[872]="Lanscape near Loubens with the Prat d'Albis in background";
+text[873]="Foix, its castle (right) and the Prat d'Albis (left)";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(870*Math.random()+1);  // random number between 1 and 870
+var i = Math.floor(873*Math.random()+1);  // random number between 1 and 873
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) {
