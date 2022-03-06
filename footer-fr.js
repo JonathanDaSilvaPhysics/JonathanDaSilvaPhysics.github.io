@@ -874,11 +874,15 @@ text[863]="D&eacute;cor du nord de Latour et deux vaches se reposant";
 text[864]="Un cheval pr&egrave;s de Latour devant les Pyr&eacute;n&eacute;es";
 text[865]="Vue &agrave; partir du nord de Latour en direction des Pyr&eacute;n&eacute;es (mont Valier au centre)";
 text[866]="Des champs au nord de Latour et les Pyr&eacute;n&eacute;es";
+text[867]="Paysage entre Latour et Bax avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
+text[868]="D&eacute;cor de la r&eacute;gion entre Latour et Bax devant les Pyr&eacute;n&eacute;es (mont Valier au centre)";
+text[869]="Un cheval dans un champ entre Latour et Bax devant les Pyr&eacute;n&eacute;es";
+text[870]="Verdure pr&egrave;s de Mailholas avec Latrape en arri&egrave;re-plan (centre)";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(866*Math.random()+1);  // nombre aleatoire entre 1 et 866
+var i = Math.floor(870*Math.random()+1);  // nombre aleatoire entre 1 et 870
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {
