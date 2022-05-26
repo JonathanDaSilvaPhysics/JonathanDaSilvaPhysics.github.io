@@ -886,11 +886,17 @@ text[875]="View from the heights of Castelnau-de-L&eacute;vis with Albi's cathed
 text[876]="The remains of the castle of Castelnau-de-L&eacute;vis and their environment";
 text[877]="Landscape towards Cestayrols seen between Bernac and Castanet";
 text[878]="Greenery around Sainte-Croix";
+text[879]="Fields near Saint-Martin-Lalande and the Montagne Noire";
+text[880]="Vineyards on the road to La Cassaigne with Fanjeaux in background";
+text[881]="Scenery near La Cassaigne with Fanjeaux in background";
+text[882]="Laurac and its surroundings";
+text[883]="View over Mireval-Lauragais and its greenery";
+text[884]="Landscape from Mireval-Lauragais with Castelnaudary in background";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(878*Math.random()+1);  // random number between 1 and 878
+var i = Math.floor(884*Math.random()+1);  // random number between 1 and 884
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) {

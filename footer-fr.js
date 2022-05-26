@@ -886,11 +886,17 @@ text[875]="Vue &agrave; partir des hauteurs de Castelnau-de-L&eacute;vis avec la
 text[876]="Les vestiges du ch&acirc;teau de Castelnau-de-L&eacute;vis et leur environnement";
 text[877]="Paysage en direction de Cestayrols vu entre Bernac et Castanet";
 text[878]="Verdure autour de Sainte-Croix";
+text[879]="Des champs pr&egrave;s de Saint-Martin-Lalande et la montagne Noire";
+text[880]="Vignobles sur la route de La Cassaigne avec Fanjeaux en arri&egrave;re-plan";
+text[881]="D&eacute;cor pr&egrave;s de La Cassaigne avec Fanjeaux en arri&egrave;re-plan";
+text[882]="Laurac et ses environs";
+text[883]="Vue sur Mireval-Lauragais et sa verdure";
+text[884]="Paysage &agrave; partir de Mireval-Lauragais avec Castelnaudary en arri&egrave;re-plan";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(878*Math.random()+1);  // nombre aleatoire entre 1 et 878
+var i = Math.floor(884*Math.random()+1);  // nombre aleatoire entre 1 et 884
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {
