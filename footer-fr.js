@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 6 mars 2022</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 26 mai 2022</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -881,11 +881,16 @@ text[870]="Verdure pr&egrave;s de Mailholas avec Latrape en arri&egrave;re-plan 
 text[871]="Matin&eacute;e (tr&egrave;s) fra&icirc;che au hameau du Souleilla";
 text[872]="Paysage pr&egrave;s de Loubens avec le Prat d'Albis en arri&egrave;re-plan";
 text[873]="Foix, son ch&acirc;teau (droite) et le Prat d'Albis (gauche)";
+text[874]="D&eacute;cor en direction du sud de Labastide-de-L&eacute;vis";
+text[875]="Vue &agrave; partir des hauteurs de Castelnau-de-L&eacute;vis avec la cath&eacute;drale d'Albi en arri&egrave;re-plan";
+text[876]="Les vestiges du ch&acirc;teau de Castelnau-de-L&eacute;vis et leur environnement";
+text[877]="Paysage en direction de Cestayrols vu entre Bernac et Castanet";
+text[878]="Verdure autour de Sainte-Croix";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(873*Math.random()+1);  // nombre aleatoire entre 1 et 873
+var i = Math.floor(878*Math.random()+1);  // nombre aleatoire entre 1 et 878
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {

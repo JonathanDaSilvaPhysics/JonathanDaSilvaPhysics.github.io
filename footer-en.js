@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 6 march 2022</span></p>");
+document.write("<p> <span class='end'>Last update : 26 may 2022</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -881,11 +881,16 @@ text[870]="Greenery near Mailholas with Latrape in background (center)";
 text[871]="Fresh morning in the hamlet of Le Souleilla";
 text[872]="Lanscape near Loubens with the Prat d'Albis in background";
 text[873]="Foix, its castle (right) and the Prat d'Albis (left)";
+text[874]="Scenery towards the south of Labastide-de-L&eacute;vis";
+text[875]="View from the heights of Castelnau-de-L&eacute;vis with Albi's cathedral in background";
+text[876]="The remains of the castle of Castelnau-de-L&eacute;vis and their environment";
+text[877]="Landscape towards Cestayrols seen between Bernac and Castanet";
+text[878]="Greenery around Sainte-Croix";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(873*Math.random()+1);  // random number between 1 and 873
+var i = Math.floor(878*Math.random()+1);  // random number between 1 and 878
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) {
