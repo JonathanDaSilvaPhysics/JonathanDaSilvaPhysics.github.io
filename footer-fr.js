@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 26 mai 2022</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 2 juin 2022</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -892,11 +892,16 @@ text[881]="D&eacute;cor pr&egrave;s de La Cassaigne avec Fanjeaux en arri&egrave
 text[882]="Laurac et ses environs";
 text[883]="Vue sur Mireval-Lauragais et sa verdure";
 text[884]="Paysage &agrave; partir de Mireval-Lauragais avec Castelnaudary en arri&egrave;re-plan";
+text[885]="Paysage pr&egrave;s de Luc-la-Primaube avec Rodez en arri&egrave;re-plan (centre)";
+text[886]="Le village d'Ampiac et son environnement";
+text[887]="D&eacute;cor autour du ch&acirc;teau du Cayla pr&egrave;s de Moyraz&egrave;s";
+text[888]="Un champ pr&egrave;s d'Olemps et un aper&ccedil;u de Rodez et sa cath&eacute;drale (centre)";
+text[889]="Vue sur Rodez et la cath&eacute;drale Notre-Dame";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(884*Math.random()+1);  // nombre aleatoire entre 1 et 884
+var i = Math.floor(889*Math.random()+1);  // nombre aleatoire entre 1 et 889
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {
