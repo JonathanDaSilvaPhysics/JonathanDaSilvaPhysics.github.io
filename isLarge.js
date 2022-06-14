@@ -894,3 +894,6 @@ isLarge[892]=true;
 isLarge[893]=true;
 isLarge[894]=true;
 isLarge[895]=true;
+isLarge[896]=true;
+isLarge[897]=true;
+isLarge[898]=true;

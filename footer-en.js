@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 9 june 2022</span></p>");
+document.write("<p> <span class='end'>Last update : 14 june 2022</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -903,11 +903,14 @@ text[892]="A field near Les Brunels in front of the Lauragais plain";
 text[893]="Landscape in the Montagne Noire with the Lauragais plain and the Pyrenees in background";
 text[894]="View towards the Lauragais from the road between Les Brunels and Lab&eacute;c&egrave;de-Lauragais";
 text[895]="Greenery, the Lauragais and the Pyrenees seen between Les Brunels and Lab&eacute;c&egrave;de-Lauragais";
+text[896]="Landscape seen between Mall&eacute;on and Calzan with Saint-Barth&eacute;lemy and Soularac summits in background";
+text[897]="Fields and greenery around the road near Saint-F&eacute;lix-de-Rieutord";
+text[898]="Summits of the Tabe massif seen from the road near Saint-Amadou";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(895*Math.random()+1);  // random number between 1 and 895
+var i = Math.floor(898*Math.random()+1);  // random number between 1 and 898
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) {
