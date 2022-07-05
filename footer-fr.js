@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 14 juin 2022</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 5 juillet 2022</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -906,11 +906,15 @@ text[895]="Verdure, le Lauragais et les Pyr&eacute;n&eacute;es vus entre Les Bru
 text[896]="Paysage vu entre Mall&eacute;on et Calzan avec les pics de Saint-Barth&eacute;lemy et de Soularac en arri&egrave;re-plan";
 text[897]="Champs et verdure autour de la route pr&egrave;s de Saint-F&eacute;lix-de-Rieutord";
 text[898]="Sommets du massif de Tabe vus de la route pr&egrave;s de Saint-Amadou";
+text[899]="Des champs pr&egrave;s de Castillon-de-Saint-Martory";
+text[900]="Paysage pr&egrave;s de Castillon-de-Saint-Martory avec le pic de Cagire en arri&egrave;re-plan";
+text[901]="D&eacute;cor vu de Castillon-de-Saint-Martory, en direction des Pyr&eacute;n&eacute;es";
+text[902]="Vall&eacute;e de la Garonne et les Pyr&eacute;n&eacute;es (pic de Cagire au centre) vues de Saint-M&eacute;dard";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(898*Math.random()+1);  // nombre aleatoire entre 1 et 898
+var i = Math.floor(902*Math.random()+1);  // nombre aleatoire entre 1 et 902
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {
