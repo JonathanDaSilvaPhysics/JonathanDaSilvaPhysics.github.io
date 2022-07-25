@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 11 juillet 2022</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 25 juillet 2022</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -910,11 +910,22 @@ text[899]="Des champs pr&egrave;s de Castillon-de-Saint-Martory";
 text[900]="Paysage pr&egrave;s de Castillon-de-Saint-Martory avec le pic de Cagire en arri&egrave;re-plan";
 text[901]="D&eacute;cor vu de Castillon-de-Saint-Martory, en direction des Pyr&eacute;n&eacute;es";
 text[902]="Vall&eacute;e de la Garonne et les Pyr&eacute;n&eacute;es (pic de Cagire au centre) vues de Saint-M&eacute;dard";
+text[903]="Vall&eacute;e de la Castellane vue pr&egrave;s du sommet du col de Jau";
+text[904]="Vue autour de la route menant au col de Jau";
+text[905]="Verdure autour de la route vers le col de Jau";
+text[906]="La tour de Mascarda pr&egrave;s de Mosset";
+text[907]="Verdure du massif du Madr&egrave;s avec Mosset (centre) et le massif du Canigou (droite)";
+text[908]="Paysage vu de Mosset avec le massif du Canigou en arri&egrave;re-plan";
+text[909]="Mosset et son environnement";
+text[910]="D&eacute;cor autour de Mosset et de la vall&eacute;e de la Castellane";
+text[911]="Le village de Molitg-les-Bains et ses environs";
+text[912]="Les ruines du ch&acirc;teau de Paracolls (gauche) et les thermes de Molitg-les-Bains (droite)";
+text[913]="Le massif du Canigou vu pr&egrave;s de Catllar";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(902*Math.random()+1);  // nombre aleatoire entre 1 et 902
+var i = Math.floor(913*Math.random()+1);  // nombre aleatoire entre 1 et 913
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {
