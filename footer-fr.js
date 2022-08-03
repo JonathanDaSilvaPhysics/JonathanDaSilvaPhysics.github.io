@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 25 juillet 2022</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 4 ao&ucirc;t 2022</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -921,11 +921,20 @@ text[910]="D&eacute;cor autour de Mosset et de la vall&eacute;e de la Castellane
 text[911]="Le village de Molitg-les-Bains et ses environs";
 text[912]="Les ruines du ch&acirc;teau de Paracolls (gauche) et les thermes de Molitg-les-Bains (droite)";
 text[913]="Le massif du Canigou vu pr&egrave;s de Catllar";
+text[914]="Vue autour de Joncet avec Jujols en arri&egrave;re-plan";
+text[915]="Moutons broutant entre Aytua et Escaro";
+text[916]="Verdure du sud d'Escaro, en direction du pic de Tres Estelles";
+text[917]="Vue en direction du massif du Canigou &agrave; partir d'Escaro";
+text[918]="Vernet-les-Bains et son environnement verdoyant vu de la route menant &agrave; Fillols";
+text[919]="Paysage pr&egrave;s de Taurinya, devant le massif du Canigou";
+text[920]="Taurinya (gauche) dans le massif du Canigou";
+text[921]="L'abbaye de Saint-Michel de Cuxa et ses environs";
+text[922]="D&eacute;cor du massif du Canigou vu de l'abbaye de Saint-Michel de Cuxa";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(913*Math.random()+1);  // nombre aleatoire entre 1 et 913
+var i = Math.floor(922*Math.random()+1);  // nombre aleatoire entre 1 et 922
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {
