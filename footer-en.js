@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 4 august 2022</span></p>");
+document.write("<p> <span class='end'>Last update : 9 august 2022</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -261,7 +261,7 @@ text[250]="The area of Lias in the Gers";
 text[251]="Hills and greenery of Gers near Pujaudran";
 text[252]="View over the countryside near L'Isle-Jourdain";
 text[253]="Landscape around M&eacute;renvielle";
-text[254]="Landscape close to Le Castera";
+text[254]="Landscape near Le Castera";
 text[255]="View over the countryside in the area of Le Castera";
 text[256]="The Hers-Mort near Toulouse - Lasbordes Airport";
 text[257]="Corn field between Mons and Pin-Balma";
@@ -279,14 +279,14 @@ text[268]="View over the contryside between L&eacute;vignac and Le Castera";
 text[269]="Surroundings of the north of Le Castera";
 text[270]="Landscape between Bellegarde-Sainte-Marie and Le Castera";
 text[271]="Bellegarde-Sainte-Marie and its surroundings";
-text[272]="Landscape around Sainte-Livrade from Bellegarde-Sainte-Marie";
+text[272]="Landscape around Sainte-Livrade seen from Bellegarde-Sainte-Marie";
 text[273]="Bellegarde-Sainte-Marie and Le Castera from Sainte-Livrade";
 text[274]="View over the area of Garac near Vignaux";
 text[275]="Landscape between Vignaux and Garac";
 text[276]="Region of Caubiac seen from Garac";
-text[277]="View over the south of Garac";
+text[277]="Scenery of the south of Garac";
 text[278]="Sunflower fields near Caubiac";
-text[279]="Landscape of the region of Cadours seen from Caubiac";
+text[279]="Landscape of the area of Cadours seen from Caubiac";
 text[280]="Greenery between Caubiac and Le Gr&egrave;s";
 text[281]="View over different fields in Aureville";
 text[282]="Greenery between Goyrans and Espan&egrave;s";
@@ -343,7 +343,7 @@ text[332]="Conat valley with the Canigou massif in background";
 text[333]="Landscape surrounding Urbanya";
 text[334]="View over Lagraulet-Saint-Nicolas";
 text[335]="Cadours' area seen from Puyss&eacute;gur";
-text[336]="Fields between Puyss&eacute;gur and Drudas and Le Gr&egrave;s' surroundings";
+text[336]="Fields between Puyss&eacute;gur and Drudas with Pelleport and Le Gr&egrave;s in background";
 text[337]="Drudas' area with Pelleport in background";
 text[338]="Saint-Thomas and its surroundings";
 text[339]="Landscape of Sabonn&egrave;res";

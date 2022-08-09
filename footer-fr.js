@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 4 ao&ucirc;t 2022</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 9 ao&ucirc;t 2022</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -284,7 +284,7 @@ text[273]="Bellegarde-Sainte-Marie et Le Castera vus de Sainte-Livrade";
 text[274]="Vue sur la r&eacute;gion de Garac pr&egrave;s de Vignaux";
 text[275]="Paysage entre Vignaux et Garac";
 text[276]="Les alentours de Caubiac vus de Garac";
-text[277]="Vue sur le sud de Garac";
+text[277]="D&eacute;cor du sud de Garac";
 text[278]="Champs de tournesol pr&egrave;s de Caubiac";
 text[279]="Paysage de la r&eacute;gion de Cadours vu de Caubiac";
 text[280]="Verdure entre Caubiac et Le Gr&egrave;s";
@@ -343,7 +343,7 @@ text[332]="La vall&eacute;e de Conat avec le massif du Canigou en arri&egrave;re
 text[333]="Paysage entourant Urbanya";
 text[334]="Vue sur Lagraulet-Saint-Nicolas";
 text[335]="La r&eacute;gion de Cadours vue depuis Puyss&eacute;gur";
-text[336]="Champs entre Puyss&eacute;gur et Drudas et les environs du Gr&egrave;s";
+text[336]="Champs entre Puyss&eacute;gur et Drudas avec Pelleport et Le Gr&egrave;s en arri&egrave;re-plan";
 text[337]="La r&eacute;gion de Drudas avec Pelleport en arri&egrave;re-plan";
 text[338]="Saint-Thomas et ses environs";
 text[339]="Paysage de Sabonn&egrave;res";
