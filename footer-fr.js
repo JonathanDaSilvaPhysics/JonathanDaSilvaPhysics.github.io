@@ -930,11 +930,17 @@ text[919]="Paysage pr&egrave;s de Taurinya, devant le massif du Canigou";
 text[920]="Taurinya (gauche) dans le massif du Canigou";
 text[921]="L'abbaye de Saint-Michel de Cuxa et ses environs";
 text[922]="D&eacute;cor du massif du Canigou vu de l'abbaye de Saint-Michel de Cuxa";
+text[923]="Vue sur des champs pr&egrave;s de Pelleport &agrave; partir de la route menant &agrave; Drudas";
+text[924]="D&eacute;cor de la r&eacute;gion de Drudas en regardant en direction de Pelleport";
+text[925]="Champs et verdure pr&egrave;s de Drudas avec Cadours en arri&egrave;re-plan (droite)";
+text[926]="Paysage du sud de Puyss&eacute;gur";
+text[927]="D&eacute;cor sur la route de Garac &agrave; Bellegarde-Sainte-Marie";
+text[928]="Champs de tournesol et paysage entre Le Castera et L&eacute;vignac";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(922*Math.random()+1);  // nombre aleatoire entre 1 et 922
+var i = Math.floor(928*Math.random()+1);  // nombre aleatoire entre 1 et 928
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {

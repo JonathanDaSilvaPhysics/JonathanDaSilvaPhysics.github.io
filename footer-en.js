@@ -930,11 +930,17 @@ text[919]="Landscape near Taurinya, in front of the Canigou massif";
 text[920]="Taurinya (left) in the Canigou massif";
 text[921]="Abbey of Saint-Michel-de-Cuxa and its surroundings";
 text[922]="Scenery of the Canigou massif seen from the abbey of Saint-Michel-de-Cuxa";
+text[923]="View over fields near Pelleport from the road to Drudas";
+text[924]="Scenery of Drudas' area looking towards Pelleport";
+text[925]="Fields and greenery near Drudas with Cadours in background (right)";
+text[926]="Landscape of the south of Puyss&eacute;gur";
+text[927]="Scenery on the road from Garac to Bellegarde-Sainte-Marie";
+text[928]="Sunflower fields and landscape between Le Castera and L&eacute;vignac";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(922*Math.random()+1);  // random number between 1 and 922
+var i = Math.floor(928*Math.random()+1);  // random number between 1 and 928
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) {
