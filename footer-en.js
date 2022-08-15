@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 9 august 2022</span></p>");
+document.write("<p> <span class='end'>Last update : 15 august 2022</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -936,11 +936,13 @@ text[925]="Fields and greenery near Drudas with Cadours in background (right)";
 text[926]="Landscape of the south of Puyss&eacute;gur";
 text[927]="Scenery on the road from Garac to Bellegarde-Sainte-Marie";
 text[928]="Sunflower fields and landscape between Le Castera and L&eacute;vignac";
+text[929]="Vineyards near Cassagnes above the T&ecirc;t valley";
+text[930]="Scenery towards the Corbi&egrave;res seen near Cassagnes";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(928*Math.random()+1);  // random number between 1 and 928
+var i = Math.floor(930*Math.random()+1);  // random number between 1 and 930
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) {
