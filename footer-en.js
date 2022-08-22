@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 15 august 2022</span></p>");
+document.write("<p> <span class='end'>Last update : 22 august 2022</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -484,7 +484,7 @@ text[473]="Canigou massif seen from the road to Estagel";
 text[474]="Latour-de-France and its surroundings";
 text[475]="Villages of Agly's valley and the Corbi&egrave;res from the Col del Bou";
 text[476]="T&ecirc;t valley, Canigou and Cerdanya seen from the top of For&ccedil;a R&eacute;al";
-text[477]="Pech de Bugarach (left), Corbi&egrave;res and Latour-de-France (center)";
+text[477]="Pech de Bugarach (left), the Corbi&egrave;res and Latour-de-France (center)";
 text[478]="For&ccedil;a R&eacute;al's environment and the Madr&egrave;s massif in background";
 text[479]="The Roussillon plain and the Albera Massif seen from For&ccedil;a R&eacute;al";
 text[480]="Landscape from T&ecirc;t valley and Canigou (left) to Madr&egrave;s massif and Fenouill&egrave;des (right) seen from For&ccedil;a R&eacute;al";
@@ -938,11 +938,13 @@ text[927]="Scenery on the road from Garac to Bellegarde-Sainte-Marie";
 text[928]="Sunflower fields and landscape between Le Castera and L&eacute;vignac";
 text[929]="Vineyards near Cassagnes above the T&ecirc;t valley";
 text[930]="Scenery towards the Corbi&egrave;res seen near Cassagnes";
+text[931]="T&ecirc;t valley from Millas to Ille-sur-T&ecirc;t, the Aspres and the Canigou seen from For&ccedil;a R&eacute;al";
+text[932]="Vineyards near Montner with For&ccedil;a R&eacute;al (left) and the Canigou massif (right)";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(930*Math.random()+1);  // random number between 1 and 930
+var i = Math.floor(932*Math.random()+1);  // random number between 1 and 932
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) {

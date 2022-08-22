@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 15 ao&ucirc;t 2022</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 22 ao&ucirc;t 2022</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -484,7 +484,7 @@ text[473]="Le massif du Canigou vu depuis la route d'Estagel";
 text[474]="Latour-de-France et ses environs";
 text[475]="Villages de la vall&eacute;e de l'Agly et les Corbi&egrave;res vus du Col del Bou";
 text[476]="Vall&eacute;e de la T&ecirc;t, Canigou et Cerdagne vus de For&ccedil;a R&eacute;al";
-text[477]="Pech de Bugarach (gauche), Corbi&egrave;res et Latour-de-France (centre)";
+text[477]="Pech de Bugarach (gauche), les Corbi&egrave;res et Latour-de-France (centre)";
 text[478]="Environs de For&ccedil;a R&eacute;al et le massif du Madr&egrave;s en arri&egrave;re-plan";
 text[479]="La plaine du Roussillon et le massif des Alb&egrave;res vus de For&ccedil;a R&eacute;al";
 text[480]="Paysage, de la vall&eacute;e de la T&ecirc;t et du Canigou, au massif du Madr&egrave;s et aux Fenouill&egrave;des, vu de For&ccedil;a R&eacute;al";
@@ -938,11 +938,13 @@ text[927]="D&eacute;cor sur la route de Garac &agrave; Bellegarde-Sainte-Marie";
 text[928]="Champs de tournesol et paysage entre Le Castera et L&eacute;vignac";
 text[929]="Vignobles pr&egrave;s de Cassagnes au dessus de la vall&eacute;e de la T&ecirc;t";
 text[930]="D&eacute;cor en direction des Corbi&egrave;res vu pr&egrave;s de Cassagnes";
+text[931]="Vall&eacute;e de la T&ecirc;t de Millas &agrave Ille-sur-T&ecirc;t, les Aspres et le Canigou vus de For&ccedil;a R&eacute;al";
+text[932]="Vignobles pr&egrave;s de Montner avec For&ccedil;a R&eacute;al (gauche) et le massif du Canigou (droite)";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(930*Math.random()+1);  // nombre aleatoire entre 1 et 930
+var i = Math.floor(932*Math.random()+1);  // nombre aleatoire entre 1 et 932
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {
