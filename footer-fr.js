@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 22 ao&ucirc;t 2022</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 6 septembre 2022</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -940,11 +940,20 @@ text[929]="Vignobles pr&egrave;s de Cassagnes au dessus de la vall&eacute;e de l
 text[930]="D&eacute;cor en direction des Corbi&egrave;res vu pr&egrave;s de Cassagnes";
 text[931]="Vall&eacute;e de la T&ecirc;t de Millas &agrave Ille-sur-T&ecirc;t, les Aspres et le Canigou vus de For&ccedil;a R&eacute;al";
 text[932]="Vignobles pr&egrave;s de Montner avec For&ccedil;a R&eacute;al (gauche) et le massif du Canigou (droite)";
+text[933]="Le Bosc et sa v&eacute;g&eacute;tation";
+text[934]="Verdure du massif de l'Arize vue du hameau de Bourrel, sur la route du col des Marrous";
+text[935]="Paysage de la vall&eacute;e de la Barguilli&egrave;re et du massif de l'Arize &agrave partir du col d'Uscla";
+text[936]="D&eacute;cor autour du col de L&eacute;grillou avec une vache et une petite vue du massif du Plantaurel en arri&egrave;re-plan";
+text[937]="Vue sur la vall&eacute;e de la Barguilli&egrave;re et le massif du Plantaurel &agrave partir du col de L&eacute;grillou";
+text[938]="Paysage en direction de hameaux du Bosc &agrave partir du col de L&eacute;grillou";
+text[939]="Verdure de la vall&eacute;e de la Barguilli&egrave;re vue pr&egrave;s des hameaux de Burges et Cazals";
+text[940]="D&eacute;cor pr&egrave;s du hameau de Burges dans la vall&eacute;e de la Barguilli&egrave;re, avec le Montcoustan en arri&egrave;re-plan (droite)";
+text[941]="Des champs autour de B&eacute;nac avec le Montcoustan en arri&egrave;re-plan (gauche)";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(932*Math.random()+1);  // nombre aleatoire entre 1 et 932
+var i = Math.floor(941*Math.random()+1);  // nombre aleatoire entre 1 et 941
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {

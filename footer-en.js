@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 22 august 2022</span></p>");
+document.write("<p> <span class='end'>Last update : 6 september 2022</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -940,11 +940,20 @@ text[929]="Vineyards near Cassagnes above the T&ecirc;t valley";
 text[930]="Scenery towards the Corbi&egrave;res seen near Cassagnes";
 text[931]="T&ecirc;t valley from Millas to Ille-sur-T&ecirc;t, the Aspres and the Canigou seen from For&ccedil;a R&eacute;al";
 text[932]="Vineyards near Montner with For&ccedil;a R&eacute;al (left) and the Canigou massif (right)";
+text[933]="Le Bosc and its vegetation";
+text[934]="Greenery of the Arize massif seen from the hamlet of Bourrel, on the road to the Col des Marrous";
+text[935]="Landscape of the Barguilli&egrave;re valley and the Arize massif from the Col d'Uscla";
+text[936]="Scenery around the Col de L&eacute;grillou with a cow and a bit of Plantaurel massif in background";
+text[937]="View over the Barguilli&egrave;re valley and the Plantaurel massif from the Col de L&eacute;grillou";
+text[938]="Landscape towards hamlets of Le Bosc from the Col de L&eacute;grillou";
+text[939]="Greenery of the Barguilli&egrave;re valley seen near the hamlets of Burges and Cazals";
+text[940]="Scenery towards the hamlet of Burges in the Barguilli&egrave;re valley, with the Montcoustan in background (right)";
+text[941]="Fields around B&eacute;nac with the Montcoustan in background (left)";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(932*Math.random()+1);  // random number between 1 and 932
+var i = Math.floor(941*Math.random()+1);  // random number between 1 and 941
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) {
