@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 25 september 2022</span></p>");
+document.write("<p> <span class='end'>Last update : 27 september 2022</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -949,11 +949,28 @@ text[938]="Landscape towards hamlets of Le Bosc from the Col de L&eacute;grillou
 text[939]="Greenery of the Barguilli&egrave;re valley seen near the hamlets of Burges and Cazals";
 text[940]="Scenery towards the hamlet of Burges in the Barguilli&egrave;re valley, with the Montcoustan in background (right)";
 text[941]="Fields around B&eacute;nac with the Montcoustan in background (left)";
+text[942]="A puzzled cow in the hamlet of Tart&eacute;";
+text[943]="A curious cow seen between the hamlet of Tart&eacute and Cassagne";
+text[944]="Some inhabitants of Tart&eacute walking around or grazing";
+text[945]="The hamlet of La Rouaoude and its environment seen from Marsoulas";
+text[946]="Landscape between Marsoulas and Betchat, with the Pyrenees (Pic de Cagire at the center)";
+text[947]="Betchat and its surroundings seen from its entrance";
+text[948]="A curious donkey in Betchat";
+text[949]="Surprised cows in the Couserans";
+text[950]="A cow eating near the hamlet of Hitte";
+text[951]="Puzzled cows and other who eat near the hamlet of Hitte";
+text[952]="A curious horse near the hamlet of Hitte";
+text[953]="Scenery of the area of Escoulis seen from the hamlet of Haucon";
+text[954]="Top of the church of Escoulis and the hamlet of Haucon seen from the road to Belb&egraveze-en-Comminges";
+text[955]="Landscape of the area of Escoulis seen towards the Pyreneess";
+text[956]="Cows and their cubs seen between Escoulis and Belb&egraveze-en-Comminges";
+text[957]="Scenery of the Comminges and the Pyrenees seen from Ausseing";
+text[958]="Fields and greenery near Montclar-de-Comminges";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(941*Math.random()+1);  // random number between 1 and 941
+var i = Math.floor(958*Math.random()+1);  // random number between 1 and 958
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) {

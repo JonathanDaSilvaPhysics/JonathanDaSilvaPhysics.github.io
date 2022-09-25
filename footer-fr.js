@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 25 septembre 2022</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 27 septembre 2022</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -949,11 +949,28 @@ text[938]="Paysage en direction de hameaux du Bosc &agrave partir du col de L&ea
 text[939]="Verdure de la vall&eacute;e de la Barguilli&egrave;re vue pr&egrave;s des hameaux de Burges et Cazals";
 text[940]="D&eacute;cor pr&egrave;s du hameau de Burges dans la vall&eacute;e de la Barguilli&egrave;re, avec le Montcoustan en arri&egrave;re-plan (droite)";
 text[941]="Des champs autour de B&eacute;nac avec le Montcoustan en arri&egrave;re-plan (gauche)";
+text[942]="Une vache intrigu&eacute;e au hameau de Tart&eacute;";
+text[943]="Une vache curieuse vue entre le hameau de Tart&eacute; et Cassagne";
+text[944]="Quelques habitants de Tart&eacute; se prom&egrave;nent ou broutent";
+text[945]="Le hameau de La Rouaoude et son environnement vu de Marsoulas";
+text[946]="Paysage entre Marsoulas et Betchat, avec les Pyr&eacute;n&eacute;es (pic de Cagire au centre)";
+text[947]="Betchat et ses environs vu de son entrée";
+text[948]="Un &acirc;ne curieux &agrave Betchat";
+text[949]="Des vaches &eacute;tonn&eacute;es dans le Couserans";
+text[950]="Une vache se nourrit pr&egrave;s du hameau de Hitte";
+text[951]="Des vaches intrigu&eacute;es et d'autres qui se nourrissent pr&egrave;s du hameau de Hitte";
+text[952]="Un cheval curieux pr&egrave;s du hameau de Hitte";
+text[953]="D&eacute;cor de la r&eacute;gion d'Escoulis vu du hameau d'Haucon";
+text[954]="Un bout de l'&eacute;glise d'Escoulis et le hameau d'Haucon vus de la route menant &agrave Belb&egraveze-en-Comminges";
+text[955]="Paysage de la r&eacute;gion d'Escoulis vu en direction des Pyr&eacute;n&eacute;es";
+text[956]="Des vaches et leurs petits vus entre Escoulis et Belb&egraveze-en-Comminges";
+text[957]="D&eacute;cor du pays de Comminges et des Pyr&eacute;n&eacute;es vu depuis Ausseing";
+text[958]="Champs et verdure pr&egrave;s de Montclar-de-Comminges";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(941*Math.random()+1);  // nombre aleatoire entre 1 et 941
+var i = Math.floor(958*Math.random()+1);  // nombre aleatoire entre 1 et 958
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {
