@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 6 september 2022</span></p>");
+document.write("<p> <span class='end'>Last update : 25 september 2022</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -446,15 +446,15 @@ text[435]="View over Ax valley with Ax 3 Domaines in background";
 text[436]="Greenery of Ascou's area";
 text[437]="Landscape around Ax valley from Ascou";
 text[438]="Bridge in Salies-du-Salat and a motte-and-bailey chapel";
-text[439]="View over Cassagne from the hamlet of Tart&eacute;";
+text[439]="View over Cassagne and its surrounding hills from the hamlet of Tart&eacute;";
 text[440]="Landscape around Cassagne from the hamlet of Tart&eacute;";
 text[441]="Notre-Dame church in Cassagne and its surroundings";
 text[442]="The Pyrenees seen from above Escoulis";
-text[443]="Landscape near Escoulis with the Pyrenees in background";
-text[444]="Betchat's area and the Pyrenees seen near Escoulis";
+text[443]="Landscape near Escoulis with the Pyrenees and Marsoulas (right) in background";
+text[444]="Marsoulas' area and the Pyrenees seen near Escoulis";
 text[445]="View over the Comminges and the Pyrenees from Ausseing";
-text[446]="Landscape between Ausseing and Montclar-de-Comminges";
-text[447]="Greenery of the area of Montclar-de-Comminges";
+text[446]="Landscape on the road between Ausseing and Montclar-de-Comminges";
+text[447]="Greenery of the area of Montclar-de-Comminges with the Pic du Midi de Bigorre in background (right)";
 text[448]="The Comminges with Montclar-de-Comminges in background";
 text[449]="Saint-Martory and the Garonne";
 text[450]="Sunrise near Le Fr&eacute;chet";

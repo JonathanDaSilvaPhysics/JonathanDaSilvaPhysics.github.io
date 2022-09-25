@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 6 septembre 2022</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 25 septembre 2022</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -446,15 +446,15 @@ text[435]="Vue sur la vall&eacute;e d'Ax avec Ax 3 Domaines en arri&egrave;re-pl
 text[436]="Verdure de la r&eacute;gion d'Ascou";
 text[437]="Paysage autour de la vall&eacute;e d'Ax vu d'Ascou";
 text[438]="Pont &agrave; Salies-du-Salat avec une chapelle castrale en arri&egrave;re-plan";
-text[439]="Vue sur Cassagne &agrave; partir du hameau de Tart&eacute;";
+text[439]="Vue sur Cassagne et ses collines environnantes &agrave; partir du hameau de Tart&eacute;";
 text[440]="Paysage autour de Cassagne &agrave; partir du hameau de Tart&eacute;";
 text[441]="L'&eacute;glise Notre-Dame de Cassagne et ses environs";
 text[442]="Les Pyr&eacute;n&eacute;es vu au-dessus d'Escoulis";
-text[443]="Paysage pr&egrave;s d'Escoulis avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
-text[444]="La r&eacute;gion de Betchat et les Pyr&eacute;n&eacute;es vues pr&egrave;s d'Escoulis";
+text[443]="Paysage pr&egrave;s d'Escoulis avec les Pyr&eacute;n&eacute;es et Marsoulas (droite) en arri&egrave;re-plan";
+text[444]="La r&eacute;gion de Marsoulas et les Pyr&eacute;n&eacute;es vues pr&egrave;s d'Escoulis";
 text[445]="Vue sur le pays de Comminges et les Pyr&eacute;n&eacute;es depuis Ausseing";
-text[446]="Paysage entre Ausseing et Montclar-de-Comminges";
-text[447]="Verdure de la r&eacute;gion de Montclar-de-Comminges";
+text[446]="Paysage sur la route entre Ausseing et Montclar-de-Comminges";
+text[447]="Verdure de la r&eacute;gion de Montclar-de-Comminges avec le pic du Midi de Bigorre en arri&egrave;re-plan (droite)";
 text[448]="D&eacute;cor du Comminges avec Montclar-de-Comminges en arri&egrave;re-plan";
 text[449]="Saint-Martory et la Garonne";
 text[450]="Lever de soleil pr&egrave;s du Fr&eacute;chet";
