@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 27 septembre 2022</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 29 septembre 2022</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -966,11 +966,16 @@ text[955]="Paysage de la r&eacute;gion d'Escoulis vu en direction des Pyr&eacute
 text[956]="Des vaches et leurs petits vus entre Escoulis et Belb&egraveze-en-Comminges";
 text[957]="D&eacute;cor du pays de Comminges et des Pyr&eacute;n&eacute;es vu depuis Ausseing";
 text[958]="Champs et verdure pr&egrave;s de Montclar-de-Comminges";
+text[959]="Vue autour de la route menant &agrave Touille avec l'&eacute;glise de Touille (droite)";
+text[960]="D&eacute;cor de la r&eacute;gion de Figarol";
+text[961]="Des champs dans la vall&eacute;e de la Garonne vus de Figarol";
+text[962]="&Eacute;glise Saint-P&eacute; de L&eacute;oudary et ses environs";
+text[963]="Paysage vers Montespan avec les ruines de son ch&acirc;teau en arri&egrave;re-plan (centre, au-dessus de la colline)";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(958*Math.random()+1);  // nombre aleatoire entre 1 et 958
+var i = Math.floor(963*Math.random()+1);  // nombre aleatoire entre 1 et 963
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {
