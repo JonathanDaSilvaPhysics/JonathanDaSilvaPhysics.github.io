@@ -981,11 +981,17 @@ text[970]="Massif des Trois-Seigneurs vu sur la route du col du Traucadou";
 text[971]="Des boucs curieux au-dessus du hameau de Croqui&eacute;";
 text[972]="Des vaches et les Pyr&eacute;n&eacute;es, avec le hameau de Croqui&eacute; en arri&egrave;re-plan (gauche)";
 text[973]="D&eacute;cor au-dessus du hameau de Croqui&eacute; avec des vaches et les Pyr&eacute;n&eacute;es";
+text[974]="Vue sur les massifs du Soudour et des Trois-Seigneurs, avec Amplaing &agrave droite";
+text[975]="Paysage de la vall&eacute;e de l'Ari&egrave;ge au massif des Trois-Seigneurs vu pr&egrave;s du hameau de Croqui&eacute;";
+text[976]="Verdure autour de la route du col du Traucadou et les Pyr&eacute;n&eacute;es vues pr&egrave;s du hameau de Croqui&eacute;";
+text[977]="Vue sur le hameau de Croqui&eacute; et ses environs verdoyants";
+text[978]="D&eacute;cor autour de la route menant &agrave Croqui&eacute;";
+text[979]="&Eacute;glise Saint-Louis de Mercus et ses environs";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(973*Math.random()+1);  // nombre aleatoire entre 1 et 973
+var i = Math.floor(979*Math.random()+1);  // nombre aleatoire entre 1 et 979
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {

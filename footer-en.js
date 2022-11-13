@@ -981,11 +981,17 @@ text[970]="Trois-Seigneurs massif seen from the road to the Col du Traucadou";
 text[971]="Curious goats seen above the hamlet of Croqui&eacute;";
 text[972]="Cows and the Pyrenees with the hamlet of Croqui&eacute; in background (left)";
 text[973]="Scenery above the hamlet of Croqui&eacute; with cows and the Pyrenees";
+text[974]="View over Soudour and Trois-Seigneurs massifs with Amplaing (bottom-right)";
+text[975]="Landscape from the Ari&egrave;ge valley to the Trois-Seigneurs massif seen near the hamlet of Croqui&eacute;";
+text[976]="Greenery around the road to the Col du Traucadou and the Pyrenees seen near the hamlet of Croqui&eacute;";
+text[977]="View over the hamlet of Croqui&eacute; and its greenery surroundings";
+text[978]="Scenery around the road to Croqui&eacute;";
+text[979]="Saint-Louis church of Mercus and its environment";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(973*Math.random()+1);  // random number between 1 and 973
+var i = Math.floor(979*Math.random()+1);  // random number between 1 and 979
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) {
