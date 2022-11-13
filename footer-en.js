@@ -962,7 +962,7 @@ text[951]="Puzzled cows and other who eat near the hamlet of Hitte";
 text[952]="A curious horse near the hamlet of Hitte";
 text[953]="Scenery of the area of Escoulis seen from the hamlet of Haucon";
 text[954]="Top of the church of Escoulis and the hamlet of Haucon seen from the road to Belb&egraveze-en-Comminges";
-text[955]="Landscape of the area of Escoulis seen towards the Pyreneess";
+text[955]="Landscape of the area of Escoulis seen towards the Pyrenees";
 text[956]="Cows and their cubs seen between Escoulis and Belb&egraveze-en-Comminges";
 text[957]="Scenery of the Comminges and the Pyrenees seen from Ausseing";
 text[958]="Fields and greenery near Montclar-de-Comminges";
@@ -971,11 +971,16 @@ text[960]="Scenery of the area of Figarol";
 text[961]="Fields in the Garonne valley seen from Figarol";
 text[962]="Saint-P&eacute; church of L&eacute;oudary and its surroundings";
 text[963]="Landscape towards Montespan with the ruins of its castle in background (center, above the hill)";
+text[964]="View over the Ari&egrave;ge valley from the road to the hamlet of Jarnat";
+text[965]="Greenery around the road to the hamlet of Jarnat";
+text[966]="Scenery of the Pyrenees seen from Les Brougues de Traucadou";
+text[967]="Horses and the Pyrenees seen near the top of Col du Traucadou";
+text[968]="Landscape of the Ari&egrave;ge valley (Montoulieu at the left, Foix at the center) seen above Croqui&eacute;";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(963*Math.random()+1);  // random number between 1 and 963
+var i = Math.floor(968*Math.random()+1);  // random number between 1 and 968
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) {

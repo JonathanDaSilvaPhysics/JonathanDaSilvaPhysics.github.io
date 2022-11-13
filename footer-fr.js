@@ -971,11 +971,16 @@ text[960]="D&eacute;cor de la r&eacute;gion de Figarol";
 text[961]="Des champs dans la vall&eacute;e de la Garonne vus de Figarol";
 text[962]="&Eacute;glise Saint-P&eacute; de L&eacute;oudary et ses environs";
 text[963]="Paysage vers Montespan avec les ruines de son ch&acirc;teau en arri&egrave;re-plan (centre, au-dessus de la colline)";
+text[964]="Vue sur la vall&eacute;e de l'Ari&egrave;ge &agrave partir de la route menant au hameau de Jarnat";
+text[965]="Verdure autour de la route menant au hameau de Jarnat";
+text[966]="D&eacute;cor des Pyr&eacute;n&eacute;es vu &agrave partir des Brougues de Traucadou";
+text[967]="Des chevaux et les Pyr&eacute;n&eacute;es pr&egrave;s du sommet du col du Traucadou";
+text[968]="Paysage de la vall&eacute;e de l'Ari&egrave;ge (Montoulieu &agrave gauche, Foix au centre) vu au-dessus de Croqui&eacute;";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(963*Math.random()+1);  // nombre aleatoire entre 1 et 963
+var i = Math.floor(968*Math.random()+1);  // nombre aleatoire entre 1 et 968
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {
