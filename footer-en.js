@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 29 september 2022</span></p>");
+document.write("<p> <span class='end'>Last update : 13 november 2022</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -602,15 +602,15 @@ text[591]="Corbi&egrave;res and Qu&eacute;ribus castle seen near Maury";
 text[592]="Greenery of the Sabarth&egrave;s seen near the hamlet of Jarnat";
 text[593]="View over the Sabarth&egrave;s from the hamlet of Allens";
 text[594]="Landscape from the road to the hamlet of Serres";
-text[595]="Amplaing seen from the road to Croqui&eacute;";
+text[595]="Amplaing and its environment seen from the road to Croqui&eacute;";
 text[596]="Landscape around the road to Croqui&eacute;";
-text[597]="Mountains of the Ari&egrave;ge seen above Croqui&eacute;";
-text[598]="Soudour massif's surroundings seen above Croqui&eacute;";
+text[597]="Scenery of the mountains of the Ari&egrave;ge seen above Croqui&eacute;";
+text[598]="Soudour massif's surroundings with Arignac (center) and Amplaing (right) seen above Croqui&eacute;";
 text[599]="From left to right : Amplaing, Seignaux and Montoulieu";
-text[600]="From left to right : Seignaux, Montoulieu and Foix";
+text[600]="From left to right : Prat d'Albis, Seignaux, Montoulieu and Foix environment";
 text[601]="Mountains of the Ari&egrave;ge seen from the Col du Traucadou";
-text[602]="View over the Pic des Trois-Seigneurs and its environment";
-text[603]="Greenery around Les Brougues and summits of the Ari&egrave;ge";
+text[602]="View over the Soudour massif and the Pic des Trois-Seigneurs from the top of the Col du Traucadou";
+text[603]="Greenery around Les Brougues and summits of the Ari&egrave;ge seen from the top of the Col du Traucadou";
 text[604]="Landscape around the road to the Col du Traucadou";
 text[605]="Greenery and mountains around the road to the Col du Traucadou";
 text[606]="Montgailhard and Plantaurel massif seen from Montoulieu";

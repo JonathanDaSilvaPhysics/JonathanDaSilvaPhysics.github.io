@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 29 septembre 2022</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 13 novembre 2022</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -602,15 +602,15 @@ text[591]="Les Corbi&egrave;res et le ch&acirc;teau de Qu&eacute;ribus vus pr&eg
 text[592]="Verdure du Sabarth&egrave;s vu pr&egrave;s du hameau de Jarnat";
 text[593]="Vue sur le Sabarth&egrave;s &agrave; partir du hameau de Allens";
 text[594]="Paysage depuis la route menant au hameau de Serres";
-text[595]="Amplaing vu depuis la route menant &agrave; Croqui&eacute;";
+text[595]="Amplaing et son environnement vu depuis la route menant &agrave; Croqui&eacute;";
 text[596]="Paysage autour de la route menant &agrave; Croqui&eacute;";
-text[597]="Montagnes ari&eacute;geoises vues au-dessus de Croqui&eacute;";
-text[598]="Environs du massif du Soudour vus au-dessus de Croqui&eacute;";
+text[597]="D&eacute;cor des montagnes ari&eacute;geoises vues au-dessus de Croqui&eacute;";
+text[598]="Environs du massif du Soudour avec Arignac (centre) et Amplaing (droite) vus au-dessus de Croqui&eacute;";
 text[599]="De gauche &agrave; droite : Amplaing, Seignaux et Montoulieu";
-text[600]="De gauche &agrave; droite : Seignaux, Montoulieu et Foix";
+text[600]="De gauche &agrave; droite : Prat d'Albis, Seignaux, Montoulieu et l'environnement de Foix";
 text[601]="Montagnes ari&eacute;geoises vues du col du Traucadou";
-text[602]="Vue sur le pic des Trois-Seigneurs et son environnement";
-text[603]="Verdure autour des Brougues et sommets de l'Ari&egrave;ge";
+text[602]="Vue sur le massif du Soudour et le pic des Trois-Seigneurs depuis le sommet du col du Traucadou";
+text[603]="Verdure autour des Brougues et sommets de l'Ari&egrave;ge vus depuis le sommet du col du Traucadou";
 text[604]="Paysage autour de la route menant au col du Traucadou";
 text[605]="Verdure et montagnes autour de la route vers le col du Traucadou";
 text[606]="Montgailhard et le massif du Plantaurel vus depuis Montoulieu";
