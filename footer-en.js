@@ -976,11 +976,16 @@ text[965]="Greenery around the road to the hamlet of Jarnat";
 text[966]="Scenery of the Pyrenees seen from Les Brougues de Traucadou";
 text[967]="Horses and the Pyrenees seen near the top of Col du Traucadou";
 text[968]="Landscape of the Ari&egrave;ge valley (Montoulieu at the left, Foix at the center) seen above Croqui&eacute;";
+text[969]="Scenery around the road to the Col du Traucadou above the hamlet of Croqui&eacute;";
+text[970]="Trois-Seigneurs massif seen from the road to the Col du Traucadou";
+text[971]="Curious goats seen above the hamlet of Croqui&eacute;";
+text[972]="Cows and the Pyrenees with the hamlet of Croqui&eacute; in background (left)";
+text[973]="Scenery above the hamlet of Croqui&eacute; with cows and the Pyrenees";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(968*Math.random()+1);  // random number between 1 and 968
+var i = Math.floor(973*Math.random()+1);  // random number between 1 and 973
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) {

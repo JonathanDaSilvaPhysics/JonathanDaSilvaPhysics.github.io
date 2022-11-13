@@ -976,11 +976,16 @@ text[965]="Verdure autour de la route menant au hameau de Jarnat";
 text[966]="D&eacute;cor des Pyr&eacute;n&eacute;es vu &agrave partir des Brougues de Traucadou";
 text[967]="Des chevaux et les Pyr&eacute;n&eacute;es pr&egrave;s du sommet du col du Traucadou";
 text[968]="Paysage de la vall&eacute;e de l'Ari&egrave;ge (Montoulieu &agrave gauche, Foix au centre) vu au-dessus de Croqui&eacute;";
+text[969]="D&eacute;cor autour de la route du col du Traucadou au-dessus du hameau de Croqui&eacute;";
+text[970]="Massif des Trois-Seigneurs vu sur la route du col du Traucadou";
+text[971]="Des boucs curieux au-dessus du hameau de Croqui&eacute;";
+text[972]="Des vaches et les Pyr&eacute;n&eacute;es, avec le hameau de Croqui&eacute; en arri&egrave;re-plan (gauche)";
+text[973]="D&eacute;cor au-dessus du hameau de Croqui&eacute; avec des vaches et les Pyr&eacute;n&eacute;es";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(968*Math.random()+1);  // nombre aleatoire entre 1 et 968
+var i = Math.floor(973*Math.random()+1);  // nombre aleatoire entre 1 et 973
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {
