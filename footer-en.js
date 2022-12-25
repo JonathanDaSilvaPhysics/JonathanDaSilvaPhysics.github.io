@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 13 november 2022</span></p>");
+document.write("<p> <span class='end'>Last update : 25 december 2022</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -140,7 +140,7 @@ text[129]="Aspres and the Roussillon plain near Caixas";
 text[130]="Canigou massif and its surroundings near Prunet-et-Belpuig";
 text[131]="View of C&eacute;ret and the Vallespir from the Aspres";
 text[132]="Landscape of Albera massif from the Castell de la Roca in Laroque";
-text[133]="Banyuls-dels-Aspres and its surroundings";
+text[133]="View of the Canigou massif (center) and Banyuls-dels-Aspres (right) from Brouilla";
 text[134]="South of the Fenouill&egrave;des and the Canigou massif in background";
 text[135]="Montalba-le-Ch&acirc;teau and its surroundings";
 text[136]="The Fenouill&egrave;des around Tr&eacute;villach from Montalba-le-Ch&acirc;teau";
