@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 25 d&eacute;cembre 2022</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 28 d&eacute;cembre 2022</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -987,11 +987,23 @@ text[976]="Verdure autour de la route du col du Traucadou et les Pyr&eacute;n&ea
 text[977]="Vue sur le hameau de Croqui&eacute; et ses environs verdoyants";
 text[978]="D&eacute;cor autour de la route menant &agrave Croqui&eacute;";
 text[979]="&Eacute;glise Saint-Louis de Mercus et ses environs";
+text[980]="Massif du Canigou et vall&eacute;e de la T&ecirc;t pr&egrave;s de Prades vus en direction du col de Roquejal&egrave;re";
+text[981]="Paysage de la vall&eacute;e de la T&ecirc;t et du massif du Canigou vu sur la route du col de Roquejal&egrave;re";
+text[982]="D&eacute;cor de la vall&eacute;e de la T&ecirc;t autour de Prades et du massif du Canigou vu du col de Roquejal&egrave;re";
+text[983]="Verdure autour du col de Roquejal&egrave;re avec le massif du Madr&egrave;s en arri&egrave;re-plan (centre et droite)";
+text[984]="Lacets du col de Roquejal&egrave;re devant les hauteurs du Conflent";
+text[985]="Le massif du Madr&egrave;s vu pr&egrave;s du sommet du col de Roquejal&egrave;re";
+text[986]="Le Conflent et le Canigou entourant les vestiges de l'&eacute;glise Saint-Étienne de Comes (centre)";
+text[987]="D&eacute;cor du Conflent vu du sommet du col de Roquejal&egrave;re";
+text[988]="Vu sur les Fenouill&egrave;des et les Corbi&egrave;res pr&egrave;s du sommet du col de Roquejal&egrave;re, avec Campoussy au centre";
+text[989]="Paysage des Fenouill&egrave;des vu en descendant vers Campoussy, avec les Corbi&egrave;res en arri&egrave;re-plan";
+text[990]="Campoussy et ses environs dans les Fenouill&egrave;des";
+text[991]="D&eacute;cor du col des Auzines avec le massif du Madr&egrave;s (gauche), Rabouillet et Sournia (centre) en arri&egrave;re-plan";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(979*Math.random()+1);  // nombre aleatoire entre 1 et 979
+var i = Math.floor(991*Math.random()+1);  // nombre aleatoire entre 1 et 991
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {
