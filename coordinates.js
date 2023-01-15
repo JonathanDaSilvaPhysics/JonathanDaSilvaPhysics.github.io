@@ -990,3 +990,7 @@ latitudeLongitude[988]="42.687456,2.443694";
 latitudeLongitude[989]="42.692755,2.437054";
 latitudeLongitude[990]="42.708297,2.453121";
 latitudeLongitude[991]="42.708670,2.512703";
+latitudeLongitude[992]="43.229014,0.940027";
+latitudeLongitude[993]="43.263617,0.943194";
+latitudeLongitude[994]="43.259891,0.915748";
+latitudeLongitude[995]="43.255456,0.907724";

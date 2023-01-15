@@ -990,3 +990,7 @@ isLarge[988]=true;
 isLarge[989]=true;
 isLarge[990]=true;
 isLarge[991]=true;
+isLarge[992]=true;
+isLarge[993]=true;
+isLarge[994]=true;
+isLarge[995]=true;

@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 28 d&eacute;cembre 2022</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 15 janvier 2023</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -999,11 +999,15 @@ text[988]="Vu sur les Fenouill&egrave;des et les Corbi&egrave;res pr&egrave;s du
 text[989]="Paysage des Fenouill&egrave;des vu en descendant vers Campoussy, avec les Corbi&egrave;res en arri&egrave;re-plan";
 text[990]="Campoussy et ses environs dans les Fenouill&egrave;des";
 text[991]="D&eacute;cor du col des Auzines avec le massif du Madr&egrave;s (gauche), Rabouillet et Sournia (centre) en arri&egrave;re-plan";
+text[992]="Vue sur le hameau de Labarth&egrave;re &agrave partir d'Alan";
+text[993]="D&eacute;cor de la r&eacute;gion de Samouillan avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
+text[994]="Verdure autour de Benque avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
+text[995]="Paysage en direction de Eoux &agrave partir de la r&eacute;gion de Benque";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(991*Math.random()+1);  // nombre aleatoire entre 1 et 991
+var i = Math.floor(995*Math.random()+1);  // nombre aleatoire entre 1 et 995
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {
