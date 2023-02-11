@@ -994,3 +994,4 @@ latitudeLongitude[992]="43.229014,0.940027";
 latitudeLongitude[993]="43.263617,0.943194";
 latitudeLongitude[994]="43.259891,0.915748";
 latitudeLongitude[995]="43.255456,0.907724";
+latitudeLongitude[996]="43.955887,1.363958";
