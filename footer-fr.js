@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 11 f&eacute;vrier 2023</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 19 f&eacute;vrier 2023</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1003,12 +1003,14 @@ text[992]="Vue sur le hameau de Labarth&egrave;re &agrave partir d'Alan";
 text[993]="D&eacute;cor de la r&eacute;gion de Samouillan avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
 text[994]="Verdure autour de Benque avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
 text[995]="Paysage en direction de Eoux &agrave partir de la r&eacute;gion de Benque";
-text[996]="Hiver chaud et ensoleillé près de Corbarieu";
+text[996]="Hiver chaud et ensoleillé pr&egrave;s de Corbarieu";
+text[997]="Le hameau de Pouzounac et son &eacute;glise vu pr&egrave;s du Garric";
+text[998]="&Eacute;glise Saint-Martial-de-Limoges de Pouzounac et ses environs";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(996*Math.random()+1);  // nombre aleatoire entre 1 et 996
+var i = Math.floor(998*Math.random()+1);  // nombre aleatoire entre 1 et 998
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {
