@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 19 f&eacute;vrier 2023</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 5 mars 2023</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1006,11 +1006,12 @@ text[995]="Paysage en direction de Eoux &agrave partir de la r&eacute;gion de Be
 text[996]="Hiver chaud et ensoleillé pr&egrave;s de Corbarieu";
 text[997]="Le hameau de Pouzounac et son &eacute;glise vu pr&egrave;s du Garric";
 text[998]="&Eacute;glise Saint-Martial-de-Limoges de Pouzounac et ses environs";
+text[999]="D&eacute;cor en direction de M&eacute;renvielle sur la route menant &agrave L&eacute;guevin";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(998*Math.random()+1);  // nombre aleatoire entre 1 et 998
+var i = Math.floor(999*Math.random()+1);  // nombre aleatoire entre 1 et 999
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {
