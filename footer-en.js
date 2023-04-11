@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 5 march 2023</span></p>");
+document.write("<p> <span class='end'>Last update : 11 april 2023</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -132,8 +132,8 @@ text[121]="View of Lake Tahoe from Kings Beach";
 text[122]="Lake Tahoe from Mount Rose Highway";
 text[123]="The castle of Castelnou and its environment near Cam&eacute;las";
 text[124]="The village of Castelnou and its castle";
-text[125]="Rec de Corbera and Bouletern&egrave;re's surroundings";
-text[126]="Landscape around Casefabre and the Canigou massif in background";
+text[125]="Rec de Corbera (bottom-right) and Bouletern&egrave;re's surroundings";
+text[126]="Landscape above Casefabre towards Serrabone Priory and the Canigou massif";
 text[127]="The area of Ille-sur-T&ecirc;t from the Aspres";
 text[128]="Landscape above Saint-Michel-de-Llotes";
 text[129]="Aspres and the Roussillon plain near Caixas";
