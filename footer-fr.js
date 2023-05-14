@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 11 avril 2023</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 14 mai 2023</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1010,11 +1010,15 @@ text[999]= "D&eacute;cor en direction de M&eacute;renvielle sur la route menant 
 text[1000]="Paysage de la vall&eacute;e du Boul&egrave;s vu au-dessus de Casefabre";
 text[1001]="Verdure de la vall&eacute;e du Boul&egrave;s autour de Casefabre avec les Fenouill&egrave;des en arri&egrave;re-plan";
 text[1002]="D&eacute;cor des Aspres vu du col Sainte Marguerite avec la plaine du Roussillon en arri&egrave;re-plan";
+text[1003]="Des champs et la verdure de Lasseube-Propre";
+text[1004]="Paysage sur la route entre Saint-Jean-le-Comtal et Lass&eacute;ran avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan (gauche)";
+text[1005]="Des vaches intrigu&eacute;es pr&egrave;s de Lass&eacute;ran";
+text[1006]="Des vaches se d&eacute;tendent pr&egrave;s de Lass&eacute;ran";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(1002*Math.random()+1);  // nombre aleatoire entre 1 et 1002
+var i = Math.floor(1006*Math.random()+1);  // nombre aleatoire entre 1 et 1006
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {

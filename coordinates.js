@@ -1001,3 +1001,7 @@ latitudeLongitude[999]= "43.622749,1.169112";
 latitudeLongitude[1000]="42.617285,2.614819";
 latitudeLongitude[1001]="42.617691,2.613839";
 latitudeLongitude[1002]="42.618920,2.619835";
+latitudeLongitude[1003]="43.575570,0.595210";
+latitudeLongitude[1004]="43.588687,0.513863";
+latitudeLongitude[1005]="43.591027,0.511282";
+latitudeLongitude[1006]="43.591557,0.511327";

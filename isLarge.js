@@ -1001,3 +1001,7 @@ isLarge[999]= true;
 isLarge[1000]=true;
 isLarge[1001]=true;
 isLarge[1002]=true;
+isLarge[1003]=true;
+isLarge[1004]=true;
+isLarge[1005]=true;
+isLarge[1006]=true;
