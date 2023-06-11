@@ -1021,11 +1021,16 @@ text[1010]="Scenery of Orus and Vicdessos valley with Montcalm Massif in backgro
 text[1011]="View around the road to Orus";
 text[1012]="Landscape of the Vicdessos valley seen from the road to Orus with Montcalm Massif in background";
 text[1013]="Sem and its surroundings";
+text[1014]="Sem's church and its environment";
+text[1015]="Scenery of the Vicdessos valley and Auzat (bottom-center) seen near Sem's Dolmen";
+text[1016]="View over Orus (center) from near Sem's Dolmen";
+text[1017]="Vicdessos (bottom) and Orus (top-center)";
+text[1018]="Greenery around the Pic de Fouroul (center) with Suc in background (right)";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(1013*Math.random()+1);  // random number between 1 and 1013
+var i = Math.floor(1018*Math.random()+1);  // random number between 1 and 1018
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) {
