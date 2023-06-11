@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 14 mai 2023</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 11 juin 2023</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1014,11 +1014,18 @@ text[1003]="Des champs et la verdure de Lasseube-Propre";
 text[1004]="Paysage sur la route entre Saint-Jean-le-Comtal et Lass&eacute;ran avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan (gauche)";
 text[1005]="Des vaches intrigu&eacute;es pr&egrave;s de Lass&eacute;ran";
 text[1006]="Des vaches se d&eacute;tendent pr&egrave;s de Lass&eacute;ran";
+text[1007]="Paysage en direction de la Pique d'Endron et verdure de la vall&eacute;e de Vicdessos vus de Sentenac";
+text[1008]="L'environnement de Vicdessos vu du bas du Port de Lers";
+text[1009]="Verdure de Sem (centre) et le Pic de Risoul (droite) vus d'Orus";
+text[1010]="D&eacute;cor d'Orus et la vall&eacute;e de Vicdessos avec le massif du Montcalm en arri&egrave;re-plan";
+text[1011]="Vue autour de la route menant &agrave Orus";
+text[1012]="Paysage de la vall&eacute;e de Vicdessos vu de la route menant &agrave Orus avec le massif du Montcalm en arri&egrave;re-plan";
+text[1013]="Sem et ses environs";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(1006*Math.random()+1);  // nombre aleatoire entre 1 et 1006
+var i = Math.floor(1013*Math.random()+1);  // nombre aleatoire entre 1 et 1013
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {

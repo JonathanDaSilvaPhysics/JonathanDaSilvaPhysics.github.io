@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 14 may 2023</span></p>");
+document.write("<p> <span class='end'>Last update : 11 june 2023</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1014,11 +1014,18 @@ text[1003]="Fields and greenery in Lasseube-Propre";
 text[1004]="Landscape on the road between Saint-Jean-le-Comtal and Lass&eacute;ran with the Pyrenees in background (left)";
 text[1005]="Puzzled cows near Lass&eacute;ran";
 text[1006]="Cows chilling out near Lass&eacute;ran";
+text[1007]="Landscape towards the Pique d'Endron and greenery of the Vicdessos valley seen from Sentenac";
+text[1008]="Vicdessos environment seen from the bottom of the Port de Lers";
+text[1009]="Greenery of Sem (center) and Pic de Risoul (right) seen from Orus";
+text[1010]="Scenery of Orus and Vicdessos valley with Montcalm Massif in background";
+text[1011]="View around the road to Orus";
+text[1012]="Landscape of the Vicdessos valley seen from the road to Orus with Montcalm Massif in background";
+text[1013]="Sem and its surroundings";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(1006*Math.random()+1);  // random number between 1 and 1006
+var i = Math.floor(1013*Math.random()+1);  // random number between 1 and 1013
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) {
