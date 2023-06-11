@@ -1026,11 +1026,16 @@ text[1015]="Scenery of the Vicdessos valley and Auzat (bottom-center) seen near 
 text[1016]="View over Orus (center) from near Sem's Dolmen";
 text[1017]="Vicdessos (bottom) and Orus (top-center)";
 text[1018]="Greenery around the Pic de Fouroul (center) with Suc in background (right)";
+text[1019]="Landscape of Aston valley and Plateau de Beille (left) from Verdun";
+text[1020]="The environment of the Qui&eacute; Massif seen from Verdun";
+text[1021]="Scenery of the Plateau de Beille toward Andorra";
+text[1022]="Greenery of the Plateau de Beille with Qui&eacute; (center) and Tabe (right) Massifs in background";
+text[1023]="Greenery of the area of the Plateau de Beille and summits of the Ari&egrave;ge";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(1018*Math.random()+1);  // random number between 1 and 1018
+var i = Math.floor(1023*Math.random()+1);  // random number between 1 and 1023
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) {

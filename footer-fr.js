@@ -1026,11 +1026,16 @@ text[1015]="D&eacute;cor de la vall&eacute;e de Vicdessos et Auzat (en bas au ce
 text[1016]="Vue sur Orus (centre) &agrave; partir des environs du dolmen de Sem";
 text[1017]="Vicdessos (en bas) et Orus (en haut au centre)";
 text[1018]="Verdure autour du pic de Fouroul (centre) avec Suc en arri&egrave;re-plan (droite)";
+text[1019]="Paysage de la vall&eacute;e de l'Aston et le plateau de Beille (gauche) vu de Verdun";
+text[1020]="L'environnement du massif du Qui&eacute; vu de Verdun";
+text[1021]="D&eacute;cor du plateau de Beille en direction de l'Andorre";
+text[1022]="Verdure du plateau de Beille avec les massifs du Qui&eacute; (centre) et de Tabe (droite) en arri&egrave;re-plan";
+text[1023]="Verdure des environs du plateau de Beille et sommets de l'Ari&egrave;ge";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(1018*Math.random()+1);  // nombre aleatoire entre 1 et 1018
+var i = Math.floor(1023*Math.random()+1);  // nombre aleatoire entre 1 et 1023
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {
