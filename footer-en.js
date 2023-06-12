@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 11 june 2023</span></p>");
+document.write("<p> <span class='end'>Last update : 12 june 2023</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1031,11 +1031,16 @@ text[1020]="The environment of the Qui&eacute; Massif seen from Verdun";
 text[1021]="Scenery of the Plateau de Beille toward Andorra";
 text[1022]="Greenery of the Plateau de Beille with Qui&eacute; (center) and Tabe (right) Massifs in background";
 text[1023]="Greenery of the area of the Plateau de Beille and summits of the Ari&egrave;ge";
+text[1024]="Landscape seen from the area of the Plateau de Beille";
+text[1025]="View from the road to the Plateau de Beille with Qui&eacute; (center) and Tabe (right) Massifs in background";
+text[1026]="The road to the Plateau de Beille towards Tabe Massif, with the Trimouns Talc Mine in background (right)";
+text[1027]="Scenery of the road to the Plateau de Beille towards Tabe Massif";
+text[1028]="The surroundings of the road to the Plateau de Beille";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(1023*Math.random()+1);  // random number between 1 and 1023
+var i = Math.floor(1028*Math.random()+1);  // random number between 1 and 1028
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) {

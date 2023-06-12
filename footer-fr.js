@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 11 juin 2023</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 12 juin 2023</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1031,11 +1031,16 @@ text[1020]="L'environnement du massif du Qui&eacute; vu de Verdun";
 text[1021]="D&eacute;cor du plateau de Beille en direction de l'Andorre";
 text[1022]="Verdure du plateau de Beille avec les massifs du Qui&eacute; (centre) et de Tabe (droite) en arri&egrave;re-plan";
 text[1023]="Verdure des environs du plateau de Beille et sommets de l'Ari&egrave;ge";
+text[1024]="Paysage vu depuis les environs du plateau de Beille";
+text[1025]="Vue &agrave; partir de la route menant au plateau de Beille avec les massifs du Qui&eacute; (centre) et de Tabe (droite)";
+text[1026]="Lacets du plateau de Beille devant le massif de Tabe, avec la carri&egrave;re de Trimouns en arri&egrave;re-plan (droite)";
+text[1027]="D&eacute;cor de la route menant au plateau de Beille, devant le massif de Tabe";
+text[1028]="Les environs de la route menant au plateau de Beille";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(1023*Math.random()+1);  // nombre aleatoire entre 1 et 1023
+var i = Math.floor(1028*Math.random()+1);  // nombre aleatoire entre 1 et 1028
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {
