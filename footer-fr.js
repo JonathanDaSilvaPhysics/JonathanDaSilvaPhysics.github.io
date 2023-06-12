@@ -1036,11 +1036,13 @@ text[1025]="Vue &agrave; partir de la route menant au plateau de Beille avec les
 text[1026]="Lacets du plateau de Beille devant le massif de Tabe, avec la carri&egrave;re de Trimouns en arri&egrave;re-plan (droite)";
 text[1027]="D&eacute;cor de la route menant au plateau de Beille, devant le massif de Tabe";
 text[1028]="Les environs de la route menant au plateau de Beille";
+text[1029]="Champs et verdure pr&egrave;s d'Escoussens";
+text[1030]="Paysage autour d'Escoussens";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(1028*Math.random()+1);  // nombre aleatoire entre 1 et 1028
+var i = Math.floor(1030*Math.random()+1);  // nombre aleatoire entre 1 et 1030
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {

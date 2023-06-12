@@ -1027,3 +1027,5 @@ isLarge[1025]=true;
 isLarge[1026]=true;
 isLarge[1027]=true;
 isLarge[1028]=true;
+isLarge[1029]=true;
+isLarge[1030]=true;

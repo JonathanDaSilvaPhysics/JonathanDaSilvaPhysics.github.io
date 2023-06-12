@@ -1036,11 +1036,13 @@ text[1025]="View from the road to the Plateau de Beille with Qui&eacute; (center
 text[1026]="The road to the Plateau de Beille towards Tabe Massif, with the Trimouns Talc Mine in background (right)";
 text[1027]="Scenery of the road to the Plateau de Beille towards Tabe Massif";
 text[1028]="The surroundings of the road to the Plateau de Beille";
+text[1029]="Fields and greenery near Escoussens";
+text[1030]="Landscape around Escoussens";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(1028*Math.random()+1);  // random number between 1 and 1028
+var i = Math.floor(1030*Math.random()+1);  // random number between 1 and 1030
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) {
