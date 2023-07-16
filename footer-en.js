@@ -1061,11 +1061,18 @@ text[1050]="View over Comus and its surroundings";
 text[1051]="Scenery near Comus in the Pays de Sault";
 text[1052]="Scenery of the heights of the Pays de Sault seen near Camurac";
 text[1053]="Greenery in the Pays de Sault near Camurac, with cows (center)";
+text[1054]="Prades valley seen near Montaillou and Camurac with Prades far away (center)";
+text[1055]="Prades and its greenery surroundings";
+text[1056]="Landscape from the top of the col du Chioula towards the Ari&egrave;ge valley";
+text[1057]="Scenery from the top of the col du Chioula with Ax 3 Domaines far away (right)";
+text[1058]="Ignaux (center) and Sorgeat (left, in background) seen from the road to the col du Chioula";
+text[1059]="Ignaux (left), Ax-les-Thermes (center) and Ax 3 Domaines (top-right) seen from the road to the col du Chioula";
+text[1060]="The Ari&egrave;ge and the greenery surrounding Ax-les-Thermes";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(1053*Math.random()+1);  // random number between 1 and 1053
+var i = Math.floor(1060*Math.random()+1);  // random number between 1 and 1060
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) {

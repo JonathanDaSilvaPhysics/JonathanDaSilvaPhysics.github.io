@@ -1061,11 +1061,18 @@ text[1050]="Vue sur Comus et ses environs";
 text[1051]="D&eacute;cor pr&egrave;s de Comus dans le pays de Sault";
 text[1052]="D&eacute;cor du grand plateau du pays de Sault vu pr&egrave;s de Camurac";
 text[1053]="Verdure dans le pays de Sault vu pr&egrave;s de Camurac, avec des vaches (centre)";
+text[1054]="Le vallon de Prades vu pr&egrave;s de Montaillou et Camurac avec Prades au loin (centre)";
+text[1055]="Prades et ses environs verdoyants";
+text[1056]="Paysage &agrave; partir du sommet du col du Chioula en direction de la vall&eacute;e de l'Ari&egrave;ge";
+text[1057]="D&eacute;cor vu du sommet du col du Chioula avec Ax 3 Domaines au loin (droite)";
+text[1058]="Ignaux (centre) et Sorgeat (gauche, en arri&egrave;re-plan) vus de la route menant au col du Chioula";
+text[1059]="Ignaux (gauche), Ax-les-Thermes (centre) et Ax 3 Domaines (en haut &agrave; droite) vus du col du Chioula";
+text[1060]="L'Ari&egrave;ge et la verdure entourant Ax-les-Thermes";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(1053*Math.random()+1);  // nombre aleatoire entre 1 et 1053
+var i = Math.floor(1060*Math.random()+1);  // nombre aleatoire entre 1 et 1060
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {
