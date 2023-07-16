@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 6 juillet 2023</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 16 juillet 2023</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1055,11 +1055,17 @@ text[1044]="Pic de Sauve, cap de Fum, pic du Far, roc N&egrave;gre et pic de Fou
 text[1045]="Le ruisseau de Saleix &agrave; Auzat";
 text[1046]="Verdure autour du Pijol de Brosquet vu de Saleix";
 text[1047]="D&eacute;cor autour d'Auzat et du Pijol de Brosquet vu &agrave; partir de la route menant &agrave; Saleix";
+text[1048]="Verdure dans le vallon de Prades";
+text[1049]="Paysage en direction de la r&eacute;gion de Comus au pays de Sault";
+text[1050]="Vue sur Comus et ses environs";
+text[1051]="D&eacute;cor pr&egrave;s de Comus dans le pays de Sault";
+text[1052]="D&eacute;cor du grand plateau du pays de Sault vu pr&egrave;s de Camurac";
+text[1053]="Verdure dans le pays de Sault vu pr&egrave;s de Camurac, avec des vaches (centre)";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(1047*Math.random()+1);  // nombre aleatoire entre 1 et 1047
+var i = Math.floor(1053*Math.random()+1);  // nombre aleatoire entre 1 et 1053
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {
