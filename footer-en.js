@@ -1073,11 +1073,16 @@ text[1062]="From left to right : Serrat de la Mente, Roc dels cimbells and Pic d
 text[1063]="Saint-Julien-et-Sainte-Basilisse church of Jujols, with the Canigou massif in background";
 text[1064]="Areas of Souanyas (center) and Canaveilles (far away) from Jujols, with Roc dels cimbells and Pic de Gallinas";
 text[1065]="Road to Flassa with Vernet-les-Bains (center) and Aytua (right) seen far away in front of the Canigou massif";
+text[1066]="Landscape of the Conflent from Souanyas to the Pic de Gallinas seen near Jujols";
+text[1067]="View over the areas of Souanyas (center) and Canaveilles (far away) from the road to Jujols";
+text[1068]="Scenery of the road to Flassa in front of the Canigou massif seen from the road to Jujols";
+text[1069]="Greenery towards Serrat de la Mente and Roc dels cimbells (right) seen from the road to Jujols";
+text[1070]="Area of the road to Jujols with Saint-Julien-et-Sainte-Basilisse church of Jujols in background (right)";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(1065*Math.random()+1);  // random number between 1 and 1065
+var i = Math.floor(1070*Math.random()+1);  // random number between 1 and 1070
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) {

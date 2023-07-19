@@ -1073,11 +1073,16 @@ text[1062]="De gauche &agrave; droite : Serrat de la Mente, roc dels cimbells et
 text[1063]="&Eacute;glise Saint-Julien-et-Sainte-Basilisse de Jujols, avec le massif du Canigou en arri&egrave;re-plan";
 text[1064]="Environs de Souanyas (centre) et Canaveilles (au loin) vus de Jujols, avec roc dels cimbells et pic de Gallinas";
 text[1065]="Le chemin de Flassa avec au loin Vernet-les-Bains (centre) et Aytua (droite) devant le massif du Canigou";
+text[1066]="Paysage du Conflent, de Souanyas au pic de Gallinas, vu pr&egrave;s de Jujols";
+text[1067]="Vue sur les environs de Souanyas (centre) et Canaveilles (au loin) &agrave; partir de la route menant &agrave; Jujols";
+text[1068]="D&eacute;cor du chemin de Flassa devant le massif du Canigou, vu de la route vers Jujols";
+text[1069]="Verdure en direction du Serrat de la Mente et du roc dels cimbells (droite) vu de la route vers Jujols";
+text[1070]="Les environs de la route vers Jujols avec l'&eacute;glise Saint-Julien-et-Sainte-Basilisse de Jujols au loin (droite)";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(1065*Math.random()+1);  // nombre aleatoire entre 1 et 1065
+var i = Math.floor(1070*Math.random()+1);  // nombre aleatoire entre 1 et 1070
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {
