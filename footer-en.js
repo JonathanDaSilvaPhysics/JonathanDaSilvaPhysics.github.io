@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 16 july 2023</span></p>");
+document.write("<p> <span class='end'>Last update : 19 july 2023</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1068,11 +1068,16 @@ text[1057]="Scenery from the top of the col du Chioula with Ax 3 Domaines far aw
 text[1058]="Ignaux (center) and Sorgeat (left, in background) seen from the road to the col du Chioula";
 text[1059]="Ignaux (left), Ax-les-Thermes (center) and Ax 3 Domaines (top-right) seen from the road to the col du Chioula";
 text[1060]="The Ari&egrave;ge and the greenery surrounding Ax-les-Thermes";
+text[1061]="Scenery of the Conflent from Jujols";
+text[1062]="From left to right : Serrat de la Mente, Roc dels cimbells and Pic de Gallinas, above Souanyas (center-right)";
+text[1063]="Saint-Julien-et-Sainte-Basilisse church of Jujols, with the Canigou massif in background";
+text[1064]="Areas of Souanyas (center) and Canaveilles (far away) from Jujols, with Roc dels cimbells and Pic de Gallinas";
+text[1065]="Road to Flassa with Vernet-les-Bains (center) and Aytua (right) seen far away in front of the Canigou massif";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(1060*Math.random()+1);  // random number between 1 and 1060
+var i = Math.floor(1065*Math.random()+1);  // random number between 1 and 1065
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) {
