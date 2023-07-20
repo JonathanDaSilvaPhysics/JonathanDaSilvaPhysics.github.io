@@ -1087,7 +1087,8 @@ text[1075]="&Eacute;vol and its environment";
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
 
-var i = Math.floor(1075*Math.random()+1);  // random number between 1 and 1075
+// random number
+var i = 1 + Math.floor( (text.length  - 1) * Math.random());
 
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) {

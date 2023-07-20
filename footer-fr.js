@@ -1087,7 +1087,8 @@ text[1075]="&Eacute;vol et son environnement";
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(1075*Math.random()+1);  // nombre aleatoire entre 1 et 1075
+// nombre aleatoire
+var i = 1 + Math.floor( (text.length  - 1) * Math.random());
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {
