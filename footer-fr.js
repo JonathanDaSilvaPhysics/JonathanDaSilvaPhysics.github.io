@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 19 juillet 2023</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 20 juillet 2023</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1069,20 +1069,25 @@ text[1058]="Ignaux (centre) et Sorgeat (gauche, en arri&egrave;re-plan) vus de l
 text[1059]="Ignaux (gauche), Ax-les-Thermes (centre) et Ax 3 Domaines (en haut &agrave; droite) vus du col du Chioula";
 text[1060]="L'Ari&egrave;ge et la verdure entourant Ax-les-Thermes";
 text[1061]="D&eacute;cor du Conflent vu de Jujols";
-text[1062]="De gauche &agrave; droite : Serrat de la Mente, roc dels cimbells et pic de Gallinas, au-dessus de Souanyas (droite)";
+text[1062]="De gauche &agrave; droite : Serrat de la Mente, roc dels Cimbells et pic de Gallinas, au-dessus de Souanyas (droite)";
 text[1063]="&Eacute;glise Saint-Julien-et-Sainte-Basilisse de Jujols, avec le massif du Canigou en arri&egrave;re-plan";
-text[1064]="Environs de Souanyas (centre) et Canaveilles (au loin) vus de Jujols, avec roc dels cimbells et pic de Gallinas";
+text[1064]="Environs de Souanyas (centre) et Canaveilles (au loin) vus de Jujols, avec roc dels Cimbells et pic de Gallinas";
 text[1065]="Le chemin de Flassa avec au loin Vernet-les-Bains (centre) et Aytua (droite) devant le massif du Canigou";
 text[1066]="Paysage du Conflent, de Souanyas au pic de Gallinas, vu pr&egrave;s de Jujols";
 text[1067]="Vue sur les environs de Souanyas (centre) et Canaveilles (au loin) &agrave; partir de la route menant &agrave; Jujols";
 text[1068]="D&eacute;cor du chemin de Flassa devant le massif du Canigou, vu de la route vers Jujols";
-text[1069]="Verdure en direction du Serrat de la Mente et du roc dels cimbells (droite) vu de la route vers Jujols";
+text[1069]="Verdure en direction du Serrat de la Mente et du roc dels Cimbells (droite) vu de la route vers Jujols";
 text[1070]="Les environs de la route vers Jujols avec l'&eacute;glise Saint-Julien-et-Sainte-Basilisse de Jujols au loin (droite)";
+text[1071]="Verdure pr&egrave;s d'&Eacute;vol avec l'&eacute;glise Saint-Andr&eacute; d'&Eacute;vol au loin";
+text[1072]="D&eacute;cor pr&egrave;s d'&Eacute;vol avec son &eacute;glise (centre) et roc dels Cimbells (en haut &agrave; droite)";
+text[1073]="Chapelle Saint-&Eacute;tienne et ch&acirc;teau d'&Eacute;vol vus de l'&eacute;glise Saint-Andr&eacute; d'&Eacute;vol";
+text[1074]="Paysage en direction du roc dels Cimbells vu d'&Eacute;vol";
+text[1075]="&Eacute;vol et son environnement";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
 
-var i = Math.floor(1070*Math.random()+1);  // nombre aleatoire entre 1 et 1070
+var i = Math.floor(1075*Math.random()+1);  // nombre aleatoire entre 1 et 1075
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {
