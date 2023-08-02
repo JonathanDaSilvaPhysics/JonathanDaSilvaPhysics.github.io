@@ -1088,6 +1088,11 @@ text[1077]="Pic de Picarre seen from the road to Seich";
 text[1078]="Greenery seen towards Nistos valley from Seich";
 text[1079]="A small bridge over the Nistos stream in Haut-Nistos";
 text[1080]="Surroundings of the Nistos stream in Nistos";
+text[1081]="Notre-Dame de Bernadouze church of the Haut-Nistos and the Nistos stream";
+text[1082]="Pic de Picarre and greenery near Nistos seen from the road to Bize";
+text[1083]="Scenery of the area of Bize";
+text[1084]="Landscape towards the col de Bouch&egrave;re seen in Bize";
+text[1085]="Scenery of the Comminges seen between Hautaget and Nestier";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

@@ -1088,6 +1088,11 @@ text[1077]="Pic de Picarre vu depuis la route menant &agrave; Seich";
 text[1078]="Verdure en direction du vallon du Nistos vue de Seich";
 text[1079]="Un petit pont sur le ruisseau de Nistos &agrave; Haut-Nistos";
 text[1080]="Les environs du ruisseau de Nistos &agrave; Nistos";
+text[1081]="&Eacute;glise Notre-Dame de Bernadouze du Haut-Nistos et le ruisseau de Nistos";
+text[1082]="Pic de Picarre et verdure pr&egrave;s de Nistos vu de la route menant &agrave; Bize";
+text[1083]="D&eacute;cor de la r&eacute;gion de Bize";
+text[1084]="Paysage en direction du col de Bouch&egrave;re &agrave; Bize";
+text[1085]="D&eacute;cor du pays de Comminges vu entre Hautaget et Nestier";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
