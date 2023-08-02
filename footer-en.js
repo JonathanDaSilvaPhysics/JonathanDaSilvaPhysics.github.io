@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 20 july 2023</span></p>");
+document.write("<p> <span class='end'>Last update : 2 august 2023</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1083,6 +1083,11 @@ text[1072]="Scenery near &Eacute;vol with its church (center) and Roc dels Cimbe
 text[1073]="Saint-&Eacute;tienne chapel and castle of &Eacute;vol seen from Saint-Andr&eacute; church of &Eacute;vol";
 text[1074]="Landscape towards Roc dels Cimbells seen from &Eacute;vol";
 text[1075]="&Eacute;vol and its environment";
+text[1076]="View over the area of G&eacute;n&eacute;rest";
+text[1077]="Pic de Picarre seen from the road to Seich";
+text[1078]="Greenery seen towards Nistos valley from Seich";
+text[1079]="A small bridge over the Nistos stream in Haut-Nistos";
+text[1080]="Surroundings of the Nistos stream in Nistos";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
