@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 2 ao&ucirc;t 2023</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 5 ao&ucirc;t 2023</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1093,6 +1093,13 @@ text[1082]="Pic de Picarre et verdure pr&egrave;s de Nistos vu de la route menan
 text[1083]="D&eacute;cor de la r&eacute;gion de Bize";
 text[1084]="Paysage en direction du col de Bouch&egrave;re &agrave; Bize";
 text[1085]="D&eacute;cor du pays de Comminges vu entre Hautaget et Nestier";
+text[1086]="Vall&eacute;e de Soulcem vue du d&eacute;part du chemin des Orris avec la r&eacute;gion du pic de M&eacute;d&eacute;courbe en arri&egrave;re-plan";
+text[1087]="D&eacute;cor de la vall&eacute;e de Soulcem vu du chemin du Port du Rat et r&eacute;gion du pic de M&eacute;d&eacute;courbe (droite)";
+text[1088]="Cabane dʼorri dans la vall&eacute;e de Soulcem";
+text[1089]="L'&eacute;tang de Soulcem et son environnement";
+text[1090]="Vue sur l'&eacute;tang de Soulcem avec son barrage en arri&egrave;re-plan";
+text[1091]="Vue autour de l'&eacute;tang de Soulcem avec son barrage en arri&egrave;re-plan";
+text[1092]="Montagnes du massif du Montcalm au-dessus de l'&eacute;tang de Soulcem";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js

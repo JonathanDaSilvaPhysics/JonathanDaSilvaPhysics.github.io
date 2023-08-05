@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 2 august 2023</span></p>");
+document.write("<p> <span class='end'>Last update : 5 august 2023</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1093,6 +1093,13 @@ text[1082]="Pic de Picarre and greenery near Nistos seen from the road to Bize";
 text[1083]="Scenery of the area of Bize";
 text[1084]="Landscape towards the col de Bouch&egrave;re seen in Bize";
 text[1085]="Scenery of the Comminges seen between Hautaget and Nestier";
+text[1086]="Soulcem valley seen from the start of the Orri's path with the area of the Pic de M&eacute;d&eacute;courbe in background";
+text[1087]="Scenery of Soulcem valley from the path to the Port du Rat with the area of the Pic de M&eacute;d&eacute;courbe (right)";
+text[1088]="An orri hut in Soulcem valley";
+text[1089]="The &Eacute;tang de Soulcem and its environment";
+text[1090]="View over the &Eacute;tang de Soulcem with its dam in background";
+text[1091]="View around the &Eacute;tang de Soulcem with its dam in background";
+text[1092]="Mountains of the Montcalm Massif above the &Eacute;tang de Soulcem";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
