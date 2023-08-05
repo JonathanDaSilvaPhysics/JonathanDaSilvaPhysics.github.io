@@ -1100,6 +1100,13 @@ text[1089]="The &Eacute;tang de Soulcem and its environment";
 text[1090]="View over the &Eacute;tang de Soulcem with its dam in background";
 text[1091]="View around the &Eacute;tang de Soulcem with its dam in background";
 text[1092]="Mountains of the Montcalm Massif above the &Eacute;tang de Soulcem";
+text[1093]="Scenery of the &Eacute;tang de Soulcem and the Pic de la Madelon with the Pic de Canalbonne in background (right)";
+text[1094]="Landscape from the Pic de M&eacute;d&eacute;courbe (left) to Serre Plénière (right) above the &Eacute;tang de Soulcem";
+text[1095]="Dam of the Pla de Soulcem and its surroundings";
+text[1096]="Last meters of the road to the &Eacute;tang de Soulcem seen from its dam";
+text[1097]="Dam of the Pla de Soulcem and Pic de la Madelon seen on the road to the &Eacute;tang de Soulcem";
+text[1098]="View around the road to the &Eacute;tang de Soulcem";
+text[1099]="Greenery surrounding Saleix (center) seen from Auzat";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

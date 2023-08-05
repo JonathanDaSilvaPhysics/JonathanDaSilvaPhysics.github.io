@@ -1100,6 +1100,13 @@ text[1089]="L'&eacute;tang de Soulcem et son environnement";
 text[1090]="Vue sur l'&eacute;tang de Soulcem avec son barrage en arri&egrave;re-plan";
 text[1091]="Vue autour de l'&eacute;tang de Soulcem avec son barrage en arri&egrave;re-plan";
 text[1092]="Montagnes du massif du Montcalm au-dessus de l'&eacute;tang de Soulcem";
+text[1093]="Environs de l'&eacute;tang de Soulcem et du pic de la Madelon avec le pic de Canalbonne en arri&egrave;re-plan (droite)";
+text[1094]="Paysage du pic de M&eacute;d&eacute;courbe (gauche) &agrave; Serre Plénière (droite) au-dessus de l'&eacute;tang de Soulcem";
+text[1095]="Barrage du Pla de Soulcem et ses environs";
+text[1096]="Derniers lacets de la route menant &agrave; l'&eacute;tang de Soulcem vus depuis son barrage";
+text[1097]="Barrage du Pla de Soulcem et pic de la Madelon vus sur la route menant &agrave; l'&eacute;tang de Soulcem";
+text[1098]="Vue autour de la route menant &agrave; l'&eacute;tang de Soulcem";
+text[1099]="Verdure entourant Saleix (centre) vue d'Auzat";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
