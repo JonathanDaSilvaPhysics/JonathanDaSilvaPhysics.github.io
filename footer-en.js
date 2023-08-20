@@ -1114,6 +1114,11 @@ text[1103]="View over Olette (bottom-left), Souanyas and the Canigou (center), M
 text[1104]="Landscape from the road to Oreilla with Souanyas' surroundings and the Canigou";
 text[1105]="Scenery of the Garrotxes around Saint-Gabriel chapel of Cabrils (center)";
 text[1106]="&Eacute;vol and its castle seen from the road of the Garrotxes";
+text[1107]="Landscape near Souanyas with Jujols far away (center)";
+text[1108]="View towards the Garrotxes from above Souanyas";
+text[1109]="Landscape above Souanyas with Jujols far away (center)";
+text[1110]="Greenery between Souanyas and Marians with Canaveilles far away (center)";
+text[1111]="The Garrotxes seen near Marians, with Oreilla (right) and Talau far away (center)";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
