@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 5 august 2023</span></p>");
+document.write("<p> <span class='end'>Last update : 20 august 2023</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1107,6 +1107,13 @@ text[1096]="Last meters of the road to the &Eacute;tang de Soulcem seen from its
 text[1097]="Dam of the Pla de Soulcem and Pic de la Madelon seen on the road to the &Eacute;tang de Soulcem";
 text[1098]="View around the road to the &Eacute;tang de Soulcem";
 text[1099]="Greenery surrounding Saleix (center) seen from Auzat";
+text[1100]="&Eacute;vol and its castle seen from Oreilla";
+text[1101]="Sainte-Marie church of Oreilla with Souanyas and Marians in background (right)";
+text[1102]="Greenery towards Souanyas and Marians with the Canigou (left) and Serrat de la Mente (right)";
+text[1103]="View over Olette (bottom-left), Souanyas and the Canigou (center), Marians and Serrat de la Mente (right)";
+text[1104]="Landscape from the road to Oreilla with Souanyas' surroundings and the Canigou";
+text[1105]="Scenery of the Garrotxes around Saint-Gabriel chapel of Cabrils (center)";
+text[1106]="&Eacute;vol and its castle seen from the road of the Garrotxes";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

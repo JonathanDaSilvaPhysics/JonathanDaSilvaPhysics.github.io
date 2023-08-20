@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 5 ao&ucirc;t 2023</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 20 ao&ucirc;t 2023</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1107,6 +1107,13 @@ text[1096]="Derniers lacets de la route menant &agrave; l'&eacute;tang de Soulce
 text[1097]="Barrage du Pla de Soulcem et pic de la Madelon vus sur la route menant &agrave; l'&eacute;tang de Soulcem";
 text[1098]="Vue autour de la route menant &agrave; l'&eacute;tang de Soulcem";
 text[1099]="Verdure entourant Saleix (centre) vue d'Auzat";
+text[1100]="&Eacute;vol et son ch&acirc;teau vus d'Oreilla";
+text[1101]="&Eacute;glise Sainte-Marie d'Oreilla avec Souanyas et Marians en arri&egrave;re-plan (droite)";
+text[1102]="Verdure en direction de Souanyas et Marians avec le Canigou (gauche) et Serrat de la Mente (droite)";
+text[1103]="Vue sur Olette (en bas &agrave; gauche), Souanyas et le Canigou (centre), Marians et Serrat de la Mente (droite)";
+text[1104]="Paysage vu de la route menant &agrave; Oreilla avec les environs de Souanyas et le Canigou";
+text[1105]="D&eacute;cor des Garrotxes autour de la chapelle Saint-Gabriel de Cabrils (centre)";
+text[1106]="&Eacute;vol et son ch&acirc;teau vus du chemin des Garrotxes";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
