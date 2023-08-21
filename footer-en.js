@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 20 august 2023</span></p>");
+document.write("<p> <span class='end'>Last update : 21 august 2023</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1119,6 +1119,11 @@ text[1108]="View towards the Garrotxes from above Souanyas";
 text[1109]="Landscape above Souanyas with Jujols far away (center)";
 text[1110]="Greenery between Souanyas and Marians with Canaveilles far away (center)";
 text[1111]="The Garrotxes seen near Marians, with Oreilla (right) and Talau far away (center)";
+text[1112]="Scenery seen from above Marians, towards &Eacute;vol's area";
+text[1113]="View towards Canaveilles and its environment";
+text[1114]="Canaveilles seen near Marians";
+text[1115]="Oreilla (left) and &Eacute;vol (center, far away) seen from Marians";
+text[1116]="Landscape of the Garrotxes from Oreilla (center) to Talau (left, far away)";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
