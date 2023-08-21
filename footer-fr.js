@@ -1124,6 +1124,9 @@ text[1113]="Vue en direction de Canaveilles et son environnement";
 text[1114]="Canaveilles vu pr&egrave;s de Marians";
 text[1115]="Oreilla (gauche) et &Eacute;vol (centre, au loin) vus de Marians";
 text[1116]="Paysage des Garrotxes, d'Oreilla (centre) jusqu'&agrave; Talau (gauche, au loin)";
+text[1117]="Verdure autour de Marians et Roc dels Cimbells";
+text[1118]="Paysage autour de Canaveilles (centre) dans la vall&eacute;e de la T&ecirc;t";
+text[1119]="D&eacute;cor de la vall&eacute;e de la T&ecirc;t vu entre Olette et Souanyas, avec Canaveilles au loin (centre)";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
