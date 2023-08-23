@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 21 ao&ucirc;t 2023</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 23 ao&ucirc;t 2023</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1127,6 +1127,12 @@ text[1116]="Paysage des Garrotxes, d'Oreilla (centre) jusqu'&agrave; Talau (gauc
 text[1117]="Verdure autour de Marians et Roc dels Cimbells";
 text[1118]="Paysage autour de Canaveilles (centre) dans la vall&eacute;e de la T&ecirc;t";
 text[1119]="D&eacute;cor de la vall&eacute;e de la T&ecirc;t vu entre Olette et Souanyas, avec Canaveilles au loin (centre)";
+text[1120]="Vue sur le Pays des Nestes depuis la route menant &agrave; la station de Nistos";
+text[1121]="Verdure vue de la station de Nistos";
+text[1122]="Derniers lacets de la route menant &agrave; la station de Nistos";
+text[1123]="Domaine forestier pr&egrave;s de la station de Nistos avec le pic du Midi de Bigorre au loin (centre)";
+text[1124]="D&eacute;cor du domaine forestier pr&egrave;s de la station de Nistos";
+text[1125]="Paysage du vallon du Nistos vu en direction du domaine forestier pr&egrave;s de la station de Nistos (gauche)";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js

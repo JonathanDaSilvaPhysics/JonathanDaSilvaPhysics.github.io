@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 21 august 2023</span></p>");
+document.write("<p> <span class='end'>Last update : 23 august 2023</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1127,6 +1127,12 @@ text[1116]="Landscape of the Garrotxes from Oreilla (center) to Talau (left, far
 text[1117]="Greenery around Marians and Roc dels Cimbells";
 text[1118]="Landscape around Canaveilles (center) in the T&ecirc;t valley";
 text[1119]="Scenery of the T&ecirc;t valley seen between Olette and Souanyas, with Canaveilles far away (center)";
+text[1120]="View over the Pays des Nestes from the road to Nistos ski resort";
+text[1121]="Greenery seen from Nistos ski resort";
+text[1122]="Last meters of the road to Nistos ski resort";
+text[1123]="Forest area near Nistos ski resort with the Pic du Midi de Bigorre far away (center)";
+text[1124]="Scenery of the forest area near Nistos ski resort";
+text[1125]="Landscape of Nistos valley towards the forest area near Nistos ski resort (left)";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
