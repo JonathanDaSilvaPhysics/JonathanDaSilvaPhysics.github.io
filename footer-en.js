@@ -1146,6 +1146,10 @@ text[1135]="Carefree cows on the top of the col du Pradel";
 text[1136]="Cows and trees on the top of the col du Pradel";
 text[1137]="Curious cows on the col du Pradel";
 text[1138]="Cow that likes pictures and the environment of the col du Pradel";
+text[1139]="Landscape seen from the top of the col du Pradel towards mountains of the Ari&egrave;ge";
+text[1140]="View over summits of the Pyrenees from the road of the col du Pradel";
+text[1141]="Scenery around the road of the col du Pradel";
+text[1142]="Greenery of the area of the col du Pradel";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

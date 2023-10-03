@@ -1146,6 +1146,10 @@ text[1135]="Des vaches insouciantes au sommet du col du Pradel";
 text[1136]="Des vaches et des arbres au sommet du col du Pradel";
 text[1137]="Des vaches curieuses au col du Pradel";
 text[1138]="Une vache qui aime les photos et l'environnement du col du Pradel";
+text[1139]="Paysage &agrave; partir du sommet du col du Pradel en direction des montagnes ari&eacute;geoises";
+text[1140]="Vue sur des sommets des Pyr&eacute;n&eacute;es &agrave; partir de la route du col du Pradel";
+text[1141]="D&eacute;cor autour de la route du col du Pradel";
+text[1142]="Verdure de la r&eacute;gion du col du Pradel";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
