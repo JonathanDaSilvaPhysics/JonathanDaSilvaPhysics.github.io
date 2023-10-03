@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 28 september 2023</span></p>");
+document.write("<p> <span class='end'>Last update : 3 october 2023</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1139,6 +1139,13 @@ text[1128]="View over the R&eacute;benty valley near Niort-de-Sault";
 text[1129]="The R&eacute;benty and its environment in M&eacute;rial";
 text[1130]="Cows on the top of the col du Pradel";
 text[1131]="Cows grazing on the col du Pradel with summits of the Ari&egrave;ge in background";
+text[1132]="A peaceful cow in front of summits of the Ari&egrave;ge";
+text[1133]="Cows and landscape of the col du Pradel, with summits of the Pyrenees in background";
+text[1134]="Scenery of the col du Pradel with cows and mountains of the Ari&egrave;ge";
+text[1135]="Carefree cows on the top of the col du Pradel";
+text[1136]="Cows and trees on the top of the col du Pradel";
+text[1137]="Curious cows on the col du Pradel";
+text[1138]="Cow that likes pictures and the environment of the col du Pradel";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 28 septembre 2023</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 3 octobre 2023</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1139,6 +1139,13 @@ text[1128]="Vue sur la vall&eacute;e du R&eacute;benty pr&egrave;s de Niort-de-S
 text[1129]="Le R&eacute;benty et son environnement &agrave; M&eacute;rial";
 text[1130]="Des vaches au sommet du col du Pradel";
 text[1131]="Des vaches broutent au col du Pradel, avec des sommets de l'Ari&egrave;ge en arri&egrave;re-plan";
+text[1132]="Une vache paisible devant des sommets de l'Ari&egrave;ge";
+text[1133]="Des vaches et le paysage du col du Pradel, avec des sommets des Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
+text[1134]="D&eacute;cor du col du Pradel avec des vaches et des montagnes ari&eacute;geoises";
+text[1135]="Des vaches insouciantes au sommet du col du Pradel";
+text[1136]="Des vaches et des arbres au sommet du col du Pradel";
+text[1137]="Des vaches curieuses au col du Pradel";
+text[1138]="Une vache qui aime les photos et l'environnement du col du Pradel";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
