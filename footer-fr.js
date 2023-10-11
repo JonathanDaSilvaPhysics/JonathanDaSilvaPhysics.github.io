@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 3 octobre 2023</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 11 octobre 2023</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1150,6 +1150,13 @@ text[1139]="Paysage &agrave; partir du sommet du col du Pradel en direction des 
 text[1140]="Vue sur des sommets des Pyr&eacute;n&eacute;es &agrave; partir de la route du col du Pradel";
 text[1141]="D&eacute;cor autour de la route du col du Pradel";
 text[1142]="Verdure de la r&eacute;gion du col du Pradel";
+text[1143]="La cath&eacute;drale Notre-Dame de Saint-Bertrand-de-Comminges et son environnement";
+text[1144]="Verdure de la Barousse autour d'Aveux, Cr&eacute;chets (droite) et Anla (gauche, au second plan)";
+text[1145]="Vue sur la r&eacute;gion de Gembrie dans la Barousse, &agrave; partir de Gaudent";
+text[1146]="Paysage autour de Gaudent et du pic de Cau (droite) vu de la route menant &agrave; Antichan";
+text[1147]="La Barousse jusqu'au mont Las (gauche) avec le ch&acirc;teau des comtes de Comminges en arri&egrave;re-plan (droite)";
+text[1148]="D&eacute;cor de Samuran et de ses environs";
+text[1149]="Des vaches pr&egrave;s de Samuran";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
