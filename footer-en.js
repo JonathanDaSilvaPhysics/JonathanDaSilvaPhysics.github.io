@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 11 october 2023</span></p>");
+document.write("<p> <span class='end'>Last update : 15 october 2023</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1157,6 +1157,12 @@ text[1146]="Landscape around Gaudent and the Pic de Cau (right) from the road to
 text[1147]="The Barousse towards Mont Las (left) with the castle of the counts of Comminges in background (right)";
 text[1148]="Scenery of Samuran and its surroundings";
 text[1149]="Cows near Samuran";
+text[1150]="Scenery from the last meters of the Port de Lers towards Vicdessos valley";
+text[1151]="Cows on the Port de Lers and Vicdessos valley in background";
+text[1152]="Cows and view towards the Pic de Girant&egrave;s from the Port de Lers";
+text[1153]="Landscape around the Port de Lers towards Vicdessos valley";
+text[1154]="Mont B&eacute;as (left) and Cap de Bouirex (center, far away) seen from the Port de Lers";
+text[1155]="Scenery near the summit of the Port de Lers towards Mont B&eacute;as (left) and Cap de Bouirex (center, far away)";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
