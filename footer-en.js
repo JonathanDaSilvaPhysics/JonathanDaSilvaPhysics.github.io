@@ -1163,6 +1163,12 @@ text[1152]="Cows and view towards the Pic de Girant&egrave;s from the Port de Le
 text[1153]="Landscape around the Port de Lers towards Vicdessos valley";
 text[1154]="Mont B&eacute;as (left) and Cap de Bouirex (center, far away) seen from the Port de Lers";
 text[1155]="Scenery near the summit of the Port de Lers towards Mont B&eacute;as (left) and Cap de Bouirex (center, far away)";
+text[1156]="Mont B&eacute;as (left) and the environment around the road to the Port de Lers";
+text[1157]="Landscape around the Pic de Fontanette";
+text[1158]="View over the area of the Pic de Fontanette (left) and the Port de Lers (right)";
+text[1159]="Greenery of the Courtignou valley seen on the road to the Port de Lers";
+text[1160]="Landscape around the Pic de Fontanette seen on the road to the Port de Lers";
+text[1161]="Scenery of the &Eacute;tang de Lers and Mont B&eacute;as";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

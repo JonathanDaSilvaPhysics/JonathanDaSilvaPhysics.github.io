@@ -1163,6 +1163,12 @@ text[1152]="Des vaches et la vue en direction du pic de Girant&egrave;s &agrave;
 text[1153]="Paysage autour du port de Lers vu en direction de la vall&eacute;e de Vicdessos";
 text[1154]="Mont B&eacute;as (gauche) et le cap de Bouirex (centre, au loin) vus du port de Lers";
 text[1155]="D&eacute;cor du port de Lers vu en direction du mont B&eacute;as (gauche) et du cap de Bouirex (centre, au loin)";
+text[1156]="Mont B&eacute;as (gauche) et l'environnement autour de la route menant au port de Lers";
+text[1157]="Paysage autour du pic de Fontanette";
+text[1158]="Vue sur la r&eacute;gion du pic de Fontanette (gauche) et le port de Lers (droite)";
+text[1159]="Verdure de la vall&eacute;e du Courtignou vue de la route menant au port de Lers";
+text[1160]="Paysage autour du pic de Fontanette vu de la route menant au port de Lers";
+text[1161]="D&eacute;cor de l'&eacute;tang de Lers et du mont B&eacute;as";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
