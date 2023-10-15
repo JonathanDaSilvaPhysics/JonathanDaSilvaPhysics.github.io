@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 15 october 2023</span></p>");
+document.write("<p> <span class='end'>Last update : 16 october 2023</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1169,6 +1169,12 @@ text[1158]="View over the area of the Pic de Fontanette (left) and the Port de L
 text[1159]="Greenery of the Courtignou valley seen on the road to the Port de Lers";
 text[1160]="Landscape around the Pic de Fontanette seen on the road to the Port de Lers";
 text[1161]="Scenery of the &Eacute;tang de Lers and Mont B&eacute;as";
+text[1162]="View over the Mont B&eacute;as and the &Eacute;tang de Lers";
+text[1163]="Greenery around Mont B&eacute;as";
+text[1164]="Landscape near Massat with Boussenac in background";
+text[1165]="Landscape seen from Boussenac with Mont Valier in background";
+text[1166]="Greenery towards the Courtignou valley seen near Boussenac";
+text[1167]="Massat's surroundings (center) seen near Boussenac";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

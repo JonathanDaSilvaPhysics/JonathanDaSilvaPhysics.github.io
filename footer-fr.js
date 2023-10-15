@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 15 octobre 2023</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 16 octobre 2023</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1169,6 +1169,12 @@ text[1158]="Vue sur la r&eacute;gion du pic de Fontanette (gauche) et le port de
 text[1159]="Verdure de la vall&eacute;e du Courtignou vue de la route menant au port de Lers";
 text[1160]="Paysage autour du pic de Fontanette vu de la route menant au port de Lers";
 text[1161]="D&eacute;cor de l'&eacute;tang de Lers et du mont B&eacute;as";
+text[1162]="Vue sur le mont B&eacute;as et l'&eacute;tang de Lers";
+text[1163]="Verdure autour du mont B&eacute;as";
+text[1164]="Paysage pr&egrave;s de Massat avec Boussenac en arri&egrave;re-plan";
+text[1165]="Paysage vu depuis Boussenac avec le mont Valier en arri&egrave;re-plan";
+text[1166]="Verdure en direction de la vall&eacute;e du Courtignou vue pr&egrave;s de Boussenac";
+text[1167]="Les environs de Massat (centre) vue pr&egrave;s de Boussenac";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
