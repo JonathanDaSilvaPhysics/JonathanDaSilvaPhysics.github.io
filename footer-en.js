@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 16 october 2023</span></p>");
+document.write("<p> <span class='end'>Last update : 19 october 2023</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1175,6 +1175,11 @@ text[1164]="Landscape near Massat with Boussenac in background";
 text[1165]="Landscape seen from Boussenac with Mont Valier in background";
 text[1166]="Greenery towards the Courtignou valley seen near Boussenac";
 text[1167]="Massat's surroundings (center) seen near Boussenac";
+text[1168]="Greenery of the Couserans seen from the road to the col des Caougnous";
+text[1169]="Scenery of the Couserans seen from the road to the col de Port with Mont Valier in background";
+text[1170]="View towards Mont Valier from the road to the col de Port";
+text[1171]="Landscape of the Col de Port with cows (right) and Tabe massif in background";
+text[1172]="Scenery around the road to the Col de Port seen towards Tabe massif";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
