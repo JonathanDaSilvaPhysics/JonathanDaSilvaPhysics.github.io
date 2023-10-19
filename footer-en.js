@@ -1180,6 +1180,9 @@ text[1169]="Scenery of the Couserans seen from the road to the col de Port with 
 text[1170]="View towards Mont Valier from the road to the col de Port";
 text[1171]="Landscape of the Col de Port with cows (right) and Tabe massif in background";
 text[1172]="Scenery around the road to the Col de Port seen towards Tabe massif";
+text[1173]="Fields between Lombez and Montamat";
+text[1174]="Landscape near Montamat";
+text[1175]="View over the area of Saint-Soulan";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

@@ -1180,6 +1180,9 @@ text[1169]="D&eacute;cor du Couserans vu de la route menant au col de Port avec 
 text[1170]="Vue en direction du mont Valier &agrave; partir de la route menant au col de Port";
 text[1171]="Paysage du col de Port avec des vaches (droite) et le massif de Tabe en arri&egrave;re-plan";
 text[1172]="D&eacute;cor autour de la route menant au col de Port vu en direction du massif de Tabe";
+text[1173]="Des champs entre Lombez et Montamat";
+text[1174]="Paysage pr&egrave;s de Montamat";
+text[1175]="Vue sur la r&eacute;gion de Saint-Soulan";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
