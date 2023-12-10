@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 24 october 2023</span></p>");
+document.write("<p> <span class='end'>Last update : 10 december 2023</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1188,6 +1188,13 @@ text[1177]="Pic du Midi de Bigorre (center) and Pic de Montaigu (right) on the r
 text[1178]="View towards the Pyrenees from the road between Houeydets and Castelbajac";
 text[1179]="Cows near Caharet";
 text[1180]="Scenery near Caharet towards the Pyrenees with the Pic de Montaigu (center)";
+text[1181]="Landscape of the area of Saint-Amans with the Pyrenees in background";
+text[1182]="Scenery of the south of Saint-Amans";
+text[1183]="Greenery near Saint-Amans";
+text[1184]="Fields near Unzent with the Pyrenees in background (Mont Valier at the centre)";
+text[1185]="View of the area between Labastide-D&eacute;nat and Mouzieys-Teulet";
+text[1186]="Fr&eacute;jairolles and its environment";
+text[1187]="Fields near Villefranche-d'Albigeois";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
