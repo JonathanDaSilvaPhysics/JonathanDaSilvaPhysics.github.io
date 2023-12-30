@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 28 december 2023</span></p>");
+document.write("<p> <span class='end'>Last update : 30 december 2023</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -139,7 +139,7 @@ text[128]= "Landscape above Saint-Michel-de-Llotes";
 text[129]= "Aspres and the Roussillon plain near Caixas";
 text[130]= "Canigou massif and its surroundings near Prunet-et-Belpuig";
 text[131]= "View of C&eacute;ret and the Vallespir from the Aspres";
-text[132]= "Landscape of Albera massif from the Castell de la Roca in Laroque";
+text[132]= "Landscape of Albera massif from the Castell de la Roca in Laroque, with the Canigou far away";
 text[133]= "View of the Canigou massif (center) and Banyuls-dels-Aspres (right) from Brouilla";
 text[134]= "South of the Fenouill&egrave;des and the Canigou massif in background";
 text[135]= "Montalba-le-Ch&acirc;teau and its surroundings";
@@ -1196,6 +1196,7 @@ text[1185]="View of the area between Labastide-D&eacute;nat and Mouzieys-Teulet"
 text[1186]="Fr&eacute;jairolles and its environment";
 text[1187]="Fields near Villefranche-d'Albigeois";
 text[1188]="Palalda and its surroundings";
+text[1189]="Vineyards in Saint-Jean-Lasseille in front of the Canigou massif";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

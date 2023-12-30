@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 28 d&eacute;cembre 2023</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 30 d&eacute;cembre 2023</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -139,7 +139,7 @@ text[128]= "Paysage au-dessus de Saint-Michel-de-Llotes";
 text[129]= "Les Aspres et la plaine du Roussillon vues pr&egrave;s de Caixas";
 text[130]= "Le massif du Canigou et ses alentours vus pr&egrave;s de Prunet-et-Belpuig";
 text[131]= "Vue de C&eacute;ret et du Vallespir &agrave; partir des Aspres";
-text[132]= "Le massif des Alb&egrave;res vu du ch&acirc;teau de Laroque-des-Alb&egrave;res";
+text[132]= "Paysage des Alb&egrave;res vu du ch&acirc;teau de Laroque-des-Alb&egrave;res, avec le Canigou au loin";
 text[133]= "Vue sur le massif du Canigou (centre) et Banyuls-dels-Aspres (droite) depuis Brouilla";
 text[134]= "Le sud des Fenouill&egrave;des et le massif du Canigou en arri&egrave;re-plan";
 text[135]= "Montalba-le-Ch&acirc;teau et ses alentours";
@@ -1196,6 +1196,7 @@ text[1185]="Vue sur la r&eacute;gion entre Labastide-D&eacute;nat et Mouzieys-Te
 text[1186]="Fr&eacute;jairolles et son environnement";
 text[1187]="Des champs pr&egrave;s de Villefranche-d'Albigeois";
 text[1188]="Palalda et ses environs";
+text[1189]="Vignobles &agrave; Saint-Jean-Lasseille devant le massif du Canigou";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
