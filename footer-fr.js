@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 25 f&eacute;vrier 2024</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 12 mars 2024</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1201,6 +1201,7 @@ text[1190]="D&eacute;cor entre Lautignac et Sajas avec les Pyr&eacute;n&eacute;e
 text[1191]="Des champs, de la verdure et les Pyr&eacute;n&eacute;es vus pr&egrave;s de Sajas";
 text[1192]="Des champs vus entre Le Pin-Murelet et Lautignac";
 text[1193]="L'Aveyron et son environnement vus pr&egrave;s de Saint-Antonin-Noble-Val";
+text[1194]="Noailles et ses environs";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
