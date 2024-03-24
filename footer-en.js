@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 12 march 2024</span></p>");
+document.write("<p> <span class='end'>Last update : 24 march 2024</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1202,6 +1202,13 @@ text[1191]="Fields, greenery and the Pyrenees seen near Sajas";
 text[1192]="Fields seen between Le Pin-Murelet and Lautignac";
 text[1193]="The Aveyron and its environment seen near Saint-Antonin-Noble-Val";
 text[1194]="Noailles and its surroundings";
+text[1195]="Greenery and vineyards near the hamlet of Cels";
+text[1196]="Parnac and its environment";
+text[1197]="Landscape around Ca&iuml;x castle with vineyards";
+text[1198]="View over the tower of Luzech castle and the Lot";
+text[1199]="Bondoire stream in Saint-Vincent-Rive-d'Olt";
+text[1200]="Cels and surrounding vineyards seen from the road to Cournou";
+text[1201]="Scenery of the Quercy from Trespoux-Rassiels";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
