@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 7 april 2024</span></p>");
+document.write("<p> <span class='end'>Last update : 28 april 2024</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -387,7 +387,7 @@ text[376]= "Landscape near Opoul-P&eacute;rillos and its castle";
 text[377]= "Soueich's church near the Ger";
 text[378]= "Landscape around Milhas in the Arbas massif";
 text[379]= "Greenery of the Comminges near Cabanac-Cazaux";
-text[380]= "The Gave de Pau near Ayzac-Ost";
+text[380]= "The Gave de Pau near Ayzac-Ost with the Pic du Cabaliros in background";
 text[381]= "View around Ayzac-Ost";
 text[382]= "The Estrem de Sala in the Lavedan seen from Arbouix";
 text[383]= "Landscape of the Arrib&egrave;ra de Sent Savin seen near Souin";
@@ -1217,6 +1217,12 @@ text[1206]="Greenery of the Terrefort ari&eacute;geois seen from above Massabrac
 text[1207]="Fields around Castagnac, with Saint-Ybars in background (right)";
 text[1208]="Scenery of the Terrefort ari&eacute;geois near Castagnac, with the Pyrenees in background";
 text[1209]="Fields seen between Canens and Castagnac";
+text[1210]="Landscape on the greenway from Lourdes to Pierrefitte";
+text[1211]="The Lavedan seen from Adast with Saint-Savin in background (left)";
+text[1212]="Scenery of the Lavedan seen from Ortiac";
+text[1213]="Pic du Cabaliros (top-left) and Pierrefitte-Nestalas (bottom-right) seen from Ortiac";
+text[1214]="The hamlet of Ortiac in front the Soum de L&eacute;viste (left)";
+
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

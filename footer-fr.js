@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 7 avril 2024</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 28 avril 2024</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -387,7 +387,7 @@ text[376]= "Paysage pr&egrave;s d'Opoul-P&eacute;rillos et de son ch&acirc;teau"
 text[377]= "L'&eacute;glise de Soueich au bord du Ger";
 text[378]= "Paysage autour de Milhas dans le massif d'Arbas";
 text[379]= "Verdure du pays de Comminges pr&egrave;s de Cabanac-Cazaux";
-text[380]= "Le gave de Pau pr&egrave;s d'Ayzac-Ost";
+text[380]= "Le gave de Pau pr&egrave;s d'Ayzac-Ost avec le pic du Cabaliros en arri&egrave;re-plan";
 text[381]= "Vue sur la r&eacute;gion d'Ayzac-Ost";
 text[382]= "L'Estrem de Sala dans le Lavedan vue d'Arbouix";
 text[383]= "Paysage de l'arrib&egrave;ra de Sent Savin vu pr&egrave;s de Souin";
@@ -1217,6 +1217,11 @@ text[1206]="Verdure du Terrefort ari&eacute;geois vu &agrave; partir des hauteur
 text[1207]="Des champs autour de Castagnac, avec Saint-Ybars en arri&egrave;re-plan (droite)";
 text[1208]="D&eacute;cor du Terrefort ari&eacute;geois pr&egrave;s de Castagnac, avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
 text[1209]="Des champs vus entre Canens et Castagnac";
+text[1210]="Paysage sur la voie verte entre Lourdes et Pierrefitte";
+text[1211]="Le Lavedan vu d'Adast avec Saint-Savin en arri&egrave;re-plan (gauche)";
+text[1212]="D&eacute;cor du Lavedan vu d'Ortiac";
+text[1213]="Pic du Cabaliros (en haut &agrave; gauche) et Pierrefitte-Nestalas (en bas &agrave; droite) vus d'Ortiac";
+text[1214]="Le hameau d'Ortiac devant le Soum de L&eacute;viste (gauche)";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
