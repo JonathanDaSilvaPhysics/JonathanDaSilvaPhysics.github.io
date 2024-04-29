@@ -1248,6 +1248,10 @@ text[1237]="Paysage autour de Rou&egrave;de au pays de Comminges";
 text[1238]="Verdure autour de la route en direction de Castelbiague";
 text[1239]="C&eacute;riros vu d'Estadens avec le pic de Cagire en arri&egrave;re-plan (droite)";
 text[1240]="D&eacute;cor de la r&eacute;gion d'Estadens";
+text[1241]="Des vaches et le pic du Midi de Bigorre (gauche) vus pr&egrave;s de Campistrous";
+text[1242]="Paysage sur la route entre Galan et Galez, avec le pic du Midi de Bigorre en arri&egrave;re-plan (droite)";
+text[1243]="Des champs et les Pyr&eacute;n&eacute;es vus pr&egrave;s de Clarens";
+text[1244]="De la verdure et Bizous";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js

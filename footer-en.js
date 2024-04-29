@@ -1248,6 +1248,10 @@ text[1237]="Landscape around Rou&egrave;de in the Comminges";
 text[1238]="Greenery around the road towards Castelbiague";
 text[1239]="C&eacute;riros seen from Estadens with the Pic de Cagire in background (right)";
 text[1240]="Scenery of the area of Estadens";
+text[1241]="Cows and the Pic du Midi de Bigorre (left) seen near Campistrous";
+text[1242]="Landscape on the road between Galan and Galez, with the Pic du Midi de Bigorre in background (right)";
+text[1243]="Fields and the Pyrenees seen near Clarens";
+text[1244]="Greenery in Bizous";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
