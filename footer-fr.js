@@ -1233,6 +1233,11 @@ text[1222]="Des chevaux, Saint-Savin et des villages du Davant-Aiga au loin";
 text[1223]="Arras-en-Lavedan et son environnement vu pr&egrave;s d'Arcizans-Avant";
 text[1224]="La r&eacute;gion de Bun vue depuis Sireix, avec le pic de Gabizos (gauche) et Gaillagos (droite) en arri&egrave;re-plan";
 text[1225]="Verdure autour de Sireix vue depuis Bun";
+text[1226]="Vue sur Arcizans-Dessus et le Soum de la P&egrave;ne &agrave; partir de Bun";
+text[1227]="D&eacute;cor du val d'Azun vu d'Arcizans-Dessus";
+text[1228]="Le pic du midi d'Arrens (gauche) et le Grand Gabizos (droite) vus d'Arcizans-Dessus";
+text[1229]="Verdure du val d'Azun avec Bun (gauche) et le pic du midi d'Arrens en arri&egrave;re-plan (droite)";
+text[1230]="Le massif du Gabizos vu pr&egrave;s d'Arras-en-Lavedan";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js

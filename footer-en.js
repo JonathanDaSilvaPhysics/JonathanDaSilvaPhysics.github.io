@@ -1233,6 +1233,11 @@ text[1222]="Horses, Saint-Savin and villages of the Davant-Aiga far away";
 text[1223]="Arras-en-Lavedan and its surroundings seen near Arcizans-Avant";
 text[1224]="The area of Bun seen from Sireix, with the Pic de Gabizos (left) and Gaillagos (right) in background";
 text[1225]="Greenery around Sireix seen from Bun";
+text[1226]="View over Arcizans-Dessus and the Soum de la P&egrave;ne from Bun";
+text[1227]="Scenery of the val d'Azun seen from Arcizans-Dessus";
+text[1228]="Pic du midi d'Arrens (left) and Grand Gabizos (right) seen from Arcizans-Dessus";
+text[1229]="Greenery of the val d'Azun with Bun (left) and the Pic du midi d'Arrens in background (right)";
+text[1230]="The Gabizos massif seen near Arras-en-Lavedan";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
