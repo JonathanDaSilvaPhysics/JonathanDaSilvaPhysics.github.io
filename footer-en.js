@@ -1242,6 +1242,12 @@ text[1231]="Landscape near Gez-ez-Angles";
 text[1232]="Scenery of the Pyrenees seen from the hamlet of Pouts, with the Pic du Montaigu at the center";
 text[1233]="Greenery of the area of Par&eacute;ac seen from Pouts, with Julos far away (center)";
 text[1234]="The environment of Bourr&eacute;ac with Lourdes in background (left)";
+text[1235]="Curious cows in Ganties";
+text[1236]="View from the road between Ganties and L&eacute;oudary with the Pic de Cagire far away (right)";
+text[1237]="Landscape around Rou&egrave;de in the Comminges";
+text[1238]="Greenery around the road towards Castelbiague";
+text[1239]="C&eacute;riros seen from Estadens with the Pic de Cagire in background (right)";
+text[1240]="Scenery of the area of Estadens";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

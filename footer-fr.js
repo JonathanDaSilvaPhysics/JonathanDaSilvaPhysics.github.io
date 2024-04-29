@@ -1242,6 +1242,12 @@ text[1231]="Paysage pr&egrave;s de Gez-ez-Angles";
 text[1232]="D&eacute;cor des Pyr&eacute;n&eacute;es vu du hameau de Pouts, avec le pic du Montaigu au centre";
 text[1233]="Verdure de la r&eacute;gion de Par&eacute;ac vue de Pouts, avec Julos au loin (centre)";
 text[1234]="L'environnement de Bourr&eacute;ac avec Lourdes en arri&egrave;re-plan (gauche)";
+text[1235]="Des vaches curieuses &agrave; Ganties";
+text[1236]="Vue &agrave; partir de la route entre Ganties et L&eacute;oudary avec le pic de Cagire au loin (droite)";
+text[1237]="Paysage autour de Rou&egrave;de au pays de Comminges";
+text[1238]="Verdure autour de la route en direction de Castelbiague";
+text[1239]="C&eacute;riros vu d'Estadens avec le pic de Cagire en arri&egrave;re-plan (droite)";
+text[1240]="D&eacute;cor de la r&eacute;gion d'Estadens";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
