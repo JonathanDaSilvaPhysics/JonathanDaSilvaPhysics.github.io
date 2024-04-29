@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 28 april 2024</span></p>");
+document.write("<p> <span class='end'>Last update : 29 april 2024</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1222,7 +1222,12 @@ text[1211]="The Lavedan seen from Adast with Saint-Savin in background (left)";
 text[1212]="Scenery of the Lavedan seen from Ortiac";
 text[1213]="Pic du Cabaliros (top-left) and Pierrefitte-Nestalas (bottom-right) seen from Ortiac";
 text[1214]="The hamlet of Ortiac in front the Soum de L&eacute;viste (left)";
-
+text[1215]="Davant-Aiga seen near Saint-Savin";
+text[1216]="Saint-Savin and its environment";
+text[1217]="Hautacam (left), Adast (bottom) and Soum de L&eacute;viste (top-center) seen from the road to Saint-Savin";
+text[1218]="View over Davant-Aiga, and Adast (bottom), near Saint-Savin";
+text[1219]="Landscape around Villelongue and Soum de L&eacute;viste seen from Uz";
+text[1220]="Villelongue and Soum de L&eacute;viste (left), and Pic de Viscos (right) seen from Uz";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

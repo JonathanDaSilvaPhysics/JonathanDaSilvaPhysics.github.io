@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 28 avril 2024</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 29 avril 2024</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1222,6 +1222,12 @@ text[1211]="Le Lavedan vu d'Adast avec Saint-Savin en arri&egrave;re-plan (gauch
 text[1212]="D&eacute;cor du Lavedan vu d'Ortiac";
 text[1213]="Pic du Cabaliros (en haut &agrave; gauche) et Pierrefitte-Nestalas (en bas &agrave; droite) vus d'Ortiac";
 text[1214]="Le hameau d'Ortiac devant le Soum de L&eacute;viste (gauche)";
+text[1215]="Davant-Aiga vu pr&egrave;s de Saint-Savin";
+text[1216]="Saint-Savin et ses environs";
+text[1217]="Hautacam (gauche), Adast (en bas) et Soum de L&eacute;viste (en haut au centre) vus de la route vers Saint-Savin";
+text[1218]="Vue sur le Davant-Aiga, et Adast (en bas), pr&egrave;s de Saint-Savin";
+text[1219]="Paysage autour de Villelongue et du Soum de L&eacute;viste vu d'Uz";
+text[1220]="Villelongue et le Soum de L&eacute;viste (gauche), et le pic de Viscos (droite) vu d'Uz";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
