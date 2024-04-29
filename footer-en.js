@@ -1228,6 +1228,11 @@ text[1217]="Hautacam (left), Adast (bottom) and Soum de L&eacute;viste (top-cent
 text[1218]="View over Davant-Aiga, and Adast (bottom), near Saint-Savin";
 text[1219]="Landscape around Villelongue and Soum de L&eacute;viste seen from Uz";
 text[1220]="Villelongue and Soum de L&eacute;viste (left), and Pic de Viscos (right) seen from Uz";
+text[1221]="Saint-Savin, in the Lavedan";
+text[1222]="Horses, Saint-Savin and villages of the Davant-Aiga far away";
+text[1223]="Arras-en-Lavedan and its surroundings seen near Arcizans-Avant";
+text[1224]="The area of Bun seen from Sireix, with the Pic de Gabizos (left) and Gaillagos (right) in background";
+text[1225]="Greenery around Sireix seen from Bun";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
