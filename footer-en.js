@@ -1238,6 +1238,10 @@ text[1227]="Scenery of the val d'Azun seen from Arcizans-Dessus";
 text[1228]="Pic du midi d'Arrens (left) and Grand Gabizos (right) seen from Arcizans-Dessus";
 text[1229]="Greenery of the val d'Azun with Bun (left) and the Pic du midi d'Arrens in background (right)";
 text[1230]="The Gabizos massif seen near Arras-en-Lavedan";
+text[1231]="Landscape near Gez-ez-Angles";
+text[1232]="Scenery of the Pyrenees seen from the hamlet of Pouts, with the Pic du Montaigu at the center";
+text[1233]="Greenery of the area of Par&eacute;ac seen from Pouts, with Julos far away (center)";
+text[1234]="The environment of Bourr&eacute;ac with Lourdes in background (left)";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

@@ -1238,6 +1238,10 @@ text[1227]="D&eacute;cor du val d'Azun vu d'Arcizans-Dessus";
 text[1228]="Le pic du midi d'Arrens (gauche) et le Grand Gabizos (droite) vus d'Arcizans-Dessus";
 text[1229]="Verdure du val d'Azun avec Bun (gauche) et le pic du midi d'Arrens en arri&egrave;re-plan (droite)";
 text[1230]="Le massif du Gabizos vu pr&egrave;s d'Arras-en-Lavedan";
+text[1231]="Paysage pr&egrave;s de Gez-ez-Angles";
+text[1232]="D&eacute;cor des Pyr&eacute;n&eacute;es vu du hameau de Pouts, avec le pic du Montaigu au centre";
+text[1233]="Verdure de la r&eacute;gion de Par&eacute;ac vue de Pouts, avec Julos au loin (centre)";
+text[1234]="L'environnement de Bourr&eacute;ac avec Lourdes en arri&egrave;re-plan (gauche)";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
