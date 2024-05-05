@@ -1261,6 +1261,9 @@ text[1250]="Landscape from the road to the Grau de Maury with Pech de Fraysse (c
 text[1251]="The road to the Grau de Maury and the Qu&eacute;ribus castle";
 text[1252]="Scenery from the Grau de Maury to the Madr&egrave;s massif seen near Qu&eacute;ribus castle";
 text[1253]="View towards Duilhac-sous-Peyrepertuse, its surroundings and its castle from the road to the Qu&eacute;ribus castle";
+text[1254]="The Fenouill&egrave;des seen from the Grau de Maury";
+text[1255]="Landscape of the Fenouill&egrave;des seen from the road to the Grau de Maury";
+text[1256]="Reliefs of the Fenouill&egrave;des seen near the Grau de Maury, with summits of the Pyrenees in background";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
