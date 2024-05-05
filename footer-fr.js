@@ -162,7 +162,7 @@ text[151]= "Paysage entre Tautavel et Paziols";
 text[152]= "Vue des Corbi&egrave;res avec le mont Tauch (gauche), Tuchan (centre) et le ch&acirc;teau d'Aguilar (droite)";
 text[153]= "Vignes &agrave; Tuchan avec le ch&acirc;teau d'Aguilar en arri&egrave;re-plan";
 text[154]= "D&eacute;cor des gorges du Verdouble pr&egrave;s de Padern";
-text[155]= "Cucugnan, le ch&acirc;teau de Peyrepertuse et le paysage des Corbi&egrave;res";
+text[155]= "Cucugnan, le ch&acirc;teau de Peyrepertuse (gauche) et le paysage des Corbi&egrave;res vus pr&egrave;s du Grau de Maury";
 text[156]= "Paysage autour du ch&acirc;teau de Qu&eacute;ribus";
 text[157]= "Veurey-Voroize et Voreppe vues sur la route du Mont Saint-Martin";
 text[158]= "Saint-&Eacute;gr&egrave;ve et le massif du Vercors vus &agrave; l'entr&eacute;e de la Chartreuse";
@@ -1257,6 +1257,10 @@ text[1246]="Des Vignes dans les Corbi&egrave;res avec Paziols au loin (centre)";
 text[1247]="Verdure dans la r&eacute;gion de Cucugnan, en direction du ch&acirc;teau de Qu&eacute;ribus";
 text[1248]="Vue sur Cucugnan et le mont Tauch (droite)";
 text[1249]="Le ch&acirc;teau de Peyrepertuse (gauche) et Cucugnan (droite) vus depuis la route menant au Grau de Maury";
+text[1250]="Paysage depuis la route menant au Grau de Maury avec le pech de Fraysse (centre)";
+text[1251]="La route menant au Grau de Maury et le ch&acirc;teau de Qu&eacute;ribus";
+text[1252]="D&eacute;cor du Grau de Maury au massif du Madr&egrave;s vu pr&egrave;s du ch&acirc;teau de Qu&eacute;ribus";
+text[1253]="Vue en direction de Duilhac-sous-Peyrepertuse, ses environs et son ch&acirc;teau, pr&egrave;s du ch&acirc;teau de Qu&eacute;ribus";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js

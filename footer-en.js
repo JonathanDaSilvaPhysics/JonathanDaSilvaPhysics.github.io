@@ -162,7 +162,7 @@ text[151]= "Landscape between Tautavel and Paziols";
 text[152]= "View of the Corbi&egrave;res with Tauch mountain (left), Tuchan (center) and the Aguilar castle (right)";
 text[153]= "Vineyards in Tuchan with the Aguilar castle in background";
 text[154]= "Scenery of Verdouble Gorge near Padern";
-text[155]= "Cucugnan, Peyrepertuse castle and the landscape of Corbi&egrave;res";
+text[155]= "Cucugnan, Peyrepertuse castle (left) and the landscape of the Corbi&egrave;res seen near the Grau de Maury";
 text[156]= "Landscape around Qu&eacute;ribus castle";
 text[157]= "Veurey-Voroize and Voreppe from the road of Mont Saint-Martin";
 text[158]= "Saint-&Eacute;gr&egrave;ve's area and Vercors massif from the Chartreuse";
@@ -1257,6 +1257,10 @@ text[1246]="Vines in the Corbi&egrave;res with Paziols far away (center)";
 text[1247]="Greenery in the area of Cucugnan, towards Qu&eacute;ribus castle";
 text[1248]="View over Cucugnan and Tauch mountain (right)";
 text[1249]="Peyrepertuse castle (left) and Cucugnan (right) seen from the road to the Grau de Maury";
+text[1250]="Landscape from the road to the Grau de Maury with Pech de Fraysse (center)";
+text[1251]="The road to the Grau de Maury and the Qu&eacute;ribus castle";
+text[1252]="Scenery from the Grau de Maury to the Madr&egrave;s massif seen near Qu&eacute;ribus castle";
+text[1253]="View towards Duilhac-sous-Peyrepertuse, its surroundings and its castle from the road to the Qu&eacute;ribus castle";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
