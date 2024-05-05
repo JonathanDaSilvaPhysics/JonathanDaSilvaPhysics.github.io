@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 29 april 2024</span></p>");
+document.write("<p> <span class='end'>Last update : 5 may 2024</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -159,9 +159,9 @@ text[148]= "The Gr&eacute;sivaudan, Lumbin and Chartreuse massif from La Pierre"
 text[149]= "Landscape of Belledonne from Lumbin";
 text[150]= "View of Grenoble with the Isere and Chartreuse massif";
 text[151]= "Landscape between Tautavel and Paziols";
-text[152]= "View of Corbi&egrave;res with Tuchan and Tauch mountain";
+text[152]= "View of the Corbi&egrave;res with Tauch mountain (left), Tuchan (center) and the Aguilar castle (right)";
 text[153]= "Vineyards in Tuchan with the Aguilar castle in background";
-text[154]= "Verdouble Gorge close to Padern";
+text[154]= "Scenery of Verdouble Gorge near Padern";
 text[155]= "Cucugnan, Peyrepertuse castle and the landscape of Corbi&egrave;res";
 text[156]= "Landscape around Qu&eacute;ribus castle";
 text[157]= "Veurey-Voroize and Voreppe from the road of Mont Saint-Martin";
@@ -1252,6 +1252,11 @@ text[1241]="Cows and the Pic du Midi de Bigorre (left) seen near Campistrous";
 text[1242]="Landscape on the road between Galan and Galez, with the Pic du Midi de Bigorre in background (right)";
 text[1243]="Fields and the Pyrenees seen near Clarens";
 text[1244]="Greenery in Bizous";
+text[1245]="Vineyards between Estagel and Paziols, with Cerdanya (left) and Madr&egrave;s massif (center) in background";
+text[1246]="Vines in the Corbi&egrave;res with Paziols far away (center)";
+text[1247]="Greenery in the area of Cucugnan, towards Qu&eacute;ribus castle";
+text[1248]="View over Cucugnan and Tauch mountain (right)";
+text[1249]="Peyrepertuse castle (left) and Cucugnan (right) seen from the road to the Grau de Maury";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

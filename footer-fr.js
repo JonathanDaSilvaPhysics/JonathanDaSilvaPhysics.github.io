@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 29 avril 2024</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 5 mai 2024</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -159,9 +159,9 @@ text[148]= "Vue du Gr&eacute;sivaudan, de Lumbin et du massif de la Chartreuse";
 text[149]= "Paysage de la cha&icirc;ne de Belledonne vu &agrave; partir de Lumbin";
 text[150]= "Vue de Grenoble avec l'Is&egrave;re et le massif de la Chartreuse";
 text[151]= "Paysage entre Tautavel et Paziols";
-text[152]= "Vue des Corbi&egrave;res avec Tuchan et le mont Tauch";
+text[152]= "Vue des Corbi&egrave;res avec le mont Tauch (gauche), Tuchan (centre) et le ch&acirc;teau d'Aguilar (droite)";
 text[153]= "Vignes &agrave; Tuchan avec le ch&acirc;teau d'Aguilar en arri&egrave;re-plan";
-text[154]= "Les Gorges du Verdouble pr&egrave;s de Padern";
+text[154]= "D&eacute;cor des gorges du Verdouble pr&egrave;s de Padern";
 text[155]= "Cucugnan, le ch&acirc;teau de Peyrepertuse et le paysage des Corbi&egrave;res";
 text[156]= "Paysage autour du ch&acirc;teau de Qu&eacute;ribus";
 text[157]= "Veurey-Voroize et Voreppe vues sur la route du Mont Saint-Martin";
@@ -1252,6 +1252,11 @@ text[1241]="Des vaches et le pic du Midi de Bigorre (gauche) vus pr&egrave;s de 
 text[1242]="Paysage sur la route entre Galan et Galez, avec le pic du Midi de Bigorre en arri&egrave;re-plan (droite)";
 text[1243]="Des champs et les Pyr&eacute;n&eacute;es vus pr&egrave;s de Clarens";
 text[1244]="De la verdure et Bizous";
+text[1245]="Vignobles entre Estagel et Paziols, avec la Cerdagne (gauche) et le massif du Madr&egrave;s (centre) en arri&egrave;re-plan";
+text[1246]="Des Vignes dans les Corbi&egrave;res avec Paziols au loin (centre)";
+text[1247]="Verdure dans la r&eacute;gion de Cucugnan, en direction du ch&acirc;teau de Qu&eacute;ribus";
+text[1248]="Vue sur Cucugnan et le mont Tauch (droite)";
+text[1249]="Le ch&acirc;teau de Peyrepertuse (gauche) et Cucugnan (droite) vus depuis la route menant au Grau de Maury";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
