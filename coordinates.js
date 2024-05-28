@@ -1259,3 +1259,4 @@ latitudeLongitude[1257]="44.056934,2.305977";
 latitudeLongitude[1258]="44.053660,2.291478";
 latitudeLongitude[1259]="44.058534,2.290910";
 latitudeLongitude[1260]="44.063927,2.290919";
+latitudeLongitude[1261]="43.397011,1.669881";
