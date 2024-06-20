@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 28 mai 2024</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 20 juin 2024</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1269,6 +1269,9 @@ text[1258]="Des vaches et de la verdure pr&egrave;s de Crespin";
 text[1259]="Paysage vu sur la route entre Crespin et Moular&egrave;s";
 text[1260]="Un lac pr&egrave;s de Moular&egrave;s et une vue en direction de la r&eacute;gion de Carmaux";
 text[1261]="Des champs vus sur la route entre Vieillevigne et Gardouch avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
+text[1262]="&Eacute;glise Saint-Sabin de Blanquefort et son environnement";
+text[1263]="Des champs vus sur la route entre Saint-Sauvy et Augnax";
+text[1264]="Des champs en direction de Lucvielle";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
