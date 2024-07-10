@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 6 july 2024</span></p>");
+document.write("<p> <span class='end'>Last update : 10 july 2024</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1273,6 +1273,9 @@ text[1262]="Saint-Sabin church of Blanquefort and its environment";
 text[1263]="Fields seen on the road between Saint-Sauvy and Augnax";
 text[1264]="Fields towards Lucvielle";
 text[1265]="Landscape around Castelnau-Barbarens";
+text[1266]="Sinsat in the Ari&egrave;ge valley (bottom) seen from the road to Larnat";
+text[1267]="Greenery around Larnat, in summer";
+text[1268]="Les Cabannes (center) and the Ch&acirc;teau de Gudanes (right) ssen from the road to Larcat";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
