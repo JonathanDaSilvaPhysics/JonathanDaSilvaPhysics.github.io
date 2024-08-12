@@ -1294,6 +1294,8 @@ text[1283]="Cows grazing on the Col de Pailh&egrave;res with Pic de Rulhe and Mo
 text[1284]="Cows on the Col de Pailh&egrave;res with Pic de Rulhe, Ax 3 Domaines and Montcalm in background";
 text[1285]="Landscape around the Col de Pailh&egrave;res with Pic de Rulhe, Ax 3 Domaines and Montcalm in background";
 text[1286]="View around the road to the Col de Pailh&egrave;res from above Ascou-Pailh&egrave;res ski resort";
+text[1287]="Somewhere between Saint-Lary and Antras";
+text[1288]="Wheat fields between Saint-Lary and Antras";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

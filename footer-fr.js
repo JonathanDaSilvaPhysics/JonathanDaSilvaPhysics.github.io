@@ -1294,6 +1294,8 @@ text[1283]="Des vaches paissent au port de Pailh&egrave;res avec le Pic de Rulhe
 text[1284]="Des vaches au port de Pailh&egrave;res avec le Pic de Rulhe, Ax 3 Domaines et Montcalm en arri&egrave;re-plan";
 text[1285]="Paysage autour du port de Pailh&egrave;res avec le Pic de Rulhe, Ax 3 Domaines et Montcalm en arri&egrave;re-plan";
 text[1286]="Les environs de la route du port de Pailh&egrave;res vus au-dessus de la station d'Ascou-Pailh&egrave;res";
+text[1287]="Quelque part entre Saint-Lary et Antras";
+text[1288]="Des champs de blé entre Saint-Lary et Antras";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
