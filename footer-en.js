@@ -1282,6 +1282,12 @@ text[1271]="View over the area of Feilluns from near Prats-de-Sournia";
 text[1272]="View of Le Vivier, with the Corbi&egrave;res in background";
 text[1273]="The Ourse de Sost in Maul&eacute;on-Barousse";
 text[1274]="Greenery around the Ourse de Sost in Sost";
+text[1275]="Landscape around the Pic de Tarb&eacute;sou from the Col de Pailh&egrave;res";
+text[1276]="Scenery of the Donezan towards Madr&egrave;s massif seen from the Col de Pailh&egrave;res";
+text[1277]="View over the road to the Col de Pailh&egrave;res from the Donezan side";
+text[1278]="Roc Blanc (top-left) and greenery near the Col de Pailh&egrave;res";
+text[1279]="View of the Col de Pailh&egrave;res (center) and the Pic de Tarb&eacute;sou (left)";
+text[1280]="Last meters of the road to the Col de Pailh&egrave;res with Madr&egrave;s massif in background";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

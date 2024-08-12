@@ -1282,6 +1282,12 @@ text[1271]="Vue sur la r&eacute;gion de Feilluns &agrave; partir des environs de
 text[1272]="Vue sur Le Vivier, avec les Corbi&egrave;res en arri&egrave;re-plan";
 text[1273]="L'Ourse de Sost &agrave; Maul&eacute;on-Barousse";
 text[1274]="Verdure autour de l'Ourse de Sost &agrave; Sost";
+text[1275]="Paysage autour du pic de Tarb&eacute;sou vu du port de Pailh&egrave;res";
+text[1276]="D&eacute;cor du Donezan en direction du massif du Madr&egrave;s vu du port de Pailh&egrave;res";
+text[1277]="Vue sur la route du port de Pailh&egrave;res du c&ocirc;t&eacute; du Donezan";
+text[1278]="Roc Blanc (en haut &agrave; gauche) et verdure pr&egrave;s du port de Pailh&egrave;res";
+text[1279]="Vue sur le port de Pailh&egrave;res (centre) et le pic de Tarb&eacute;sou (gauche)";
+text[1280]="Derniers lacets de la route du port de Pailh&egrave;res avec le massif du Madr&egrave;s en arri&egrave;re-plan";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
