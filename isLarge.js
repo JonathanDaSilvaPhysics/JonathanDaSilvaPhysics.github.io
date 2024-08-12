@@ -1271,3 +1271,5 @@ isLarge[1269]=true;
 isLarge[1270]=true;
 isLarge[1271]=true;
 isLarge[1272]=true;
+isLarge[1273]=true;
+isLarge[1274]=true;
