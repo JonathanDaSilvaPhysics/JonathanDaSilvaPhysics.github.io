@@ -1288,6 +1288,12 @@ text[1277]="Vue sur la route du port de Pailh&egrave;res du c&ocirc;t&eacute; du
 text[1278]="Roc Blanc (en haut &agrave; gauche) et verdure pr&egrave;s du port de Pailh&egrave;res";
 text[1279]="Vue sur le port de Pailh&egrave;res (centre) et le pic de Tarb&eacute;sou (gauche)";
 text[1280]="Derniers lacets de la route du port de Pailh&egrave;res avec le massif du Madr&egrave;s en arri&egrave;re-plan";
+text[1281]="L'environnnement du pic de Bentaillole vu de la route du port de Pailh&egrave;res";
+text[1282]="D&eacute;cor du port de Pailh&egrave;res avec des sommets des Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
+text[1283]="Des vaches paissent au port de Pailh&egrave;res avec le Pic de Rulhe et Montcalm en arri&egrave;re-plan";
+text[1284]="Des vaches au port de Pailh&egrave;res avec le Pic de Rulhe, Ax 3 Domaines et Montcalm en arri&egrave;re-plan";
+text[1285]="Paysage autour du port de Pailh&egrave;res avec le Pic de Rulhe, Ax 3 Domaines et Montcalm en arri&egrave;re-plan";
+text[1286]="Les environs de la route du port de Pailh&egrave;res vus au-dessus de la station d'Ascou-Pailh&egrave;res";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js

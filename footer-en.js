@@ -1288,6 +1288,12 @@ text[1277]="View over the road to the Col de Pailh&egrave;res from the Donezan s
 text[1278]="Roc Blanc (top-left) and greenery near the Col de Pailh&egrave;res";
 text[1279]="View of the Col de Pailh&egrave;res (center) and the Pic de Tarb&eacute;sou (left)";
 text[1280]="Last meters of the road to the Col de Pailh&egrave;res with Madr&egrave;s massif in background";
+text[1281]="The environment of the Pic de Bentaillole seen from the road to the Col de Pailh&egrave;res";
+text[1282]="Scenery from the Col de Pailh&egrave;res with summits of the Pyrenees in background";
+text[1283]="Cows grazing on the Col de Pailh&egrave;res with Pic de Rulhe and Montcalm in background";
+text[1284]="Cows on the Col de Pailh&egrave;res with Pic de Rulhe, Ax 3 Domaines and Montcalm in background";
+text[1285]="Landscape around the Col de Pailh&egrave;res with Pic de Rulhe, Ax 3 Domaines and Montcalm in background";
+text[1286]="View around the road to the Col de Pailh&egrave;res from above Ascou-Pailh&egrave;res ski resort";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
