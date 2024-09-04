@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 24 ao&ucirc;t 2024</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 4 septembre 2024</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1299,6 +1299,8 @@ text[1288]="Des champs de blé entre Saint-Lary et Antras";
 text[1289]="Verdure à l'ouest de B&eacute;ziers avec un peu du massif du Caroux-Espinouse en arri&egrave;re-plan (droite)";
 text[1290]="Cath&eacute;drale Saint-Nazaire-et-Saint-Celse de B&eacute;ziers et l'Orb vus du Pont Vieux de B&eacute;ziers";
 text[1291]="Des vignes, avec la Tour de Montady en arri&egrave;re-plan";
+text[1292]="L'environnement de Saint-Vincent-d'Aut&eacute;jac";
+text[1293]="Paysage autour d'Auty vu en direction de Montalzat";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
