@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 4 september 2024</span></p>");
+document.write("<p> <span class='end'>Last update : 22 september 2024</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1301,6 +1301,14 @@ text[1290]="B&eacute;ziers Cathedral and the Orb seen from the old bridge of B&e
 text[1291]="Vines, with Montady and its tower in background";
 text[1292]="The environment of Saint-Vincent-d'Aut&eacute;jac";
 text[1293]="Landscape around Auty seen towards Montalzat";
+text[1294]="Oueil valley seen from the top of the Port de Bal&egrave;s";
+text[1295]="Scenery of the Mont N&eacute; pasture towards the Barousse";
+text[1296]="Cows resting in the Mont N&eacute; pasture";
+text[1297]="Cows in the Mont N&eacute; pasture in front of the Barousse";
+text[1298]="Summits of the Pyrenees seen near Crou&egrave;s lake at the Mont N&eacute; pasture";
+text[1299]="A path on the Mont N&eacute; pasture and summits of the Pyrenees";
+text[1300]="From left to right : Montious massif, Mont N&eacute; and Port de Bal&egrave;s";
+text[1301]="Sheeps on the Port de Bal&egrave;s, towards the Barousse";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
