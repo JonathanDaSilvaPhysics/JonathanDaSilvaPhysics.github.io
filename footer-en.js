@@ -1309,6 +1309,13 @@ text[1298]="Summits of the Pyrenees seen near Crou&egrave;s lake at the Mont N&e
 text[1299]="A path on the Mont N&eacute; pasture and summits of the Pyrenees";
 text[1300]="From left to right : Montious massif, Mont N&eacute; and Port de Bal&egrave;s";
 text[1301]="Sheeps on the Port de Bal&egrave;s, towards the Barousse";
+text[1302]="Last meters of the road to the Port de Bal&egrave;s in the Mont N&eacute; pasture";
+text[1303]="The road to the Port de Bal&egrave;s in the Mont N&eacute; pasture";
+text[1304]="View around the road to the Port de Bal&egrave;s, near its top";
+text[1305]="The Barousse seen near the top of the Port de Bal&egrave;s";
+text[1306]="Landscape of the Barousse seen from the road to the Port de Bal&egrave;s";
+text[1307]="Cows walking around in Ferr&egrave;re";
+text[1308]="Aveux and its greenery surroundings";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

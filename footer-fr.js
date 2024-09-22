@@ -1309,6 +1309,13 @@ text[1298]="Sommets des Pyr&eacute;n&eacute;es vus pr&egrave;s du lac de Crou&eg
 text[1299]="Un chemin &agrave; l'estive du mont N&eacute; et des sommets des Pyr&eacute;n&eacute;es";
 text[1300]="De gauche &agrave; droite : massif du Montious, mont N&eacute; et port de Bal&egrave;s";
 text[1301]="Des moutons au port de Bal&egrave;s, avec la Barousse en arri&egrave;re-plan";
+text[1302]="Derniers hectom&egrave;tres de la route du port de Bal&egrave;s &agrave; l'estive du mont N&eacute;";
+text[1303]="La route du port de Bal&egrave;s &agrave; l'estive du mont N&eacute;";
+text[1304]="Vue autour de la route du port de Bal&egrave;s, pr&egrave;s de son sommet";
+text[1305]="La Barousse vue pr&egrave;s du sommet du port de Bal&egrave;s";
+text[1306]="Paysage de la Barousse vu de la route du port de Bal&egrave;s";
+text[1307]="Des vaches se baladent &agrave; Ferr&egrave;re";
+text[1308]="Aveux et ses environs verdoyants";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
