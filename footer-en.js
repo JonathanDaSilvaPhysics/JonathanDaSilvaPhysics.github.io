@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 10 october 2024</span></p>");
+document.write("<p> <span class='end'>Last update : 12 october 2024</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1320,6 +1320,12 @@ text[1309]="Landscape of the Comminges towards Castelbiague (center)";
 text[1310]="Fields and greenery in Saleich";
 text[1311]="Notre-Dame de Vallat&egrave;s chapel and its environment";
 text[1312]="View around the road between Saleich and Francazal (in background)";
+text[1313]="Croix des Cabannes in front of the medieval city of Cordes-sur-Ciel";
+text[1314]="Scenery of the area of Cordes-sur-Ciel seen near Saint-Antoine-de-Corrompis church";
+text[1315]="Greenery of the north of Cordes-sur-Ciel seen from the top of the medieval city";
+text[1316]="Landscape around Vindrac-Alayrac with the medieval city of Cordes-sur-Ciel far away (center)";
+text[1317]="Fields around Amarens";
+text[1318]="Notre-Dame-de-l'Annonciation church of Roumanou and its surroundings";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
