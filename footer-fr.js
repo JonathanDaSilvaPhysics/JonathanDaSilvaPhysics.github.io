@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 12 octobre 2024</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 22 octobre 2024</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1326,6 +1326,9 @@ text[1315]="Verdure du nord de Cordes-sur-Ciel vue du haut de la cit&eacute; m&e
 text[1316]="Paysage autour de Vindrac-Alayrac avec la cit&eacute; m&eacute;di&eacute;vale de Cordes-sur-Ciel au loin (centre)";
 text[1317]="Des champs autour d'Amarens";
 text[1318]="&Eacute;glise Notre-Dame-de-l'Annonciation de Roumanou et ses environs";
+text[1319]="Verdure autour de la route menant &agrave; Ax 3 Domaines";
+text[1320]="Paysage autour d'Ax-les-Thermes (en bas), avec une vue jusqu'au pic de Tarb&eacute;sou (droite)";
+text[1321]="D&eacute;cor de la r&eacute;gion entre Bestiac et Caussou (centre, au loin)";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js

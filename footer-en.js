@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 12 october 2024</span></p>");
+document.write("<p> <span class='end'>Last update : 22 october 2024</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1326,6 +1326,9 @@ text[1315]="Greenery of the north of Cordes-sur-Ciel seen from the top of the me
 text[1316]="Landscape around Vindrac-Alayrac with the medieval city of Cordes-sur-Ciel far away (center)";
 text[1317]="Fields around Amarens";
 text[1318]="Notre-Dame-de-l'Annonciation church of Roumanou and its surroundings";
+text[1319]="Greenery around the road to Ax 3 Domaines";
+text[1320]="Landscape around Ax-les-Thermes (bottom) with a view up to the Pic de Tarb&eacute;sou (right)";
+text[1321]="Scenery of the area between Bestiac and Caussou (center, far away)";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
