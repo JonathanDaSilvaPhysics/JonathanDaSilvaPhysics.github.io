@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 10 november 2024</span></p>");
+document.write("<p> <span class='end'>Last update : 11 november 2024</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1334,6 +1334,12 @@ text[1323]="Herran's surroundings seen from the hamlet of La Baderque";
 text[1324]="Herran's church and its environment";
 text[1325]="Landscape around Fougaron";
 text[1326]="Curious cows and greenery between Arbas and Chein-Dessus";
+text[1327]="Saint-Fructueux church of Yravals in Latour-de-Carol";
+text[1328]="Landscape near Puigcerd&agrave; seen between Enveitg and Ur, with the Tosa d'Alp in background";
+text[1329]="View of the Puigmal massif from the road between Enveitg and Ur";
+text[1330]="Landscape between Ur and Cald&eacute;gas with Santa Maria de Bell-Lloc chapel far away";
+text[1331]="Scenery of Cerdanya near Cald&eacute;gas towards Puigmal massif";
+text[1332]="Cerdanya seen near Cald&eacute;gas with the Puigmal (right), Llo solar power plant and Ll&iacute;via (left) in background";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
