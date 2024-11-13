@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 11 november 2024</span></p>");
+document.write("<p> <span class='end'>Last update : 13 november 2024</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1340,6 +1340,12 @@ text[1329]="View of the Puigmal massif from the road between Enveitg and Ur";
 text[1330]="Landscape between Ur and Cald&eacute;gas with Santa Maria de Bell-Lloc chapel far away";
 text[1331]="Scenery of Cerdanya near Cald&eacute;gas towards Puigmal massif";
 text[1332]="Cerdanya seen near Cald&eacute;gas with the Puigmal (right), Llo solar power plant and Ll&iacute;via (left) in background";
+text[1333]="Puigcerd&agrave; seen from Hix";
+text[1334]="Angoustrine-Villeneuve-des-Escaldes and Th&eacute;mis solar power plant seen from Hix";
+text[1335]="Puigcerd&agrave;, Bourg-Madame and the Campcard&oacute;s massif seen from Palau-de-Cerdagne";
+text[1336]="Valceboll&egrave;re's surroundings in Cerdanya";
+text[1337]="Saint-Félix de Valceboll&egrave;re church and its environment";
+text[1338]="View towards Oss&eacute;ja and the Campcard&oacute;s massif from the road to Valceboll&egrave;re";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
