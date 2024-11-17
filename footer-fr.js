@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 13 novembre 2024</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 17 novembre 2024</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1346,6 +1346,7 @@ text[1335]="Puigcerd&agrave;, Bourg-Madame et le massif de Campcard&oacute;s vus
 text[1336]="Les environs de Valceboll&egrave;re en Cerdagne";
 text[1337]="&Eacute;glise Saint-Félix de Valceboll&egrave;re et son environnement";
 text[1338]="Vue en direction d'Oss&eacute;ja et du massif de Campcard&oacute;s &agrave; partir de la route menant &agrave; Valceboll&egrave;re";
+text[1339]="D&eacute;cor autour de T&eacute;cou";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
