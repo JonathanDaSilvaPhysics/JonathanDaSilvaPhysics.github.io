@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 17 november 2024</span></p>");
+document.write("<p> <span class='end'>Last update : 28 november 2024</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1347,6 +1347,14 @@ text[1336]="Valceboll&egrave;re's surroundings in Cerdanya";
 text[1337]="Saint-Félix de Valceboll&egrave;re church and its environment";
 text[1338]="View towards Oss&eacute;ja and the Campcard&oacute;s massif from the road to Valceboll&egrave;re";
 text[1339]="Scenery around T&eacute;cou";
+text[1340]="Cows between Ponlat-Taillebourg and Loudet, with the Pic du Midi de Bigorre in background (center)";
+text[1341]="Scenery of the Pyrenees seen between Ponlat-Taillebourg and Loudet";
+text[1342]="Notre-Dame church of Loudet in front of the Pyrenees";
+text[1343]="Cows resting near Le Cuing";
+text[1344]="Pic du Midi de Bigorre and Pic du Montaigu seen from the south of Le Cuing";
+text[1345]="A cow and the Pyrenees seen from Villeneuve-de-Rivi&egrave;re";
+text[1346]="Landscape of the Pyrenees seen from the heights of Villeneuve-de-Rivi&egrave;re";
+text[1347]="Scenery between Villeneuve-de-Rivi&egrave;re and Saint-Gaudens with the Pyrenees";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

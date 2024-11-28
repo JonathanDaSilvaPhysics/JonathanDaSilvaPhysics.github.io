@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 17 novembre 2024</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 28 novembre 2024</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1183,11 +1183,11 @@ text[1172]="D&eacute;cor autour de la route menant au col de Port vu en directio
 text[1173]="Des champs entre Lombez et Montamat";
 text[1174]="Paysage pr&egrave;s de Montamat";
 text[1175]="Vue sur la r&eacute;gion de Saint-Soulan";
-text[1176]="Paysage vu pr&egrave;s de Lannemezan avec le pic du Midi de Bigorre (centre) et le pic de Montaigu (droite)";
-text[1177]="Pic du Midi de Bigorre (centre) et pic de Montaigu (droite) vus sur la route entre Lannemezan et Houeydets";
+text[1176]="Paysage vu pr&egrave;s de Lannemezan avec le pic du Midi de Bigorre (centre) et le pic du Montaigu (droite)";
+text[1177]="Pic du Midi de Bigorre (centre) et pic du Montaigu (droite) vus sur la route entre Lannemezan et Houeydets";
 text[1178]="Vue en direction des Pyr&eacute;n&eacute;es &agrave; partir de la route entre Houeydets et Castelbajac";
 text[1179]="Des vaches pr&egrave;s de Caharet";
-text[1180]="D&eacute;cor pr&egrave;s de Caharet en direction des Pyr&eacute;n&eacute;es avec le pic de Montaigu (centre)";
+text[1180]="D&eacute;cor pr&egrave;s de Caharet en direction des Pyr&eacute;n&eacute;es avec le pic du Montaigu (centre)";
 text[1181]="Paysage de la r&eacute;gion de Saint-Amans avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
 text[1182]="D&eacute;cor du sud de Saint-Amans";
 text[1183]="Verdure pr&egrave;s de Saint-Amans";
@@ -1347,6 +1347,14 @@ text[1336]="Les environs de Valceboll&egrave;re en Cerdagne";
 text[1337]="&Eacute;glise Saint-Félix de Valceboll&egrave;re et son environnement";
 text[1338]="Vue en direction d'Oss&eacute;ja et du massif de Campcard&oacute;s &agrave; partir de la route menant &agrave; Valceboll&egrave;re";
 text[1339]="D&eacute;cor autour de T&eacute;cou";
+text[1340]="Des vaches entre Ponlat-Taillebourg et Loudet, avec le pic du Midi de Bigore en arri&egrave;re-plan (centre)";
+text[1341]="D&eacute;cor des Pyr&eacute;n&eacute;es vu entre Ponlat-Taillebourg et Loudet";
+text[1342]="&Eacute;glise Notre-Dame de Loudet devant les Pyr&eacute;n&eacute;es";
+text[1343]="Des vaches se reposent pr&egrave;s du Cuing";
+text[1344]="Les pics du Midi de Bigorre et du Montaigu vus depuis le sud du Cuing";
+text[1345]="Une vache et les Pyr&eacute;n&eacute;es vues de Villeneuve-de-Rivi&egrave;re";
+text[1346]="Paysage des Pyr&eacute;n&eacute;es vu &agrave; partir des hauteurs de Villeneuve-de-Rivi&egrave;re";
+text[1347]="D&eacute;cor entre Villeneuve-de-Rivi&egrave;re et Saint-Gaudens avec les Pyr&eacute;n&eacute;es";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
