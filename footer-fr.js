@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 28 novembre 2024</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 4 d&eacute;cembre 2024</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1355,6 +1355,15 @@ text[1344]="Les pics du Midi de Bigorre et du Montaigu vus depuis le sud du Cuin
 text[1345]="Une vache et les Pyr&eacute;n&eacute;es vues de Villeneuve-de-Rivi&egrave;re";
 text[1346]="Paysage des Pyr&eacute;n&eacute;es vu &agrave; partir des hauteurs de Villeneuve-de-Rivi&egrave;re";
 text[1347]="D&eacute;cor entre Villeneuve-de-Rivi&egrave;re et Saint-Gaudens avec les Pyr&eacute;n&eacute;es";
+text[1348]="Des vaches et la tour de la centrale solaire Th&eacute;mis en Cerdagne";
+text[1349]="Vue pr&egrave;s de la centrale solaire Th&eacute;mis avec le massif de Campcard&oacute;s au loin (gauche)";
+text[1350]="Paysage pr&egrave;s de la centrale solaire Th&eacute;mis avec la serra del Cad&iacute; (gauche) et le massif de Campcard&oacute;s (centre)";
+text[1351]="D&eacute;cor de la Cerdagne pr&egrave;s de Targasonne avec la serra de Moixer&oacute; (gauche) et la serra del Cad&iacute; (droite) au loin";
+text[1352]="Vue du massif du Puigmal pr&egrave;s de Targasonne";
+text[1353]="La Cerdagne vue pr&egrave;s de la centrale solaire Th&eacute;mis avec &Eacute;gat et le pic de Gallinas en arri&egrave;re-plan";
+text[1354]="&Eacute;gat, sa tour et son environnement en Cerdagne";
+text[1355]="De gauche &agrave; droite : Canigou (au loin), Odeillo, pic de Gallinas, centrale solaire de Llo et massif du Puigmal";
+text[1356]="Le massif du Puigmal et Err (au loin au centre) vus de la route entre Angoustrine et Targasonne";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
