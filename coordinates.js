@@ -1355,3 +1355,4 @@ latitudeLongitude[1353]="42.499140,1.982222";
 latitudeLongitude[1354]="42.500092,2.007543";
 latitudeLongitude[1355]="42.497530,2.014380";
 latitudeLongitude[1356]="42.488925,1.975335";
+latitudeLongitude[1357]="43.110480,3.090731";
