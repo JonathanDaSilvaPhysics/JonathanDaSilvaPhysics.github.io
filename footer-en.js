@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 28 december 2024</span></p>");
+document.write("<p> <span class='end'>Last update : 31 december 2024</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -240,8 +240,8 @@ text[229]= "Serrabone Priory and its environment";
 text[230]= "View over Casefabre from the road to Serrabone Priory";
 text[231]= "Collioure's church, Notre-Dame-des-Anges";
 text[232]= "Landscape around Collioure's royal castle and church";
-text[233]= "Collioure and its main monuments";
-text[234]= "Port-Vendres on the C&ocirc;te Vermeille";
+text[233]= "Collioure and its main monuments, with the Tauch mountain far away (right)";
+text[234]= "Landscape between Collioure and Port-Vendres on the C&ocirc;te Vermeille";
 text[235]= "View over Collioure, its train station and the Fort Saint-Elme";
 text[236]= "View over Corb&egrave;re, Corb&egrave;re-les-Cabanes and For&ccedil;a R&eacute;al massif";
 text[237]= "Corb&egrave;re-les-Cabanes and the Montou seen from Corb&egrave;re castle";

@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 28 d&eacute;cembre 2024</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 31 d&eacute;cembre 2024</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -240,8 +240,8 @@ text[229]= "Prieur&eacute; de Serrabona et son environnement";
 text[230]= "Vue sur Casefabre depuis la route menant au Prieur&eacute; de Serrabona";
 text[231]= "L'&eacute;glise Notre-Dame-des-Anges de Collioure";
 text[232]= "Paysage autour du ch&acirc;teau royal et de l'&eacute;glise de Collioure";
-text[233]= "Collioure et ses principaux monuments";
-text[234]= "Port-Vendres sur la C&ocirc;te Vermeille";
+text[233]= "Collioure et ses principaux monuments, avec le mont Tauch au loin (droite)";
+text[234]= "Paysage entre Collioure et Port-Vendres sur la C&ocirc;te Vermeille";
 text[235]= "Vue sur Collioure, sa gare SNCF et le fort Saint-Elme";
 text[236]= "Vue sur Corb&egrave;re, Corb&egrave;re-les-Cabanes et le massif de For&ccedil;a R&eacute;al";
 text[237]= "Corb&egrave;re-les-Cabanes et le Montou vus du ch&acirc;teau de Corb&egrave;re";
