@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 1 janvier 2025</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 2 janvier 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -241,7 +241,7 @@ text[230]= "Vue sur Casefabre depuis la route menant au Prieur&eacute; de Serrab
 text[231]= "L'&eacute;glise Notre-Dame-des-Anges de Collioure";
 text[232]= "Paysage autour du ch&acirc;teau royal et de l'&eacute;glise de Collioure";
 text[233]= "Collioure et ses principaux monuments, avec le mont Tauch au loin (droite)";
-text[234]= "Paysage entre Collioure et Port-Vendres sur la C&ocirc;te Vermeille";
+text[234]= "Paysage entre Collioure et Port-Vendres sur la c&ocirc;te Vermeille";
 text[235]= "Vue sur Collioure, sa gare SNCF et le fort Saint-Elme";
 text[236]= "Vue sur Corb&egrave;re, Corb&egrave;re-les-Cabanes et le massif de For&ccedil;a R&eacute;al";
 text[237]= "Corb&egrave;re-les-Cabanes et le Montou vus du ch&acirc;teau de Corb&egrave;re";
@@ -1370,6 +1370,12 @@ text[1359]="Vue au-dessus de Collioure en direction de la tour Madeloc, au loin 
 text[1360]="D&eacute;cor de Collioure et du fort Saint-Elme (droite)";
 text[1361]="Paysage du Pech de Bugarach (gauche, en arri&egrave;re-plan) &agrave; la M&eacute;diterran&eacute;e avec Argel&egrave;s-sur-Mer au centre";
 text[1362]="Collioure et le fort Saint-Elme (droite) vus de la route menant &agrave; la tour Madeloc";
+text[1363]="Argel&egrave;s-Plage (gauche) et Collioure (droite) vus pr&egrave;s du col de Mollo";
+text[1364]="Paysage autour de Collioure et du fort Saint-Elme vu pr&egrave;s du col de Mollo";
+text[1365]="Vue en direction de Port-Vendres (centre) et du fort Saint-Elme (gauche) &agrave; proximit&eacute; du mirador de Madeloc";
+text[1366]="Col de Mollo (en bas &agrave; droite), Collioure (centre) et la M&eacute;diterran&eacute;e";
+text[1367]="D&eacute;cor au-dessus du col de Mollo avec Collioure (gauche) et le fort Saint-Elme (droite)";
+text[1368]="Paysage en direction de Port-Vendres avec le fort Saint-Elme (gauche) et le hameau de Cosprons (droite)";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
