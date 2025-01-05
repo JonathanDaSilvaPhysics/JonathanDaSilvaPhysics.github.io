@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 2 janvier 2025</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 5 janvier 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1376,6 +1376,12 @@ text[1365]="Vue en direction de Port-Vendres (centre) et du fort Saint-Elme (gau
 text[1366]="Col de Mollo (en bas &agrave; droite), Collioure (centre) et la M&eacute;diterran&eacute;e";
 text[1367]="D&eacute;cor au-dessus du col de Mollo avec Collioure (gauche) et le fort Saint-Elme (droite)";
 text[1368]="Paysage en direction de Port-Vendres avec le fort Saint-Elme (gauche) et le hameau de Cosprons (droite)";
+text[1369]="D&eacute;cor de Banyuls-sur-Mer sur la c&ocirc;te Vermeille";
+text[1370]="Vue de la c&ocirc;te Vermeille jusqu'aux Corbi&egrave;res pr&egrave;s de la tour Madeloc";
+text[1371]="La tour Madeloc vue de la route menant &agrave; Banyuls-sur-Mer";
+text[1372]="La batterie de la Galline et la c&ocirc;te Vermeille";
+text[1373]="Paysage autour de Banyuls-sur-Mer sur la c&ocirc;te Vermeille";
+text[1374]="Vignobles et le mirador de Madeloc vus du Coll de Llagostera";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
