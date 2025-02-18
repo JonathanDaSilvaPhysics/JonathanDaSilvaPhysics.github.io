@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 9 february 2025</span></p>");
+document.write("<p> <span class='end'>Last update : 18 february 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1390,6 +1390,8 @@ text[1379]="View over Avignonet-Lauragais";
 text[1380]="Fields between Mauvaisin and Aignes with the Pyrenees in background (Mont Valier at the center)";
 text[1381]="Landscape towards Tabe massif seen from Gaudi&egrave;s";
 text[1382]="Tabe massif (left) and others summits of the Pyrenees seen near Le Carlaret";
+text[1383]="Scenery near Montfa with the Montagne Noire (left) and the Pyrenees far away (center)";
+text[1384]="Fields and greenery around V&eacute;n&egrave;s with the Pyrenees in background (center)";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
