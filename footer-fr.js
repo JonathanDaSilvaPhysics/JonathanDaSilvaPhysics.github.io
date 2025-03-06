@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 18 f&eacute;vrier 2025</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 6 mars 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1392,6 +1392,11 @@ text[1381]="Paysage en direction du massif de Tabe vu de Gaudi&egrave;s";
 text[1382]="Massif de Tabe (gauche) et autres sommets des Pyr&eacute;n&eacute;es vus pr&egrave;s du Carlaret";
 text[1383]="D&eacute;cor pr&egrave;s de Montfa avec la montagne Noire (gauche) et les Pyr&eacute;n&eacute;es au loin (centre)";
 text[1384]="Champs et verdure autour de V&eacute;n&egrave;s avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan (centre)";
+text[1385]="Champs et hameaux du S&eacute;gala vus pr&egrave;s de Caban&egrave;s";
+text[1386]="Paysage depuis le hameau de Lugan avec Sauveterre-de-Rouergue en arri&egrave;re-plan (centre)";
+text[1387]="Verdure autour de Quins vue depuis le hameau de Lugan";
+text[1388]="&Eacute;glise Saint-Pierre-&egrave;s-Liens de Quins et ses environs";
+text[1389]="D&eacute;cor autour de Salan vu de la route menant &agrave; Camboulazet";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
