@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 6 mars 2025</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 12 mars 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -14,7 +14,7 @@ text[3] =  "Le LAPTh, en hiver";
 text[4] =  "Les dents de Lanfon au-dessus de Talloires et du lac d'Annecy";
 text[5] =  "Montmin vu &agrave; partir du col de la Forclaz";
 text[6] =  "Vignobles au nord de Baho";
-text[7] =  "Geraz do Lima et son paysage";
+text[7] =  "Paysage de Geraz do Lima vu pr&egrave;s de la chapelle Senhora da Guia";
 text[8] =  "L'embouchure du fleuve Lima, Viana do Castelo, et ses environs";
 text[9] =  "Des vignes et le pic du Canigou";
 text[10]=  "L'arc de triomphe de Montpellier";
@@ -1397,6 +1397,10 @@ text[1386]="Paysage depuis le hameau de Lugan avec Sauveterre-de-Rouergue en arr
 text[1387]="Verdure autour de Quins vue depuis le hameau de Lugan";
 text[1388]="&Eacute;glise Saint-Pierre-&egrave;s-Liens de Quins et ses environs";
 text[1389]="D&eacute;cor autour de Salan vu de la route menant &agrave; Camboulazet";
+text[1390]="&Eacute;glise Santa Leoc&aacute;dia de Geraz do Lima et son environnement";
+text[1391]="For&ecirc;t d'eucalyptus entre Coutada et Air&atilde;o";
+text[1392]="Vue autour d'Air&atilde;o avec la r&eacute;gion de Vitorino dos Pi&atilde;es en arri&egrave;re-plan";
+text[1393]="Hameaux de Vitorino dos Pi&atilde;es vus d'Air&atilde;o";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
