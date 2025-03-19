@@ -29,7 +29,10 @@
 body
 {
     font-family: 'Trebuchet MS', Arial, sans-serif;
-    background: url('images/picture_0.jpg') no-repeat center;
+    background: url('images/picture_0.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
 }
 
