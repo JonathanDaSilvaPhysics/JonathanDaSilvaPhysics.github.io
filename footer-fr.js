@@ -1412,6 +1412,9 @@ text[1401]="Vue en direction de Durr&atilde;es &agrave; partir des environs de C
 text[1402]="Vue sur des hameaux de Santa Leoc&aacute;dia de Geraz do Lima, avec les environs de Viana do Castelo au loin (droite)";
 text[1403]="Vacaria, Agros (centre) et Areosa (droite) vus des hauteurs de Santa Leoc&aacute;dia de Geraz do Lima";
 text[1404]="Le fleuve Lima, Lanheses et Serra d'Arga vus des hauteurs de Santa Leoc&aacute;dia de Geraz do Lima";
+text[1405]="Verdure de la r&eacute;gion de Vacaria et Agros";
+text[1406]="Chapelle Santa Justa da Padela et ses environs";
+text[1407]="D&eacute;cor de la r&eacute;gion de Carvoeiro vu pr&egrave;s de la chapelle Santa Justa da Padela";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js

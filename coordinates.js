@@ -1403,3 +1403,6 @@ latitudeLongitude[1401]="41.643507,-8.655785";
 latitudeLongitude[1402]="41.700871,-8.648275";
 latitudeLongitude[1403]="41.700880,-8.648259";
 latitudeLongitude[1404]="41.701173,-8.648030";
+latitudeLongitude[1405]="41.676951,-8.665983";
+latitudeLongitude[1406]="41.670857,-8.664855";
+latitudeLongitude[1407]="41.670784,-8.664859";

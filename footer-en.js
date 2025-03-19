@@ -1401,7 +1401,7 @@ text[1390]="Santa Leoc&aacute;dia de Geraz do Lima church and its environment";
 text[1391]="Eucalyptus forest between Coutada and Air&atilde;o";
 text[1392]="View around Air&atilde;o with the area of Vitorino dos Pi&atilde;es in background";
 text[1393]="Hamlets of Vitorino dos Pi&atilde;es seen from Air&atilde;o";
-text[1394]="Santo Andr&eacute; de Vitorino dos Pi&atilde;es church ant its surroundings";
+text[1394]="Santo Andr&eacute; de Vitorino dos Pi&atilde;es church and its surroundings";
 text[1395]="Scenery of Santa Marinha de Navi&oacute; chapel";
 text[1396]="Greenery near Navi&oacute; with Air&atilde;o far away (center)";
 text[1397]="Sheeps near Poiares";
@@ -1412,6 +1412,9 @@ text[1401]="View towards Durr&atilde;es seen near Carvoeiro";
 text[1402]="View over hamlets of Santa Leoc&aacute;dia de Geraz do Lima with Viana do Castelo's surroundings far away (right)";
 text[1403]="Vacaria, Agros (center) and Areosa (right) seen from the heights of Santa Leoc&aacute;dia de Geraz do Lima";
 text[1404]="The Lima, Lanheses and Serra d'Arga seen from the heights of Santa Leoc&aacute;dia de Geraz do Lima";
+text[1405]="Greenery of the area of Vacaria and Agros";
+text[1406]="Santa Justa da Padela chapel and its surroundings";
+text[1407]="Scenery of the area of Carvoeiro seen near Santa Justa da Padela chapel";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
