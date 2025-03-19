@@ -1409,6 +1409,9 @@ text[1398]="View towards Poiares' church with Balug&atilde;es' area in backgroun
 text[1399]="Landscape around Balug&atilde;es from Nossa Senhora da Aparecida sanctuary";
 text[1400]="Nossa Senhora da Aparecida sanctuary and its environment";
 text[1401]="View towards Durr&atilde;es seen near Carvoeiro";
+text[1402]="View over hamlets of Santa Leoc&aacute;dia de Geraz do Lima with Viana do Castelo's surroundings far away (right)";
+text[1403]="Vacaria, Agros (center) and Areosa (right) seen from the heights of Santa Leoc&aacute;dia de Geraz do Lima";
+text[1404]="The Lima, Lanheses and Serra d'Arga seen from the heights of Santa Leoc&aacute;dia de Geraz do Lima";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

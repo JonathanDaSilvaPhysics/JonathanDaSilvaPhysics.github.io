@@ -1409,6 +1409,9 @@ text[1398]="Vue en direction de l'&eacute;glise de Poiares avec la r&eacute;gion
 text[1399]="Paysage autour de Balug&atilde;es vu du sanctuaire Nossa Senhora da Aparecida";
 text[1400]="Sanctuaire Nossa Senhora da Aparecida et son environnement";
 text[1401]="Vue en direction de Durr&atilde;es &agrave; partir des environs de Carvoeiro";
+text[1402]="Vue sur des hameaux de Santa Leoc&aacute;dia de Geraz do Lima, avec les environs de Viana do Castelo au loin (droite)";
+text[1403]="Vacaria, Agros (centre) et Areosa (droite) vus des hauteurs de Santa Leoc&aacute;dia de Geraz do Lima";
+text[1404]="Le fleuve Lima, Lanheses et Serra d'Arga vus des hauteurs de Santa Leoc&aacute;dia de Geraz do Lima";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js

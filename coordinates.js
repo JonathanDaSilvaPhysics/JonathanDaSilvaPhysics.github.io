@@ -1400,3 +1400,6 @@ latitudeLongitude[1398]="41.652983,-8.622458";
 latitudeLongitude[1399]="41.641575,-8.644930";
 latitudeLongitude[1400]="41.641245,-8.645178";
 latitudeLongitude[1401]="41.643507,-8.655785";
+latitudeLongitude[1402]="41.700871,-8.648275";
+latitudeLongitude[1403]="41.700880,-8.648259";
+latitudeLongitude[1404]="41.701173,-8.648030";
