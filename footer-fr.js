@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 12 mars 2025</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 19 mars 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1401,6 +1401,14 @@ text[1390]="&Eacute;glise Santa Leoc&aacute;dia de Geraz do Lima et son environn
 text[1391]="For&ecirc;t d'eucalyptus entre Coutada et Air&atilde;o";
 text[1392]="Vue autour d'Air&atilde;o avec la r&eacute;gion de Vitorino dos Pi&atilde;es en arri&egrave;re-plan";
 text[1393]="Hameaux de Vitorino dos Pi&atilde;es vus d'Air&atilde;o";
+text[1394]="&Eacute;glise Santo Andr&eacute; de Vitorino dos Pi&atilde;es et ses environs";
+text[1395]="D&eacute;cor de la chapelle Santa Marinha de Navi&oacute;";
+text[1396]="Verdure pr&egrave;s de Navi&oacute; avec Air&atilde;o au loin (centre)";
+text[1397]="Des moutons pr&egrave;s de Poiares";
+text[1398]="Vue en direction de l'&eacute;glise de Poiares avec la r&eacute;gion de Balug&atilde;es en arri&egrave;re-plan";
+text[1399]="Paysage autour de Balug&atilde;es vu du sanctuaire Nossa Senhora da Aparecida";
+text[1400]="Sanctuaire Nossa Senhora da Aparecida et son environnement";
+text[1401]="Vue en direction de Durr&atilde;es &agrave; partir des environs de Carvoeiro";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
