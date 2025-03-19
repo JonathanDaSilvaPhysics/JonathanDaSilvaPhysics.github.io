@@ -1419,6 +1419,10 @@ text[1408]="Vue autour de la route entre Agros et le reste de Santa Leoc&aacute;
 text[1409]="Chapelle Senhora da Guia (centre) et hameaux de Santa Leoc&aacute;dia de Geraz do Lima";
 text[1410]="D&eacute;cor autour de la chapelle Senhora da Guia vu du hameau d'Areosa de Cima";
 text[1411]="Paysage de Santa Leoc&aacute;dia de Geraz do Lima vu du hameau d'Areosa de Cima";
+text[1412]="&Eacute;glise S&atilde;o Tiago de Cardielos et son environnement";
+text[1413]="Le fleuve Lima et Serra d'Arga vus depuis le pont de Lanheses";
+text[1414]="D&eacute;cor de Viana do Castelo vu du sanctuaire Santa Luzia";
+text[1415]="Vue sur la r&eacute;gion de la municipalit&eacute; de Viana do Castelo &agrave; partir du sanctuaire Santa Luzia";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
