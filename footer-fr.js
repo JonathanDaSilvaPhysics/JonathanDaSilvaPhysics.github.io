@@ -1415,6 +1415,10 @@ text[1404]="Le fleuve Lima, Lanheses et Serra d'Arga vus des hauteurs de Santa L
 text[1405]="Verdure de la r&eacute;gion de Vacaria et Agros";
 text[1406]="Chapelle Santa Justa da Padela et ses environs";
 text[1407]="D&eacute;cor de la r&eacute;gion de Carvoeiro vu pr&egrave;s de la chapelle Santa Justa da Padela";
+text[1408]="Vue autour de la route entre Agros et le reste de Santa Leoc&aacute;dia de Geraz do Lima";
+text[1409]="Chapelle Senhora da Guia (centre) et hameaux de Santa Leoc&aacute;dia de Geraz do Lima";
+text[1410]="D&eacute;cor autour de la chapelle Senhora da Guia vu du hameau d'Areosa de Cima";
+text[1411]="Paysage de Santa Leoc&aacute;dia de Geraz do Lima vu du hameau d'Areosa de Cima";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js

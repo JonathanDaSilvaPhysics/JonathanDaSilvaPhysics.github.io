@@ -1415,6 +1415,10 @@ text[1404]="The Lima, Lanheses and Serra d'Arga seen from the heights of Santa L
 text[1405]="Greenery of the area of Vacaria and Agros";
 text[1406]="Santa Justa da Padela chapel and its surroundings";
 text[1407]="Scenery of the area of Carvoeiro seen near Santa Justa da Padela chapel";
+text[1408]="View around the road between Agros and the other parts of Santa Leoc&aacute;dia de Geraz do Lima";
+text[1409]="Senhora da Guia chapel (center) and hamlets of Santa Leoc&aacute;dia de Geraz do Lima";
+text[1410]="Scenery around Senhora da Guia chapel seen from the hamlet of Areosa de Cima";
+text[1411]="Landscape of Santa Leoc&aacute;dia de Geraz do Lima seen from the hamlet of Areosa de Cima";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
