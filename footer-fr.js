@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 19 mars 2025</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 20 mars 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1423,6 +1423,10 @@ text[1412]="&Eacute;glise S&atilde;o Tiago de Cardielos et son environnement";
 text[1413]="Le fleuve Lima et Serra d'Arga vus depuis le pont de Lanheses";
 text[1414]="D&eacute;cor de Viana do Castelo vu du sanctuaire Santa Luzia";
 text[1415]="Vue sur la r&eacute;gion de la municipalit&eacute; de Viana do Castelo &agrave; partir du sanctuaire Santa Luzia";
+text[1416]="L'oc&eacute;an Atlantique vu du sanctuaire Santa Luzia, au-dessus de Viana do Castelo";
+text[1417]="Paysage de Deocriste jusqu'&agrave; l'embouchure du Lima et Viana do Castelo &agrave; partir de la chapelle Senhora do Crasto";
+text[1418]="Vue sur l'usine de papier de Viana et la r&eacute;gion de Cardielos &agrave; partir de la chapelle Senhora do Crasto";
+text[1419]="D&eacute;cor de la chapelle Senhora do Crasto";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
