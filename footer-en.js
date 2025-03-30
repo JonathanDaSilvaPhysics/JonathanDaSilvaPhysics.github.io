@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 20 march 2025</span></p>");
+document.write("<p> <span class='end'>Last update : 30 march 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1427,6 +1427,10 @@ text[1416]="The Atlantic Ocean seen from Santa Luzia sanctuary, above Viana do C
 text[1417]="Landscape from Deocriste to the mouth of Lima and Viana do Castelo from Senhora do Crasto chapel";
 text[1418]="View over Viana Paper Mill and Cardielos' area from Senhora do Crasto chapel";
 text[1419]="Scenery of Senhora do Crasto chapel";
+text[1420]="Fields between Marsan and Montaut-les-Cr&eacute;neaux with Auch far away (center)";
+text[1421]="View towards the hamlet of Gaudoux from Preignan";
+text[1422]="Vines between Roquelaure and Preignan with Montaut-les-Cr&eacute;neaux in background (center)";
+text[1423]="Landscape near Roquelaure with the Pyrenees in background";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

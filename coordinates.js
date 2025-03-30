@@ -1418,3 +1418,7 @@ latitudeLongitude[1416]="41.702008,-8.835704";
 latitudeLongitude[1417]="41.687278,-8.694384";
 latitudeLongitude[1418]="41.687303,-8.694387";
 latitudeLongitude[1419]="41.687166,-8.694357";
+latitudeLongitude[1420]="43.671168,0.696414";
+latitudeLongitude[1421]="43.706678,0.645748";
+latitudeLongitude[1422]="43.720034,0.592779";
+latitudeLongitude[1423]="43.719373,0.590522";
