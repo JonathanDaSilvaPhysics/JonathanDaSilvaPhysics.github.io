@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 13 avril 2025</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 21 avril 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1435,6 +1435,7 @@ text[1424]="Saint-Michel de Cours et ses environs";
 text[1425]="Vue en direction du viaduc de la Rauze et de Nadillac &agrave; partir de Saint-Michel de Cours";
 text[1426]="&Eacute;glise Saint-Pierre-&egrave;s-Liens de Saint-Pierre-Lafeuille et son environnement";
 text[1427]="Paysage pr&egrave;s d'Esp&egrave;re et de Mercu&egrave;s avec le ch&acirc;teau de Mercu&egrave;s en arri&egrave;re-plan (centre)";
+text[1428]="Champs et verdure autourn de Saint-Loube";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
