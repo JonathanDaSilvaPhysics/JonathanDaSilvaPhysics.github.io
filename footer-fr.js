@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 6 mai 2025</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 8 mai 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -135,7 +135,7 @@ text[124]= "Le village de Castelnou et son ch&acirc;teau";
 text[125]= "Rec de Corbera (en bas &agrave; droite) et les environs de Bouletern&egrave;re";
 text[126]= "Paysage au-dessus de Casefabre en direction du Prieur&eacute; de Serrabona et du massif du Canigou";
 text[127]= "La r&eacute;gion d'Ille-sur-T&ecirc;t vue &agrave; partir des Aspres";
-text[128]= "Paysage au-dessus de Saint-Michel-de-Llotes";
+text[128]= "Verdure au-dessus de Saint-Michel-de-Llotes";
 text[129]= "Les Aspres et la plaine du Roussillon vues pr&egrave;s de Caixas";
 text[130]= "Le massif du Canigou et ses alentours vus pr&egrave;s de Prunet-et-Belpuig";
 text[131]= "Vue de C&eacute;ret et du Vallespir &agrave; partir des Aspres";
