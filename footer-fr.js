@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 8 mai 2025</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 5 juin 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -619,7 +619,7 @@ text[608]= "Verdure autour de la tour de Montoulieu et Seignaux sur la droite";
 text[609]= "Vall&eacute;e de l'Ari&egrave;ge et Montoulieu depuis sa tour";
 text[610]= "Verdure autour de Mercus-Garrabet vue de Montoulieu";
 text[611]= "Montoulieu et sa tour avec le massif du Plantaurel en arri&egrave;re-plan";
-text[612]= "Garrabet et Mont Fourcat vus depuis Seignaux";
+text[612]= "Garrabet et mont Fourcat vus depuis Seignaux";
 text[613]= "Mercus et montagnes ari&eacute;geoises vus depuis Seignaux";
 text[614]= "Massif du Plantaurel vu pr&egrave;s de Prayols";
 text[615]= "Paysage pr&egrave;s de Montgailhard avec Montoulieu en arri&egrave;re-plan";
@@ -628,7 +628,7 @@ text[617]= "Montagnes des Pyr&eacute;n&eacute;es vues entre Montgailhard et Soul
 text[618]= "Les environs de Caraybat sur la route menant &agrave; Soula";
 text[619]= "Pic de l'Aspre dans le massif du Plantaurel pr&egrave;s de Soula";
 text[620]= "Verdure autour du hameau de Caraybat et montagnes des Pyr&eacute;n&eacute;es";
-text[621]= "Soula, pic de l'Aspre et Leychert vus de Roquefixade";
+text[621]= "De gauche &agrave; droite : massif de l'Arize, Soula, pic de l'Aspre et Leychert vus de Roquefixade";
 text[622]= "Vue de la vall&eacute;e de Lesponne &agrave; partir de Roquefixade";
 text[623]= "Le ch&acirc;teau de Roquefixade et ses environs";
 text[624]= "R&eacute;gion de Thuir avec le Canigou en arri&egrave;re-plan";
@@ -646,7 +646,7 @@ text[635]= "Freychenet et son environnement";
 text[636]= "Le hameau de Gabachou dans la vall&eacute;e de Lesponne";
 text[637]= "Le massif du Plantaurel et la vall&eacute;e de Lesponne vus au-dessus du hameau de Gabachou";
 text[638]= "Vue sur Gabachou et la vall&eacute;e de Lesponne avec Roquefixade et son ch&acirc;teau en arri&egrave;re-plan";
-text[639]= "Paysage sur la route du col de la Lauze avec le Mont Fourcat (gauche)";
+text[639]= "Paysage sur la route du col de la Lauze avec le mont Fourcat (gauche)";
 text[640]= "Paysage pr&egrave;s de Montferrier avec le ch&acirc;teau de Monts&eacute;gur en arri&egrave;re-plan";
 text[641]= "Centre-ville d'Albi avec le pont Vieux au-dessus du Tarn";
 text[642]= "Vue sur Albi autour du Tarn, de son centre-ville (gauche) &agrave; l'&eacute;glise de la Madeleine (droite)";
@@ -1436,6 +1436,12 @@ text[1425]="Vue en direction du viaduc de la Rauze et de Nadillac &agrave; parti
 text[1426]="&Eacute;glise Saint-Pierre-&egrave;s-Liens de Saint-Pierre-Lafeuille et son environnement";
 text[1427]="Paysage pr&egrave;s d'Esp&egrave;re et de Mercu&egrave;s avec le ch&acirc;teau de Mercu&egrave;s en arri&egrave;re-plan (centre)";
 text[1428]="Champs et verdure autourn de Saint-Loube";
+text[1429]="Verdure autour du mont Fourcat vue sur la route entre Montgailhard et Soula";
+text[1430]="D&eacute;cor des Pyr&eacute;n&eacute;es vu entre Montgailhard et Soula";
+text[1431]="Les pics de Saint-Barth&eacute;lemy et de Soularac et le mont Fourcat vus de Soula";
+text[1432]="Roquefixade et son ch&acirc;teau dans le pays d'Olmes";
+text[1433]="Verdure pr&egrave;s de P&eacute;reille et du Douctouyre avec le massif de Tabe en arri&egrave;re-plan";
+text[1434]="D&eacute;cor de la r&eacute;gion de Roquefort-les-Cascades";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js

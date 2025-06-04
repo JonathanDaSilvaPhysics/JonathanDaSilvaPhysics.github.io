@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 8 may 2025</span></p>");
+document.write("<p> <span class='end'>Last update : 5 june 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -628,7 +628,7 @@ text[617]= "Pyrenees' mountains seen between Montgailhard and Soula";
 text[618]= "Caraybat's surroundings on the road to Soula";
 text[619]= "Pic de l'Aspre in the Plantaurel massif near Soula";
 text[620]= "Greenery around the hamlet of Caraybat and Pyrenees' mountains";
-text[621]= "Soula, Pic de l'Aspre and Leychert seen from Roquefixade";
+text[621]= "From left to right : Arize massif, Soula, Pic de l'Aspre and Leychert seen from Roquefixade";
 text[622]= "View of Lesponne valley from Roquefixade";
 text[623]= "Ch&acirc;teau de Roquefixade and its surroundings";
 text[624]= "Thuir's area with the Canigou in background";
@@ -1436,6 +1436,12 @@ text[1425]="View towards the Rauze Viaduct and Nadillac from Saint-Michel de Cou
 text[1426]="Saint-Pierre-&egrave;s-Liens church of Saint-Pierre-Lafeuille and its environment";
 text[1427]="Landscape near Esp&egrave;re and Mercu&egrave;s with Mercu&egrave;s castle in background (center)";
 text[1428]="Fields and greenery around Saint-Loube";
+text[1429]="Greenery around Mont Fourcat seen from the road between Montgailhard and Soula";
+text[1430]="Scenery of the Pyrenees seen between Montgailhard and Soula";
+text[1431]="Saint-Barth&eacute;lemy and Soularac summits and Mont Fourcat seen from Soula";
+text[1432]="Roquefixade and its castle in the Pays d'Olmes";
+text[1433]="Greenery near P&eacute;reille and the Douctouyre with Tabe massif in background";
+text[1434]="Scenery of the area of Roquefort-les-Cascades";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
