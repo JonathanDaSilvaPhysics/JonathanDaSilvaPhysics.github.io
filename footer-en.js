@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 5 june 2025</span></p>");
+document.write("<p> <span class='end'>Last update : 6 june 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1442,6 +1442,16 @@ text[1431]="Saint-Barth&eacute;lemy and Soularac summits and Mont Fourcat seen f
 text[1432]="Roquefixade and its castle in the Pays d'Olmes";
 text[1433]="Greenery near P&eacute;reille and the Douctouyre with Tabe massif in background";
 text[1434]="Scenery of the area of Roquefort-les-Cascades";
+text[1435]="Landscape around Izaux seen towards the Pyrenees";
+text[1436]="View over the area of Montouss&eacute; from near Monts&eacute;ri&eacute;";
+text[1437]="Scenery of Mazouau from near Gazave";
+text[1438]="The Neste seen in Lortet";
+text[1439]="Greenery of the heights of Labastide";
+text[1440]="Landscape around Labastide";
+text[1441]="Avezac and its surroundings";
+text[1442]="Cows seen near Avezac";
+text[1443]="Pic du Midi de Bigorre (center) and Pic de Montaigu (right) seen near Avezac";
+text[1444]="Scenery of the area of Avezac (center) with the Pic du Midi de Bigorre in background (right)";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

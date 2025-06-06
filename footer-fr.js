@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 5 juin 2025</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 6 juin 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1347,7 +1347,7 @@ text[1336]="Les environs de Valceboll&egrave;re en Cerdagne";
 text[1337]="&Eacute;glise Saint-Félix de Valceboll&egrave;re et son environnement";
 text[1338]="Vue en direction d'Oss&eacute;ja et du massif de Campcard&oacute;s &agrave; partir de la route menant &agrave; Valceboll&egrave;re";
 text[1339]="D&eacute;cor autour de T&eacute;cou";
-text[1340]="Des vaches entre Ponlat-Taillebourg et Loudet, avec le pic du Midi de Bigore en arri&egrave;re-plan (centre)";
+text[1340]="Des vaches entre Ponlat-Taillebourg et Loudet, avec le pic du Midi de Bigorre en arri&egrave;re-plan (centre)";
 text[1341]="D&eacute;cor des Pyr&eacute;n&eacute;es vu entre Ponlat-Taillebourg et Loudet";
 text[1342]="&Eacute;glise Notre-Dame de Loudet devant les Pyr&eacute;n&eacute;es";
 text[1343]="Des vaches se reposent pr&egrave;s du Cuing";
@@ -1442,6 +1442,16 @@ text[1431]="Les pics de Saint-Barth&eacute;lemy et de Soularac et le mont Fourca
 text[1432]="Roquefixade et son ch&acirc;teau dans le pays d'Olmes";
 text[1433]="Verdure pr&egrave;s de P&eacute;reille et du Douctouyre avec le massif de Tabe en arri&egrave;re-plan";
 text[1434]="D&eacute;cor de la r&eacute;gion de Roquefort-les-Cascades";
+text[1435]="Paysage autour d'Izaux vu en direction des Pyr&eacute;n&eacute;es";
+text[1436]="Vue sur la r&eacute;gion de Montouss&eacute; &agrave; partir des environs de Monts&eacute;ri&eacute;";
+text[1437]="D&eacute;cor de Mazouau vu pr&egrave;s de Gazave";
+text[1438]="La Neste vu au village de Lortet";
+text[1439]="Verdure des hauteurs de Labastide";
+text[1440]="Paysage autour de Labastide";
+text[1441]="Avezac et ses environs";
+text[1442]="Des vaches vues pr&egrave;s d'Avezac";
+text[1443]="Pic du Midi de Bigorre (centre) et pic du Montaigu (droite) vus pr&egrave;s d'Avezac";
+text[1444]="D&eacute;cor de la r&eacute;gion d'Avezac (centre) avec le pic du Midi de Bigorre en arri&egrave;re-plan (droite)";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
