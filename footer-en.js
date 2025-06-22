@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 6 june 2025</span></p>");
+document.write("<p> <span class='end'>Last update : 22 june 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1452,6 +1452,17 @@ text[1441]="Avezac and its surroundings";
 text[1442]="Cows seen near Avezac";
 text[1443]="Pic du Midi de Bigorre (center) and Pic de Montaigu (right) seen near Avezac";
 text[1444]="Scenery of the area of Avezac (center) with the Pic du Midi de Bigorre in background (right)";
+text[1445]="Pic d'Alian (left) and Viger (right) seen from the road to Berb&eacute;rust-Lias";
+text[1446]="Landscape of the Lavedan seen towards Lourdes with Viger (left), Lugagnan (bottom) and the Pic du Jer (right)";
+text[1447]="View around the road to Berb&eacute;rust-Lias in the Lavedan";
+text[1448]="Scenery from Ourdon towards the area of Gazost";
+text[1449]="Cows grazing near Ourdon";
+text[1450]="The Louey stream and Juncalas in the Castelloubon valley";
+text[1451]="Greenery around the Louey stream in Ourdis-Cotdoussan";
+text[1452]="Cheust (right) in the Castelloubon valley seen from the road to Ourdis-Cotdoussan";
+text[1453]="View toward Ourdon (center) from near Gazost";
+text[1454]="Greenery of the area of Gazost";
+text[1455]="Pic d'Alian and Viger (left) and the heights of Aspin-en-Lavedan (right) seen from the heights of Saint-Cr&eacute;ac";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

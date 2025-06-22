@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 6 juin 2025</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 22 juin 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1452,6 +1452,17 @@ text[1441]="Avezac et ses environs";
 text[1442]="Des vaches vues pr&egrave;s d'Avezac";
 text[1443]="Pic du Midi de Bigorre (centre) et pic du Montaigu (droite) vus pr&egrave;s d'Avezac";
 text[1444]="D&eacute;cor de la r&eacute;gion d'Avezac (centre) avec le pic du Midi de Bigorre en arri&egrave;re-plan (droite)";
+text[1445]="Pic d'Alian (gauche) et Viger (droite) vus depuis la route menant &agrave; Berb&eacute;rust-Lias";
+text[1446]="Paysage du Lavedan vu en direction de Lourdes avec Viger (gauche), Lugagnan (en bas) et le pic du Jer (droite)";
+text[1447]="Vue autour de la route menant &agrave; Berb&eacute;rust-Lias dans le Lavedan";
+text[1448]="D&eacute;cor vu d'Ourdon en direction de la r&eacute;gion de Gazost";
+text[1449]="Des vaches paissent pr&egrave;s d'Ourdon";
+text[1450]="Le Ruisseau du Louey et Juncalas dans la vall&eacute;e de Castelloubon";
+text[1451]="Verdure autour du ruisseau du Louey &agrave; Ourdis-Cotdoussan";
+text[1452]="Cheust (droite) dans la vall&eacute;e de Castelloubon vu depuis la route vers Ourdis-Cotdoussan";
+text[1453]="Vue en direction d'Ourdon (centre) &agrave; partir des environs de Gazost";
+text[1454]="Verdure de la r&eacute;gion de Gazost";
+text[1455]="Pic d'Alian et Viger (gauche) et les hauteurs d'Aspin-en-Lavedan (droite) vus depuis les hauteurs de Saint-Cr&eacute;ac";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
