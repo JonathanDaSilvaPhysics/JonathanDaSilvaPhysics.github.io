@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 25 juin 2025</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 27 juin 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1466,12 +1466,21 @@ text[1455]="Pic d'Alian et Viger (gauche) et les hauteurs d'Aspin-en-Lavedan (dr
 text[1456]="Paysage autour de Ch&egrave;ze avec Viscos au loin (centre) et le pic de Viscos";
 text[1457]="Les environs de Sazos et Grust vus d'Esqui&egrave;ze-S&egrave;re";
 text[1458]="&Eacute;glise Saint-Jean-Baptiste de S&egrave;re et son environnement";
-text[1459]="Vue sur le pays Toy &agrave; partir de S&egrave;re avec de gauche au centre : Mount Agut, pics de Cumiadères et de Bergons";
+text[1459]="Vue sur le pays Toy &agrave; partir de S&egrave;re avec de gauche au centre : Mount Agut, pics de Cumiad&egrave;res et de Bergons";
 text[1460]="Paysage en direction de la r&eacute;gion de Viella avec le massif d'Ardiden en arri&egrave;re-plan";
-text[1461]="D&eacute;cor pr&egrave;s de Viey avec Betpouey et le pic d'Ayré";
+text[1461]="D&eacute;cor pr&egrave;s de Viey avec Betpouey et le pic d'Ayr&eacute;";
 text[1462]="Vue sur les environs de Viella &agrave; partir de Viey avec le massif d'Ardiden en arri&egrave;re-plan";
 text[1463]="Ch&acirc;teau Sainte-Marie d'Esterre dans le pays Toy avec Sazos, Grust et le pic de Viscos en arri&egrave;re-plan (gauche)";
 text[1464]="Verdure de la r&eacute;gion de Saligos vue pr&egrave;s du gave de Pau";
+text[1465]="D&eacute;cor des Pyr&eacute;n&eacute;es vu depuis l'entr&eacute;e de la carri&egrave;re de Trimouns";
+text[1466]="Paysage des Pyr&eacute;n&eacute;es vu pr&egrave;s de la carri&egrave;re de Trimouns";
+text[1467]="Vue autour de la route menant &agrave; la carri&egrave;re de Trimouns";
+text[1468]="Verdure du Sabarth&egrave;s vue depuis la route menant &agrave; la carri&egrave;re de Trimouns";
+text[1469]="D&eacute;cor du Sabarth&egrave;s et de ses vall&eacute;es depuis la route menant &agrave; la carri&egrave;re de Trimouns";
+text[1470]="Haute vall&eacute;e de l'Ari&egrave;ge autour de Lordat (centre, au loin) vue depuis la route de la carri&egrave;re de Trimouns";
+text[1471]="L'environnement du ch&acirc;teau de Lordat dans la haute vall&eacute;e de l'Ari&egrave;ge";
+text[1472]="Axiat et la verdure du massif de Tabe";
+text[1473]="Arnave et ses environs";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js

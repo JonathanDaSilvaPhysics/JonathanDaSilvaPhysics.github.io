@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 25 june 2025</span></p>");
+document.write("<p> <span class='end'>Last update : 27 june 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1466,12 +1466,21 @@ text[1455]="Pic d'Alian and Viger (left) and the heights of Aspin-en-Lavedan (ri
 text[1456]="Landscape around Ch&egrave;ze with Viscos far away (center) and the Pic de Viscos (top)";
 text[1457]="The surroundings of Sazos and Grust seen from Esqui&egrave;ze-S&egrave;re";
 text[1458]="Saint-Jean-Baptiste church of S&egrave;re and its environment";
-text[1459]="View over the Pays Toy from S&egrave;re with Mount Agut (left), Pic de Cumiadères and Pic de Bergons (center)";
+text[1459]="View over the Pays Toy from S&egrave;re with Mount Agut (left), Pic de Cumiad&egrave;res and Pic de Bergons (center)";
 text[1460]="Landscape towards the area of Viella with the Ardiden Massif in background";
-text[1461]="Scenery near Viey with Betpouey and the Pic d'Ayré";
+text[1461]="Scenery near Viey with Betpouey and the Pic d'Ayr&eacute;";
 text[1462]="View over the surroundings of Viella from Viey with the Ardiden Massif in background";
 text[1463]="Sainte-Marie castle of Esterre in the Pays Toy with Sazos, Grust and the Pic de Viscos in background (left)";
 text[1464]="Greenery of the area of Saligos seen near the Gave de Pau";
+text[1465]="Scenery of the Pyrenees seen from the entrance of the Trimouns Talc Mine";
+text[1466]="Landscape of the Pyrenees seen near the Trimouns Talc Mine";
+text[1467]="View around the road to the Trimouns Talc Mine";
+text[1468]="Greenery of the Sabarth&egrave;s seen from the road to the Trimouns Talc Mine";
+text[1469]="Scenery of the Sabarth&egrave;s and its valleys from the road to the Trimouns Talc Mine";
+text[1470]="Upper valley of the Ari&egrave;ge around Lordat (center, far away) seen from the road to the Trimouns Talc Mine";
+text[1471]="The environment of Lordat Castle in the Upper valley of the Ari&egrave;ge";
+text[1472]="Axiat and the greenery of the Tabe massif";
+text[1473]="Arnave and its surroundings";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
