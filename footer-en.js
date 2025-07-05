@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 27 june 2025</span></p>");
+document.write("<p> <span class='end'>Last update : 5 july 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1481,6 +1481,17 @@ text[1470]="Upper valley of the Ari&egrave;ge around Lordat (center, far away) s
 text[1471]="The environment of Lordat Castle in the Upper valley of the Ari&egrave;ge";
 text[1472]="Axiat and the greenery of the Tabe massif";
 text[1473]="Arnave and its surroundings";
+text[1474]="Summits of the south of the Luchonnais seen from Saint-Mamet";
+text[1475]="Luchon-Superbagn&egrave;res ski resort seen from Montauban-de-Luchon";
+text[1476]="Luchon valley and the south of the Luchonnais seen from near Antignac";
+text[1477]="View from Luchon valley to summits of the Luchonnais from the road to Gouaux-de-Luchon";
+text[1478]="Saint-Pierre-Saint-Paul church of Artigue and its environment";
+text[1479]="Landcape of Artigue in the Luchonnais";
+text[1480]="Scenery of the Luchonnais seen from Artigue";
+text[1481]="Moustajon and Bagn&egrave;res-de-Luchon (bottom) and summits of the Luchonnais seen from Artigue";
+text[1482]="Summits of the Luchonnais from Pic de la Mine (left) to Pic de Nord N&egrave;re (right) seen from Artigue";
+text[1483]="Bagn&egrave;res-de-Luchon, Luchon-Superbagn&egrave;res ski resort and Pic de C&eacute;cir&eacute; (right) seen from the road to Artigue";
+text[1484]="Greenery of Luchon valley between Moustajon and Antignac seen from the road to Artigue";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
