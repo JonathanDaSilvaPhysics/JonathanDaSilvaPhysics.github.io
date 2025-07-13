@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 5 juillet 2025</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 13 juillet 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1492,6 +1492,13 @@ text[1481]="Moustajon et Bagn&egrave;res-de-Luchon (en bas) et sommets du Luchon
 text[1482]="Sommets du Luchonnais du pic de la Mine (gauche) au pic de Nord N&egrave;re (droite) vus d'Artigue";
 text[1483]="Bagn&egrave;res-de-Luchon, Luchon-Superbagn&egrave;res et pic de C&eacute;cir&eacute; (droite) vus depuis la route d'Artigue";
 text[1484]="Verdure de la vall&eacute;e de Luchon entre Moustajon et Antignac vue depuis la route menant &agrave; Artigue";
+text[1485]="Paysage vu depuis les hauteurs de Benqu&eacute;";
+text[1486]="La route entre Bourg-de-Bigorre et Bonnemazon avec le ch&acirc;teau de Mauvezin au loin (centre)";
+text[1487]="Vue depuis les hauteurs de Bourg-de-Bigorre avec le ch&acirc;teau de Mauvezin en arri&egrave;re-plan (center)";
+text[1488]="D&eacute;cor des Baronnies &agrave; partir de la route menant &agrave; Escots";
+text[1489]="Verdure des Baronnies vue d'Escots avec Fr&eacute;chendets et Esconnets (droite)";
+text[1490]="Asque et ses environs";
+text[1491]="Paysage de la r&eacute;gion d'Asque";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
