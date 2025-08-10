@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 13 juillet 2025</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 10 ao&ucirc;t 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1499,6 +1499,16 @@ text[1488]="D&eacute;cor des Baronnies &agrave; partir de la route menant &agrav
 text[1489]="Verdure des Baronnies vue d'Escots avec Fr&eacute;chendets et Esconnets (droite)";
 text[1490]="Asque et ses environs";
 text[1491]="Paysage de la r&eacute;gion d'Asque";
+text[1492]="D&eacute;cor de la r&eacute;gion de Portet-de-Luchon avec Jurvielle en arri&egrave;re-plan (centre)";
+text[1493]="Vue sur la vall&eacute;e du Louron &agrave; partir du col de Peyresourde";
+text[1494]="Vall&eacute;e du Larboust vue des derniers lacets du col de Peyresourde";
+text[1495]="Paysage des derniers lacets du col de Peyresourde du c&ocirc;t&eacute; de la vall&eacute;e du Larboust";
+text[1496]="Un moulin &agrave; Portet-de-Luchon";
+text[1497]="Chapelle de Bernet &agrave; Billi&egrave;re";
+text[1498]="Verdure au-dessus de Cazeaux-de-Larboust vue du hameau de Bernet";
+text[1499]="Vue autour de Castillon-de-Larboust avec Les Agudes au loin (centre)";
+text[1500]="Paysage autour de Saint-Aventin avec Les Agudes au loin (en haut au centre)";
+text[1501]="Chapelle de Saint-Aventin vue sur la route du col de Peyresourde et du port de Bal&egrave;s";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
