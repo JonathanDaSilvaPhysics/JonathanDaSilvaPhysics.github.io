@@ -1509,6 +1509,15 @@ text[1498]="Greenery above Cazeaux-de-Larboust seen from the hamlet of Bernet";
 text[1499]="View around Castillon-de-Larboust with Les Agudes fat away (center)";
 text[1500]="Landcape around Saint-Aventin with Les Agudes fat away (top-center)";
 text[1501]="Saint-Aventin chapel seen on the road to the Col de Peyresourde and the Port de Bal&egrave;s";
+text[1502]="A cow, Luchon-Superbagn&egrave;res and some clouds";
+text[1503]="A cow grazing in Luchon-Superbagn&egrave;res' area with Oueil valley in background (center)";
+text[1504]="Scenery of the Oueil valley seen from Luchon-Superbagn&egrave;res' area";
+text[1505]="Landcape of the Oueil valley seen from Luchon-Superbagn&egrave;res";
+text[1506]="Luchon-Superbagn&egrave;res ski resort in summer";
+text[1507]="Greenery of the Lis valley seen from the road to Luchon-Superbagn&egrave;res ski resort";
+text[1508]="The environment of the last kilometers of the climb to Luchon-Superbagn&egrave;res ski resort";
+text[1509]="Scenery of the Lis valley seen from the road to Luchon-Superbagn&egrave;res ski resort";
+text[1510]="Bovine edition of traffic jam towards the Lis valley";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

@@ -1509,6 +1509,15 @@ text[1498]="Verdure au-dessus de Cazeaux-de-Larboust vue du hameau de Bernet";
 text[1499]="Vue autour de Castillon-de-Larboust avec Les Agudes au loin (centre)";
 text[1500]="Paysage autour de Saint-Aventin avec Les Agudes au loin (en haut au centre)";
 text[1501]="Chapelle de Saint-Aventin vue sur la route du col de Peyresourde et du port de Bal&egrave;s";
+text[1502]="Une vache, Luchon-Superbagn&egrave;res et des nuages";
+text[1503]="Une vache pa&icirc;t dans les environs de Luchon-Superbagn&egrave;res, avec la vall&eacute;e d'Oueil en arri&egrave;re-plan (centre)";
+text[1504]="D&eacute;cor de la vall&eacute;e d'Oueil vu des environs de Luchon-Superbagn&egrave;res";
+text[1505]="Paysage de la vall&eacute;e d'Oueil vu de Luchon-Superbagn&egrave;res";
+text[1506]="La station de ski de Luchon-Superbagn&egrave;res en &eacute;t&eacute;";
+text[1507]="Verdure de la vall&eacute;e du Lis vue &agrave; partir de la route menant &agrave; Luchon-Superbagn&egrave;res";
+text[1508]="L'environnement des derniers kilom&egrave;tres de la mont&eacute;e vers Luchon-Superbagn&egrave;res";
+text[1509]="D&eacute;cor de la vall&eacute;e du Lis vu &agrave; partir de la route menant &agrave; Luchon-Superbagn&egrave;res";
+text[1510]="Ralentissement laitier en direction de la vall&eacute;e du Lis";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
