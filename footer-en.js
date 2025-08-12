@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 10 august 2025</span></p>");
+document.write("<p> <span class='end'>Last update : 12 august 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1518,6 +1518,12 @@ text[1507]="Greenery of the Lis valley seen from the road to Luchon-Superbagn&eg
 text[1508]="The environment of the last kilometers of the climb to Luchon-Superbagn&egrave;res ski resort";
 text[1509]="Scenery of the Lis valley seen from the road to Luchon-Superbagn&egrave;res ski resort";
 text[1510]="Bovine edition of traffic jam towards the Lis valley";
+text[1511]="Cape Peyrefite and its surroundings seen from near Cerb&egrave;re";
+text[1512]="Landscape of the north of Cerb&egrave;re in the C&ocirc;te Vermeille";
+text[1513]="The C&ocirc;te Vermeille and the Mediterranean Sea seen between Cerb&egrave;re and Banyuls-sur-Mer";
+text[1514]="Scenery of the area of Cerb&egrave;re seen from Cape R&eacute;d&eacute;ris";
+text[1515]="Greenery towards the Alt Empord&agrave; from the Col de Banyuls";
+text[1516]="Landscape around the Col de Banyuls towards Banyuls-sur-Mer";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

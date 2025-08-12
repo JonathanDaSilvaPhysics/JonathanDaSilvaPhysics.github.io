@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 10 ao&ucirc;t 2025</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 12 ao&ucirc;t 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1518,6 +1518,12 @@ text[1507]="Verdure de la vall&eacute;e du Lis vue &agrave; partir de la route m
 text[1508]="L'environnement des derniers kilom&egrave;tres de la mont&eacute;e vers Luchon-Superbagn&egrave;res";
 text[1509]="D&eacute;cor de la vall&eacute;e du Lis vu &agrave; partir de la route menant &agrave; Luchon-Superbagn&egrave;res";
 text[1510]="Ralentissement laitier en direction de la vall&eacute;e du Lis";
+text[1511]="Cap Peyrefite et ses environs vu pr&egrave;s de Cerb&egrave;re";
+text[1512]="Paysage du nord de Cerb&egrave;re sur la c&ocirc;te Vermeille";
+text[1513]="La c&ocirc;te Vermeille et la M&eacute;diterran&eacute;e vu entre Cerb&egrave;re et Banyuls-sur-Mer";
+text[1514]="D&eacute;cor de la r&eacute;gion de Cerb&egrave;re vu du cap R&eacute;d&eacute;ris";
+text[1515]="Verdure en direction de l'Alt Empord&agrave; vue &agrave; partir du col de Banyuls";
+text[1516]="Paysage autour du col de Banyuls vu en direction de Banyuls-sur-Mer";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
