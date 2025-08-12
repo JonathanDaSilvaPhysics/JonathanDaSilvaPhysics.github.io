@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8" />
+    <title>Jonathan Da Silva: Map of pictures and their location</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <style>
+        #map { height: 100vh; }
+        body { margin: 0; }
+        #infoBox {
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%, -50%); /* centers both horizontally and vertically */
+          background: white;
+          border-radius: 8px;
+          padding: 10px;
+          box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+          display: none;
+          z-index: 1000;
+        }
+        #infoContent
+        {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          text-align: center;
+        }
+        .infoContent__image
+        {
+          max-width: 100%;
+          display: block;
+          margin-top: 5px;
+          height: auto;
+        }
+    </style>
+</head>
+<body>
+<div id="map"></div>
+<div id="infoBox">
+  <div id="infoContent"></div>
+</div>
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script src="coordinates.js"></script>
+<script src="isLarge.js"></script>
+<script>
+    (() => {
+      // Determine language from URL
+      const params = new URLSearchParams(window.location.search);
+      const lang = (params.get("lang") === "fr") ? "fr" : "en";
+      document.documentElement.setAttribute("lang", lang);
+
+      // Load footer script dynamically
+      const footerScript = document.createElement("script");
+      footerScript.src = `footer-${lang}.js`;
+
+      footerScript.onload = () => {
+        // Hide unwanted elements from footer script
+        document.querySelectorAll(".contact, .picture__block--large, .picture__block").forEach(el => {
+          el.style.display = "none";
+        });
+
+        // Initialize map
+        initMap();
+      };
+
+      document.head.appendChild(footerScript);
+
+      function initMap() {
+        const [centerLat, centerLng] = latitudeLongitude[653].split(",").map(Number);
+        const map = L.map('map').setView([centerLat, centerLng], 8);
+
+        // Add openstreetmap tiles
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+          attribution: '© OpenStreetMap contributors'
+        }).addTo(map);
+
+        const infoBox = document.getElementById('infoBox');
+        const infoContent = document.getElementById('infoContent');
+
+        function showInfo(content, maxWidth) {
+          infoBox.style.display = 'block';
+          infoBox.style.maxWidth = maxWidth + 'px';
+          infoContent.innerHTML = content;
+        }
+
+        function hideInfo() {
+          infoBox.style.display = 'none';
+          infoContent.innerHTML = '';
+        }
+
+        map.on('click', (e) => {
+          if (!e.originalEvent.target.closest('.leaflet-interactive')) hideInfo();
+        });
+
+        // Add markers
+        for (let i = 1; i < latitudeLongitude.length; i++) {
+          if (!latitudeLongitude[i]) continue;
+
+          const [lat, lng] = latitudeLongitude[i].split(",").map(Number);
+          const isLargeFlag = isLarge[i];
+          const color = isLargeFlag ? 'green' : 'blue';
+          const maxW = isLargeFlag ? 850 : 600;
+          const statusText = text[i];
+          const imagePath = `images/RandPic/picture_${i}.jpg`;
+
+          const html = `
+              <strong>${statusText}</strong>
+              <img src="${imagePath}" alt="${statusText}" class="infoContent__image">
+          `;
+
+          const marker = L.circleMarker([lat, lng], {
+            radius: 2,
+            color,
+            fillColor: color,
+            fillOpacity: 0.8
+          }).addTo(map);
+
+          marker.on('click', () => {
+            showInfo(html, maxW);
+          });
+        }
+      }
+    })();
+</script>
+</body>
+</html>
