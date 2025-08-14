@@ -1515,3 +1515,6 @@ latitudeLongitude[1513]="42.467646,3.156232";
 latitudeLongitude[1514]="42.467540,3.156641";
 latitudeLongitude[1515]="42.449882,3.054079";
 latitudeLongitude[1516]="42.450234,3.054349";
+latitudeLongitude[1517]="43.402293,3.685403";
+latitudeLongitude[1518]="43.402149,3.685731";
+latitudeLongitude[1519]="43.435352,3.673492";

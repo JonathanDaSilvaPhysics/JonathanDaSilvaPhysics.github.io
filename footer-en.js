@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 12 august 2025</span></p>");
+document.write("<p> <span class='end'>Last update : 14 august 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1524,6 +1524,9 @@ text[1513]="The C&ocirc;te Vermeille and the Mediterranean Sea seen between Cerb
 text[1514]="Scenery of the area of Cerb&egrave;re seen from Cape R&eacute;d&eacute;ris";
 text[1515]="Greenery towards the Alt Empord&agrave; from the Col de Banyuls";
 text[1516]="Landscape around the Col de Banyuls towards Banyuls-sur-Mer";
+text[1517]="S&egrave;te, the &Eacute;tang de Thau, Balaruc and Gardiole massif seen from Mont Saint-Clair";
+text[1518]="Scenery of S&egrave;te, the &Eacute;tang de Thau and Gardiole massif seen from Mont Saint-Clair";
+text[1519]="&Eacute;tang de Thau and Mont Saint-Clair seen from Balaruc-les-Bains";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
