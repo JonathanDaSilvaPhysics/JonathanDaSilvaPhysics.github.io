@@ -28,7 +28,6 @@
         }
         .infoContent__image
         {
-          max-width: 100%;
           display: block;
           margin-top: 5px;
           height: auto;
@@ -79,9 +78,9 @@
         const infoBox = document.getElementById('infoBox');
         const infoContent = document.getElementById('infoContent');
 
-        function showInfo(content, maxWidth) {
+        function showInfo(content) {
           infoBox.style.display = 'block';
-          infoBox.style.maxWidth = maxWidth + 'px';
+          infoBox.style.maxWidth = 100 + '%';
           infoContent.innerHTML = content;
           infoBox.focus();
         }
@@ -116,7 +115,6 @@
           const [lat, lng] = latitudeLongitude[i].split(",").map(Number);
           const isLargeFlag = isLarge[i];
           const color = isLargeFlag ? 'green' : 'blue';
-          const maxW = isLargeFlag ? 850 : 600;
           const statusText = text[i];
           const imagePath = `images/RandPic/picture_${i}.jpg`;
 
@@ -139,7 +137,7 @@
           }
 
           marker.on('click', () => {
-            showInfo(html, maxW);
+            showInfo(html);
           });
         }
 
