@@ -1537,12 +1537,12 @@ var i = 1 + Math.floor( (text.length  - 1) * Math.random());
 // now display the picture + the text + the google maps link in a banner:
 if (isLarge[i]) {
     document.write("<div class='picture__block--large'>");
-    document.write("<h2>Pictures, just for fun</h2>");
+    document.write("<h2><a href='map.html' title='Map of pictures and their location' target='_blank'>Pictures, just for fun</a></h2>");
     document.write("<div class='picture--large'");
 }
 else {
     document.write("<div class='picture__block'>");
-    document.write("<h2>Pictures, just for fun</h2>");
+    document.write("<h2><a href='map.html' title='Map of pictures and their location' target='_blank'>Pictures, just for fun</a></h2>");
     document.write("<div class='picture'");
 }
 document.write("style='background:url(images/RandPic/picture_" + i + ".jpg) no-repeat center;'>");

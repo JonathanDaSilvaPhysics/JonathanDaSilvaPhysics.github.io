@@ -1537,12 +1537,12 @@ var i = 1 + Math.floor( (text.length  - 1) * Math.random());
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 if (isLarge[i]) {
     document.write("<div class='picture__block--large'>");
-    document.write("<h2>Quelques photos en passant</h2>");
+    document.write("<h2><a href='map.html?lang=fr' title='Une carte des photos et de leur localisation' target='_blank'>Quelques photos en passant</a></h2>");
     document.write("<div class='picture--large'");
 }
 else {
     document.write("<div class='picture__block'>");
-    document.write("<h2>Quelques photos en passant</h2>");
+    document.write("<h2><a href='map.html?lang=fr' title='Une carte des photos et de leur localisation' target='_blank'>Quelques photos en passant</a></h2>");
     document.write("<div class='picture'");
 }
 document.write("style='background:url(images/RandPic/picture_" + i + ".jpg) no-repeat center;'>");
