@@ -36,9 +36,9 @@
     </style>
 </head>
 <body>
-<div id="map"></div>
-<div id="infoBox">
-  <div id="infoContent"></div>
+<div id="map" role="application" aria-label="Interactive map showing pictures and their location"></div>
+<div id="infoBox" role="dialog" aria-modal="true" aria-labelledby="infoContent" style="display:none;">
+    <div id="infoContent"></div>
 </div>
 
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
@@ -83,12 +83,16 @@
           infoBox.style.display = 'block';
           infoBox.style.maxWidth = maxWidth + 'px';
           infoContent.innerHTML = content;
+          infoBox.focus();
         }
 
         function hideInfo() {
           infoBox.style.display = 'none';
           infoContent.innerHTML = '';
         }
+        document.addEventListener('keydown', e => {
+          if(e.key === 'Escape') hideInfo();
+        });
 
         map.on('click', (e) => {
           if (!e.originalEvent.target.closest('.leaflet-interactive')) hideInfo();
@@ -116,6 +120,12 @@
             fillColor: color,
             fillOpacity: 0.8
           }).addTo(map);
+
+          const markerEl = marker.getElement();
+          if (markerEl) {
+            markerEl.setAttribute('role', 'button');
+            markerEl.setAttribute('aria-label', statusText);
+          }
 
           marker.on('click', () => {
             showInfo(html, maxW);
