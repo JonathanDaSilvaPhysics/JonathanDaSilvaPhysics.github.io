@@ -1537,6 +1537,11 @@ text[1526]="Saint-Exup&egrave;re church of Gouaux-de-Larboust and its surroundin
 text[1527]="Notre-Dame-de-l'Escal&egrave;re chapel near Gouaux-de-Larboust";
 text[1528]="Larboust valley (left) and O&ocirc; (bottom) seen near Gouaux-de-Larboust";
 text[1529]="Landscape around the road to O&ocirc; valley with Les Agudes in background (top-center)";
+text[1530]="Scenery of Val d'Astau towards the path to O&ocirc; lake";
+text[1531]="Pouy Ardoun (right) and other summits around Val d'Astau near O&ocirc; lake";
+text[1532]="The environment of Les Cabanes d’Astau in O&ocirc; valley";
+text[1533]="The Neste d'O&ocirc; in the Val d'Astau";
+text[1534]="Scenery of the O&ocirc; valley with Les Agudes far away (top-center)";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

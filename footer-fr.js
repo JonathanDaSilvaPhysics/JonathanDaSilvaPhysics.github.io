@@ -1537,6 +1537,11 @@ text[1526]="&Eacute;glise Saint-Exup&egrave;re de Gouaux-de-Larboust et ses envi
 text[1527]="Chapelle Notre-Dame-de-l'Escal&egrave;re pr&egrave;s de Gouaux-de-Larboust";
 text[1528]="La vall&eacute;e du Larboust (gauche) et O&ocirc; (en bas) vus pr&egrave;s de Gouaux-de-Larboust";
 text[1529]="Paysage autour de la route vers la vall&eacute;e d'O&ocirc; avec les Agudes en arri&egrave;re-plan (en haut au centre)";
+text[1530]="D&eacute;cor du Val d'Astau en direction du chemin vers le lac d'O&ocirc;";
+text[1531]="Pouy Ardoun (droite) et autres sommets autour du Val d'Astau, pr&egrave;s du lac d'O&ocirc;";
+text[1532]="L'environnement des Cabanes d’Astau dans la vall&eacute;e d'O&ocirc;";
+text[1533]="La Neste d'O&ocirc; dans le Val d'Astau";
+text[1534]="D&eacute;cor de la vall&eacute;e d'O&ocirc; avec les Agudes au loin (en haut au centre)";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
