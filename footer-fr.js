@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 14 ao&ucirc;t 2025</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 6 septembre 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1527,6 +1527,16 @@ text[1516]="Paysage autour du col de Banyuls vu en direction de Banyuls-sur-Mer"
 text[1517]="S&egrave;te, l'&eacute;tang de Thau, Balaruc et le massif de la Gardiole vus du mont Saint-Clair";
 text[1518]="D&eacute;cor de S&egrave;te, l'&eacute;tang de Thau et le massif de la Gardiole vu du mont Saint-Clair";
 text[1519]="&Eacute;tang de Thau et mont Saint-Clair vus de Balaruc-les-Bains";
+text[1520]="Vue sur la vall&eacute;e du Larboust &agrave; partir de la station de ski des Agudes";
+text[1521]="La vall&eacute;e du Larboust et Gouaux-de-Larboust (en bas au centre) vus &agrave; partir de la station de ski des Agudes";
+text[1522]="La station de ski des Agudes et son environnement en &eacute;t&eacute;";
+text[1523]="Vue autour de la route menant &agrave; la station de ski des Agudes";
+text[1524]="Paysage de la vall&eacute;e du Larboust pr&egrave;s de Gouaux-de-Larboust (centre)";
+text[1525]="Une rue de Gouaux-de-Larboust et les Agudes en arri&egrave;re-plan (en haut au centre)";
+text[1526]="&Eacute;glise Saint-Exup&egrave;re de Gouaux-de-Larboust et ses environs";
+text[1527]="Chapelle Notre-Dame-de-l'Escal&egrave;re pr&egrave;s de Gouaux-de-Larboust";
+text[1528]="La vall&eacute;e du Larboust (gauche) et O&ocirc; (en bas) vus pr&egrave;s de Gouaux-de-Larboust";
+text[1529]="Paysage autour de la route vers la vall&eacute;e d'O&ocirc; avec les Agudes en arri&egrave;re-plan (en haut au centre)";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
