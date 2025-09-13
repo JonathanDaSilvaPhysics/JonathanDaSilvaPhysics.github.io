@@ -1544,6 +1544,14 @@ text[1533]="The Neste d'O&ocirc; in the Val d'Astau";
 text[1534]="Scenery of the O&ocirc; valley with Les Agudes far away (top-center)";
 text[1535]="Saint-Orens church of Maubec and its surroundings";
 text[1536]="View towards Maubec in the Lomagne";
+text[1537]="Landscape of the Pla de las Peyres with the Pic de la Coume d'Enfer (right)";
+text[1538]="Scenery of the Pla de las Peyres in the Aston valley with the Pic de la Coume d'Enfer (right)";
+text[1539]="The Aston river and the environment of the Pla de las Peyres";
+text[1540]="View around the road between the Pla de las Peyres and the dam of Laparan in the Aston valley";
+text[1541]="The Aston river (left) and the Landscape towards the pond of Laparan (center)";
+text[1542]="Scenery around the road to the Pla de las Peyres with the Pic de la Coume d'Enfer (right)";
+text[1543]="The pond of Laparan and its surroundings in the Aston valley with the Plateau de Beille in background (center)";
+text[1544]="View around the road near the dam of Laparan in the Aston valley";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

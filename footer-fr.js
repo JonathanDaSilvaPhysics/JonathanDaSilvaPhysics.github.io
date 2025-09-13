@@ -1544,6 +1544,14 @@ text[1533]="La Neste d'O&ocirc; dans le Val d'Astau";
 text[1534]="D&eacute;cor de la vall&eacute;e d'O&ocirc; avec les Agudes au loin (en haut au centre)";
 text[1535]="&Eacute;glise Saint-Orens de Maubec et ses environs";
 text[1536]="Vue en direction de Maubec dans la Lomagne";
+text[1537]="Paysage du Pla de las Peyres avec le pic de la Coume d'Enfer (droite)";
+text[1538]="D&eacute;cor du Pla de las Peyres dans la vall&eacute;e d'Aston avec le pic de la Coume d'Enfer (droite)";
+text[1539]="L'Aston et l'environnement du Pla de las Peyres";
+text[1540]="Vue autour de la route entre le Pla de las Peyres et l'&eacute;tang de Laparan dans la vall&eacute;e d'Aston";
+text[1541]="L'Aston (gauche) et le paysage en direction de l'&eacute;tang de Laparan (centre)";
+text[1542]="D&eacute;cor autour de la route vers le Pla de las Peyres avec le pic de la Coume d'Enfer (droite)";
+text[1543]="L'&eacute;tang de Laparan et ses environs dans la vall&eacute;e d'Aston avec le plateau de Beille en arri&egrave;re-plan (centre)";
+text[1544]="Vue autour de la route pr&egrave;s du barrage de Laparan dans la vall&eacute;e d'Aston";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
