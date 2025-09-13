@@ -1533,3 +1533,5 @@ isLarge[1531]=true;
 isLarge[1532]=true;
 isLarge[1533]=true;
 isLarge[1534]=true;
+isLarge[1535]=true;
+isLarge[1536]=true;
