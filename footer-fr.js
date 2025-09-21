@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 13 septembre 2025</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 21 septembre 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1552,6 +1552,11 @@ text[1541]="L'Aston (gauche) et le paysage en direction de l'&eacute;tang de Lap
 text[1542]="D&eacute;cor autour de la route vers le Pla de las Peyres avec le pic de la Coume d'Enfer (droite)";
 text[1543]="L'&eacute;tang de Laparan et ses environs dans la vall&eacute;e d'Aston avec le plateau de Beille en arri&egrave;re-plan (centre)";
 text[1544]="Vue autour de la route pr&egrave;s du barrage de Laparan dans la vall&eacute;e d'Aston";
+text[1545]="Champ de tournesol autour de l'&eacute;glise de Garran&eacute;";
+text[1546]="Le ch&acirc;teau de Garran&eacute; et son environnement &agrave; Seissan";
+text[1547]="Vue sur le lac de Castelnau-Magnoac avec Larroque en arri&egrave;re-plan";
+text[1548]="Paysage autour de Cizos avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
+text[1549]="Des vaches &agrave; Laran";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
