@@ -1568,6 +1568,11 @@ text[1557]="D&eacute;cor de Bourg-d'Oueil et de sa vall&eacute;e &agrave; partir
 text[1558]="La vall&eacute;e d'Oueil pr&egrave;s de Bourg-d'Oueil et la route du port de Bal&egrave;s";
 text[1559]="Paysage de la vall&eacute;e d'Oueil avec Cir&egrave;s et Caubous (en bas)";
 text[1560]="La station de ski de Bourg-d'Oueil et ses environs";
+text[1561]="&Eacute;glise Nativit&eacute;-de-la-Sainte-Vierge surplombant Cir&egrave;s";
+text[1562]="Cir&egrave;s et son &eacute;glise vus de Caubous dans la vall&eacute;e d'Oueil";
+text[1563]="Vue sur la vall&eacute;e d'Oueil, de Cir&egrave;s (droite) &agrave; Bourg-d'Oueil et le port de Pierrefite (gauche)";
+text[1564]="&Eacute;glise Saint-Pierre de Mayr&egrave;gne dans la vall&eacute;e d'Oueil avec le port de Pierrefite et le mont N&eacute; en arri&egrave;re-plan";
+text[1565]="Verdure de la vall&eacute;e d'Oueil pr&egrave;s de Mayr&egrave;gne avec Luchon-Superbagn&egrave;res et des sommets du Luchonnais au loin";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js

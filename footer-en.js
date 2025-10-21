@@ -1568,6 +1568,11 @@ text[1557]="Scenery of Bourg-d'Oueil and its valley from the road of the Port de
 text[1558]="The Oueil valley near Bourg-d'Oueil and the road of the Port de Bal&egrave;s";
 text[1559]="Landscape of the Oueil valley seen from above Cir&egrave;s and Caubous (bottom)";
 text[1560]="Bourg-d'Oueil ski resort and its surroundings";
+text[1561]="Nativit&eacute;-de-la-Sainte-Vierge church above Cir&egrave;s";
+text[1562]="Cir&egrave;s and its church seen from Caubous in the Oueil valley";
+text[1563]="View over the Oueil valley from Cir&egrave;s (right) to Bourg-d'Oueil and the Port de Pierrefite (left)";
+text[1564]="Saint-Pierre church of Mayr&egrave;gne in the Oueil valley with the Port de Pierrefite and the Mont N&eacute; in background";
+text[1565]="Greenery of the Oueil valley near Mayr&egrave;gne with Luchon-Superbagn&egrave;res and summits of the Luchonnais far away";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
