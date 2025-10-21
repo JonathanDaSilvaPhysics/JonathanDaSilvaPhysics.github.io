@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 21 septembre 2025</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 21 octobre 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1557,6 +1557,17 @@ text[1546]="Le ch&acirc;teau de Garran&eacute; et son environnement &agrave; Sei
 text[1547]="Vue sur le lac de Castelnau-Magnoac avec Larroque en arri&egrave;re-plan";
 text[1548]="Paysage autour de Cizos avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
 text[1549]="Des vaches &agrave; Laran";
+text[1550]="Des vaches au port de Bal&egrave;s avec des sommets du Luchonnais en arri&egrave;re-plan";
+text[1551]="L'environnement de la route du port de Bal&egrave;s pr&egrave;s de son sommet";
+text[1552]="D&eacute;cor du Luchonnais vu du port de Bal&egrave;s avec la vall&eacute;e d'Oueil et des sommets du Luchonnais";
+text[1553]="Vue de la route du port de Bal&egrave;s en direction de la vall&eacute;e d'Oueil";
+text[1554]="Paysage autour de la route du port de Bal&egrave;s jusqu'&agrave; la vall&eacute;e d'Oueil";
+text[1555]="Le mont N&eacute; vu depuis la route du port de Bal&egrave;s";
+text[1556]="Vue sur la vall&eacute;e d'Oueil &agrave; partir de la route au-dessus de Bourg-d'Oueil";
+text[1557]="D&eacute;cor de Bourg-d'Oueil et de sa vall&eacute;e &agrave; partir de la route du port de Bal&egrave;s";
+text[1558]="La vall&eacute;e d'Oueil pr&egrave;s de Bourg-d'Oueil et la route du port de Bal&egrave;s";
+text[1559]="Paysage de la vall&eacute;e d'Oueil avec Cir&egrave;s et Caubous (en bas)";
+text[1560]="La station de ski de Bourg-d'Oueil et ses environs";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js

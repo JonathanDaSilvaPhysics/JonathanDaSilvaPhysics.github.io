@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 21 september 2025</span></p>");
+document.write("<p> <span class='end'>Last update : 21 october 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1557,6 +1557,17 @@ text[1546]="Garran&eacute; castle and its environment in Seissan";
 text[1547]="View over the Castelnau-Magnoac lake with Larroque in background";
 text[1548]="Landscape around Cizos with the Pyrenees in background";
 text[1549]="Cows in Laran";
+text[1550]="Cows at the Port de Bal&egrave;s with summits of the Luchonnais in background";
+text[1551]="The environment of the road of the Port de Bal&egrave;s near its top";
+text[1552]="Scenery of the Luchonnais seen from the Port de Bal&egrave;s with Oueil valley and summits of the Luchonnais";
+text[1553]="View of the road of the Port de Bal&egrave;s towards the Oueil valley";
+text[1554]="Landscape around the road of the Port de Bal&egrave;s down to the Oueil valley";
+text[1555]="The Mont N&eacute; seen from the road of the Port de Bal&egrave;s";
+text[1556]="View over the Oueil valley from the road above Bourg-d'Oueil";
+text[1557]="Scenery of Bourg-d'Oueil and its valley from the road of the Port de Bal&egrave;s";
+text[1558]="The Oueil valley near Bourg-d'Oueil and the road of the Port de Bal&egrave;s";
+text[1559]="Landscape of the Oueil valley seen from above Cir&egrave;s and Caubous (bottom)";
+text[1560]="Bourg-d'Oueil ski resort and its surroundings";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
