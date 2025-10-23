@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 21 october 2025</span></p>");
+document.write("<p> <span class='end'>Last update : 23 october 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1573,6 +1573,16 @@ text[1562]="Cir&egrave;s and its church seen from Caubous in the Oueil valley";
 text[1563]="View over the Oueil valley from Cir&egrave;s (right) to Bourg-d'Oueil and the Port de Pierrefite (left)";
 text[1564]="Saint-Pierre church of Mayr&egrave;gne in the Oueil valley with the Port de Pierrefite and the Mont N&eacute; in background";
 text[1565]="Greenery of the Oueil valley near Mayr&egrave;gne with Luchon-Superbagn&egrave;res and summits of the Luchonnais far away";
+text[1566]="Landscape in the Oueil valley between Mayr&egrave;gne and Saint-Paul-d'Oueil";
+text[1567]="Saint-Barth&eacute;lemy church of Saccourvielle and its environment";
+text[1568]="Luchon-Superbagn&egrave;res and the Pic de C&eacute;cir&eacute; seen from Cazarilh-Lasp&egrave;nes";
+text[1569]="Scenery of the Luchonnais around Bagn&egrave;res-de-Luchon seen from Cazarilh-Lasp&egrave;nes";
+text[1570]="Saint-Martin church of Cazarilh-Lasp&egrave;nes and the Cap de Pouy (left) in the Luchonnais";
+text[1571]="Bagn&egrave;res-de-Luchon (bottom) and summits of the Luchonnais seen from Cazarilh-Lasp&egrave;nes";
+text[1572]="Bagn&egrave;res-de-Luchon (bottom-left) and Luchon-Superbagn&egrave;res (top-right) in the Luchonnais";
+text[1573]="View over Larboust valley with Saint-Aventin (center) from Tr&eacute;bons-de-Luchon";
+text[1574]="Tr&eacute;bons-de-Luchon and its surroundings with Luchon-Superbagn&egrave;res (top-right)";
+text[1575]="Saint-Julien church of Tr&eacute;bons-de-Luchon and a bit of the Larboust valley (left)";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
