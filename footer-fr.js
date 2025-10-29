@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 23 octobre 2025</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 29 octobre 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1583,6 +1583,12 @@ text[1572]="Bagn&egrave;res-de-Luchon (en bas &agrave; gauche) et Luchon-Superba
 text[1573]="Vue sur la vall&eacute;e du Larboust avec Saint-Aventin (centre) &agrave; partir de Tr&eacute;bons-de-Luchon";
 text[1574]="Tr&eacute;bons-de-Luchon et ses environs avec Luchon-Superbagn&egrave;res (en haut &agrave; droite)";
 text[1575]="&Eacute;glise Saint-Julien de Tr&eacute;bons-de-Luchon et un peu de la vall&eacute;e du Larboust (gauche)";
+text[1576]="Ll&iacute;via et sa colline en Cerdagne";
+text[1577]="Vue en direction de la Tosa d'Alp &agrave; partir du village de Cereja dans l'enclave de Ll&iacute;via";
+text[1578]="Paysage autour de Cereja (droite) avec la serra del Cad&iacute; au loin (gauche)";
+text[1579]="D&eacute;cor du village de Cereja en Cerdagne";
+text[1580]="Des champs pr&egrave;s de Ll&iacute;via et la Tosa d'Alp au loin (droite)";
+text[1581]="La Cerdagne autour de Cereja (centre) dans l'enclave de Ll&iacute;via";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js

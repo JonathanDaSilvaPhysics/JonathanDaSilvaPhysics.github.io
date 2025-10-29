@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 23 october 2025</span></p>");
+document.write("<p> <span class='end'>Last update : 29 october 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1583,6 +1583,12 @@ text[1572]="Bagn&egrave;res-de-Luchon (bottom-left) and Luchon-Superbagn&egrave;
 text[1573]="View over Larboust valley with Saint-Aventin (center) from Tr&eacute;bons-de-Luchon";
 text[1574]="Tr&eacute;bons-de-Luchon and its surroundings with Luchon-Superbagn&egrave;res (top-right)";
 text[1575]="Saint-Julien church of Tr&eacute;bons-de-Luchon and a bit of the Larboust valley (left)";
+text[1576]="Ll&iacute;via and its hill in Cerdanya";
+text[1577]="View towards the Tosa d'Alp from the village of Cereja in the enclave of Ll&iacute;via";
+text[1578]="Landscape around Cereja (right) with Serra del Cad&iacute; far away (left)";
+text[1579]="Scenery of the village of Cereja in Cerdanya";
+text[1580]="Fields near Ll&iacute;via and the Tosa d'Alp far away (right)";
+text[1581]="Cerdanya around Cereja (center) in the enclave of Ll&iacute;via";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
