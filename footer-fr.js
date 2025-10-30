@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 29 octobre 2025</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 30 octobre 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1589,6 +1589,13 @@ text[1578]="Paysage autour de Cereja (droite) avec la serra del Cad&iacute; au l
 text[1579]="D&eacute;cor du village de Cereja en Cerdagne";
 text[1580]="Des champs pr&egrave;s de Ll&iacute;via et la Tosa d'Alp au loin (droite)";
 text[1581]="La Cerdagne autour de Cereja (centre) dans l'enclave de Ll&iacute;via";
+text[1582]="Estavar et ses environs avec le massif du Carlit en arri&egrave;re-plan";
+text[1583]="Vue sur la r&eacute;gion de Saillagouse &agrave; partir de Vedrinyans, avec Font-Romeu en arri&egrave;re-plan";
+text[1584]="Paysage autour de Saillagouse (droite) avec le massif du Carlit au loin (centre)";
+text[1585]="D&eacute;cor de Llo et du Pica del Quer vu pr&egrave;s de Vedrinyans";
+text[1586]="&Eacute;glise Sainte-L&eacute;ocadie et son environnement";
+text[1587]="Puigcerd&agrave; et le massif de Campcard&oacute;s vus pr&egrave;s de Nahuja";
+text[1588]="Paysage de la Cerdagne &agrave; partir de Nahuja avec le massif du Carlit en arri&egrave;re-plan";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
