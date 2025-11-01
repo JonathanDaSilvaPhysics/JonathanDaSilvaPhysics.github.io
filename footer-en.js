@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 30 october 2025</span></p>");
+document.write("<p> <span class='end'>Last update : 1 november 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1596,6 +1596,13 @@ text[1585]="Scenery of Llo and the Pica del Quer seen from near Vedrinyans";
 text[1586]="Sainte-L&eacute;ocadie church and its environment";
 text[1587]="Puigcerd&agrave; and the Campcard&oacute;s massif seen near Nahuja";
 text[1588]="Landscape of Cerdanya from Nahuja towards the Carlit massif";
+text[1589]="Pic Saillant and Pic du Gar seen near G&eacute;ry lake in the Garonne valley";
+text[1590]="Summits of the Pyrenees and a bit of the Garonne valley seen near the top of the Col de Ment&eacute;";
+text[1591]="Last meters of the road to the Col de Ment&eacute;";
+text[1592]="View above Lez towards the Pic de la Parqu&egrave;re (top-center) in the Garonne valley";
+text[1593]="The Montagne de Ri&eacute; (right) and the greenery of the south of Saint-B&eacute;at";
+text[1594]="Landscape up tp the Pique valley (left) from Bezins-Garraux";
+text[1595]="Bezins-Garraux (center), Pic Saillant and Pic du Gar (top) seen from the Garonne valley";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

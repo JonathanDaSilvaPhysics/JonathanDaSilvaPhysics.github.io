@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 30 octobre 2025</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 1 novembre 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1596,6 +1596,13 @@ text[1585]="D&eacute;cor de Llo et du Pica del Quer vu pr&egrave;s de Vedrinyans
 text[1586]="&Eacute;glise Sainte-L&eacute;ocadie et son environnement";
 text[1587]="Puigcerd&agrave; et le massif de Campcard&oacute;s vus pr&egrave;s de Nahuja";
 text[1588]="Paysage de la Cerdagne &agrave; partir de Nahuja avec le massif du Carlit en arri&egrave;re-plan";
+text[1589]="Pic Saillant et pic du Gar vus pr&egrave;s du lac de G&eacute;ry dans la vall&eacute;e de la Garonne";
+text[1590]="Sommets des Pyr&eacute;n&eacute;es et un peu de la vall&eacute;e de la Garonne vus pr&egrave;s du sommet du col de Ment&eacute;";
+text[1591]="Dernier lacet de la route du col de Ment&eacute;";
+text[1592]="Vue au-dessus de Lez en direction du pic de la Parqu&egrave;re (en haut au centre) dans la vall&eacute;e de la Garonne";
+text[1593]="La montagne de Ri&eacute; (droite) et la verdure du sud de Saint-B&eacute;at";
+text[1594]="Paysage jusqu'&agrave; la vall&eacute;e de la Pique (gauche) vu de Bezins-Garraux";
+text[1595]="Bezins-Garraux (centre), Pic Saillant et pic du Gar (en haut) vus de la vall&eacute;e de la Garonne";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
