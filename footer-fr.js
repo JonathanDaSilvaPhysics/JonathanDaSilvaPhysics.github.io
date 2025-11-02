@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 1 novembre 2025</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 2 novembre 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1603,6 +1603,14 @@ text[1592]="Vue au-dessus de Lez en direction du pic de la Parqu&egrave;re (en h
 text[1593]="La montagne de Ri&eacute; (droite) et la verdure du sud de Saint-B&eacute;at";
 text[1594]="Paysage jusqu'&agrave; la vall&eacute;e de la Pique (gauche) vu de Bezins-Garraux";
 text[1595]="Bezins-Garraux (centre), Pic Saillant et pic du Gar (en haut) vus de la vall&eacute;e de la Garonne";
+text[1596]="Les hauteurs d'Estavar vues depuis le hameau de Bajanda";
+text[1597]="D&eacute;cor pr&egrave;s de Bajanda : serra del Cad&iacute;, Puigcerd&agrave; (gauche), colline de Ll&iacute;via et massif de Campcard&oacute;s (droite)";
+text[1598]="Eyne et ses environs en Cerdagne";
+text[1599]="Verdure de la vall&eacute;e d'Eyne avec le Pica del Quer (droite)";
+text[1600]="Paysage de la Cerdagne vu pr&egrave;s d'Eyne avec Bolqu&egrave;re au loin (centre)";
+text[1601]="Cerdagne vue pr&egrave;s de la centrale solaire de Llo avec serra del Cad&iacute; et massif de Campcard&oacute;s en arri&egrave;re-plan";
+text[1602]="Font-Romeu-Odeillo-Via et le massif du Carlit vus pr&egrave;s de la centrale solaire de Llo";
+text[1603]="D&eacute;cor du plateau de Cerdagne jusqu'au massif de Campcard&oacute;s (droite) vu de la route du port de Llo";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
