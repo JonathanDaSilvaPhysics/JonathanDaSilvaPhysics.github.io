@@ -1601,7 +1601,7 @@ text[1590]="Summits of the Pyrenees and a bit of the Garonne valley seen near th
 text[1591]="Last meters of the road to the Col de Ment&eacute;";
 text[1592]="View above Lez towards the Pic de la Parqu&egrave;re (top-center) in the Garonne valley";
 text[1593]="The Montagne de Ri&eacute; (right) and the greenery of the south of Saint-B&eacute;at";
-text[1594]="Landscape up tp the Pique valley (left) from Bezins-Garraux";
+text[1594]="Landscape up to the Pique valley (left) from Bezins-Garraux";
 text[1595]="Bezins-Garraux (center), Pic Saillant and Pic du Gar (top) seen from the Garonne valley";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
