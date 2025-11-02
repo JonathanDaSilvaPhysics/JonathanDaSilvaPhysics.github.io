@@ -1611,6 +1611,15 @@ text[1600]="Landscape of Cerdanya seen from near Eyne with Bolqu&egrave;re far a
 text[1601]="Cerdanya seen near Llo solar power plant with Serra del Cad&iacute; (left) and Campcard&oacute;s massif (center) far away";
 text[1602]="Font-Romeu-Odeillo-Via and the Carlit massif seen near Llo solar power plant";
 text[1603]="Scenery of Cerdanya plateau up to Campcard&oacute;s massif (right) from the road to the Port de Llo";
+text[1604]="Puigmal massif and greenery of S&egrave;gre valley seen from the road above Llo";
+text[1605]="View over Cerdanya plateau with Serra del Cad&iacute; (left), Saillagouse (center) and Campcard&oacute;s massif (right)";
+text[1606]="Saint-Fructueux church of Llo and greenery of S&egrave;gre valley";
+text[1607]="Saint-Fructueux church of Llo with the Tour del Vacaro in background (center)";
+text[1608]="Landscape around Llo and entrance of the Gorges du S&egrave;gre (right) seen from the hamlet of Rohet";
+text[1609]="Saint-G&eacute;nis church (right), Notre-Dame chapel (center) and their environment in Err";
+text[1610]="Cows and the ribera d'Err valley in Cerdanya";
+text[1611]="View around Err with Font-Romeu-Odeillo-Via in background";
+text[1612]="Scenery around Err and the ribera d'Err valley towards the Puigmal massif";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

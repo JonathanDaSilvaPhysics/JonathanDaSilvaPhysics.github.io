@@ -1611,6 +1611,15 @@ text[1600]="Paysage de la Cerdagne vu pr&egrave;s d'Eyne avec Bolqu&egrave;re au
 text[1601]="Cerdagne vue pr&egrave;s de la centrale solaire de Llo avec serra del Cad&iacute; et massif de Campcard&oacute;s en arri&egrave;re-plan";
 text[1602]="Font-Romeu-Odeillo-Via et le massif du Carlit vus pr&egrave;s de la centrale solaire de Llo";
 text[1603]="D&eacute;cor du plateau de Cerdagne jusqu'au massif de Campcard&oacute;s (droite) vu de la route du port de Llo";
+text[1604]="Le massif du Puigmal et la verdure de la vall&eacute;e du S&egrave;gre vus de la route au-dessus de  Llo";
+text[1605]="Vue du plateau de Cerdagne avec serra del Cad&iacute; (gauche), Saillagouse (centre) et massif de Campcard&oacute;s (droite)";
+text[1606]="&Eacute;glise Saint-Fructueux de Llo et la verdure de la vall&eacute;e du S&egrave;gre";
+text[1607]="&Eacute;glise Saint-Fructueux de Llo avec la tour del Vacaro en arri&egrave;re-plan (centre)";
+text[1608]="Paysage autour de Llo et entr&eacute;e des gorges du S&egrave;gre (droite) vus du hameau de Rohet";
+text[1609]="&Eacute;glise Saint-G&eacute;nis (droite), chapelle de la Vierge (centre) et leur environnement &agrave; Err";
+text[1610]="Des vaches et la vall&eacute;e de la ribera d'Err en Cerdagne";
+text[1611]="Vue autour d'Err avec Font-Romeu-Odeillo-Via en arri&egrave;re-plan";
+text[1612]="D&eacute;cor autour d'Err et de la vall&eacute;e de la ribera d'Err en direction du massif du Puigmal";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
