@@ -113,11 +113,28 @@
         }
         const radius = getMarkerRadius();
 
+        // Keep track of how many times each couple lat/lng appears
+        const coordCount = {};
         // Add markers
         for (let i = 1; i < latitudeLongitude.length; i++) {
           if (!latitudeLongitude[i]) continue;
 
-          const [lat, lng] = latitudeLongitude[i].split(",").map(Number);
+          let [lat, lng] = latitudeLongitude[i].split(",").map(Number);
+
+          // Count duplicates
+          const key = `${lat},${lng}`;
+          coordCount[key] = (coordCount[key] || 0) + 1;
+          const count = coordCount[key];
+          if (count > 1) {
+            // Slightly shift each duplicate to be able to see all them
+            const offset = 0.00003; // a few meters
+            const angle = (count - 1) * 90; // rotate 90 degrees each duplicate
+            const rad = angle * Math.PI / 180;
+
+            lat += offset * Math.cos(rad);
+            lng += offset * Math.sin(rad);
+          }
+
           const isLargeFlag = isLarge[i];
           const color = isLargeFlag ? 'green' : 'blue';
           const statusText = text[i];
