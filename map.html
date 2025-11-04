@@ -113,6 +113,44 @@
         }
         const radius = getMarkerRadius();
 
+        function generateRow(color, text) {
+            const row = document.createElement("div");
+            row.style.display = "flex";
+            row.style.alignItems = "center";
+            row.style.marginBottom = "2px";
+
+            const box = document.createElement("span");
+            box.style.backgroundColor = color;
+            box.style.width = "20px";
+            box.style.height = "20px";
+            box.style.display = "inline-block";
+            box.style.marginRight = "5px";
+
+            const label = document.createElement("span");
+            label.textContent = text;
+
+            row.appendChild(box);
+            row.appendChild(label);
+            return row;
+        }
+
+        const legend = L.control({ position: 'topright' });
+
+        legend.onAdd = function(map) {
+            const div = L.DomUtil.create('div', 'info legend');
+            div.style.padding = '5px';
+            div.style.background = 'white';
+            div.style.border = '1px solid #ccc';
+
+            div.appendChild(generateRow('blue', 'Square format'));
+            div.appendChild(generateRow('green', 'Large format'));
+            div.appendChild(generateRow('grey', 'Shifted due to same coordinate'));
+
+            return div;
+        };
+
+        legend.addTo(map);
+
         // Keep track of how many times each couple lat/lng appears
         const coordCount = {};
         // Add markers
@@ -120,6 +158,8 @@
           if (!latitudeLongitude[i]) continue;
 
           let [lat, lng] = latitudeLongitude[i].split(",").map(Number);
+          const isLargeFlag = isLarge[i];
+          let color = isLargeFlag ? 'green' : 'blue';
 
           // Count duplicates
           const key = `${lat},${lng}`;
@@ -127,16 +167,14 @@
           const count = coordCount[key];
           if (count > 1) {
             // Slightly shift each duplicate to be able to see all them
-            const offset = 0.00003; // a few meters
+            const offset = 0.0001; // a few meters
             const angle = (count - 1) * 90; // rotate 90 degrees each duplicate
             const rad = angle * Math.PI / 180;
 
+            color = 'grey';
             lat += offset * Math.cos(rad);
             lng += offset * Math.sin(rad);
           }
-
-          const isLargeFlag = isLarge[i];
-          const color = isLargeFlag ? 'green' : 'blue';
           const statusText = text[i];
           const imagePath = `images/RandPic/picture_${i}.jpg`;
 
