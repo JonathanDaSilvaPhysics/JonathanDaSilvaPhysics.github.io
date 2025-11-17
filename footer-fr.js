@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 2 novembre 2025</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 17 novembre 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1620,6 +1620,14 @@ text[1609]="&Eacute;glise Saint-G&eacute;nis (droite), chapelle de la Vierge (ce
 text[1610]="Des vaches et la vall&eacute;e de la ribera d'Err en Cerdagne";
 text[1611]="Vue autour d'Err avec Font-Romeu-Odeillo-Via en arri&egrave;re-plan";
 text[1612]="D&eacute;cor autour d'Err et de la vall&eacute;e de la ribera d'Err en direction du massif du Puigmal";
+text[1613]="Des vaches dans le Terrefort ari&eacute;geois pr&egrave;s de Durfort";
+text[1614]="Des champs autour de Marliac avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
+text[1615]="Paysage du Terrefort ari&eacute;geois &agrave; Durfort et les Pyr&eacute;n&eacute;es";
+text[1616]="Les ruines du ch&acirc;teau de Durfort";
+text[1617]="D&eacute;cor du Terrefort ari&eacute;geois pr&egrave;s de Durfort avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
+text[1618]="Verdure entre Durfort et Esplas avec le mont Valier au loin (centre)";
+text[1619]="Vue sur le Terrefort ari&eacute;geois pr&egrave;s d'Esplas avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
+text[1620]="&Eacute;glise Saint-Anastase entour&eacute;e par les maisons de Saint-Martin-d'Oydes";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
