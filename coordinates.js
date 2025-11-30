@@ -1619,3 +1619,7 @@ latitudeLongitude[1617]="43.206381,1.471966";
 latitudeLongitude[1618]="43.198574,1.479385";
 latitudeLongitude[1619]="43.191151,1.486805";
 latitudeLongitude[1620]="43.169749,1.496319";
+latitudeLongitude[1621]="43.410348,1.837349";
+latitudeLongitude[1622]="43.439742,1.819809";
+latitudeLongitude[1623]="43.446952,1.794006";
+latitudeLongitude[1624]="43.470090,1.732221";

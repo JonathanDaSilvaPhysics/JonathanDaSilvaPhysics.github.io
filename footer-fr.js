@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 17 novembre 2025</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 30 novembre 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1628,6 +1628,10 @@ text[1617]="D&eacute;cor du Terrefort ari&eacute;geois pr&egrave;s de Durfort av
 text[1618]="Verdure entre Durfort et Esplas avec le mont Valier au loin (centre)";
 text[1619]="Vue sur le Terrefort ari&eacute;geois pr&egrave;s d'Esplas avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
 text[1620]="&Eacute;glise Saint-Anastase entour&eacute;e par les maisons de Saint-Martin-d'Oydes";
+text[1621]="Des champs autour de Montmaur (en arri&egrave;re-plan) vus de la route vers Mourvilles-Hautes";
+text[1622]="B&eacute;lesta-en-Lauragais et son environnement";
+text[1623]="Vue pr&egrave;s de Juzes et son &eacute;glise Saint-L&eacute;ger (centre)";
+text[1624]="&Eacute;glise Saint-Germier et ses environs";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
