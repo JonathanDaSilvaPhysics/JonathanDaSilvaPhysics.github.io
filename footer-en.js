@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 30 november 2025</span></p>");
+document.write("<p> <span class='end'>Last update : 14 december 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1632,6 +1632,10 @@ text[1621]="Fields around Montmaur (in background) from the road to Mourvilles-H
 text[1622]="B&eacute;lesta-en-Lauragais and its environment";
 text[1623]="View near Juzes and its church (center)";
 text[1624]="Saint-Germier church and its surroundings";
+text[1625]="Saint-Blaise church of Cachan and its environment";
+text[1626]="Landscape near Faget-Abbatial with the Pyrenees far away";
+text[1627]="Greenery of the south of Travers&egrave;res near Aulin church with the Pyrenees in background";
+text[1628]="Scenery of Travers&egrave;res in the Astarac with the Pyrenees far away";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

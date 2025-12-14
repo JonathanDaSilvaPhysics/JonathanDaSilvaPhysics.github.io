@@ -1623,3 +1623,7 @@ latitudeLongitude[1621]="43.410348,1.837349";
 latitudeLongitude[1622]="43.439742,1.819809";
 latitudeLongitude[1623]="43.446952,1.794006";
 latitudeLongitude[1624]="43.470090,1.732221";
+latitudeLongitude[1625]="43.495568,0.738749";
+latitudeLongitude[1626]="43.505015,0.701995";
+latitudeLongitude[1627]="43.526615,0.643188";
+latitudeLongitude[1628]="43.541099,0.647413";

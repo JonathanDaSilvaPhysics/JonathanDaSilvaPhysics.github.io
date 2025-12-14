@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 30 novembre 2025</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 14 d&eacute;cembre 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1632,6 +1632,10 @@ text[1621]="Des champs autour de Montmaur (en arri&egrave;re-plan) vus de la rou
 text[1622]="B&eacute;lesta-en-Lauragais et son environnement";
 text[1623]="Vue pr&egrave;s de Juzes et son &eacute;glise Saint-L&eacute;ger (centre)";
 text[1624]="&Eacute;glise Saint-Germier et ses environs";
+text[1625]="&Eacute;glise Saint-Blaise de Cachan et son environnement";
+text[1626]="Paysage pr&egrave;s de Faget-Abbatial avec les Pyr&eacute;n&eacute;es au loin";
+text[1627]="Verdure du sud de Travers&egrave;res pr&egrave;s de l'&eacute;glise d'Aulin avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
+text[1628]="D&eacute;cor de Travers&egrave;res dans l'Astarac avec les Pyr&eacute;n&eacute;es au loin";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
