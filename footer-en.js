@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 14 december 2025</span></p>");
+document.write("<p> <span class='end'>Last update : 21 december 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1636,6 +1636,13 @@ text[1625]="Saint-Blaise church of Cachan and its environment";
 text[1626]="Landscape near Faget-Abbatial with the Pyrenees far away";
 text[1627]="Greenery of the south of Travers&egrave;res near Aulin church with the Pyrenees in background";
 text[1628]="Scenery of Travers&egrave;res in the Astarac with the Pyrenees far away";
+text[1629]="Ore village and its surroundings in the Comminges";
+text[1630]="Frontignan-de-Comminges in the Garonne valley";
+text[1631]="Perdigu&egrave;re massif far away (center) and Escl&egrave;te summit (right) seen from above Frontignan-de-Comminges";
+text[1632]="Escl&egrave;te summit (left), Pic de Mont Las and Pic de Mont Aspet (center) seen near Frontignan-de-Comminges";
+text[1633]="Scenery of Antichan-de-Frontignes with Escl&egrave;te summit (left) and summits of the Barousse (center)";
+text[1634]="The Garonne valley, the Escl&egrave;te summit (left) and summits of the Barousse (center)";
+text[1635]="Antichan-de-Frontignes and Mont-de-Gali&eacute; (left, in background) seen from the Bastion des Frontignes";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
