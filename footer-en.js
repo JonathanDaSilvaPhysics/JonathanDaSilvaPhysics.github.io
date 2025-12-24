@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 21 december 2025</span></p>");
+document.write("<p> <span class='end'>Last update : 24 december 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -16,7 +16,7 @@ text[5] =  "Montmin from the col de la Forclaz";
 text[6] =  "Vineyards in the north of Baho";
 text[7] =  "Landscape of Geraz do Lima seen near Senhora da Guia chapel";
 text[8] =  "View over Geraz do Lima, Viana Paper Mill, the mouth of Lima and Viana do Castelo";
-text[9] =  "Vines and the Canigou";
+text[9] =  "An orchard and the Canigou massif seen from Baho";
 text[10]=  "The Porte du Peyrou in Montpellier";
 text[11]=  "Braga from the sanctuary of Sameiro";
 text[12]=  "Hills and greenery of Geraz do Lima seen near the hamlet of Agros";
@@ -1643,6 +1643,7 @@ text[1632]="Escl&egrave;te summit (left), Pic de Mont Las and Pic de Mont Aspet 
 text[1633]="Scenery of Antichan-de-Frontignes with Escl&egrave;te summit (left) and summits of the Barousse (center)";
 text[1634]="The Garonne valley, the Escl&egrave;te summit (left) and summits of the Barousse (center)";
 text[1635]="Antichan-de-Frontignes and Mont-de-Gali&eacute; (left, in background) seen from the Bastion des Frontignes";
+text[1636]="Scenery of the Rib&eacute;ral with some vines and the Canigou massif";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

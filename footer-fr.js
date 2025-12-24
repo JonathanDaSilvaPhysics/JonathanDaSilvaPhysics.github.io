@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 21 d&eacute;cembre 2025</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 24 d&eacute;cembre 2025</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -16,7 +16,7 @@ text[5] =  "Montmin vu &agrave; partir du col de la Forclaz";
 text[6] =  "Vignobles au nord de Baho";
 text[7] =  "Paysage de Geraz do Lima vu pr&egrave;s de la chapelle Senhora da Guia";
 text[8] =  "Vue sur Geraz do Lima, l'usine de papier de Viana, l'embouchure du fleuve Lima et Viana do Castelo";
-text[9] =  "Des vignes et le pic du Canigou";
+text[9] =  "Un verger et le massif du Canigou vu de Baho";
 text[10]=  "L'arc de triomphe de Montpellier";
 text[11]=  "Braga vue &agrave; partir du sanctuaire du Sameiro";
 text[12]=  "Collines et verdure de Geraz do Lima vues pr&egrave;s du hameau d'Agros";
@@ -1643,6 +1643,7 @@ text[1632]="Sommet d'Escl&egrave;te (gauche) et pics de Mont Las et de Mont Aspe
 text[1633]="D&eacute;cor d'Antichan-de-Frontignes avec le sommet d'Escl&egrave;te (gauche) et des sommets de la Barousse (centre)";
 text[1634]="La vall&eacute;e de la Garonne, le sommet d'Escl&egrave;te (gauche) et des sommets de la Barousse (centre, au loin)";
 text[1635]="Antichan-de-Frontignes et Mont-de-Gali&eacute; (gauche, en arri&egrave;re-plan) vus du Bastion des Frontignes";
+text[1636]="D&eacute;cor du Rib&eacute;ral avec des vignes et le massif du Canigou";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
