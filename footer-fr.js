@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 2 janvier 2026</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 4 janvier 2026</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -235,7 +235,7 @@ text[224]= "Verdure des environs de Glorianes";
 text[225]= "Vall&eacute;e de la T&ecirc;t et Haut-Fenouill&egrave;des vus sur la route de Glorianes";
 text[226]= "Vue sur le Fenouill&egrave;des depuis la route menant &agrave; Trilla";
 text[227]= "Ansignan vu depuis la route menant &agrave; Trilla";
-text[228]= "L'Agly avec Ansignan en arri&egrave;re-plan";
+text[228]= "L'Agly dans le Fenouill&egrave;des avec Ansignan en arri&egrave;re-plan (centre)";
 text[229]= "Prieur&eacute; de Serrabona et son environnement";
 text[230]= "Vue sur Casefabre depuis la route menant au Prieur&eacute; de Serrabona";
 text[231]= "L'&eacute;glise Notre-Dame-des-Anges de Collioure";
@@ -1649,6 +1649,8 @@ text[1638]="Vue pr&egrave;s de Marseillan-Plage avec le mont Saint-Clair au loin
 text[1639]="Vue sur Corneilhan en hiver";
 text[1640]="Des vignes et le massif des Alb&egrave;res vus pr&egrave;s de Baho";
 text[1641]="Paysage entre Baho et Baixas avec les massifs du Canigou et du Madr&egrave;s et For&ccedil;a R&eacute;al";
+text[1642]="D&eacute;cor d'Ansignan et de son pont-aqueduc sur l'Agly";
+text[1643]="Des vignes, le lac de Caramany et le village de Caramany (droite) dans le Fenouill&egrave;des";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
