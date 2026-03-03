@@ -1657,6 +1657,9 @@ text[1646]="Des champs et Saint-Ybars (droite) vus pr&egrave;s de Massabrac";
 text[1647]="Paysage entre Latrape et Carbonne avec les Pyr&eacute;n&eacute;es en arri&egrave;re-plan";
 text[1648]="D&eacute;cor du Volvestre vu pr&egrave;s de Carbonne et Rieux-Volvestre";
 text[1649]="Vue sur Carbonne";
+text[1650]="Pic du Midi de Bigorre vu pr&egrave;s de Lalouret-Laffiteau";
+text[1651]="Verdure autour de la route entre Lalouret-Laffiteau et Larcan";
+text[1652]="Les Pyr&eacute;n&eacute;es vu entre Larcan et Saint-Marcet";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js

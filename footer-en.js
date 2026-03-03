@@ -1657,6 +1657,9 @@ text[1646]="Fields and Saint-Ybars (right) seen near Massabrac";
 text[1647]="Landscape between Latrape and Carbonne with the Pyrenees in background";
 text[1648]="Scenery of the Volvestre seen near Carbonne and Rieux-Volvestre";
 text[1649]="View over Carbonne";
+text[1650]="Pic du Midi de Bigorre seen near Lalouret-Laffiteau";
+text[1651]="Greenery around the road between Lalouret-Laffiteau and Larcan";
+text[1652]="The Pyrenees seen between Larcan and Saint-Marcet";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
