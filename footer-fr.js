@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 3 mars 2026</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 5 mars 2026</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1660,6 +1660,9 @@ text[1649]="Vue sur Carbonne";
 text[1650]="Pic du Midi de Bigorre vu pr&egrave;s de Lalouret-Laffiteau";
 text[1651]="Verdure autour de la route entre Lalouret-Laffiteau et Larcan";
 text[1652]="Les Pyr&eacute;n&eacute;es vu entre Larcan et Saint-Marcet";
+text[1653]="Paysage autour du lac de la Ganguise et Molleville (droite)";
+text[1654]="Lac de la Ganguise et Molleville dans le Lauragais";
+text[1655]="D&eacute;cor autour de Molleville et du lac de la Ganguise avec la montagne Noire au loin";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js

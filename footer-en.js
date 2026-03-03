@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 3 march 2026</span></p>");
+document.write("<p> <span class='end'>Last update : 5 march 2026</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1660,6 +1660,9 @@ text[1649]="View over Carbonne";
 text[1650]="Pic du Midi de Bigorre seen near Lalouret-Laffiteau";
 text[1651]="Greenery around the road between Lalouret-Laffiteau and Larcan";
 text[1652]="The Pyrenees seen between Larcan and Saint-Marcet";
+text[1653]="Landscape around the Ganguise lake and Molleville (right)";
+text[1654]="Ganguise lake and Molleville in the Lauragais";
+text[1655]="Scenery around Molleville and the Ganguise lake with the Montagne Noire far away";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
