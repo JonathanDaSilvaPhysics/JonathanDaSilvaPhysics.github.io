@@ -1663,6 +1663,13 @@ text[1652]="Les Pyr&eacute;n&eacute;es vu entre Larcan et Saint-Marcet";
 text[1653]="Paysage autour du lac de la Ganguise et Molleville (droite)";
 text[1654]="Lac de la Ganguise et Molleville dans le Lauragais";
 text[1655]="D&eacute;cor autour de Molleville et du lac de la Ganguise avec la montagne Noire au loin";
+text[1656]="La r&eacute;gion de Montoulieu, sa tour (centre) et le massif du Plantaurel au loin vus de la route vers Seignaux";
+text[1657]="&Eacute;glise Saint-L&eacute;ger de Montoulieu et son environnement";
+text[1658]="La tour de Montoulieu et ses environs";
+text[1659]="Montoulieu et sa tour";
+text[1660]="Moutons et paysage de la vall&eacute;e de l'Ari&egrave;ge vus de la route entre Montoulieu et Prayols";
+text[1661]="D&eacute;cor des vall&eacute;es de Lesponne et de l'Ari&egrave;ge &agrave; partir des hauteurs de Ferri&egrave;res-sur-Ari&egrave;ge";
+text[1662]="Le massif du Plantaurel (gauche) et la r&eacute;gion de Ferri&egrave;res-sur-Ari&egrave;ge";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js

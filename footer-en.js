@@ -1663,6 +1663,13 @@ text[1652]="The Pyrenees seen between Larcan and Saint-Marcet";
 text[1653]="Landscape around the Ganguise lake and Molleville (right)";
 text[1654]="Ganguise lake and Molleville in the Lauragais";
 text[1655]="Scenery around Molleville and the Ganguise lake with the Montagne Noire far away";
+text[1656]="The area Montoulieu, its tower (center) and Plantaurel massif far away seen from the road to Seignaux";
+text[1657]="Saint-L&eacute;ger church of Montoulieu and its environment";
+text[1658]="The tower of Montoulieu and its surroundings";
+text[1659]="Montoulieu and its tower";
+text[1660]="Sheeps and landscape of the Ari&egrave;ge valley seen from the road between Montoulieu and Prayols";
+text[1661]="Scenery of Lesponne and Ari&egrave;ge valleys from the heights Ferri&egrave;res-sur-Ari&egrave;ge";
+text[1662]="Plantaurel massif (left) and the area of Ferri&egrave;res-sur-Ari&egrave;ge";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
