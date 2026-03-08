@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 5 mars 2026</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 8 mars 2026</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -614,13 +614,13 @@ text[603]= "Verdure autour des Brougues et sommets de l'Ari&egrave;ge vus depuis
 text[604]= "Paysage autour de la route menant au col du Traucadou";
 text[605]= "Verdure et montagnes autour de la route vers le col du Traucadou";
 text[606]= "Montgailhard et le massif du Plantaurel vus depuis Montoulieu";
-text[607]= "Vue de Ginabat &agrave; la vall&eacute;e de Lesponne depuis Montoulieu";
+text[607]= "D&eacute;cor de Ginabat (en bas) &agrave; la vall&eacute;e de Lesponne depuis Montoulieu";
 text[608]= "Verdure autour de la tour de Montoulieu et Seignaux sur la droite";
-text[609]= "Vall&eacute;e de l'Ari&egrave;ge et Montoulieu depuis sa tour";
+text[609]= "Vall&eacute;e de l'Ari&egrave;ge autour de Montgailhard (centre) et Montoulieu (gauche) depuis sa tour";
 text[610]= "Verdure autour de Mercus-Garrabet vue de Montoulieu";
 text[611]= "Montoulieu et sa tour avec le massif du Plantaurel en arri&egrave;re-plan";
-text[612]= "Garrabet et mont Fourcat vus depuis Seignaux";
-text[613]= "Mercus et montagnes ari&eacute;geoises vus depuis Seignaux";
+text[612]= "Garrabet (en bas), mont Fourcat et Jarnat (&agrave; droite) vus depuis Seignaux";
+text[613]= "Jarnat (&agrave; gauche), Mercus (centre) et montagnes ari&eacute;geoises vus depuis Seignaux";
 text[614]= "Massif du Plantaurel vu pr&egrave;s de Prayols";
 text[615]= "Paysage pr&egrave;s de Montgailhard avec Montoulieu en arri&egrave;re-plan";
 text[616]= "Vue de la vall&eacute;e de Lesponne jusqu'&agrave; la haute cha&icirc;ne pyr&eacute;n&eacute;enne";

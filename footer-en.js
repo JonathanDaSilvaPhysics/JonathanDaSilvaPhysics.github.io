@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 5 march 2026</span></p>");
+document.write("<p> <span class='end'>Last update : 8 march 2026</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -614,13 +614,13 @@ text[603]= "Greenery around Les Brougues and summits of the Ari&egrave;ge seen f
 text[604]= "Landscape around the road to the Col du Traucadou";
 text[605]= "Greenery and mountains around the road to the Col du Traucadou";
 text[606]= "Montgailhard and Plantaurel massif seen from Montoulieu";
-text[607]= "View from Ginabat to the Lesponne valley from Montoulieu";
+text[607]= "Scenery from Ginabat (bottom) to the Lesponne valley from Montoulieu";
 text[608]= "Greenery around Montoulieu's tower and Seignaux on the right";
-text[609]= "Ari&egrave;ge valley and Montoulieu from its tower";
+text[609]= "Ari&egrave;ge valley around Montgailhard (center) and Montoulieu (left) from its tower";
 text[610]= "Greenery around Mercus-Garrabet seen from Montoulieu";
 text[611]= "Montoulieu and its tower with Plantaurel massif in background";
-text[612]= "Garrabet and Mont Fourcat seen from Seignaux";
-text[613]= "Mercus and mountains of the Ari&egrave;ge seen from Seignaux";
+text[612]= "Garrabet (bottom), Mont Fourcat and Jarnat (right) seen from Seignaux";
+text[613]= "Jarnat (left), Mercus (center) and mountains of the Ari&egrave;ge seen from Seignaux";
 text[614]= "Plantaurel massif seen near Prayols";
 text[615]= "Landscape near Montgailhard with Montoulieu in background";
 text[616]= "View from Lesponne valley to high mountains of the Pyrenees";
