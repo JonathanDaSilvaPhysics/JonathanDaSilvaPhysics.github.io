@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 8 mars 2026</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 13 mars 2026</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1670,6 +1670,7 @@ text[1659]="Montoulieu et sa tour";
 text[1660]="Moutons et paysage de la vall&eacute;e de l'Ari&egrave;ge vus de la route entre Montoulieu et Prayols";
 text[1661]="D&eacute;cor des vall&eacute;es de Lesponne et de l'Ari&egrave;ge &agrave; partir des hauteurs de Ferri&egrave;res-sur-Ari&egrave;ge";
 text[1662]="Le massif du Plantaurel (gauche) et la r&eacute;gion de Ferri&egrave;res-sur-Ari&egrave;ge";
+text[1663]="Des ch&ecirc;nes autour de la route pr&egrave;s de Couces";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js

@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 8 march 2026</span></p>");
+document.write("<p> <span class='end'>Last update : 13 march 2026</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1670,6 +1670,7 @@ text[1659]="Montoulieu and its tower";
 text[1660]="Sheeps and landscape of the Ari&egrave;ge valley seen from the road between Montoulieu and Prayols";
 text[1661]="Scenery of Lesponne and Ari&egrave;ge valleys from the heights Ferri&egrave;res-sur-Ari&egrave;ge";
 text[1662]="Plantaurel massif (left) and the area of Ferri&egrave;res-sur-Ari&egrave;ge";
+text[1663]="Oak trees around the road near Couces";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
