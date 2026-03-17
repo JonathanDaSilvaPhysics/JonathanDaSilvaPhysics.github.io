@@ -1670,7 +1670,11 @@ text[1659]="Montoulieu et sa tour";
 text[1660]="Moutons et paysage de la vall&eacute;e de l'Ari&egrave;ge vus de la route entre Montoulieu et Prayols";
 text[1661]="D&eacute;cor des vall&eacute;es de Lesponne et de l'Ari&egrave;ge &agrave; partir des hauteurs de Ferri&egrave;res-sur-Ari&egrave;ge";
 text[1662]="Le massif du Plantaurel (gauche) et la r&eacute;gion de Ferri&egrave;res-sur-Ari&egrave;ge";
-text[1663]="Des ch&ecirc;nes autour de la route pr&egrave;s de Couces";
+text[1663]="Des ch&ecirc;nes autour de la route pr&egrave;s du hameau de Couces";
+text[1664]="Geraz do Lima vu au-dessus du hameau de Paredes avec Viana do Castelo au loin (centre)";
+text[1665]="Vue en direction du hameau de Boavista &agrave; Geraz do Lima";
+text[1666]="Verdure autour de l'&eacute;glise de Santa Maria de Geraz do Lima";
+text[1667]="Paysage de Geraz do Lima &agrave; Serra d'Arga (gauche) &agrave; partir du hameau de Costa";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js

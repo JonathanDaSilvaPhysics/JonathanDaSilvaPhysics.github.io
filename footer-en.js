@@ -1670,7 +1670,11 @@ text[1659]="Montoulieu and its tower";
 text[1660]="Sheeps and landscape of the Ari&egrave;ge valley seen from the road between Montoulieu and Prayols";
 text[1661]="Scenery of Lesponne and Ari&egrave;ge valleys from the heights Ferri&egrave;res-sur-Ari&egrave;ge";
 text[1662]="Plantaurel massif (left) and the area of Ferri&egrave;res-sur-Ari&egrave;ge";
-text[1663]="Oak trees around the road near Couces";
+text[1663]="Oak trees around the road near the hamlet of Couces";
+text[1664]="Geraz do Lima seen from above the hamlet of Paredes with Viana do Castelo far away (center)";
+text[1665]="View towards the hamlet of Boavista in Geraz do Lima";
+text[1666]="Greenery around Santa Maria de Geraz do Lima church";
+text[1667]="Landscape from Geraz do Lima to Serra d'Arga (left) from the hamlet of Costa";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
