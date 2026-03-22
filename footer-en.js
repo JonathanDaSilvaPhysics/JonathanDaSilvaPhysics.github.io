@@ -1686,6 +1686,12 @@ text[1675]="Calvary of Montaria and a cork oak";
 text[1676]="S&atilde;o Jo&atilde;o chapel in the S&atilde;o Jo&atilde;o de Arga monastery";
 text[1677]="The environment of the S&atilde;o Jo&atilde;o de Arga monastery";
 text[1678]="Landscape towards Minho valley seen from Serra de Arga";
+text[1679]="Trees on the heights of Geraz do Lima from the road to Santa B&aacute;rbara chapel";
+text[1680]="Greenery around the road to Santa B&aacute;rbara chapel in Geraz do Lima";
+text[1681]="Scenery from Geraz do Lima to Serra de Arga from Santa B&aacute;rbara chapel";
+text[1682]="Santa B&aacute;rbara chapel of Geraz do Lima and its surroundings";
+text[1683]="Nossa Senhora de Lourdes sanctuary near Santa B&aacute;rbara chapel of Geraz do Lima";
+text[1684]="The heights of Santa Leoc&aacute;dia de Geraz do Lima seen from the road to Santa B&aacute;rbara chapel";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

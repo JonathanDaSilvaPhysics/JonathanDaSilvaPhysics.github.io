@@ -1686,6 +1686,12 @@ text[1675]="Calvaire de Montaria et un ch&ecirc;ne-li&egrave;ge";
 text[1676]="Chapelle S&atilde;o Jo&atilde;o dans le monast&egrave;re de S&atilde;o Jo&atilde;o de Arga";
 text[1677]="L'environnement du monast&egrave;re de S&atilde;o Jo&atilde;o de Arga";
 text[1678]="Paysage en direction de la vall&eacute;e du Minho vu de la Serra de Arga";
+text[1679]="Des arbres sur les hauteurs de Geraz do Lima &agrave; partir de la route menant &agrave; la chapelle Santa B&aacute;rbara";
+text[1680]="Verdure autour de la route menant &agrave; la chapelle Santa B&aacute;rbara &agrave; Geraz do Lima";
+text[1681]="D&eacute;cor de Geraz do Lima &agrave; Serra de Arga &agrave; partir de la chapelle Santa B&aacute;rbara";
+text[1682]="Chapelle Santa B&aacute;rbara de Geraz do Lima et ses environs";
+text[1683]="Sanctuaire Nossa Senhora de Lourdes pr&egrave;s de la chapelle Santa B&aacute;rbara de Geraz do Lima";
+text[1684]="Les hauteurs de Santa Leoc&aacute;dia de Geraz do Lima vues de la route menant &agrave; la chapelle Santa B&aacute;rbara";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
