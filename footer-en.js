@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 17 march 2026</span></p>");
+document.write("<p> <span class='end'>Last update : 22 march 2026</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1675,6 +1675,13 @@ text[1664]="Geraz do Lima seen from above the hamlet of Paredes with Viana do Ca
 text[1665]="View towards the hamlet of Boavista in Geraz do Lima";
 text[1666]="Greenery around Santa Maria de Geraz do Lima church";
 text[1667]="Landscape from Geraz do Lima to Serra d'Arga (left) from the hamlet of Costa";
+text[1668]="S&atilde;o Martinho church of Friastelas and its environment";
+text[1669]="View near Freixo with Air&atilde;o in background (left)";
+text[1670]="Scenery of Balug&atilde;es in the Neiva valley";
+text[1671]="Greenery of Cossourado with Balug&atilde;es far away (center)";
+text[1672]="Landscape of Neiva valley seen between Aborim and Quinti&atilde;es";
+text[1673]="Santa Lucr&eacute;cia church of Aguiar and its surroundings with Quinti&atilde;es in background (left)";
+text[1674]="Ponte Seca and S&atilde;o Louren&ccedil;o church of Durr&atilde;es (right)";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

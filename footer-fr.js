@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 17 mars 2026</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 22 mars 2026</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1675,6 +1675,13 @@ text[1664]="Geraz do Lima vu au-dessus du hameau de Paredes avec Viana do Castel
 text[1665]="Vue en direction du hameau de Boavista &agrave; Geraz do Lima";
 text[1666]="Verdure autour de l'&eacute;glise de Santa Maria de Geraz do Lima";
 text[1667]="Paysage de Geraz do Lima &agrave; Serra d'Arga (gauche) &agrave; partir du hameau de Costa";
+text[1668]="&Eacute;glise S&atilde;o Martinho de Friastelas et son environnement";
+text[1669]="Vue pr&egrave;s de Freixo avec Air&atilde;o en arri&egrave;re-plan (gauche)";
+text[1670]="D&eacute;cor de Balug&atilde;es dans la vall&eacute;e du fleuve Neiva";
+text[1671]="Verdure de Cossourado avec Balug&atilde;es au loin (centre)";
+text[1672]="Paysage de la vall&eacute;e du fleuve Neiva vu entre Aborim et Quinti&atilde;es";
+text[1673]="&Eacute;glise Santa Lucr&eacute;cia d'Aguiar et ses environs avec Quinti&atilde;es en arri&egrave;re-plan (gauche)";
+text[1674]="Ponte Seca et &eacute;glise S&atilde;o Louren&ccedil;o de Durr&atilde;es (droite)";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
