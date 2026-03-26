@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 22 mars 2026</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 26 mars 2026</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1692,6 +1692,11 @@ text[1681]="D&eacute;cor de Geraz do Lima &agrave; Serra de Arga &agrave; partir
 text[1682]="Chapelle Santa B&aacute;rbara de Geraz do Lima et ses environs";
 text[1683]="Sanctuaire Nossa Senhora de Lourdes pr&egrave;s de la chapelle Santa B&aacute;rbara de Geraz do Lima";
 text[1684]="Les hauteurs de Santa Leoc&aacute;dia de Geraz do Lima vues de la route menant &agrave; la chapelle Santa B&aacute;rbara";
+text[1685]="Des arbres autour de la route entre Gramond et Boussac";
+text[1686]="Des vaches &agrave; Manhac avec le hameau des Garrigues en arri&egrave;re-plan";
+text[1687]="Verdure &agrave; Manhac autour du hameau de Naves";
+text[1688]="D&eacute;cor autour du hameau de La Burgui&egrave;re dans l'Aveyron";
+text[1689]="Ch&acirc;teau et &eacute;glise de Calmont-de-Plancatge et leur environnement";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
