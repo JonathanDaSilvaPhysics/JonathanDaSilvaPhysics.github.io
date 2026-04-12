@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 26 mars 2026</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 12 avril 2026</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1697,6 +1697,14 @@ text[1686]="Des vaches &agrave; Manhac avec le hameau des Garrigues en arri&egra
 text[1687]="Verdure &agrave; Manhac autour du hameau de Naves";
 text[1688]="D&eacute;cor autour du hameau de La Burgui&egrave;re dans l'Aveyron";
 text[1689]="Ch&acirc;teau et &eacute;glise de Calmont-de-Plancatge et leur environnement";
+text[1690]="Paysage des Baronnies vu pr&egrave;s de Capvern avec le pic du Midi de Bigorre (centre) et le pic du Montaigu (droite)";
+text[1691]="Le ch&acirc;teau de Mauvezin et ses environs";
+text[1692]="D&eacute;cor autour du ch&acirc;teau m&eacute;di&eacute;val de Mauvezin avec les pics du Midi de Bigorre et du Montaigu au loin";
+text[1693]="Vue sur les Baronnies, les pics du Midi de Bigorre et du Montaigu &agrave; partir du ch&acirc;teau de Mauvezin";
+text[1694]="D&eacute;cor du ch&acirc;teau de Mauvezin";
+text[1695]="Paysage entre Mauvezin et Bonnemazon avec les pics du Midi de Bigorre et du Montaigu";
+text[1696]="Verdure et le ch&acirc;teau de Mauvezin vu de la route menant &agrave; Bonnemazon";
+text[1697]="Vue en direction de la r&eacute;gion de Bourg-de-Bigorre &agrave; partir de Bonnemazon";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js

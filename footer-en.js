@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 26 march 2026</span></p>");
+document.write("<p> <span class='end'>Last update : 12 april 2026</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1183,11 +1183,11 @@ text[1172]="Scenery around the road to the Col de Port seen towards Tabe massif"
 text[1173]="Fields between Lombez and Montamat";
 text[1174]="Landscape near Montamat";
 text[1175]="View over the area of Saint-Soulan";
-text[1176]="Landscape near Lannemezan with the Pic du Midi de Bigorre (center) and the Pic de Montaigu (right)";
-text[1177]="Pic du Midi de Bigorre (center) and Pic de Montaigu (right) on the road between Lannemezan and Houeydets";
+text[1176]="Landscape near Lannemezan with the Pic du Midi de Bigorre (center) and the Pic du Montaigu (right)";
+text[1177]="Pic du Midi de Bigorre (center) and Pic du Montaigu (right) on the road between Lannemezan and Houeydets";
 text[1178]="View towards the Pyrenees from the road between Houeydets and Castelbajac";
 text[1179]="Cows near Caharet";
-text[1180]="Scenery near Caharet towards the Pyrenees with the Pic de Montaigu (center)";
+text[1180]="Scenery near Caharet towards the Pyrenees with the Pic du Montaigu (center)";
 text[1181]="Landscape of the area of Saint-Amans with the Pyrenees in background";
 text[1182]="Scenery of the south of Saint-Amans";
 text[1183]="Greenery near Saint-Amans";
@@ -1450,7 +1450,7 @@ text[1439]="Greenery of the heights of Labastide";
 text[1440]="Landscape around Labastide";
 text[1441]="Avezac and its surroundings";
 text[1442]="Cows seen near Avezac";
-text[1443]="Pic du Midi de Bigorre (center) and Pic de Montaigu (right) seen near Avezac";
+text[1443]="Pic du Midi de Bigorre (center) and Pic du Montaigu (right) seen near Avezac";
 text[1444]="Scenery of the area of Avezac (center) with the Pic du Midi de Bigorre in background (right)";
 text[1445]="Pic d'Alian (left) and Viger (right) seen from the road to Berb&eacute;rust-Lias";
 text[1446]="Landscape of the Lavedan seen towards Lourdes with Viger (left), Lugagnan (bottom) and the Pic du Jer (right)";
@@ -1697,6 +1697,14 @@ text[1686]="Cows in Manhac with the hamlet of Les Garrigues in background";
 text[1687]="Greenery in Manhac around the hamlet of Naves";
 text[1688]="Scenery around the hamlet of La Burgui&egrave;re in the Aveyron";
 text[1689]="Castle and church of Calmont-de-Plancatge and their environment";
+text[1690]="Landscape of the Baronnies seen near Capvern with the Pic du Midi de Bigorre and the Pic du Montaigu";
+text[1691]="Mauvezin castle and its surroundings";
+text[1692]="Scenery around Mauvezin medieval castle with the Pic du Midi de Bigorre and the Pic du Montaigu far away";
+text[1693]="View over the Baronnies, the Pic du Midi de Bigorre and the Pic du Montaigu from Mauvezin castle";
+text[1694]="Scenery of Mauvezin castle";
+text[1695]="Landscape between Mauvezin and Bonnemazon with the Pic du Midi de Bigorre and the Pic du Montaigu";
+text[1696]="Greenery and Mauvezin castle seen from the road to Bonnemazon";
+text[1697]="View towards the area of Bourg-de-Bigorre from Bonnemazon";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js
