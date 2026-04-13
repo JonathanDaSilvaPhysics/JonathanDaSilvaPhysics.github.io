@@ -1,7 +1,7 @@
 // Display contact section :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Last update : 12 april 2026</span></p>");
+document.write("<p> <span class='end'>Last update : 13 april 2026</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='HTML5 validation' src='images/html5-logo.png' alt='HTML5 validation'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='CSS3 validation' src='images/css3-logo.png' alt='CSS3 validation'></a> </p></div>");
 
@@ -1705,6 +1705,15 @@ text[1694]="Scenery of Mauvezin castle";
 text[1695]="Landscape between Mauvezin and Bonnemazon with the Pic du Midi de Bigorre and the Pic du Montaigu";
 text[1696]="Greenery and Mauvezin castle seen from the road to Bonnemazon";
 text[1697]="View towards the area of Bourg-de-Bigorre from Bonnemazon";
+text[1698]="Fields and greenery near Castillon in the Baronnies";
+text[1699]="Pic du Midi de Bigorre (center) and Pic du Montaigu (right) seen from the road to Castillon";
+text[1700]="The area of Argel&egrave;s-Bagn&egrave;res seen near Castillon with the Pic du Montaigu far away (left)";
+text[1701]="Cows and the area of Argel&egrave;s-Bagn&egrave;res in background";
+text[1702]="Scenery around the road between Castillon and Bettes in the Baronnies";
+text[1703]="Landscape of the area of Espieilh";
+text[1704]="View towards summits of the Baronnies from near Fr&eacute;chendets";
+text[1705]="Greenery of the heights of Asque";
+text[1706]="Scenery near the hamlet of the Couret d'Asque with summits of the Baronnies (right)";
 
 // define the approximate values "latitude,longitude" of the associated picture for google maps (in decimal degrees)
 // array "latitudeLongitude" defined in Coordinates.js

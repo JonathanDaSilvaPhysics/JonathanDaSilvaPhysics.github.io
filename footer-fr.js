@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 12 avril 2026</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 13 avril 2026</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1705,6 +1705,15 @@ text[1694]="D&eacute;cor du ch&acirc;teau de Mauvezin";
 text[1695]="Paysage entre Mauvezin et Bonnemazon avec les pics du Midi de Bigorre et du Montaigu";
 text[1696]="Verdure et le ch&acirc;teau de Mauvezin vu de la route menant &agrave; Bonnemazon";
 text[1697]="Vue en direction de la r&eacute;gion de Bourg-de-Bigorre &agrave; partir de Bonnemazon";
+text[1698]="Champs et verdure pr&egrave;s de Castillon dans les Baronnies";
+text[1699]="Pic du Midi de Bigorre (centre) et pic du Montaigu (droite) vus de la route menant &agrave; Castillon";
+text[1700]="La r&eacute;gion d'Argel&egrave;s-Bagn&egrave;res vue pr&egrave;s de Castillon avec le pic du Montaigu au loin (gauche)";
+text[1701]="Des vaches et la r&eacute;gion d'Argel&egrave;s-Bagn&egrave;res en arri&egrave;re-plan";
+text[1702]="D&eacute;cor autour de la route entre Castillon et Bettes dans les Baronnies";
+text[1703]="Paysage de la r&eacute;gion d'Espieilh";
+text[1704]="Vue en direction de sommets des Baronnies pr&egrave;s de Fr&eacute;chendets";
+text[1705]="Verdure des hauteurs d'Asque";
+text[1706]="D&eacute;cor pr&egrave;s du hameau du Couret d'Asque avec des sommets des Baronnies (droite)";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
