@@ -1,7 +1,7 @@
 // Afficher la partie contact :
 
 document.write("<div class='contact'><h2>Contact</h2><p>Jonathan Da Silva <br />31 770 Colomiers, France <br />Email : <a href='mailto:jonathan.da.silva.physics@gmail.com'>jonathan.da.silva.physics@gmail.com</a></p>");
-document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 14 avril 2026</span></p>");
+document.write("<p> <span class='end'>Derni&egrave;re mise &agrave; jour : 19 avril 2026</span></p>");
 document.write("<p><a style='border-bottom:none' href='http://validator.w3.org/check?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:39px;height:34px' title='Validation HTML5' src='images/html5-logo.png' alt='Validation HTML5'></a>");
 document.write("<a style='border-bottom:none' href='http://jigsaw.w3.org/css-validator/validator?uri=jonathandasilvaphysics.github.io'><img style='border:0;width:37px;height:34px' title='Validation CSS3' src='images/css3-logo.png' alt='Validation CSS3'></a> </p></div>");
 
@@ -1723,6 +1723,9 @@ text[1712]="D&eacute;cor vu des hauteurs d'Esparros avec des sommets des Baronni
 text[1713]="Paysage en direction de Laborde vu des hauteurs d'Esparros";
 text[1714]="Vue des Baronnies pr&egrave;s de Prat avec le pic du Midi de Bigorre en arri&egrave;re-plan (droite)";
 text[1715]="Les Baronnies et le pic du Midi de Bigorre (centre) vus de la route vers Lannemezan";
+text[1716]="Verdure vue de Labessi&egrave;re-Candeil";
+text[1717]="Paysage en direction de Puybegon (centre, au loin)";
+text[1718]="D&eacute;cor autour de l'&eacute;glise Saint-Sigismond de Puybegon";
 
 // definir les valeurs approximatives "latitude,longitude" de l'image associee pour google maps (en degres decimaux)
 // tableau "latitudeLongitude" definie dans Coordinates.js
