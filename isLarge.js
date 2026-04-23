@@ -1717,3 +1717,7 @@ isLarge[1715]=true;
 isLarge[1716]=true;
 isLarge[1717]=true;
 isLarge[1718]=true;
+isLarge[1719]=true;
+isLarge[1720]=true;
+isLarge[1721]=true;
+isLarge[1722]=true;

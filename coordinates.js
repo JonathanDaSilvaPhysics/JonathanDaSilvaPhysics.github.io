@@ -1717,3 +1717,7 @@ latitudeLongitude[1715]="43.050124,0.358460";
 latitudeLongitude[1716]="43.798960,2.008251";
 latitudeLongitude[1717]="43.781079,1.910376";
 latitudeLongitude[1718]="43.794920,1.895498";
+latitudeLongitude[1719]="44.235086,1.574351";
+latitudeLongitude[1720]="44.336872,1.489850";
+latitudeLongitude[1721]="44.451241,1.444051";
+latitudeLongitude[1722]="44.443722,1.433102";
