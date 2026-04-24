@@ -3,7 +3,6 @@
 const footer = document.getElementById("footer-content");
 
 footer.innerHTML = `
-<div class="contact">
     <h2>Contact</h2>
     <p>Jonathan Da Silva <br />31 770 Colomiers, France <br />
        Email : <a href="mailto:jonathan.da.silva.physics@gmail.com">jonathan.da.silva.physics@gmail.com</a>
@@ -17,7 +16,6 @@ footer.innerHTML = `
             <img style='border:0;width:37px;height:34px' title='Validation CSS3' src="images/css3-logo.png" alt="Validation CSS3">
         </a>
     </p>
-</div>
 `;
 
 // Afficher aleatoirement une image :
@@ -1753,15 +1751,22 @@ text[1722]="D&eacute;cor du pont Valentr&eacute; &agrave; Cahors";
 var i = 1 + Math.floor( (text.length  - 1) * Math.random());
 
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
-if (isLarge[i]) {
-    document.write("<div class='picture__block--large'>");
-    document.write("<h2><a href='map.html?lang=fr' title='Une carte des photos et de leur localisation' target='_blank'>Quelques photos en passant</a></h2>");
-    document.write("<div class='picture--large'");
-}
-else {
-    document.write("<div class='picture__block'>");
-    document.write("<h2><a href='map.html?lang=fr' title='Une carte des photos et de leur localisation' target='_blank'>Quelques photos en passant</a></h2>");
-    document.write("<div class='picture'");
-}
-document.write("style='background:url(images/RandPic/picture_" + i + ".jpg) no-repeat center;'>");
-document.write("<div class='caption'><a href='http://maps.google.fr/maps?f=q&amp;hl=fr&amp;q="+latitudeLongitude[i]+"'target='_blank'>"+text[i]+"</a></div></div></div>");
+const pictureContainer = document.getElementById("random-picture");
+
+pictureContainer.innerHTML = pictureContainer.innerHTML + `
+<div class="${isLarge[i] ? "picture__block--large" : "picture__block"}">
+    <h2>
+        <a href="map.html?lang=fr" title="Une carte des photos et de leur localisation" target="_blank">
+            Quelques photos en passant
+        </a>
+    </h2>
+    <div class="${isLarge[i] ? "picture--large" : "picture"}"
+         style="background:url(images/RandPic/picture_${i}.jpg) no-repeat center;">
+        <div class="caption">
+            <a href="http://maps.google.fr/maps?f=q&hl=fr&q=${latitudeLongitude[i]}" target="_blank" rel="noopener noreferrer">
+                ${text[i]}
+            </a>
+        </div>
+    </div>
+</div>
+`;

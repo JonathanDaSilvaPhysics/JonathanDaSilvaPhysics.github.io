@@ -3,7 +3,6 @@
 const footer = document.getElementById("footer-content");
 
 footer.innerHTML = `
-<div class="contact">
     <h2>Contact</h2>
     <p>Jonathan Da Silva <br />31 770 Colomiers, France <br />
        Email: <a href="mailto:jonathan.da.silva.physics@gmail.com">jonathan.da.silva.physics@gmail.com</a>
@@ -17,7 +16,6 @@ footer.innerHTML = `
             <img style='border:0;width:37px;height:34px' title='CSS3 validation' src="images/css3-logo.png" alt="CSS3 validation">
         </a>
     </p>
-</div>
 `;
 
 // Display randomly a picture :
@@ -1753,15 +1751,22 @@ text[1722]="Scenery of the Valentr&eacute; Bridge in Cahors";
 var i = 1 + Math.floor( (text.length  - 1) * Math.random());
 
 // now display the picture + the text + the google maps link in a banner:
-if (isLarge[i]) {
-    document.write("<div class='picture__block--large'>");
-    document.write("<h2><a href='map.html' title='Map of pictures and their location' target='_blank'>Pictures, just for fun</a></h2>");
-    document.write("<div class='picture--large'");
-}
-else {
-    document.write("<div class='picture__block'>");
-    document.write("<h2><a href='map.html' title='Map of pictures and their location' target='_blank'>Pictures, just for fun</a></h2>");
-    document.write("<div class='picture'");
-}
-document.write("style='background:url(images/RandPic/picture_" + i + ".jpg) no-repeat center;'>");
-document.write("<div class='caption'><a href='http://maps.google.com/maps?f=q&amp;hl=en&amp;q="+latitudeLongitude[i]+"'target='_blank'>"+text[i]+"</a></div></div></div>");
+const pictureContainer = document.getElementById("random-picture");
+
+pictureContainer.innerHTML = pictureContainer.innerHTML + `
+<div class="${isLarge[i] ? "picture__block--large" : "picture__block"}">
+    <h2>
+        <a href="map.html" title="Map of pictures and their location" target="_blank">
+            Pictures, just for fun
+        </a>
+    </h2>
+    <div class="${isLarge[i] ? "picture--large" : "picture"}"
+         style="background:url(images/RandPic/picture_${i}.jpg) no-repeat center;">
+        <div class="caption">
+            <a href="http://maps.google.com/maps?f=q&hl=en&q=${latitudeLongitude[i]}" target="_blank" rel="noopener noreferrer">
+                ${text[i]}
+            </a>
+        </div>
+    </div>
+</div>
+`;
