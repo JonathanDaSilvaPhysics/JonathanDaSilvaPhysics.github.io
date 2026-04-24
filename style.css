@@ -325,22 +325,6 @@ footer a:hover
     border-bottom: none;
 }
 
-/* Correctifs pour les vieilles versions d'Internet Explorer */
-
-/* Pour activer un positionnement type inline-block sur les vieilles versions d'IE */
-
-.old_ie header h1, .old_ie nav, .old_ie nav li, .old_ie article,  .old_ie aside, .old_ie .contact, .old_ie .picture__block, .old_ie .picture__block--large
-{
-    display: inline;
-}
-
-/* Quelques ajustements pour les vieilles versions d'IE */
-
-.old_ie h2, .ie8 h2
-{
-    font-size: 1.1em;
-}
-
 /* Breakpoints */
 
 @media screen and (max-width: 992px) {
