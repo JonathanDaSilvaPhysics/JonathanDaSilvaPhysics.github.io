@@ -1,5 +1,3 @@
-document.addEventListener("DOMContentLoaded", async () => {
-
 const lastUpdate = new Date("2026-04-27");
 const lang = document.documentElement.lang || "en";
 const formattedDate = new Intl.DateTimeFormat(lang, {
@@ -8,10 +6,10 @@ const formattedDate = new Intl.DateTimeFormat(lang, {
     day: "numeric"
 }).format(lastUpdate);
 
-const translatedTerms = i18n[lang] || i18n.en;
+const i18nData = window.i18n;
+const translatedTerms = i18nData?.[lang] || i18nData.en;
 
 // Display contact section :
-
 const footer = document.getElementById("footer-content");
 
 footer.innerHTML = `
@@ -31,7 +29,6 @@ footer.innerHTML = `
 `;
 
 // Display randomly a picture :
-
 fetch("pictures.json") // python3 -m http.server 8000
     .then(res => res.json())
     .then(pictures => {
@@ -39,6 +36,7 @@ fetch("pictures.json") // python3 -m http.server 8000
     });
 
 function getRandomPicture(pictures, lang) {
+    if (!pictures?.length) return;
     const i = Math.floor(Math.random() * pictures.length);
     const pic = pictures[i];
 
@@ -54,7 +52,7 @@ function getRandomPicture(pictures, lang) {
       <div class="${pic.isLarge ? "picture--large" : "picture"}"
            style="background:url(images/RandPic/picture_${pic.id}.jpg) no-repeat center;">
         <div class="caption">
-          <a href="https://maps.google.${translatedTerms.googleMapTld}/maps?f=q&hl=${lang}&q=${pic.coordinates[0]},${pic.coordinates[1]}" target="_blank" rel="noopener noreferrer">
+          <a href="https://maps.google.com/maps?f=q&hl=${lang}&q=${pic.coordinates[0]},${pic.coordinates[1]}" target="_blank" rel="noopener noreferrer">
             ${pic.description[lang] || pic.description.en}
           </a>
         </div>
@@ -62,5 +60,3 @@ function getRandomPicture(pictures, lang) {
     </div>
   `);
 }
-})
-
