@@ -1,8 +1,6 @@
 document.addEventListener("DOMContentLoaded", async () => {
 
 const lastUpdate = new Date("2026-04-27");
-console.log('document.documentElement.lang');
-console.log(document.documentElement.lang);
 const lang = document.documentElement.lang || "en";
 const formattedDate = new Intl.DateTimeFormat(lang, {
     year: "numeric",
