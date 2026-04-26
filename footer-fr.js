@@ -1753,7 +1753,7 @@ var i = 1 + Math.floor( (text.length  - 1) * Math.random());
 // maintenant, afficher l'image + le texte + le lien vers google maps dans une banniere :
 const pictureContainer = document.getElementById("random-picture");
 
-pictureContainer.innerHTML = pictureContainer.innerHTML + `
+pictureContainer.insertAdjacentHTML("beforeend",`
 <div class="${isLarge[i] ? "picture__block--large" : "picture__block"}">
     <h2>
         <a href="map.html?lang=fr" title="Une carte des photos et de leur localisation" target="_blank">
@@ -1763,10 +1763,10 @@ pictureContainer.innerHTML = pictureContainer.innerHTML + `
     <div class="${isLarge[i] ? "picture--large" : "picture"}"
          style="background:url(images/RandPic/picture_${i}.jpg) no-repeat center;">
         <div class="caption">
-            <a href="http://maps.google.fr/maps?f=q&hl=fr&q=${latitudeLongitude[i]}" target="_blank" rel="noopener noreferrer">
+            <a href="https://maps.google.fr/maps?f=q&hl=fr&q=${latitudeLongitude[i]}" target="_blank" rel="noopener noreferrer">
                 ${text[i]}
             </a>
         </div>
     </div>
 </div>
-`;
+`);
