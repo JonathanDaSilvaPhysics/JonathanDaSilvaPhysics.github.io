@@ -50,7 +50,7 @@ function getRandomPicture(pictures, lang) {
         </a>
       </h2>
       <div class="${pic.isLarge ? "picture--large" : "picture"}"
-           style="background:url(images/RandPic/picture_${pic.id}.jpg) no-repeat center;">
+           style="background:url(images/RandPic/picture_${pic.id}.webp) center / cover no-repeat;">
         <div class="caption">
           <a href="https://maps.google.com/maps?f=q&hl=${lang}&q=${pic.coordinates[0]},${pic.coordinates[1]}" target="_blank" rel="noopener noreferrer">
             ${pic.description[lang] || pic.description.en}

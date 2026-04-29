@@ -29,7 +29,7 @@
 body
 {
     font-family: 'Trebuchet MS', Arial, sans-serif;
-    background: url('images/picture_0.jpg') no-repeat center center fixed;
+    background: url('images/picture_0.webp') center / cover no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -241,6 +241,10 @@ footer a:hover
     border-bottom: 2px dotted var(--mail-link);
 }
 
+.picture {
+    background-color: #ddd;
+}
+
 .contact, .picture__block, .picture__block--large
 {
     display: inline-block;
@@ -273,6 +277,7 @@ footer a:hover
 
 /* Préalablement : convert picture_i.jpg -resize 400x400 picture_i.jpg*/
 /* for large : convert picture_i.jpg -resize 650x650 picture_i.jpg*/
+/* plus move to webp: mogrify -format webp -quality 80 picture_i.jpg*/
 
 .picture, .picture--large
 {
