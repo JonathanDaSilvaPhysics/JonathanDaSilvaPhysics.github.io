@@ -1,14 +1,13 @@
 ﻿/* Définition de la police personnalisée */
 
-@font-face { /* Définition d'une nouvelle police nommée journal */
+@font-face {
     font-family: 'journal';
-    src: url('polices/journal-webfont.eot');
-    src: url('polices/journal-webfont.eot?#iefix') format('embedded-opentype'),
-         url('polices/journal-webfont.woff') format('woff'),
-         url('polices/journal-webfont.ttf') format('truetype'),
-         url('polices/journal-webfont.svg#journal') format('svg');
+    src: url('polices/Journal.woff2') format('woff2'),
+    url('polices/Journal.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
-
 /* Définition de couleurs personnalisées */
 
 :root {
