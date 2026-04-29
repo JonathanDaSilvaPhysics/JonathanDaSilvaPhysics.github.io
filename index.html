@@ -5,6 +5,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Personal webpage of Jonathan Da Silva, full stack developer">
         <link rel="stylesheet" href="style.css">
+        <link rel="alternate" hreflang="fr" href="accueil.html">
+        <link rel="alternate" hreflang="en" href="index.html">
         <title>Jonathan Da Silva</title>
     </head>
     <body>
@@ -13,7 +15,7 @@
             <nav>
                 <ul>
                     <li><a href="accueil.html" title="French version"><img src="images/FRA.jpg" alt="Switch to French version" loading="lazy"></a></li>
-                    <li class="active"><a href="#" title="Main page">Welcome</a></li>
+                    <li class="active"><a href="#" aria-current="page" title="Main page">Welcome</a></li>
                     <li><a href="publications.html" title="List of publications">Publications</a></li>
                     <li><a href="talks.html" title="List of talks, posters">Talks</a></li>
                     <li><a href="teaching.html" title="Teaching activities">Teaching</a></li>
@@ -22,7 +24,7 @@
             </nav>
         </header>
             
-        <div class="block block__content">
+        <main class="block block__content">
             <article>
                 <h2> - About me </h2>
                 <p>I am currently working at <a href="https://blog.i-run.si" target="_blank" rel="noopener noreferrer">i-Run</a> in Toulouse, France as a full stack developer.</p>
@@ -33,9 +35,9 @@
             </article>
 		    <aside class="cv">
                 <h2>My CV</h2>
-                <a href="CV_JonathanDaSilva_web.pdf"><img src="images/cv.png" alt="Download my CV (PDF)" title="Download my Curriculum Vitae"></a>
+                <a href="CV_JonathanDaSilva_web.pdf"><img src="images/cv.png" loading="lazy" alt="Download my CV (PDF)" title="Download my Curriculum Vitae"></a>
             </aside>
-        </div>
+        </main>
 
         <footer class="block block__footer">
             <div id="footer-content" class="contact"></div>

@@ -5,6 +5,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Page personnelle de Jonathan Da Silva, développeur full stack">
         <link rel="stylesheet" href="style.css">
+        <link rel="alternate" hreflang="fr" href="accueil.html">
+        <link rel="alternate" hreflang="en" href="index.html">
         <title>Jonathan Da Silva</title>
     </head>
     <body>
@@ -13,7 +15,7 @@
             <nav>
                 <ul>
                     <li><a href="index.html" title="Version anglaise"><img src="images/ENG.jpg" alt="Basculer sur la version anglaise" loading="lazy"></a></li>
-                    <li class="active"><a href="#" title="Page d'accueil">Accueil</a></li>
+                    <li class="active"><a href="#" aria-current="page" title="Page d'accueil">Accueil</a></li>
                     <li><a href="liste_publications.html" title="Liste de publications">Publications</a></li>
                     <li><a href="presentations.html" title="List de pr&eacute;sentations, posters">Presentations</a></li>
                     <li><a href="enseignements.html" title="Activit&eacute; d'enseignement">Enseignement</a></li>
@@ -22,7 +24,7 @@
             </nav>
         </header>
             
-        <div class="block block__content">
+        <main class="block block__content">
             <article>
                 <h2> - A propos de moi </h2>
                 <p>Je travaille actuellement chez <a href="https://blog.i-run.si" target="_blank" rel="noopener noreferrer">i-Run</a> &agrave; Toulouse en France en tant que d&eacute;veloppeur full stack.</p>
@@ -33,9 +35,9 @@
             </article>
 		    <aside class="cv">
 		        <h2>Mon CV</h2>
-		        <a href="CV_JonathanDaSilva_web.pdf"><img src="images/cv.png" alt="Téléchargez mon CV (PDF)" title="Téléchargez mon Curriculum Vitae"></a>
+		        <a href="CV_JonathanDaSilva_web.pdf"><img src="images/cv.png" loading="lazy" alt="Téléchargez mon CV (PDF)" title="Téléchargez mon Curriculum Vitae"></a>
 	        </aside>
-        </div>
+        </main>
 
         <footer class="block block__footer">
             <div id="footer-content" class="contact"></div>
