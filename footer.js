@@ -1,4 +1,4 @@
-const lastUpdate = new Date("2026-04-27");
+const lastUpdate = new Date("2026-04-29");
 const lang = document.documentElement.lang || "en";
 const formattedDate = new Intl.DateTimeFormat(lang, {
     year: "numeric",

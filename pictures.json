@@ -20662,5 +20662,89 @@
       "en": "Scenery of the Valentré Bridge in Cahors",
       "fr": "Décor du pont Valentré à Cahors"
     }
+  },
+  {
+    "id": 1723,
+    "coordinates": [
+      44.490472,
+      2.571344
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Landscape around Muret-le-Château",
+      "fr": "Paysage autour de Muret-le-Château"
+    }
+  },
+  {
+    "id": 1724,
+    "coordinates": [
+      44.491949,
+      2.577397
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The castle of Muret-le-Château and its environment",
+      "fr": "Le château de Muret-le-Château et son environnement"
+    }
+  },
+  {
+    "id": 1725,
+    "coordinates": [
+      44.494517,
+      2.575373
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The Douzes stream at Muret-le-Château",
+      "fr": "Le ruisseau des Douzes à Muret-le-Château"
+    }
+  },
+  {
+    "id": 1726,
+    "coordinates": [
+      44.494469,
+      2.575859
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Fishermen of the Douzes stream at Muret-le-Château",
+      "fr": "Des pêcheurs du ruisseau des Douzes à Muret-le-Château"
+    }
+  },
+  {
+    "id": 1727,
+    "coordinates": [
+      44.487267,
+      2.626235
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Greenery around Rodelle",
+      "fr": "Verdure autour de Rodelle"
+    }
+  },
+  {
+    "id": 1728,
+    "coordinates": [
+      44.476508,
+      2.622611
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Scenery in the area of Rodelle",
+      "fr": "Décor dans la région de Rodelle"
+    }
+  },
+  {
+    "id": 1729,
+    "coordinates": [
+      44.450425,
+      2.652547
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Landscape seen near Concourès with the village of Barriac far away (center)",
+      "fr": "Paysage vu près de Concourès avec le village de Barriac au loin (centre)"
+    }
   }
 ]
