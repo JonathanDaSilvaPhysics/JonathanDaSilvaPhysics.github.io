@@ -11,10 +11,10 @@ const formattedDate = new Intl.DateTimeFormat(lang, {
 const i18nData = window.i18n;
 const translatedTerms = i18nData?.[lang] || i18nData.en;
 
-// Display contact section :
-const footer = document.getElementById("footer-content");
-if (footer) {
-    footer.innerHTML = `
+// Display contact section:
+const contactEl = document.getElementById("footer-contact");
+if (contactEl) {
+    contactEl.innerHTML = `
     <h2>Contact</h2>
     <p>Jonathan Da Silva <br>31 770 Colomiers, France <br>
        ${translatedTerms.email} <a href="mailto:jonathan.da.silva.physics@gmail.com">jonathan.da.silva.physics@gmail.com</a>
@@ -23,30 +23,40 @@ if (footer) {
 `;
 }
 
-// Display randomly a picture :
+// Display picture section:
+const pictureEl = document.getElementById("footer-picture");
+if (pictureEl) {
+pictureEl.innerHTML = `
+    <div class="picture__block">
+      <h2>
+        <a href="map.html?lang=${lang}" title="${translatedTerms.mapTitle}" target="_blank">
+          ${translatedTerms.galleryTitle}
+        </a>
+      </h2>
+      <div id="random-picture"></div>
+    </div>
+`;
+}
+
 fetch("pictures.json") // python3 -m http.server 8000
     .then(res => res.json())
     .then(pictures => {
-        const contactContainer = document.getElementById("footer-content");
-        const pictureContainer = document.getElementById("random-picture");
+        const container = document.getElementById("random-picture");
 
         // first display
-        renderRandomPicture(pictures, lang, pictureContainer);
+        renderRandomPicture(pictures, lang, container);
 
         // refresh every 30sec
         setInterval(() => {
-            refreshPicture(pictures, lang, contactContainer, pictureContainer);
+            refreshPicture(pictures, lang, container);
         }, 30000);
     });
 
-function refreshPicture(pictures, lang, contactContainer, pictureContainer) {
-    contactContainer.style.opacity = 0;
-    pictureContainer.style.opacity = 0;
-
+function refreshPicture(pictures, lang, container) {
+    container.style.opacity = 0;
     setTimeout(() => {
-        renderRandomPicture(pictures, lang, pictureContainer);
-        contactContainer.style.opacity = 1;
-        pictureContainer.style.opacity = 1;
+        renderRandomPicture(pictures, lang, container);
+        container.style.opacity = 1;
     }, 150);
 }
 
@@ -56,12 +66,6 @@ function renderRandomPicture(pictures, lang, container) {
     const pic = pictures[i];
 
     container.innerHTML = `
-      <div class="${pic.isLarge ? "picture__block--large" : "picture__block"}">
-      <h2>
-        <a href="map.html?lang=${lang}" title="${translatedTerms.mapTitle}" target="_blank">
-          ${translatedTerms.galleryTitle}
-        </a>
-      </h2>
       <div class="${pic.isLarge ? "picture--large" : "picture"}"
            style="background:url(images/RandPic/picture_${pic.id}.webp) center / cover no-repeat;">
         <div class="caption">
@@ -70,6 +74,5 @@ function renderRandomPicture(pictures, lang, container) {
           </a>
         </div>
       </div>
-    </div>
     `;
 }
