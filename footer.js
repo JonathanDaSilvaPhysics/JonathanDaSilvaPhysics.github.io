@@ -1,5 +1,7 @@
 const lastUpdate = new Date("2026-04-29");
-const lang = document.documentElement.lang || "en";
+const lang = ["fr", "en"].includes(document.documentElement.lang)
+    ? document.documentElement.lang
+    : "en";
 const formattedDate = new Intl.DateTimeFormat(lang, {
     year: "numeric",
     month: "long",
@@ -11,8 +13,8 @@ const translatedTerms = i18nData?.[lang] || i18nData.en;
 
 // Display contact section :
 const footer = document.getElementById("footer-content");
-
-footer.innerHTML = `
+if (footer) {
+    footer.innerHTML = `
     <h2>Contact</h2>
     <p>Jonathan Da Silva <br />31 770 Colomiers, France <br />
        ${translatedTerms.email} <a href="mailto:jonathan.da.silva.physics@gmail.com">jonathan.da.silva.physics@gmail.com</a>
@@ -27,6 +29,7 @@ footer.innerHTML = `
         </a>
     </p>
 `;
+}
 
 // Display randomly a picture :
 fetch("pictures.json") // python3 -m http.server 8000
