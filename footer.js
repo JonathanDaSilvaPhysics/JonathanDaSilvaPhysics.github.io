@@ -27,18 +27,36 @@ if (footer) {
 fetch("pictures.json") // python3 -m http.server 8000
     .then(res => res.json())
     .then(pictures => {
-        getRandomPicture(pictures, lang);
+        const contactContainer = document.getElementById("footer-content");
+        const pictureContainer = document.getElementById("random-picture");
+
+        // first display
+        renderRandomPicture(pictures, lang, pictureContainer);
+
+        // refresh every 30sec
+        setInterval(() => {
+            refreshPicture(pictures, lang, contactContainer, pictureContainer);
+        }, 30000);
     });
 
-function getRandomPicture(pictures, lang) {
-    if (!pictures?.length) return;
+function refreshPicture(pictures, lang, contactContainer, pictureContainer) {
+    contactContainer.style.opacity = 0;
+    pictureContainer.style.opacity = 0;
+
+    setTimeout(() => {
+        renderRandomPicture(pictures, lang, pictureContainer);
+        contactContainer.style.opacity = 1;
+        pictureContainer.style.opacity = 1;
+    }, 150);
+}
+
+function renderRandomPicture(pictures, lang, container) {
+    if (!container || !pictures?.length) return;
     const i = Math.floor(Math.random() * pictures.length);
     const pic = pictures[i];
 
-    const container = document.getElementById("random-picture");
-
-    container.insertAdjacentHTML("beforeend", `
-    <div class="${pic.isLarge ? "picture__block--large" : "picture__block"}">
+    container.innerHTML = `
+      <div class="${pic.isLarge ? "picture__block--large" : "picture__block"}">
       <h2>
         <a href="map.html?lang=${lang}" title="${translatedTerms.mapTitle}" target="_blank">
           ${translatedTerms.galleryTitle}
@@ -53,5 +71,5 @@ function getRandomPicture(pictures, lang) {
         </div>
       </div>
     </div>
-  `);
+    `;
 }

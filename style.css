@@ -67,6 +67,12 @@ body
     justify-content: space-evenly;
 }
 
+#footer-content,
+#random-picture {
+    transition: opacity 0.3s ease;
+    will-change: opacity;
+}
+
 h2, nav a
 {
     font-family: journal, serif;
