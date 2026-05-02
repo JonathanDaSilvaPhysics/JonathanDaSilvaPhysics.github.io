@@ -16,7 +16,7 @@ const footer = document.getElementById("footer-content");
 if (footer) {
     footer.innerHTML = `
     <h2>Contact</h2>
-    <p>Jonathan Da Silva <br />31 770 Colomiers, France <br />
+    <p>Jonathan Da Silva <br>31 770 Colomiers, France <br>
        ${translatedTerms.email} <a href="mailto:jonathan.da.silva.physics@gmail.com">jonathan.da.silva.physics@gmail.com</a>
     </p>
     <p><span class="end">${translatedTerms.lastUpdate} ${formattedDate}</span></p>
