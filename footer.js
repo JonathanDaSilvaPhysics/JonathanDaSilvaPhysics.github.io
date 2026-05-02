@@ -53,11 +53,14 @@ fetch("pictures.json") // python3 -m http.server 8000
     });
 
 function refreshPicture(pictures, lang, container) {
-    container.style.opacity = 0;
-    setTimeout(() => {
+    container.classList.add("fade");
+
+    container.addEventListener("transitionend", function handler() {
         renderRandomPicture(pictures, lang, container);
-        container.style.opacity = 1;
-    }, 150);
+        container.classList.remove("fade");
+
+        container.removeEventListener("transitionend", handler);
+    });
 }
 
 function renderRandomPicture(pictures, lang, container) {
