@@ -3,8 +3,8 @@
 @font-face {
     font-family: 'journal';
     src: url('polices/Journal.woff2') format('woff2'),
-    url('polices/Journal.woff') format('woff');
-    font-weight: normal;
+         url('polices/Journal.woff') format('woff');
+    font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
