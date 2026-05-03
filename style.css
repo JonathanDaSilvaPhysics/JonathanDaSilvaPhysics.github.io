@@ -399,7 +399,7 @@ footer a:hover {
 
     .caption {
         position: static;
-        height: auto;
+        height: 50px;
         background-color: var(--picture-caption);
         border-radius: 5px;
         color: var(--main-text);
