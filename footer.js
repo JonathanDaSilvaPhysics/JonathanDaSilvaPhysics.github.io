@@ -42,41 +42,87 @@ fetch("pictures.json") // python3 -m http.server 8000
     .then(res => res.json())
     .then(pictures => {
         const container = document.getElementById("random-picture");
-
-        // first display
-        renderRandomPicture(pictures, lang, container);
-
-        // refresh every 30sec
-        setInterval(() => {
-            refreshPicture(pictures, lang, container);
-        }, 30000);
+        if (!container) return;
+        startPictureRotation(pictures, lang, container);
     });
 
-function refreshPicture(pictures, lang, container) {
-    container.classList.add("fade");
+function startPictureRotation(pictures, lang, container) {
+    let current = getRandomPicture(pictures);
+    renderPicture(current, lang, container);
 
-    container.addEventListener("transitionend", function handler() {
-        renderRandomPicture(pictures, lang, container);
-        container.classList.remove("fade");
+    setInterval(async () => {
+        const next = getRandomPicture(pictures);
 
-        container.removeEventListener("transitionend", handler);
+        container.classList.add("fade");
+
+        await waitForTransition(container);
+
+        const img = await preloadImage(next.id);
+        renderPicture(next, lang, container, img);
+
+        requestAnimationFrame(() => {
+            container.classList.remove("fade");
+        });
+
+        // refresh every 30sec
+    }, 30000);
+}
+
+function renderPicture(pic, lang, container, img = null) {
+
+    const text = pic.description[lang] || pic.description.en;
+    const className = pic.isLarge ? "picture--large" : "picture";
+
+    const imageHTML = img
+        ? ""
+        : `<img src="${getImagePath(pic.id)}" alt="${text}">`;
+
+    const imageElement = img || null;
+
+    container.innerHTML = `
+        <div class="${className}">
+            ${imageHTML}
+            <div class="caption">
+                <a href="https://maps.google.com/maps?f=q&hl=${lang}&q=${pic.coordinates[0]},${pic.coordinates[1]}"
+                   target="_blank" rel="noopener noreferrer">
+                    ${text}
+                </a>
+            </div>
+        </div>
+    `;
+
+    const wrapper = container.firstElementChild;
+
+    if (imageElement) {
+        imageElement.alt = text;
+        wrapper.prepend(imageElement);
+    }
+}
+
+function preloadImage(picId) {
+    return new Promise((resolve) => {
+        const img = new Image();
+        img.src = getImagePath(picId);
+        img.onload = () => resolve(img);
     });
 }
 
-function renderRandomPicture(pictures, lang, container) {
-    if (!container || !pictures?.length) return;
+function getRandomPicture(pictures) {
+    if (!pictures?.length) return null;
     const i = Math.floor(Math.random() * pictures.length);
-    const pic = pictures[i];
-    const text = pic.description[lang] || pic.description.en;
+    return pictures[i];
+}
 
-    container.innerHTML = `
-      <div class="${pic.isLarge ? "picture--large" : "picture"}">
-        <img src="images/RandPic/picture_${pic.id}.webp" alt="${text}">
-        <div class="caption">
-          <a href="https://maps.google.com/maps?f=q&hl=${lang}&q=${pic.coordinates[0]},${pic.coordinates[1]}" target="_blank" rel="noopener noreferrer">
-            ${text}
-          </a>
-        </div>
-      </div>
-    `;
+function getImagePath(picId) {
+    return `images/RandPic/picture_${picId}.webp`;
+}
+
+function waitForTransition(el) {
+    return new Promise(resolve => {
+        const onEnd = () => {
+            el.removeEventListener("transitionend", onEnd);
+            resolve();
+        };
+        el.addEventListener("transitionend", onEnd);
+    });
 }
