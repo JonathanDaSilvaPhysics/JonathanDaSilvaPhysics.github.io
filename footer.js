@@ -67,13 +67,14 @@ function renderRandomPicture(pictures, lang, container) {
     if (!container || !pictures?.length) return;
     const i = Math.floor(Math.random() * pictures.length);
     const pic = pictures[i];
+    const text = pic.description[lang] || pic.description.en;
 
     container.innerHTML = `
-      <div class="${pic.isLarge ? "picture--large" : "picture"}"
-           style="background:url(images/RandPic/picture_${pic.id}.webp) center / cover no-repeat;">
+      <div class="${pic.isLarge ? "picture--large" : "picture"}">
+        <img src="images/RandPic/picture_${pic.id}.webp" alt="${text}">
         <div class="caption">
           <a href="https://maps.google.com/maps?f=q&hl=${lang}&q=${pic.coordinates[0]},${pic.coordinates[1]}" target="_blank" rel="noopener noreferrer">
-            ${pic.description[lang] || pic.description.en}
+            ${text}
           </a>
         </div>
       </div>

@@ -56,7 +56,7 @@ body {
 
 .block__footer {
     height: 380px;
-    padding-bottom: 0px;
+    padding-bottom: 0;
     display: flex;
     justify-content: space-evenly;
 }
@@ -246,22 +246,26 @@ footer a:hover {
 /* plus move to webp: mogrify -format webp -quality 80 picture_i.jpg*/
 
 .picture, .picture--large {
-    margin-top: 10px;
     height: 300px;
-    border-radius: 5px;
     position: relative;
+    width: 100%;
+}
+
+.picture img, .picture--large img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: cover;
+    border-radius: 5px;
     box-shadow: 0px 4px 4px var(--shadow-image);
-    margin-bottom: 1px;
-    margin-left: 1px;
-    margin-right: 1px;
 }
 
 .picture {
-    width: 400px;
+    max-width: 400px;
 }
 
 .picture--large {
-    width: 650px;
+    max-width: 650px;
 }
 
 .caption {
@@ -272,7 +276,6 @@ footer a:hover {
     height: 20px;
     color: var(--main-blocks);
     background-color: var(--picture-caption);
-    font-size: 0.8em;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -295,7 +298,7 @@ footer a:hover {
 
     .block__footer {
         display: block;
-        padding: 5px;
+        padding: 10px;
         height: auto;
     }
 
@@ -308,12 +311,13 @@ footer a:hover {
     }
 
     .picture, .picture--large {
-        box-shadow: unset;
+        box-shadow: none;
         display: inline-flex;
     }
 
     .caption {
         top: 0;
+        border-radius: 5px 5px 0px 0px;
     }
 }
 
@@ -328,7 +332,13 @@ footer a:hover {
     }
 
     .picture, .picture--large {
-        max-width: 100%;
+        height: auto;
+    }
+
+    .picture img, .picture--large img {
+        height: auto;
+        object-fit: contain;
+        background-color: #000;
     }
 
     .caption {
