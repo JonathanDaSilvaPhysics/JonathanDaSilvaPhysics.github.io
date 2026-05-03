@@ -10,6 +10,7 @@ const formattedDate = new Intl.DateTimeFormat(lang, {
 
 const i18nData = window.i18n;
 const translatedTerms = i18nData?.[lang] || i18nData.en;
+const email = "jonathan.da.silva.physics@gmail.com";
 
 // Display contact section:
 const contactEl = document.getElementById("footer-contact");
@@ -17,7 +18,7 @@ if (contactEl) {
     contactEl.innerHTML = `
     <h2>Contact</h2>
     <p>Jonathan Da Silva <br>31 770 Colomiers, France <br>
-       ${translatedTerms.email} <a href="mailto:jonathan.da.silva.physics@gmail.com">jonathan.da.silva.physics@gmail.com</a>
+       ${translatedTerms.email} <a href="mailto:${email}">${email}</a>
     </p>
     <p><span class="end">${translatedTerms.lastUpdate} ${formattedDate}</span></p>
 `;
