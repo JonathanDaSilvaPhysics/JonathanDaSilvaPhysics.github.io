@@ -384,7 +384,25 @@ footer a:hover {
 
 @media screen and (max-width: 480px) {
 
+    .picture,
+    .picture--large {
+        height: auto;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .picture img,
+    .picture--large img {
+        height: auto;
+        object-fit: contain;
+    }
+
     .caption {
-        height: 50px;
+        position: static;
+        height: auto;
+        background-color: var(--picture-caption);
+        border-radius: 5px;
+        color: var(--main-text);
+        margin-top: 5px;
     }
 }
