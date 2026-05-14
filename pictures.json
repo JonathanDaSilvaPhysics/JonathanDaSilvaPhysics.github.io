@@ -20746,5 +20746,77 @@
       "en": "Landscape seen near Concourès with the village of Barriac far away (center)",
       "fr": "Paysage vu près de Concourès avec le village de Barriac au loin (centre)"
     }
+  },
+  {
+    "id": 1730,
+    "coordinates": [
+      44.221006,
+      1.975440
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The Aveyron and Najac castle",
+      "fr": "L'Aveyron et le château de Najac"
+    }
+  },
+  {
+    "id": 1731,
+    "coordinates": [
+      44.231746,
+      1.951455
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Scenery of the area of Najac seen near the hamlet of Mazerolles",
+      "fr": "Décor de la région de Najac vu près du hameau de Mazerolles"
+    }
+  },
+  {
+    "id": 1732,
+    "coordinates": [
+      44.216769,
+      1.967026
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "View of Najac with Saint-Jean church and Najac castle in background",
+      "fr": "Vue de Najac avec l'église Saint-Jean et le château de Najac en arrière-plan"
+    }
+  },
+  {
+    "id": 1733,
+    "coordinates": [
+      44.217621,
+      1.972199
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The Porte de la Pique in Najac",
+      "fr": "La Porte de la Pique à Najac"
+    }
+  },
+  {
+    "id": 1734,
+    "coordinates": [
+      44.219255,
+      1.976818
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Najac castle and its surroundings in Najac",
+      "fr": "Le château de Najac et ses environs à Najac"
+    }
+  },
+  {
+    "id": 1735,
+    "coordinates": [
+      44.193197,
+      2.035750
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Greenery seen from Saint-André-de-Najac with La Fouillade far away (center)",
+      "fr": "Verdure vue près de Saint-André-de-Najac avec La Fouillade au loin (centre)"
+    }
   }
 ]
