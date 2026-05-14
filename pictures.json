@@ -20818,5 +20818,77 @@
       "en": "Greenery seen from Saint-André-de-Najac with La Fouillade far away (center)",
       "fr": "Verdure vue près de Saint-André-de-Najac avec La Fouillade au loin (centre)"
     }
+  },
+  {
+    "id": 1736,
+    "coordinates": [
+      44.249748,
+      2.027924
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Landscape between La Fouillade and Sanvensa",
+      "fr": "Paysage entre La Fouillade et Sanvensa"
+    }
+  },
+  {
+    "id": 1737,
+    "coordinates": [
+      44.284622,
+      2.051285
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Sanvensa, its church, its castle and their environment",
+      "fr": "Sanvensa, son église, son château et leur environnement"
+    }
+  },
+  {
+    "id": 1738,
+    "coordinates": [
+      44.293754,
+      2.045592
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Oak trees around Saint-Roch chapel of Sanvensa",
+      "fr": "Des chênes autour de la chapelle Saint-Roch de Sanvensa"
+    }
+  },
+  {
+    "id": 1739,
+    "coordinates": [
+      44.313277,
+      2.077064
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Fields near Morlhon-le-Haut",
+      "fr": "Des champs près de Morlhon-le-Haut"
+    }
+  },
+  {
+    "id": 1740,
+    "coordinates": [
+      44.349328,
+      2.037177
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The Aveyron in Villefranche-de-Rouergue with Saint-Sépulcre chapel in background (top-right)",
+      "fr": "L'Aveyron à Villefranche-de-Rouergue avec la chapelle Saint-Sépulcre en arrière-plan (en haut à droite)"
+    }
+  },
+  {
+    "id": 1741,
+    "coordinates": [
+      44.352346,
+      2.037211
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Notre-Dame church of Villefranche-de-Rouergue and its surroundings",
+      "fr": "La collégiale Notre-Dame de Villefranche-de-Rouergue et ses environs"
+    }
   }
 ]
