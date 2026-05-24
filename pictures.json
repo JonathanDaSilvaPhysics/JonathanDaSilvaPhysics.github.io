@@ -20890,5 +20890,65 @@
       "en": "Notre-Dame church of Villefranche-de-Rouergue and its surroundings",
       "fr": "La collégiale Notre-Dame de Villefranche-de-Rouergue et ses environs"
     }
+  },
+  {
+    "id": 1742,
+    "coordinates": [
+      42.879207,
+      1.819880
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The Montségur mountain seen from the road to the col de Montségur",
+      "fr": "Le pog de Montségur vu à partir de la route du col de Montségur"
+    }
+  },
+  {
+    "id": 1743,
+    "coordinates": [
+      42.874020,
+      1.824453
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The Montségur mountain and castle seen from the col de Montségur",
+      "fr": "Le pog et le château de Montségur vu du col de Montségur"
+    }
+  },
+  {
+    "id": 1744,
+    "coordinates": [
+      42.873424,
+      1.829100
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Greenery around the Frau mountain seen from the col de Montségur",
+      "fr": "Verdure autour de la montagne de la Frau vu depuis le col de Montségur"
+    }
+  },
+  {
+    "id": 1745,
+    "coordinates": [
+      42.865266,
+      1.832075
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The Montségur mountain and castle seen near the village of Montségur",
+      "fr": "Le pog et le château de Montségur vu près du village de Montségur"
+    }
+  },
+  {
+    "id": 1746,
+    "coordinates": [
+      42.902235,
+      1.935352
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The Hers-Vif in Bélesta",
+      "fr": "L'Hers-Vif à Bélesta"
+    }
   }
 ]
