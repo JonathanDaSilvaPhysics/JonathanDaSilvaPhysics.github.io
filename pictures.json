@@ -21082,5 +21082,53 @@
       "en": "Hairpin bends of the Col du Tourmalet and peaks of the Pic-du-Midi-de-Bigorre massif",
       "fr": "Lacets du col du Tourmalet et des sommets du massif du Pic-du-Midi-de-Bigorre"
     }
+  },
+  {
+    "id": 1758,
+    "coordinates": [
+      42.912918,
+      0.136839
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Pic de Caoubère and other peaks of the Néouvielle massif seen from the road to the Col du Tourmalet",
+      "fr": "Pic de Caoubère et autres reliefs du massif du Néouvielle vus depuis la route du col du Tourmalet"
+    }
+  },
+  {
+    "id": 1759,
+    "coordinates": [
+      42.908643,
+      0.137790
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Scenery of the Bastan valley above Super-Barèges with the surrounding massifs",
+      "fr": "Décor de la vallée du Bastan au-dessus de Super-Barèges avec les massifs environnants"
+    }
+  },
+  {
+    "id": 1760,
+    "coordinates": [
+      42.907148,
+      0.138546
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "View over Super-Barèges, Bastan valley and peaks of the Pic-du-Midi-de-Bigorre massif (right)",
+      "fr": "Vue sur Super-Barèges, la vallée du Bastan et des sommets du massif du Pic-du-Midi-de-Bigorre (droite)"
+    }
+  },
+  {
+    "id": 1761,
+    "coordinates": [
+      42.905228,
+      0.137543
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Pic de Campana and the pastoral area near Super-Barèges",
+      "fr": "Pic de Campana et la zone pastorale près de Super-Barèges"
+    }
   }
 ]
