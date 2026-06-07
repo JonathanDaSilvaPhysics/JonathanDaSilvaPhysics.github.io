@@ -6692,7 +6692,7 @@
     "isLarge": false,
     "description": {
       "en": "Argelès-Gazost and surrounding reliefs seen from Vier-Bordes",
-      "fr": "Argelès-Gazost et les reliefs environnant vus de Vier-Bordes"
+      "fr": "Argelès-Gazost et les reliefs environnants vus de Vier-Bordes"
     }
   },
   {
@@ -6944,7 +6944,7 @@
     "isLarge": false,
     "description": {
       "en": "View over Lourde and surrounding reliefs",
-      "fr": "Vue sur Lourde et les reliefs environnant"
+      "fr": "Vue sur Lourde et les reliefs environnants"
     }
   },
   {
@@ -20949,6 +20949,138 @@
     "description": {
       "en": "The Hers-Vif in Bélesta",
       "fr": "L'Hers-Vif à Bélesta"
+    }
+  },
+  {
+    "id": 1747,
+    "coordinates": [
+      43.166660,
+      0.025795
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Corn field near Hibarette with Bénac (right), Pic du Midi de Bigorre and Pic du Montaigu (left)",
+      "fr": "Champ de maïs près de Hibarette avec Bénac (droite) et les pics du Midi de Bigorre et du Montaigu (gauche)"
+    }
+  },
+  {
+    "id": 1748,
+    "coordinates": [
+      42.908435,
+      0.146371
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Peaks of the Néouvielle massif seen from the Col du Tourmalet",
+      "fr": "Sommets du massif du Néouvielle vus depuis le col du Tourmalet"
+    }
+  },
+  {
+    "id": 1749,
+    "coordinates": [
+      42.908435,
+      0.146371
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Landscape seen from the Col du Tourmalet with La Mongie far away (center)",
+      "fr": "Paysage vu depuis le col du Tourmalet avec La Mongie au loin (centre)"
+    }
+  },
+  {
+    "id": 1750,
+    "coordinates": [
+      42.908435,
+      0.146371
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "View of the eastern slope of the Tourmalet area from the Col du Tourmalet",
+      "fr": "Vue sur le versant est du domaine du Tourmalet depuis le col du Tourmalet"
+    }
+  },
+  {
+    "id": 1751,
+    "coordinates": [
+      42.908194,
+      0.144972
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Scenery around the Col du Tourmalet with the surrounding mountains and the Bastan valley",
+      "fr": "Décor autour du col du Tourmalet avec les massifs environnants et la vallée du Bastan"
+    }
+  },
+  {
+    "id": 1752,
+    "coordinates": [
+      42.907910,
+      0.145157
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Pic d’Espade (left) in the Néouvielle massif seen from the Col du Tourmalet",
+      "fr": "Pic d’Espade (gauche) dans le massif du Néouvielle vu du col du Tourmalet"
+    }
+  },
+  {
+    "id": 1753,
+    "coordinates": [
+      42.905293,
+      0.146438
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Landscape around the road of the Col du Tourmalet and Bastan valley near the summit of the pass",
+      "fr": "Paysage autour de la route du col du Tourmalet et de la vallée du Bastan près du sommet du col"
+    }
+  },
+  {
+    "id": 1754,
+    "coordinates": [
+      42.906192,
+      0.144791
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The hairpin bends of the Col du Tourmalet, the Bastan valley and the surrounding mountains",
+      "fr": "Les lacets du col du Tourmalet, la vallée du Bastan et les massifs environnants"
+    }
+  },
+  {
+    "id": 1755,
+    "coordinates": [
+      42.907606,
+      0.141009
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Super-Barèges (bottom) and Bastan valley with the Ardiden massif in background",
+      "fr": "Super-Barèges (en bas) et la vallée du Bastan avec le massif d'Ardiden en arrière-plan"
+    }
+  },
+  {
+    "id": 1756,
+    "coordinates": [
+      42.908120,
+      0.140318
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Pic d’Espade seen near the top of the Col du Tourmalet",
+      "fr": "Pic d’Espade vu près du sommet du col du Tourmalet"
+    }
+  },
+  {
+    "id": 1757,
+    "coordinates": [
+      42.909553,
+      0.139324
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Hairpin bends of the Col du Tourmalet and peaks of the Pic-du-Midi-de-Bigorre massif",
+      "fr": "Lacets du col du Tourmalet et des sommets du massif du Pic-du-Midi-de-Bigorre"
     }
   }
 ]
