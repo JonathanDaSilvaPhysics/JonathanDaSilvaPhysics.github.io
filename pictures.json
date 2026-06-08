@@ -21130,5 +21130,89 @@
       "en": "Pic de Campana and the pastoral area near Super-Barèges",
       "fr": "Pic de Campana et la zone pastorale près de Super-Barèges"
     }
+  },
+  {
+    "id": 1762,
+    "coordinates": [
+      42.902804,
+      0.134723
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Landscape towards the top of the Col du Tourmalet (left)",
+      "fr": "Paysage en direction du sommet du col du Tourmalet (gauche)"
+    }
+  },
+  {
+    "id": 1763,
+    "coordinates": [
+      42.901935,
+      0.132682
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Pic du Midi de Bigorre, its observatory (top-center) and its environment seen near Super-Barèges",
+      "fr": "Pic du Midi de Bigorre, son observatoire (en haut au centre) et ses environs vus près de Super-Barèges"
+    }
+  },
+  {
+    "id": 1764,
+    "coordinates": [
+      42.901944,
+      0.132553
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Scenery around the road to the Col du Tourmalet towards its top (left)",
+      "fr": "Décor autour de la route du col du Tourmalet en direction de son sommet (gauche)"
+    }
+  },
+  {
+    "id": 1765,
+    "coordinates": [
+      42.903538,
+      0.130058
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Pic d’Espade (right) and top of the Col du Tourmalet (left) seen near Super-Barèges",
+      "fr": "Pic d’Espade (droite) et sommet du col du Tourmalet (gauche) vu près de Super-Barèges"
+    }
+  },
+  {
+    "id": 1766,
+    "coordinates": [
+      42.903862,
+      0.126613
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Super-Barèges and its surroundings in the Tourmalet area",
+      "fr": "Super-Barèges et ses environs dans le domaine du Tourmalet"
+    }
+  },
+  {
+    "id": 1767,
+    "coordinates": [
+      42.904002,
+      0.126379
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Bastan valley and peaks of the Pic-du-Midi-de-Bigorre massif seen near Super-Barèges",
+      "fr": "La vallée du Bastan et des sommets du massif du Pic-du-Midi-de-Bigorre vus près de Super-Barèges"
+    }
+  },
+  {
+    "id": 1768,
+    "coordinates": [
+      42.904146,
+      0.126563
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "From left to right: La Bonida, Pic du Midi de Bigorre and its observatory, and Pic du Tourmalet",
+      "fr": "De gauche à droite : La Bonida, pic du Midi de Bigorre et son observatoire et pic du Tourmalet"
+    }
   }
 ]
