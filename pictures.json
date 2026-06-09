@@ -21214,5 +21214,77 @@
       "en": "From left to right: La Bonida, Pic du Midi de Bigorre and its observatory, and Pic du Tourmalet",
       "fr": "De gauche à droite : La Bonida, pic du Midi de Bigorre et son observatoire et pic du Tourmalet"
     }
+  },
+  {
+    "id": 1769,
+    "coordinates": [
+      42.904143,
+      0.126549
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Super-Barèges (bottom-left), top of the Col du Tourmalet and Pic d’Espade (right)",
+      "fr": "Super-Barèges (en bas à gauche), sommet du col du Tourmalet et pic d’Espade (droite)"
+    }
+  },
+  {
+    "id": 1770,
+    "coordinates": [
+      42.905609,
+      0.131352
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Pic de Campana and Pic de Caoubère seen from the pastoral area around Super-Barèges",
+      "fr": "Pics de Campana et de Caoubère vus de la zone pastorale autour de Super-Barèges"
+    }
+  },
+  {
+    "id": 1771,
+    "coordinates": [
+      42.905621,
+      0.131368
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Pic d’Espade and the pastoral area in the Tourmalet area",
+      "fr": "Pic d’Espade et la zone pastorale dans le domaine du Tourmalet"
+    }
+  },
+  {
+    "id": 1772,
+    "coordinates": [
+      42.907065,
+      0.125589
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "View of the Col du Tourmalet and the Pic d’Espade from near Super-Barèges",
+      "fr": "Vue sur le col du Tourmalet et le Pic d’Espade près de Super-Barèges"
+    }
+  },
+  {
+    "id": 1773,
+    "coordinates": [
+      42.907031,
+      0.122638
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Landscape of Bastan valley around the road to the Col du Tourmalet with the Pic d'Espade (right)",
+      "fr": "Paysage de la vallée du Bastan autour de la route du col du Tourmalet avec le Pic d’Espade (droite)"
+    }
+  },
+  {
+    "id": 1774,
+    "coordinates": [
+      42.907505,
+      0.117101
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Scenery of the Bastan valley towards Barèges with the Ardiden massif in background",
+      "fr": "Décor de la vallée du Bastan en direction de Barèges avec le massif d'Ardiden en arrière-plan"
+    }
   }
 ]
