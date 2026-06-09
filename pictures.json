@@ -21286,5 +21286,77 @@
       "en": "Scenery of the Bastan valley towards Barèges with the Ardiden massif in background",
       "fr": "Décor de la vallée du Bastan en direction de Barèges avec le massif d'Ardiden en arrière-plan"
     }
+  },
+  {
+    "id": 1775,
+    "coordinates": [
+      42.907556,
+      0.116917
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "View of the Col du Tourmalet, Pic d’Espade and Pic de Campana",
+      "fr": "Vue sur le col du Tourmalet et les Pics d’Espade et de Campana"
+    }
+  },
+  {
+    "id": 1776,
+    "coordinates": [
+      42.906322,
+      0.102449
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Pic d'Izès (left) and Soum de la Piquette (right) seen above Tournaboup in the Bastan valley",
+      "fr": "Pic d'Izès (gauche) et Soum de la Piquette (droite) vus au-dessus de Tournaboup dans la vallée du Bastan"
+    }
+  },
+  {
+    "id": 1777,
+    "coordinates": [
+      42.903056,
+      0.092966
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Landscape around the Ourdégon stream in the Bastan valley",
+      "fr": "Paysage autour du ruisseau d'Ourdégon dans la vallée du Bastan"
+    }
+  },
+  {
+    "id": 1778,
+    "coordinates": [
+      42.886738,
+      0.038700
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Greenery around the Pic d'Ayré seen from Sers",
+      "fr": "Verdure autour du pic d'Ayré vue de Sers"
+    }
+  },
+  {
+    "id": 1779,
+    "coordinates": [
+      42.887253,
+      0.040543
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Scenery of Sers with the Ardiden massif in background",
+      "fr": "Décor de Sers avec le massif d'Ardiden en arrière-plan"
+    }
+  },
+  {
+    "id": 1780,
+    "coordinates": [
+      42.886682,
+      0.041101
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Betpouey's surroundings seen near Sers with the Ardiden massif in background",
+      "fr": "Les environs de Betpouey vue près de Sers avec le massif d'Ardiden en arrière-plan"
+    }
   }
 ]
