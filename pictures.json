@@ -21358,5 +21358,89 @@
       "en": "Betpouey's surroundings seen near Sers with the Ardiden massif in background",
       "fr": "Les environs de Betpouey vue près de Sers avec le massif d'Ardiden en arrière-plan"
     }
+  },
+  {
+    "id": 1781,
+    "coordinates": [
+      43.055482,
+      0.055956
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Germs-sur-l'Oussouet, its environment and the Pic du Montaigu",
+      "fr": "Germs-sur-l'Oussouet, son environnement et le pic du Montaigu"
+    }
+  },
+  {
+    "id": 1782,
+    "coordinates": [
+      43.055948,
+      0.057235
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Landscape around Germs-sur-l'Oussouet in front of the Pic du Montaigu",
+      "fr": "Paysage autour de Germs-sur-l'Oussouet devant le pic du Montaigu"
+    }
+  },
+  {
+    "id": 1783,
+    "coordinates": [
+      43.060503,
+      0.058142
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The Pic du Montaigu and its surroundings seen near Germs-sur-l'Oussouet",
+      "fr": "Le pic du Montaigu et ses environs vus près de Germs-sur-l'Oussouet"
+    }
+  },
+  {
+    "id": 1784,
+    "coordinates": [
+      43.061516,
+      0.058298
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "View of Sère-Lanso (left), Lézignan (center in background) and Arrodets-ez-Angles (right)",
+      "fr": "Vue sur Sère-Lanso (gauche), Lézignan (centre en arrière-plan) et Arrodets-ez-Angles (droite)"
+    }
+  },
+  {
+    "id": 1785,
+    "coordinates": [
+      43.063957,
+      0.058844
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Scenery around the road to Arrodets-ez-Angles with Tarbes and its airport in the distance",
+      "fr": "Décor autour de la route vers Arrodets-ez-Angles avec Tarbes et son aéroport au loin"
+    }
+  },
+  {
+    "id": 1786,
+    "coordinates": [
+      43.065839,
+      0.058954
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Greenery of the Pyrenean foothills near Arrodets-ez-Angles",
+      "fr": "Verdure du piémont pyrénéen près de Arrodets-ez-Angles"
+    }
+  },
+  {
+    "id": 1787,
+    "coordinates": [
+      43.068554,
+      0.055714
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Greenery around Ossun-ez-Angles with Tarbes and its airport in the distance",
+      "fr": "Verdure autour de Ossun-ez-Angles avec Tarbes et son aéroport au loin"
+    }
   }
 ]
