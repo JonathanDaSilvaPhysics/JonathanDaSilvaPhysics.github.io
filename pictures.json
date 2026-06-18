@@ -21428,7 +21428,7 @@
     "isLarge": true,
     "description": {
       "en": "Greenery of the Pyrenean foothills near Arrodets-ez-Angles",
-      "fr": "Verdure du piémont pyrénéen près de Arrodets-ez-Angles"
+      "fr": "Verdure du piémont pyrénéen près d'Arrodets-ez-Angles"
     }
   },
   {
@@ -21440,7 +21440,127 @@
     "isLarge": true,
     "description": {
       "en": "Greenery around Ossun-ez-Angles with Tarbes and its airport in the distance",
-      "fr": "Verdure autour de Ossun-ez-Angles avec Tarbes et son aéroport au loin"
+      "fr": "Verdure autour d'Ossun-ez-Angles avec Tarbes et son aéroport au loin"
+    }
+  },
+  {
+    "id": 1788,
+    "coordinates": [
+      43.070330,
+      0.051313
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Landscape near Arrodets-ez-Angles with the Gabizos massif in background (center)",
+      "fr": "Paysage près d'Arrodets-ez-Angles avec le massif du Gabizos en arrière-plan (centre)"
+    }
+  },
+  {
+    "id": 1789,
+    "coordinates": [
+      43.077421,
+      0.044728
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Fields and greenery seen on the road to Arrayou-Lahitte",
+      "fr": "Champs et verdure vus sur la route menant à Arrayou-Lahitte"
+    }
+  },
+  {
+    "id": 1790,
+    "coordinates": [
+      43.092126,
+      0.041097
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Sheeps and Saint-Michel church of Lahitte",
+      "fr": "Des moutons et l'église Saint-Michel de Lahitte"
+    }
+  },
+  {
+    "id": 1791,
+    "coordinates": [
+      43.098239,
+      0.038818
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The Pic du Jer massif (center), the area around Lézignan (right) and the Gabizos massif in background (left)",
+      "fr": "Le massif du pic du Jer (centre), les environs de Lézignan (droite) et le massif du Gabizos en arrière-plan (gauche)"
+    }
+  },
+  {
+    "id": 1792,
+    "coordinates": [
+      43.098239,
+      0.038818
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The area of Lézignan seen from the road to Arrayou",
+      "fr": "La région de Lézignan vue de la route menant à Arrayou"
+    }
+  },
+  {
+    "id": 1793,
+    "coordinates": [
+      43.100104,
+      0.040546
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Greenery around Escoubès (center) seen near Arrayou",
+      "fr": "Verdure autour d'Escoubès (centre) vue près d'Arrayou"
+    }
+  },
+  {
+    "id": 1794,
+    "coordinates": [
+      43.076729,
+      0.053415
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Scenery of the Pyrenean foothills seen near Ossun-ez-Angles",
+      "fr": "Décor du piémont pyrénéen près d'Ossun-ez-Angles"
+    }
+  },
+  {
+    "id": 1795,
+    "coordinates": [
+      43.089092,
+      0.070563
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Pic du Midi de Bigorre and Pic du Montaigu seen near Astugue",
+      "fr": "Pics du Midi de Bigorre et du Montaigu vus près d'Astugue"
+    }
+  },
+  {
+    "id": 1796,
+    "coordinates": [
+      43.090192,
+      0.070015
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Landscape near Astugue with the area of Ossun-ez-Angles (left) and the Gabizos massif in background",
+      "fr": "Paysage près d'Astugue avec la région d'Ossun-ez-Angles (gauche) et le massif du Gabizos en arrière-plan"
+    }
+  },
+  {
+    "id": 1797,
+    "coordinates": [
+      43.098131,
+      -0.050982
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Lourdes castle seen near the Sanctuary of Our Lady of Lourdes",
+      "fr": "Le château fort de Lourdes vu près du sanctuaire de Lourdes"
     }
   }
 ]
