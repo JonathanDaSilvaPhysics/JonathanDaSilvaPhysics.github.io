@@ -21682,5 +21682,53 @@
       "en": "The area of Bachos and Binos seen near Burgalays",
       "fr": "Les environs de Bachos et Binos vus près de Burgalays"
     }
+  },
+  {
+    "id": 1808,
+    "coordinates": [
+      42.875001,
+      0.609218
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "View over Lège and up to the Pic Saillant (right) from the road to the heights of Cazaux-Layrisse",
+      "fr": "Vue sur Lège et jusqu'au pic Saillant (droite) à partir de la route menant aux hauteurs de Cazaux-Layrisse"
+    }
+  },
+  {
+    "id": 1809,
+    "coordinates": [
+      42.868015,
+      0.619483
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Saint-Pierre-aux-Liens church of Baren and its surroundings",
+      "fr": "Église Saint-Pierre-aux-Liens de Baren et ses environs"
+    }
+  },
+  {
+    "id": 1810,
+    "coordinates": [
+      42.868574,
+      0.618148
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Pique valley and the hamlets of Luret (bottom) and Montmajou seen from Baren",
+      "fr": "Vallée de la Pique et les hameaux de Luret (en bas) et Montmajou vus de Baren"
+    }
+  },
+  {
+    "id": 1811,
+    "coordinates": [
+      42.860672,
+      0.601899
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Landscape around the hamlet of Luret with the village of Baren in the upper right",
+      "fr": "Paysage autour du hameau de Luret avec le village de Baren en haut à droite"
+    }
   }
 ]
