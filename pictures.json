@@ -21562,5 +21562,125 @@
       "en": "Lourdes castle seen near the Sanctuary of Our Lady of Lourdes",
       "fr": "Le château fort de Lourdes vu près du sanctuaire de Lourdes"
     }
+  },
+  {
+    "id": 1798,
+    "coordinates": [
+      42.903796,
+      0.630115
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The area of Cierp-Gaud and the Pic Saillant seen near Signac",
+      "fr": "La région de Cierp-Gaud et le pic Saillant vus près de Signac"
+    }
+  },
+  {
+    "id": 1799,
+    "coordinates": [
+      42.899617,
+      0.622829
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The Pique valley seen near Bachos with Luchon-Superbagnères and the Luchonnais massif in the distance",
+      "fr": "La vallée de la Pique vue près de Bachos avec au loin Luchon-Superbagnères et le massif du Luchonnais"
+    }
+  },
+  {
+    "id": 1800,
+    "coordinates": [
+      42.899594,
+      0.622751
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Greenery of Burgalays area seen near Bachos",
+      "fr": "Verdure des environs de Burgalays vue près de Bachos"
+    }
+  },
+  {
+    "id": 1801,
+    "coordinates": [
+      42.899143,
+      0.616051
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "View of the area of Burgalays (center) and Bachos (bottom) from Binos",
+      "fr": "Vue sur la région de Burgalays (centre) et Bachos (en bas) à partir de Binos"
+    }
+  },
+  {
+    "id": 1802,
+    "coordinates": [
+      42.899249,
+      0.618211
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Scenery above Bachos with Luchon-Superbagnères and the Luchonnais massif in background",
+      "fr": "Décor au-dessus de Bachos avec Luchon-Superbagnères et le massif du Luchonnais en arrière-plan"
+    }
+  },
+  {
+    "id": 1803,
+    "coordinates": [
+      42.899205,
+      0.620270
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Landscape of the Pique valley in Bachos' surroundings with Guran (center) and the Luchonnais in the distance",
+      "fr": "Paysage de la vallée de la Pique dans les environs de Bachos avec Guran (centre) et le Luchonnais au loin"
+    }
+  },
+  {
+    "id": 1804,
+    "coordinates": [
+      42.899171,
+      0.620200
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Fields, greenery and Burgalays (center) seen near Bachos",
+      "fr": "Champs, verdure et Burgalays (centre) vus près de Bachos"
+    }
+  },
+  {
+    "id": 1805,
+    "coordinates": [
+      42.894207,
+      0.618482
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The Pic Saillant seen on the road between Bachos and Guran",
+      "fr": "Le pic Saillant vu sur la route entre Bachos et Guran"
+    }
+  },
+  {
+    "id": 1806,
+    "coordinates": [
+      42.892045,
+      0.630994
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "A watermill on the Molès stream in Burgalays",
+      "fr": "Un moulin sur le ruisseau de Molès à Burgalays"
+    }
+  },
+  {
+    "id": 1807,
+    "coordinates": [
+      42.892380,
+      0.626151
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The area of Bachos and Binos seen near Burgalays",
+      "fr": "Les environs de Bachos et Binos vus près de Burgalays"
+    }
   }
 ]
