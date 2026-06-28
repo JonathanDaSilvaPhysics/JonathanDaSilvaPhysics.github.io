@@ -21838,5 +21838,101 @@
       "en": "Canejan seen from the road to Bausen",
       "fr": "Canejan vu sur la route menant à Bausen"
     }
+  },
+  {
+    "id": 1821,
+    "coordinates": [
+      42.838658,
+      0.739575
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Sant Sernilh church of Canejan in the Val d'Aran",
+      "fr": "Église Sant Sernilh de Canejan dans le val d'Aran"
+    }
+  },
+  {
+    "id": 1822,
+    "coordinates": [
+      42.838522,
+      0.740008
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "View towards the Garonne valley around Les from Canejan",
+      "fr": "Vue en direction de la vallée de la Garonne autour de Les à partir de Canejan"
+    }
+  },
+  {
+    "id": 1823,
+    "coordinates": [
+      42.837974,
+      0.739604
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Greenery of the Toran valley seen from Canejan",
+      "fr": "Verdure de la vallée du Toran vue de Canejan"
+    }
+  },
+  {
+    "id": 1824,
+    "coordinates": [
+      42.837933,
+      0.740143
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Scenery from the Val d'Aran to the Luchonnais seen from Canejan",
+      "fr": "Décor du val d'Aran jusqu'au Luchonnais à partir de Canejan"
+    }
+  },
+  {
+    "id": 1825,
+    "coordinates": [
+      42.831671,
+      0.744481
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Landscape around Canejan in the Val d'Aran",
+      "fr": "Paysage autour de Canejan dans le val d'Aran"
+    }
+  },
+  {
+    "id": 1826,
+    "coordinates": [
+      42.831917,
+      0.743651
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Greenery of the area of Canejan in the Val d'Aran",
+      "fr": "Verdure des environs de Canejan dans le val d'Aran"
+    }
+  },
+  {
+    "id": 1827,
+    "coordinates": [
+      42.832170,
+      0.731893
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Canejan and its greenery seen near the hamlet of Pontaut",
+      "fr": "Canejan et sa verdure vus près du hameau de Pontaut"
+    }
+  },
+  {
+    "id": 1828,
+    "coordinates": [
+      42.866773,
+      0.749862
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The area near Fos seen from the road to Melles",
+      "fr": "Les environs de Fos vus sur la route menant à Melles"
+    }
   }
 ]
