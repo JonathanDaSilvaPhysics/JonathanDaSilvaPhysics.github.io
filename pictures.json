@@ -21730,5 +21730,113 @@
       "en": "Landscape around the hamlet of Luret with the village of Baren in the upper right",
       "fr": "Paysage autour du hameau de Luret avec le village de Baren en haut à droite"
     }
+  },
+  {
+    "id": 1812,
+    "coordinates": [
+      42.777838,
+      0.680376
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Scenery of the Val d'Aran from the road of the Col du Portillon",
+      "fr": "Décor du val d'Aran à partir de la route du col du Portillon"
+    }
+  },
+  {
+    "id": 1813,
+    "coordinates": [
+      42.785220,
+      0.693042
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The Garonne river and its surroundings in Bossòst",
+      "fr": "La Garonne et son environnement à Bossòst"
+    }
+  },
+  {
+    "id": 1814,
+    "coordinates": [
+      42.785208,
+      0.693376
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The Sant Fabian e Sant Sebastian chapel in Bossòst",
+      "fr": "La chapelle Sant Fabian e Sant Sebastian à Bossòst"
+    }
+  },
+  {
+    "id": 1815,
+    "coordinates": [
+      42.807402,
+      0.706539
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The Garonne River near Les in the Val d'Aran",
+      "fr": "La Garonne près de Les dans le val d'Aran"
+    }
+  },
+  {
+    "id": 1816,
+    "coordinates": [
+      42.813481,
+      0.715356
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The Sant Blai chapel of Les and its surroundings",
+      "fr": "La chapelle Sant Blai de Les et ses environs"
+    }
+  },
+  {
+    "id": 1817,
+    "coordinates": [
+      42.818447,
+      0.716018
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Landscape of the Garonne valley near Les with Canejan in the distance",
+      "fr": "Paysage de la vallée de la Garonne près de Les avec Canejan au loin"
+    }
+  },
+  {
+    "id": 1818,
+    "coordinates": [
+      42.821902,
+      0.721092
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The Garonne valley near Les in the Val d'Aran",
+      "fr": "La vallée de la Garonne près de Les dans le val d'Aran"
+    }
+  },
+  {
+    "id": 1819,
+    "coordinates": [
+      42.832340,
+      0.721835
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Greenery of the area of Les seen near Bausen with the Luchonnais in the distance",
+      "fr": "Verdure des environs de Les vue près de Bausen avec le Luchonnais au loin"
+    }
+  },
+  {
+    "id": 1820,
+    "coordinates": [
+      42.829844,
+      0.724250
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Canejan seen from the road to Bausen",
+      "fr": "Canejan vu sur la route menant à Bausen"
+    }
   }
 ]
