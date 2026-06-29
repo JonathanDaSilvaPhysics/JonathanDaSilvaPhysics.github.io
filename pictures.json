@@ -21934,5 +21934,89 @@
       "en": "The area near Fos seen from the road to Melles",
       "fr": "Les environs de Fos vus sur la route menant à Melles"
     }
+  },
+  {
+    "id": 1829,
+    "coordinates": [
+      44.136465,
+      2.169328
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Fields and Mirandol-Bourgnounac",
+      "fr": "Des champs et Mirandol-Bourgnounac"
+    }
+  },
+  {
+    "id": 1830,
+    "coordinates": [
+      44.138418,
+      2.183159
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The hamlet of Pont de Cirou in the Viaur valley",
+      "fr": "Le hameau de Pont de Cirou dans la vallée du Viaur"
+    }
+  },
+  {
+    "id": 1831,
+    "coordinates": [
+      44.151089,
+      2.248825
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Landscape of the Ségala seen near Lespinassole",
+      "fr": "Paysage du Ségala vu près de Lespinassole"
+    }
+  },
+  {
+    "id": 1832,
+    "coordinates": [
+      44.158435,
+      2.282530
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Saint-Robert church of Crespin and its environment",
+      "fr": "Église Saint-Robert de Crespin et son environnement"
+    }
+  },
+  {
+    "id": 1833,
+    "coordinates": [
+      44.124799,
+      2.319866
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Scenery around the Viaur Viaduct",
+      "fr": "Décor autour du viaduc du Viaur"
+    }
+  },
+  {
+    "id": 1834,
+    "coordinates": [
+      44.124600,
+      2.319289
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The Viaur road viaduct and its surroundings",
+      "fr": "Le viaduc routier du Viaur et ses environs"
+    }
+  },
+  {
+    "id": 1835,
+    "coordinates": [
+      44.158706,
+      2.290004
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Fields around Crespin",
+      "fr": "Des champs autour de Crespin"
+    }
   }
 ]
