@@ -22018,5 +22018,89 @@
       "en": "Fields around Crespin",
       "fr": "Des champs autour de Crespin"
     }
+  },
+  {
+    "id": 1836,
+    "coordinates": [
+      43.086242,
+      1.784851
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Fields near Teilhet with the Tabe massif in background",
+      "fr": "Des champs près de Teilhet avec le massif de Tabe en arrière-plan"
+    }
+  },
+  {
+    "id": 1837,
+    "coordinates": [
+      43.095827,
+      1.760982
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Partially rock-cut Notre-Dame de Vals church and its surroundings",
+      "fr": "Église semi-rupestre de Notre-Dame de Vals et son environnement"
+    }
+  },
+  {
+    "id": 1838,
+    "coordinates": [
+      43.538503,
+      0.578861
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Landscape of the Astarac seen from Durban",
+      "fr": "Paysage de l'Astarac vu de Durban"
+    }
+  },
+  {
+    "id": 1839,
+    "coordinates": [
+      43.538210,
+      0.579696
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "General view of Durban, with the ruins of the House of Astarac castle (center) and Sainte-Gemme church",
+      "fr": "Vue générale de Durban avec les ruines du château des comtes d'Astarac (centre) et l'église Sainte-Gemme"
+    }
+  },
+  {
+    "id": 1840,
+    "coordinates": [
+      43.538161,
+      0.508529
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Fields with Labéjan in the distance",
+      "fr": "Des champs avec Labéjan au loin"
+    }
+  },
+  {
+    "id": 1841,
+    "coordinates": [
+      43.557265,
+      0.451653
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "View of Saint-Blaise church of Lamazère",
+      "fr": "Vue de l'église Saint-Blaise à Lamazère"
+    }
+  },
+  {
+    "id": 1842,
+    "coordinates": [
+      43.557727,
+      0.451636
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The Lamazère motte-and-bailey and its surroundings",
+      "fr": "Motte castrale de Lamazère et ses environs"
+    }
   }
 ]
