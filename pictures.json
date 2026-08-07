@@ -22102,5 +22102,41 @@
       "en": "The Lamazère motte-and-bailey and its surroundings",
       "fr": "Motte castrale de Lamazère et ses environs"
     }
+  },
+  {
+    "id": 1843,
+    "coordinates": [
+      43.285606,
+      2.145502
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Landscape of the Lauragais seen near Saint-Martin-le-Vieil (right)",
+      "fr": "Paysage du Lauragais vu près de Saint-Martin-le-Vieil (droite)"
+    }
+  },
+  {
+    "id": 1844,
+    "coordinates": [
+      43.295130,
+      2.144889
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Medieval towers in Saint-Martin-le-Vieil",
+      "fr": "Tours médiévales à Saint-Martin-le-Vieil"
+    }
+  },
+  {
+    "id": 1845,
+    "coordinates": [
+      43.342865,
+      2.222909
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "View towards the Lauragais from the road between Montolieu and Saint-Denis",
+      "fr": "Vue en direction du Lauragais depuis la route entre Montolieu et Saint-Denis"
+    }
   }
 ]
