@@ -1538,13 +1538,13 @@
   {
     "id": 129,
     "coordinates": [
-      42.609566,
-      2.645374
+      42.612759,
+      2.643386
     ],
-    "isLarge": false,
+    "isLarge": true,
     "description": {
-      "en": "Aspres and the Roussillon plain near Caixas",
-      "fr": "Les Aspres et la plaine du Roussillon vues près de Caixas"
+      "en": "Aspres, the Roussillon plain, Força Réal and the Corbières seen from the road to the Col de Fontcouverte",
+      "fr": "Les Aspres, la plaine du Roussillon, Força Réal et les Corbières vus sur la route du col de Fontcouverte"
     }
   },
   {
@@ -2846,13 +2846,13 @@
   {
     "id": 238,
     "coordinates": [
-      42.648149,
-      2.64993
+      42.648133,
+      2.649936
     ],
-    "isLarge": false,
+    "isLarge": true,
     "description": {
-      "en": "Ille-sur-Têt's area from the hermitage Saint-Maurice de Greulera",
-      "fr": "La région d'Ille-sur-Têt vus de l'ermitage Saint-Maurice de Greulera"
+      "en": "Ille-sur-Têt's area and Tauch mountain (right, in the distance) seen from the hermitage Saint-Maurice de Greulera",
+      "fr": "La région d'Ille-sur-Têt et le mont Tauch (droite, au loin) vus de l'ermitage Saint-Maurice de Greulera"
     }
   },
   {
@@ -22137,6 +22137,54 @@
     "description": {
       "en": "View towards the Lauragais from the road between Montolieu and Saint-Denis",
       "fr": "Vue en direction du Lauragais depuis la route entre Montolieu et Saint-Denis"
+    }
+  },
+  {
+    "id": 1846,
+    "coordinates": [
+      42.652890,
+      2.662010
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Saint-Pierre chapel and Corbère Castle seen from Corbère",
+      "fr": "Chapelle Saint-Pierre et château de Corbère vus de Corbère"
+    }
+  },
+  {
+    "id": 1847,
+    "coordinates": [
+      42.636815,
+      2.633060
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "View over Ille-sur-Têt and the Fenouillèdes from the road to the Col de Fontcouverte",
+      "fr": "Vue sur Ille-sur-Têt et le Fenouillèdes depuis la route du col de Fontcouverte"
+    }
+  },
+  {
+    "id": 1848,
+    "coordinates": [
+      42.621421,
+      2.642067
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Greenery of the Aspres near the hamlet of Sainte-Colombe de las Illas, with the Roussillon plain in background",
+      "fr": "Verdure des Aspres près du hameau de Sainte-Colombe de las Illas avec la plaine du Roussillon au loin"
+    }
+  },
+  {
+    "id": 1849,
+    "coordinates": [
+      42.593875,
+      2.777076
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Vineyards between Fourques and Terrats, with the Aspres and the Canigou massif in the distance",
+      "fr": "Des vignes entre Fourques et Terrats avec les Aspres et le massif du Canigou au loin"
     }
   }
 ]
