@@ -22186,5 +22186,137 @@
       "en": "Vineyards between Fourques and Terrats, with the Aspres and the Canigou massif in the distance",
       "fr": "Des vignes entre Fourques et Terrats avec les Aspres et le massif du Canigou au loin"
     }
+  },
+  {
+    "id": 1850,
+    "coordinates": [
+      42.973665,
+      0.375977
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Notre-Dame d'Esplantats chapel in Sarrancolin",
+      "fr": "Chapelle Notre-Dame d'Esplantats à Sarrancolin"
+    }
+  },
+  {
+    "id": 1851,
+    "coordinates": [
+      42.966808,
+      0.378143
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The Neste and the Plat de la Peyre (top) seen from Sarrancolin",
+      "fr": "La Neste et le Plat de la Peyre (en haut) vu de Sarrancolin"
+    }
+  },
+  {
+    "id": 1852,
+    "coordinates": [
+      42.964050,
+      0.304252
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "View of the Arbizon massif from the Col de Beyrède",
+      "fr": "Vue sur le massif de l’Arbizon à partir du col de Beyrède"
+    }
+  },
+  {
+    "id": 1853,
+    "coordinates": [
+      42.963900,
+      0.307681
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Arbizon Massif (center), Sommet de Tignous (right) and the area of the Col de Beyrède",
+      "fr": "Massif de l’Arbizon (centre), Sommet de Tignous (droite) et les environs du col de Beyrède"
+    }
+  },
+  {
+    "id": 1854,
+    "coordinates": [
+      42.962650,
+      0.311019
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Scenery around the Col de Beyrède with the Barousse Massif in background (left)",
+      "fr": "Décor autour du col de Beyrède avec le massif de la Barousse en arrière-plan (gauche)"
+    }
+  },
+  {
+    "id": 1855,
+    "coordinates": [
+      42.963016,
+      0.309120
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "View towards the Signal de Bassia seen from the Col de Beyrède",
+      "fr": "Vue en direction du Signal de Bassia à partir du col de Beyrède"
+    }
+  },
+  {
+    "id": 1856,
+    "coordinates": [
+      42.963089,
+      0.310516
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Landscape around the Col de Beyrède with the Barousse Massif in the distance",
+      "fr": "Paysage autour du col de Beyrède avec le massif de la Barousse au loin"
+    }
+  },
+  {
+    "id": 1857,
+    "coordinates": [
+      42.959585,
+      0.330478
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Cows on the road to the Col de Beyrède",
+      "fr": "Des vaches sur la route du col de Beyrède"
+    }
+  },
+  {
+    "id": 1858,
+    "coordinates": [
+      42.945867,
+      0.366933
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Saint-Geniès church of Jumet in the Aure valley",
+      "fr": "Église Saint-Geniès de Jumet dans la vallée d'Aure"
+    }
+  },
+  {
+    "id": 1859,
+    "coordinates": [
+      42.950735,
+      0.372679
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The road between Beyrède and Jumet in the Aure valley",
+      "fr": "La route entre Beyrède et Jumet dans la vallée d'Aure"
+    }
+  },
+  {
+    "id": 1860,
+    "coordinates": [
+      42.952563,
+      0.375007
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Scenery of the Aure valley (Camous below) seen from the road to Jumet",
+      "fr": "Décor de la vallée d'Aure (Camous en bas) vu depuis la route menant à Jumet"
+    }
   }
 ]
