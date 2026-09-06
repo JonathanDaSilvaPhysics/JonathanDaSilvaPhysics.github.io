@@ -22414,5 +22414,53 @@
       "en": "Landscape towards the Col d'Aspin from the road between Arreau and Pailhac",
       "fr": "Paysage en direction du col d'Aspin depuis la route reliant Arreau à Pailhac"
     }
+  },
+  {
+    "id": 1869,
+    "coordinates": [
+      42.907076,
+      0.357661
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Scenery of the Nestes castle at the confluence of the Neste du Louron and Neste d'Aure in Arreau",
+      "fr": "Décor du château des Nestes à la confluence des Nestes du Louron et d'Aure à Arreau"
+    }
+  },
+  {
+    "id": 1870,
+    "coordinates": [
+      42.906489,
+      0.357471
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The Nestes castle and its environment in Arreau",
+      "fr": "Le château des Nestes et son evironnement à Arreau"
+    }
+  },
+  {
+    "id": 1871,
+    "coordinates": [
+      42.909303,
+      0.334484
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Landscape of the Pays d'Aure from Barrancoueu with Arreau (center) and the Montious (right) far away",
+      "fr": "Paysage du Pays d'Aure depuis Barrancoueu avec Arreau (centre) et le Montious (droite) au loin"
+    }
+  },
+  {
+    "id": 1872,
+    "coordinates": [
+      42.905031,
+      0.352412
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "View towards Arreau from the road to Barrancoueu with the Montious in the distance",
+      "fr": "Vue en direction d'Arreau depuis la route de Barrancoueu avec le Montious au loin"
+    }
   }
 ]
