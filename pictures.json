@@ -22318,5 +22318,101 @@
       "en": "Scenery of the Aure valley (Camous below) seen from the road to Jumet",
       "fr": "Décor de la vallée d'Aure (Camous en bas) vu depuis la route menant à Jumet"
     }
+  },
+  {
+    "id": 1861,
+    "coordinates": [
+      42.904813,
+      0.358090
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Greenery around the Neste d'Aure in Arreau",
+      "fr": "Verdure autour de la Neste d'Aure à Arreau"
+    }
+  },
+  {
+    "id": 1862,
+    "coordinates": [
+      42.904953,
+      0.359655
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The Neste du Louron in Arreau and Saint-Exupère chapel",
+      "fr": "La Neste du Louron à Arreau et la chapelle Saint-Exupère"
+    }
+  },
+  {
+    "id": 1863,
+    "coordinates": [
+      42.905880,
+      0.360737
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "View of the area of Arreau in the Aure valley, with the Pic d'Aret in background",
+      "fr": "Vue sur la région d'Arreau dans la vallée d'Aure, avec le pic d'Aret en arrière-plan"
+    }
+  },
+  {
+    "id": 1864,
+    "coordinates": [
+      42.905750,
+      0.361747
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Scenery above Arreau with view towards Louron valley and Mont Gaillard (right)",
+      "fr": "Décor au-dessus d'Arreau avec vue en direction de la vallée du Louron et le mont Gaillard (droite)"
+    }
+  },
+  {
+    "id": 1865,
+    "coordinates": [
+      42.905640,
+      0.361736
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Landscape from the heights of Arreau with the Pic d'Aret in the distance (right)",
+      "fr": "Paysage depuis les hauteurs d'Arreau, avec le pic d'Aret au loin (droite)"
+    }
+  },
+  {
+    "id": 1866,
+    "coordinates": [
+      42.905645,
+      0.361728
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "From left to right in the Aure valley: Pic d'Aret, Arreau (bottom) and the Arbizon (top)",
+      "fr": "De gauche à droite dans la vallée d'Aure : le pic d'Aret, Arreau (en bas) et l'Arbizon (en haut)"
+    }
+  },
+  {
+    "id": 1867,
+    "coordinates": [
+      42.910753,
+      0.363331
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "View of the Arbizon massif from the road between Arreau and Pailhac",
+      "fr": "Vue sur le massif de l'Arbizon depuis la route entre Arreau et Pailhac"
+    }
+  },
+  {
+    "id": 1868,
+    "coordinates": [
+      42.910483,
+      0.363306
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Landscape towards the Col d'Aspin from the road between Arreau and Pailhac",
+      "fr": "Paysage en direction du col d'Aspin depuis la route reliant Arreau à Pailhac"
+    }
   }
 ]

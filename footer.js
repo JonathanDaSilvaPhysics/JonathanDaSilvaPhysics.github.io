@@ -1,4 +1,4 @@
-const lastUpdate = new Date("2026-08-25");
+const lastUpdate = new Date("2026-09-06");
 const lang = ["fr", "en"].includes(document.documentElement.lang)
     ? document.documentElement.lang
     : "en";
