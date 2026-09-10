@@ -22462,5 +22462,65 @@
       "en": "View towards Arreau from the road to Barrancoueu with the Montious in the distance",
       "fr": "Vue en direction d'Arreau depuis la route de Barrancoueu avec le Montious au loin"
     }
+  },
+  {
+    "id": 1873,
+    "coordinates": [
+      42.890290,
+      0.731446
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Luchonnais peaks around Pic du Burat seen from Argut-Dessus",
+      "fr": "Sommets du Luchonnais autour du pic du Burat vu d'Argut-Dessus"
+    }
+  },
+  {
+    "id": 1874,
+    "coordinates": [
+      42.892875,
+      0.725070
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "View of the Luchonnais peaks from Argut-Dessus, looking towards the Val d’Aran",
+      "fr": "Vue sur les sommets du Luchonnais depuis Argut-Dessus, en direction du Val d’Aran"
+    }
+  },
+  {
+    "id": 1875,
+    "coordinates": [
+      42.892875,
+      0.725070
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Greenery of the Luchonnais around Pic du Burat seen near Argut-Dessus",
+      "fr": "Verdure du Luchonnais autour du pic du Burat vu près d'Argut-Dessus"
+    }
+  },
+  {
+    "id": 1876,
+    "coordinates": [
+      42.891120,
+      0.717672
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Saint-Barthélémy church of Argut-Dessous and its surroundings",
+      "fr": "Église Saint-Barthélémy d'Argut-Dessous et ses environs"
+    }
+  },
+  {
+    "id": 1877,
+    "coordinates": [
+      42.891244,
+      0.717380
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Scenery from the area of Arlos to the Montagne de Rié (right) seen from Argut-Dessous",
+      "fr": "Décor de la région d'Arlos jusqu'à la montagne de Rié (droite) vu d'Argut-Dessous"
+    }
   }
 ]
