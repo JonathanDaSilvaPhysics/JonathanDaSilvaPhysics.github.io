@@ -11144,7 +11144,7 @@
     "isLarge": true,
     "description": {
       "en": "Vineyards near Cassagnes above the Têt valley",
-      "fr": "Vignobles près de Cassagnes au dessus de la vallée de la Têt"
+      "fr": "Vignobles près de Cassagnes au-dessus de la vallée de la Têt"
     }
   },
   {
@@ -22521,6 +22521,66 @@
     "description": {
       "en": "Scenery from the area of Arlos to the Montagne de Rié (right) seen from Argut-Dessous",
       "fr": "Décor de la région d'Arlos jusqu'à la montagne de Rié (droite) vu d'Argut-Dessous"
+    }
+  },
+  {
+    "id": 1878,
+    "coordinates": [
+      42.890727,
+      0.718145
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Landscape around Argut-Dessous in the upper Garonne valley",
+      "fr": "Paysage autour d'Argut-Dessous dans la haute vallée de la Garonne"
+    }
+  },
+  {
+    "id": 1879,
+    "coordinates": [
+      42.907943,
+      0.699342
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Lez, its environment and its observation tower (center)",
+      "fr": "Lez, son environnement et sa tour à signaux (centre)"
+    }
+  },
+  {
+    "id": 1880,
+    "coordinates": [
+      42.918825,
+      0.776673
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Scenery near the top of the Col de Menté with the summit of Le Puech (right)",
+      "fr": "Décor près du sommet du col de Menté avec le sommet du Puech (droite)"
+    }
+  },
+  {
+    "id": 1881,
+    "coordinates": [
+      42.919690,
+      0.779410
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Landscape around the road of the Col de Menté",
+      "fr": "Paysage aux abords de la route du col de Menté"
+    }
+  },
+  {
+    "id": 1882,
+    "coordinates": [
+      42.920404,
+      0.782539
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "View towards the summit of Le Puech from the road to the Col de Menté, above Ger de Boutx",
+      "fr": "Vue en direction du sommet du Puech à partir de la route du col de Menté, au-dessus de Ger de Boutx"
     }
   }
 ]
