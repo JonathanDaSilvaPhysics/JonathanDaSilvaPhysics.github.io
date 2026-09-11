@@ -22582,5 +22582,65 @@
       "en": "View towards the summit of Le Puech from the road to the Col de Menté, above Ger de Boutx",
       "fr": "Vue en direction du sommet du Puech à partir de la route du col de Menté, au-dessus de Ger de Boutx"
     }
+  },
+  {
+    "id": 1883,
+    "coordinates": [
+      42.923140,
+      0.802610
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Greenery aroud the hamlet of Le Couret seen from Ger de Boutx",
+      "fr": "Verdure autour du hameau du Couret vue de Ger de Boutx"
+    }
+  },
+  {
+    "id": 1884,
+    "coordinates": [
+      42.910688,
+      0.806923
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Scenery of the upper Ger valley around the hamlet of Le Couéou",
+      "fr": "Décor de la haute vallée du Ger autour du hameau du Couéou"
+    }
+  },
+  {
+    "id": 1885,
+    "coordinates": [
+      42.924901,
+      0.807290
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Ger de Boutx and the Col de Menté seen from the hamlet of Le Couret",
+      "fr": "Ger de Boutx et le col de Menté vus depuis le hameau du Couret"
+    }
+  },
+  {
+    "id": 1886,
+    "coordinates": [
+      42.924603,
+      0.807525
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "View over Ger de Boutx and the road to the Col de Menté from the hamlet of Le Couret",
+      "fr": "Vue sur Ger de Boutx et la route du col de Menté depuis le hameau du Couret"
+    }
+  },
+  {
+    "id": 1887,
+    "coordinates": [
+      42.924514,
+      0.807436
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Landscape around Ger de Boutx and Tuc de la Serre (right) from the hamlet of Le Couret",
+      "fr": "Paysage autour de Ger de Boutx et du Tuc de la Serre (droite) depuis le hameau du Couret"
+    }
   }
 ]
