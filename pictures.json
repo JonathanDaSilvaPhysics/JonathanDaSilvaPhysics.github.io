@@ -22642,5 +22642,65 @@
       "en": "Landscape around Ger de Boutx and Tuc de la Serre (right) from the hamlet of Le Couret",
       "fr": "Paysage autour de Ger de Boutx et du Tuc de la Serre (droite) depuis le hameau du Couret"
     }
+  },
+  {
+    "id": 1888,
+    "coordinates": [
+      42.918389,
+      1.389139
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Landscape from the top of the Col de Péguère with summits of the Ariège in background",
+      "fr": "Paysage depuis le sommet du col de Péguère avec les montagnes ariégeoises en arrière-plan"
+    }
+  },
+  {
+    "id": 1889,
+    "coordinates": [
+      42.918512,
+      1.388475
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "View over the area near Massat with summits of the Ariège (Mont Valier at the center)",
+      "fr": "Vue sur la région près de Massat avec les montagnes ariégeoises (mont Valier au centre)"
+    }
+  },
+  {
+    "id": 1890,
+    "coordinates": [
+      42.929551,
+      1.358146
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The Ariège foothills around the Arize Valley seen from the Col de Portel",
+      "fr": "Le piémont ariégeois autour de la vallée de l’Arize vu du col de Portel"
+    }
+  },
+  {
+    "id": 1891,
+    "coordinates": [
+      42.929746,
+      1.357004
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Greenery of the Col de Portel in front of the Ariège mountains",
+      "fr": "Verdure du col de Portel devant les montagnes ariégeoises"
+    }
+  },
+  {
+    "id": 1892,
+    "coordinates": [
+      42.929692,
+      1.357652
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Scenery of the Ariège mountains (Mont Valier at the center) seen from the Col de Portel",
+      "fr": "Décor des montagnes ariégeoises (mont Valier au centre) vu du col de Portel"
+    }
   }
 ]
