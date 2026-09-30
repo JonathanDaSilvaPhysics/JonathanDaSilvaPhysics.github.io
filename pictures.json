@@ -22702,5 +22702,125 @@
       "en": "Scenery of the Ariège mountains (Mont Valier at the center) seen from the Col de Portel",
       "fr": "Décor des montagnes ariégeoises (mont Valier au centre) vu du col de Portel"
     }
+  },
+  {
+    "id": 1893,
+    "coordinates": [
+      42.473944,
+      1.999542
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Landscape around Llívia's hill to the Serra del Cadí seen from the heights of Estavar",
+      "fr": "Paysage autour de la colline de Llívia et jusqu'à la serra del Cadí vu à partir des hauteurs d'Estavar"
+    }
+  },
+  {
+    "id": 1894,
+    "coordinates": [
+      42.473743,
+      2.000554
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Puigmal massif and Err (center) seen from the road between Estavar and Égat",
+      "fr": "Le massif du Puigmal et Err (centre) vus de la route entre Estavar et Égat"
+    }
+  },
+  {
+    "id": 1895,
+    "coordinates": [
+      42.473743,
+      2.000554
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "View of Estavar (bottom), with Llívia's hill (right), Serra de Moixeró and Serra del Cadí (in background)",
+      "fr": "Vue d'Estavar (en bas), avec la colline de Llívia (droite), serra de Moixeró et serra del Cadí (au loin)"
+    }
+  },
+  {
+    "id": 1896,
+    "coordinates": [
+      42.476458,
+      1.996029
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Scenery above Estavar, from Llívia's hill to Puigcerdà and Serra del Cadí",
+      "fr": "Décor au-dessus d'Estavar, de la colline de Llívia jusqu'à Puigcerdà et serra del Cadí"
+    }
+  },
+  {
+    "id": 1897,
+    "coordinates": [
+      42.487167,
+      2.011852
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Landscape of Cerdanya from the road to the Col de Fau, with Serra de Moixeró and Serra del Cadí far away",
+      "fr": "Paysage de la Cerdagne depuis la route du col de Fau, avec serra de Moixeró et serra del Cadí au loin"
+    }
+  },
+  {
+    "id": 1898,
+    "coordinates": [
+      42.487802,
+      2.010479
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Cerdanya from the road to the Col de Fau with Serra de Moixeró (left) and Serra del Cadí (center)",
+      "fr": "La Cerdagne depuis la route du col de Fau avec serra de Moixeró (gauche) et serra del Cadí (centre)"
+    }
+  },
+  {
+    "id": 1899,
+    "coordinates": [
+      42.492268,
+      2.010282
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Égat (center) and Font-Romeu (right) seen near the top of the Col de Fau",
+      "fr": "Égat (centre) et Font-Romeu (droite) vus près du sommet du col de Fau"
+    }
+  },
+  {
+    "id": 1900,
+    "coordinates": [
+      42.492268,
+      2.010282
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Font-Romeu-Odeillo-Via in Cerdanya with the Canigou massif in background",
+      "fr": "Font-Romeu-Odeillo-Via dans la Cerdagne avec le massif du Canigou au loin"
+    }
+  },
+  {
+    "id": 1901,
+    "coordinates": [
+      42.501593,
+      2.026504
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "View over Odeillo and its solar furnace (right), with Llo solar power plant and Puigmal massif in the distance",
+      "fr": "Vue sur Odeillo et son four solaire (droite), avec la centrale solaire de Llo et le massif du Puigmal au loin"
+    }
+  },
+  {
+    "id": 1902,
+    "coordinates": [
+      42.494288,
+      2.030011
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Odeillo solar furnace and its surroundings",
+      "fr": "Le four solaire d’Odeillo et ses environs"
+    }
   }
 ]
