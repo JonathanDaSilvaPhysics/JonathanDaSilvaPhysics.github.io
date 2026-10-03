@@ -22822,5 +22822,125 @@
       "en": "Odeillo solar furnace and its surroundings",
       "fr": "Le four solaire d’Odeillo et ses environs"
     }
+  },
+  {
+    "id": 1903,
+    "coordinates": [
+      42.495002,
+      2.048412
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Scenery of the Puigmal massif (Llo solar power plant at the center) seen between Odeillo and Bolquère",
+      "fr": "Décor du massif du Puigmal (la centrale solaire de Llo au centre) vu de la route entre Odeillo et Bolquère"
+    }
+  },
+  {
+    "id": 1904,
+    "coordinates": [
+      42.494912,
+      2.050260
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Cerdanya landscape near Odeillo, with Pic de Gallinas (right) and the Canigou massif in background",
+      "fr": "Paysage de la Cerdagne près d'Odeillo avec le pic de Gallinas (droite) et le massif du Canigou en arrière-plan"
+    }
+  },
+  {
+    "id": 1905,
+    "coordinates": [
+      42.494912,
+      2.050260
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The Puigmal massif and Eyne (center) seen from the road between Odeillo and Bolquère",
+      "fr": "Le massif du Puigmal et Eyne (centre) vu de la route entre Odeillo et Bolquère"
+    }
+  },
+  {
+    "id": 1906,
+    "coordinates": [
+      42.499965,
+      2.058683
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Cows grazing between Font-Romeu-Odeillo-Via and Bolquère",
+      "fr": "Des vaches broutant entre Font-Romeu-Odeillo-Via et Bolquère"
+    }
+  },
+  {
+    "id": 1907,
+    "coordinates": [
+      42.498901,
+      2.058670
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Landscape between Font-Romeu-Odeillo-Via and Bolquère with Serra de Moixeró in background (left)",
+      "fr": "Paysage entre Font-Romeu-Odeillo-Via et Bolquère avec serra de Moixeró en arrière-plan (gauche)"
+    }
+  },
+  {
+    "id": 1908,
+    "coordinates": [
+      42.498999,
+      2.062617
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "View of Cerdanya from the road between Font-Romeu-Odeillo-Via and Bolquère",
+      "fr": "Vue sur la Cerdagne à partir de la route entre Font-Romeu-Odeillo-Via et Bolquère"
+    }
+  },
+  {
+    "id": 1909,
+    "coordinates": [
+      42.498999,
+      2.062617
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Scenery of the area of Eyne in the Puigmal massif seen between Font-Romeu-Odeillo-Via and Bolquère",
+      "fr": "Décor de la région d'Eyne dans le massif du Puigmal vu entre Font-Romeu-Odeillo-Via et Bolquère"
+    }
+  },
+  {
+    "id": 1910,
+    "coordinates": [
+      42.497756,
+      2.094129
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "La Cabanasse and its area seen from La Perche, with Pic de Gallinas (right) and the Canigou massif in background",
+      "fr": "La Cabanasse et sa région vus de La Perche, avec le pic de Gallinas (droite) et le massif du Canigou en arrière-plan"
+    }
+  },
+  {
+    "id": 1911,
+    "coordinates": [
+      42.479728,
+      2.085125
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Font-Romeu-Odeillo-Via, the Carlit massif (left) and Bolquère (right) seen near Eyne",
+      "fr": "Font-Romeu-Odeillo-Via, le massif du Carlit (gauche) et Bolquère (droite) vus près d'Eyne"
+    }
+  },
+  {
+    "id": 1912,
+    "coordinates": [
+      42.478177,
+      2.082751
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "View towards Font-Romeu-Odeillo-Via and the Carlit massif from near Eyne",
+      "fr": "Vue en direction de Font-Romeu-Odeillo-Via et du massif du Carlit à partir des environs d'Eyne"
+    }
   }
 ]
