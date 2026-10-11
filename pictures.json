@@ -22942,5 +22942,53 @@
       "en": "View towards Font-Romeu-Odeillo-Via and the Carlit massif from near Eyne",
       "fr": "Vue en direction de Font-Romeu-Odeillo-Via et du massif du Carlit à partir des environs d'Eyne"
     }
+  },
+  {
+    "id": 1913,
+    "coordinates": [
+      43.509648,
+      0.641639
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Cows and landscape around Plavès",
+      "fr": "Des vaches et paysage autour de Plavès"
+    }
+  },
+  {
+    "id": 1914,
+    "coordinates": [
+      43.503350,
+      0.793754
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Scenery near Saint-Élix-d'Astarac with the Pyrenees in background",
+      "fr": "Décor près de Saint-Élix-d'Astarac avec les Pyrénées en arrière-plan"
+    }
+  },
+  {
+    "id": 1915,
+    "coordinates": [
+      43.503488,
+      0.794742
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Fields between Saint-Élix-d'Astarac and Mongausy with Saramon's surroundings in the distance",
+      "fr": "Des champs entre Saint-Élix-d'Astarac et Mongausy avec les environs de Saramon au loin"
+    }
+  },
+  {
+    "id": 1916,
+    "coordinates": [
+      43.533367,
+      0.788833
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Boulaur and its abbey (center) seen from the road leading to Saint-Martin-Gimois",
+      "fr": "Boulaur et son abbaye (centre) vus de la route menant à Saint-Martin-Gimois"
+    }
   }
 ]
