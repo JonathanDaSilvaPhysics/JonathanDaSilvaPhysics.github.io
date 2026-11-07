@@ -22990,5 +22990,41 @@
       "en": "Boulaur and its abbey (center) seen from the road leading to Saint-Martin-Gimois",
       "fr": "Boulaur et son abbaye (centre) vus de la route menant à Saint-Martin-Gimois"
     }
+  },
+  {
+    "id": 1917,
+    "coordinates": [
+      44.408273,
+      1.548653
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Aujols lake with its butterfly-shaped washhouses",
+      "fr": "Le lac d'Aujols avec ses lavoirs papillons"
+    }
+  },
+  {
+    "id": 1918,
+    "coordinates": [
+      44.405859,
+      1.552663
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Remains of the Aujols castle",
+      "fr": "Vestiges du château d'Aujols"
+    }
+  },
+  {
+    "id": 1919,
+    "coordinates": [
+      44.407674,
+      1.549990
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Scenery of Aujols with its Saint-Jean-Baptiste church in the distance",
+      "fr": "Décor d'Aujols avec son église Saint-Jean-Baptiste au loin"
+    }
   }
 ]
