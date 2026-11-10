@@ -1274,10 +1274,10 @@
   {
     "id": 107,
     "coordinates": [
-      42.862656,
-      2.878392
+      42.862808,
+      2.878190
     ],
-    "isLarge": false,
+    "isLarge": true,
     "description": {
       "en": "Opoul-Périllos and its castle",
       "fr": "Opoul-Périllos et son château"
@@ -23025,6 +23025,78 @@
     "description": {
       "en": "Scenery of Aujols with its Saint-Jean-Baptiste church in the distance",
       "fr": "Décor d'Aujols avec son église Saint-Jean-Baptiste au loin"
+    }
+  },
+  {
+    "id": 1920,
+    "coordinates": [
+      42.874506,
+      2.862580
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The ruins of Opoul castle on the road to the hamlet of Périllos",
+      "fr": "Les ruines du château d'Opoul sur la route du hameau de Périllos"
+    }
+  },
+  {
+    "id": 1921,
+    "coordinates": [
+      42.897084,
+      2.846733
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Saint-Michel church of Périllos and its surroundings",
+      "fr": "Église Saint-Michel de Périllos et ses environs"
+    }
+  },
+  {
+    "id": 1922,
+    "coordinates": [
+      42.898603,
+      2.848562
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The hamlet of Périllos and its environment in the Corbières",
+      "fr": "Le hameau de Périllos et son environnement dans les Corbières"
+    }
+  },
+  {
+    "id": 1923,
+    "coordinates": [
+      42.899180,
+      2.849975
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Santa Barbara chapel of Périllos in the Corbières",
+      "fr": "Chapelle Santa Barbara de Périllos dans les Corbières"
+    }
+  },
+  {
+    "id": 1924,
+    "coordinates": [
+      42.881179,
+      2.865354
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "Landscape around the ruins of Opoul castle",
+      "fr": "Paysage autour des ruines du château d'Opoul"
+    }
+  },
+  {
+    "id": 1925,
+    "coordinates": [
+      42.876758,
+      2.863374
+    ],
+    "isLarge": true,
+    "description": {
+      "en": "The area around Opoul seen from the road between the ruins of Opoul castle and Périllos",
+      "fr": "La région autour d'Opoul vue sur la route entre les ruines de son château et Périllos"
     }
   }
 ]
